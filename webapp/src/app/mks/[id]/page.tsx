@@ -1,15 +1,12 @@
 import { notFound, redirect } from 'next/navigation';
 import { Metadata } from 'next';
+import { promises as fs } from 'fs';
+import path from 'path';
 import { MkProfileClient } from './MkProfileClient';
 import type { MK } from '@/types';
 import { generateMkMetadata, generateMkStructuredData, generateBreadcrumbStructuredData } from '@/lib/seo';
 import { SITE_URL } from '@/lib/constants';
-import { parseIdOrSlug, getMkSlug, isNumericId } from '@/lib/slugs';
-import fs from 'fs/promises';
-import path from 'path';
-
-// Allow both pre-generated slugs and dynamic numeric ID access
-export const dynamicParams = true;
+import { parseIdOrSlug, getMkSlug, isNumericId, generateUniqueSlug } from '@/lib/slugs';
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -60,7 +57,7 @@ export async function generateStaticParams() {
       const mkData = await fs.readFile(mkPath, 'utf-8');
       const mk: MK = JSON.parse(mkData);
       params.push({
-        id: getMkSlug(mk.id, mk.name),
+        id: generateUniqueSlug(mk.name, mk.id),
       });
     } catch {
       // Skip if MK file not found
