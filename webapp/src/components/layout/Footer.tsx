@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { Heart } from 'lucide-react';
 import { SITE_NAME, NAV_ITEMS } from '@/lib/constants';
 
@@ -12,9 +13,13 @@ export function Footer() {
           {/* Brand */}
           <div className="md:col-span-2">
             <Link href="/" className="flex items-center gap-2 mb-4">
-              <div className="h-8 w-8 rounded-lg bg-primary flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">כ</span>
-              </div>
+              <Image
+                src="/israel-logo.png"
+                alt="לוגו"
+                width={32}
+                height={32}
+                className="h-8 w-8 rounded-lg object-contain"
+              />
               <span className="font-bold text-xl">{SITE_NAME}</span>
             </Link>
             <p className="text-muted-foreground text-sm max-w-md">

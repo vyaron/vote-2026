@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { motion } from 'framer-motion';
 import { Menu, X, Search } from 'lucide-react';
@@ -22,9 +23,13 @@ export function Header() {
             whileHover={{ scale: 1.02 }}
             whileTap={{ scale: 0.98 }}
           >
-            <div className="h-8 w-8 rounded-lg bg-primary flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-lg">כ</span>
-            </div>
+            <Image
+              src="/israel-logo.png"
+              alt="לוגו"
+              width={32}
+              height={32}
+              className="h-8 w-8 rounded-lg object-contain"
+            />
             <span className="font-bold text-xl hidden sm:inline-block">
               {SITE_NAME}
             </span>

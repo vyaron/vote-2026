@@ -169,20 +169,64 @@ export default function HomePage() {
             variants={staggerContainer}
             className="text-center max-w-4xl mx-auto"
           >
+            {/* Logo with animations */}
+            <motion.div
+              variants={fadeInUp}
+              className="flex justify-center mb-8"
+            >
+              <motion.div
+                initial={{ scale: 0, rotate: -180 }}
+                animate={{ scale: 1, rotate: 0 }}
+                transition={{ 
+                  type: 'spring', 
+                  stiffness: 200, 
+                  damping: 20,
+                  delay: 0.2 
+                }}
+                whileHover={{ 
+                  scale: 1.1, 
+                  rotate: [0, -5, 5, -5, 0],
+                  transition: { duration: 0.5 }
+                }}
+                className="relative"
+              >
+                <Image
+                  src="/israel-logo.png"
+                  alt="לוגו ישראל"
+                  width={120}
+                  height={120}
+                  className="h-24 w-24 sm:h-28 sm:w-28 md:h-32 md:w-32 object-contain drop-shadow-lg"
+                  priority
+                />
+                {/* Glow effect */}
+                <motion.div
+                  className="absolute inset-0 rounded-full bg-primary/20 blur-xl -z-10"
+                  animate={{ 
+                    scale: [1, 1.2, 1],
+                    opacity: [0.5, 0.8, 0.5]
+                  }}
+                  transition={{ 
+                    duration: 3, 
+                    repeat: Infinity,
+                    ease: 'easeInOut'
+                  }}
+                />
+              </motion.div>
+            </motion.div>
+
             <motion.h1
               variants={fadeInUp}
               className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight"
             >
-              הכירו את{' '}
-              <span className="text-primary">{TOTAL_MKS}</span>{' '}
-              נבחרי העם
+              <span className="text-primary">בחירות</span>{' '}
+              2026
             </motion.h1>
             
             <motion.p
               variants={fadeInUp}
-              className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto"
+              className="text-2xl sm:text-3xl md:text-4xl font-medium text-muted-foreground mb-8 max-w-2xl mx-auto"
             >
-              מידע מקיף, תמונות ונתונים על כל חברי הכנסת ה-25 של מדינת ישראל
+              לאן ישראל הולכת?
             </motion.p>
 
             <motion.div
