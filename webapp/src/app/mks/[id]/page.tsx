@@ -8,6 +8,9 @@ import { parseIdOrSlug, getMkSlug, isNumericId } from '@/lib/slugs';
 import fs from 'fs/promises';
 import path from 'path';
 
+// Allow both pre-generated slugs and dynamic numeric ID access
+export const dynamicParams = true;
+
 interface Props {
   params: Promise<{ id: string }>;
 }
@@ -42,6 +45,29 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     position: mk.position,
     bio: mk.bio,
   });
+}
+
+export async function generateStaticParams() {
+  // Generate paths for all current MKs with friendly slugs
+  const activeMksPath = path.join(process.cwd(), 'public', 'data', 'active-mk-ids.json');
+  const activeMksData = await fs.readFile(activeMksPath, 'utf-8');
+  const activeMkIds: number[] = JSON.parse(activeMksData);
+  
+  const params = [];
+  for (const mkId of activeMkIds) {
+    try {
+      const mkPath = path.join(process.cwd(), 'public', 'data', 'mks', `${mkId}.json`);
+      const mkData = await fs.readFile(mkPath, 'utf-8');
+      const mk: MK = JSON.parse(mkData);
+      params.push({
+        id: getMkSlug(mk.id, mk.name),
+      });
+    } catch {
+      // Skip if MK file not found
+    }
+  }
+  
+  return params;
 }
 
 export default async function MkProfilePage({ params }: Props) {
