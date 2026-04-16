@@ -1,0 +1,248 @@
+{
+  "id": 214,
+  "name": "אביגדור ליברמן",
+  "fullTitle": "חבר הכנסת אביגדור ליברמן",
+  "faction": "ישראל ביתנו",
+  "email": "aliberman@knesset.gov.il",
+  "workPhone": "8870,8871",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/AvigdorLiberman",
+    "twitter": "https://twitter.com/AvigdorLiberman",
+    "instagram": "https://www.instagram.com/avigdor.liberman/?igshid=1gx1el7j1kbug",
+    "youtube": "https://www.youtube.com/channel/UCXlgsb8j1pRJfBY1GAsiyvg",
+    "website": "https://liberman.org.il/%d7%94%d7%99%d7%a9%d7%92%d7%99%d7%9d-2021/"
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/214/1_214_3_548.jpeg?v=20260415_19951",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/214/1_214_3_548.jpeg?v=20260415_19951",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/214/1_214_1_10772.png?v=20260415_19951",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/214/1_214_4_10773.png?v=20260415_19951"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ז בסיוון תשי\"ח , 05/06/1958",
+  "deathDate": null,
+  "placeOfBirth": "ברית המועצות",
+  "immigrationYear": "1978",
+  "residence": "נוקדים",
+  "education": "תואר ראשון במדעי החברה באוניברסיטה העברית בירושלים",
+  "militaryService": "רב”ט",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "אנגלית",
+    "רוסית",
+    "רומנית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "119",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש וועדת משנה לקידום תעשיית ההייטק",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/214/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/214/1_214_3_548.jpeg?v=20260415_19951",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 3462,
+      "filename": "IMG_4766 (2).JPG",
+      "localPath": "photos/214/IMG_4766 (2).JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/IMG_4766 (2).JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אביגדור ליברמן במליאת הכנסת, 15.5.2015. צילום: דוברות הכנסת הכנסת"
+    },
+    {
+      "id": 3463,
+      "filename": "IMG_4370.JPG",
+      "localPath": "photos/214/IMG_4370.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/IMG_4370.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אביגדור ליברמן במליאת הכנסת. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 3465,
+      "filename": "FF4A0776.JPG",
+      "localPath": "photos/214/FF4A0776.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/FF4A0776.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אביגדור ליברמן ביום השבעת הכנסת ה-21, 30.4.2019. צילום: יוסי זמיר ונעם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 3466,
+      "filename": "FF4A0769.JPG",
+      "localPath": "photos/214/FF4A0769.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/FF4A0769.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אביגדור ליברמן ביום השבעת הכנסת ה-21, 30.4.2019. צילום: יוסי זמירו ונעם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 3468,
+      "filename": "JEN_3951.JPG",
+      "localPath": "photos/214/JEN_3951.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/JEN_3951.JPG",
+      "width": 750,
+      "height": 498,
+      "title": "חבר הכנסת אביגדור ליברמן במליאת הכנסת, 4.8.2015. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 3469,
+      "filename": "IMG_9110.JPG",
+      "localPath": "photos/214/IMG_9110.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/IMG_9110.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אביגדור ליברמן בדיון בוועדת החוץ והביטחון בכנסת ה-20. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 3470,
+      "filename": "ISH_0066.JPG",
+      "localPath": "photos/214/ISH_0066.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/ISH_0066.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אביגדור ליברמן בצילום ראשי הסיעות ביום השבעת הכנסת ה-21, 30.4.2019. צילום: יצחק הררי, דוברות הכנסת"
+    },
+    {
+      "id": 3472,
+      "filename": "1S5A9835.JPG",
+      "localPath": "photos/214/1S5A9835.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/1S5A9835.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חבר הכנסת אביגדור ליברמן ביום השבעת הכנסת ה-21, 30.4.2019. צילום נעם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 3473,
+      "filename": "JEN_3958.JPG",
+      "localPath": "photos/214/JEN_3958.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/JEN_3958.JPG",
+      "width": 750,
+      "height": 498,
+      "title": "חבר הכנסת אביגדור ליברמן במליאת הכנסת, 4.8.2015, צילום: דוברות הכנסת"
+    },
+    {
+      "id": 4203,
+      "filename": "ISH_7672.jpg",
+      "localPath": "photos/214/ISH_7672.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/ISH_7672.jpg",
+      "width": 500,
+      "height": 750,
+      "title": "חבר הכנסת אביגדור ליברמן בבחירת מבקר המדינה במליאת הכנסת, 3.6.2019. צילום: יצחק הררי"
+    },
+    {
+      "id": 4247,
+      "filename": "ISH_0564.JPG",
+      "localPath": "photos/214/ISH_0564.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/ISH_0564.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אביגדור ליברמן ביום השבעת הכנסת ה-22, 3.10.2019. צילום: יצחק הררי, דוברות הכנסת"
+    },
+    {
+      "id": 4248,
+      "filename": "ISH_0568.JPG",
+      "localPath": "photos/214/ISH_0568.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/ISH_0568.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אביגדור ליברמן ביום השבעת הכנסת ה-22, 3.10.2019. צילום: יצחק הררי, דוברות הכנסת"
+    },
+    {
+      "id": 4270,
+      "filename": "1S5A8915.JPG",
+      "localPath": "photos/214/1S5A8915.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/1S5A8915.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אביגדור ליברמן ביום השבעת הכנסת ה-22, 3.10.2019. צילום: נעם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 4488,
+      "filename": "ISH_0899.JPG",
+      "localPath": "photos/214/ISH_0899.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/ISH_0899.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אביגדור ליברמן ביום השבעת הכנסת ה-22 במליאת הכנסת, 3.10.2019. צילום: יצחק הררי, דוברות הכנסת"
+    },
+    {
+      "id": 10285,
+      "filename": "DST07732.JPG",
+      "localPath": "photos/214/DST07732.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/DST07732.JPG",
+      "width": 1616,
+      "height": 1080,
+      "title": "שר האוצר אביגדור ליברמן, 10.8.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10286,
+      "filename": "20210902101010_NOAM6663.jpg",
+      "localPath": "photos/214/20210902101010_NOAM6663.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/20210902101010_NOAM6663.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "שר האוצר אביגדור ליברמן במליאת הכנסת, 2.9.2021. צילום: נעם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10287,
+      "filename": "DST01211_1.JPG",
+      "localPath": "photos/214/DST01211_1.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/DST01211_1.JPG",
+      "width": 1616,
+      "height": 1080,
+      "title": "השרים אביגדור ליברמן ועודד פורר וחבר הכנסת מנסור עבאס במליאת הכנסת, 2.11.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10289,
+      "filename": "NOAM0797.JPG",
+      "localPath": "photos/214/NOAM0797.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/NOAM0797.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "שר האוצר אביגדור ליברמן בישיבת ועדת הכלכלה, 15.2.2022. צילום: נעם מוסקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10290,
+      "filename": "20211221104031_NOAM9289.jpg",
+      "localPath": "photos/214/20211221104031_NOAM9289.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/20211221104031_NOAM9289.jpg",
+      "width": 5034,
+      "height": 3356,
+      "title": "שר האוצר אביגדור ליברמן ושר העבודה, הרווחה והשירותים החברתיים מאיר כהן, 21.12.2021. צילום: נעם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10291,
+      "filename": "DST07154.jpg",
+      "localPath": "photos/214/DST07154.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/DST07154.jpg",
+      "width": 5542,
+      "height": 3695,
+      "title": "שר האוצר אביגדור ליברמן במליאת הכנסת, 7.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10292,
+      "filename": "2.9.21, השרים אביגדור ליברמן ועודד פורר, כנסת 24, צלם דני שם-טובDST00889.JPG",
+      "localPath": "photos/214/2.9.21, השרים אביגדור ליברמן ועודד פורר, כנסת 24, צלם דני שם-טובDST00889.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/214/2.9.21, השרים אביגדור ליברמן ועודד פורר, כנסת 24, צלם דני שם-טובDST00889.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "השרים אביגדור ליברמן ועודד פורר במליאת הכנסת, 2.9.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:26.788Z",
+  "localImagePath": "photos/214/profile.jpg"
+}

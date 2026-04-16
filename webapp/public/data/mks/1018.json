@@ -1,0 +1,328 @@
+{
+  "id": 1018,
+  "name": "קטי קטרין שטרית",
+  "fullTitle": "חברת הכנסת קטי קטרין שטרית",
+  "faction": "הליכוד ",
+  "email": "kshitrit@knesset.gov.il",
+  "workPhone": "8517,8174,8173",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/ketishe/",
+    "twitter": "https://twitter.com/shitrit_keti",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1018/1_1018_3_12330.jpeg?v=20260415_77099",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1018/1_1018_3_12330.jpeg?v=20260415_77099",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1018/1_1018_1_11205.png?v=20260415_77099",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1018/1_1018_4_12296.png?v=20260415_77099"
+  },
+  "gender": "female",
+  "dateOfBirth": "כ\"ב בטבת תש\"כ , 22/01/1960",
+  "deathDate": null,
+  "placeOfBirth": "קזבלנקה, מרוקו",
+  "immigrationYear": "1962",
+  "residence": "בית שמש",
+  "education": "- תואר ראשון בחינוך, מדע המדינה והיסטוריה\n- תואר שני במדע המדינה, מינהל ציבורי וממשל ומדיניות ציבורית\n- תואר שני בהתמחות במינהל כספי",
+  "militaryService": "סמל ראשון – סמ”ר",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "100",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושבת-ראש הוועדה המיוחדת לזכויות הילד, יושבת-ראש ועדה משותפת לוועדת החינוך, התרבות והספורט, ועדת הכנסת וועדת הפנים והגנת הסביבה, לפי חוק מוזיאון הכנסת והתש\"ע-2010",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1018/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1018/1_1018_3_12330.jpeg?v=20260415_77099",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 3633,
+      "filename": "ISH_7649.JPG",
+      "localPath": "photos/1018/ISH_7649.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/ISH_7649.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית ביום השבעת הכנסת ה-21, 30.4.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 3634,
+      "filename": "ISH_7019.JPG",
+      "localPath": "photos/1018/ISH_7019.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/ISH_7019.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חברת הכנסת קטי קטרין שטרית, 29.4.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 3635,
+      "filename": "FF4A1598.JPG",
+      "localPath": "photos/1018/FF4A1598.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/FF4A1598.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית ביום השבעת הכנסת ה-21, 30.4.2019. צילום:  דוברות הכנסת"
+    },
+    {
+      "id": 3681,
+      "filename": "קטי שיטרית.JPG",
+      "localPath": "photos/1018/קטי שיטרית.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/קטי שיטרית.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית מדליקה נר זיכרון לזכר נספי השואה. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 3783,
+      "filename": "ISH_3361.JPG",
+      "localPath": "photos/1018/ISH_3361.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/ISH_3361.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 28.10.2019. צילום:  דוברות הכנסת"
+    },
+    {
+      "id": 4313,
+      "filename": "1S5A9131.JPG",
+      "localPath": "photos/1018/1S5A9131.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/1S5A9131.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית ביום השבעת הכנסת ה-22, 3.10.2019. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 4314,
+      "filename": "1S5A9134.JPG",
+      "localPath": "photos/1018/1S5A9134.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/1S5A9134.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חברת הכנסת קטי קטרין שטרית ביום השבעת הכנסת ה-22, 3.10.2019. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 4656,
+      "filename": "ISH_2080.jpg",
+      "localPath": "photos/1018/ISH_2080.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/ISH_2080.jpg",
+      "width": 750,
+      "height": 521,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 28.10.2019. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 4658,
+      "filename": "P1870282.jpg",
+      "localPath": "photos/1018/P1870282.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/P1870282.jpg",
+      "width": 750,
+      "height": 524,
+      "title": "חברת הכנסת קטי קטרין שטרית בוועדת הכספים, 4.11.2019. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 4659,
+      "filename": "ISH_7223.JPG",
+      "localPath": "photos/1018/ISH_7223.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/ISH_7223.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית ביום עיון לחברי הכנסת החדשים, 29.4.2019. צילום:  דוברות הכנסת"
+    },
+    {
+      "id": 4661,
+      "filename": "ISH_7969.JPG",
+      "localPath": "photos/1018/ISH_7969.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/ISH_7969.JPG",
+      "width": 750,
+      "height": 508,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 3.6.2019. צילום:  דוברות הכנסת"
+    },
+    {
+      "id": 4985,
+      "filename": "EAV07884.JPG",
+      "localPath": "photos/1018/EAV07884.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV07884.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 11.5.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 4986,
+      "filename": "EAV07914.JPG",
+      "localPath": "photos/1018/EAV07914.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV07914.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 11.5.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5046,
+      "filename": "EAV02857.JPG",
+      "localPath": "photos/1018/EAV02857.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV02857.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 25.5.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5055,
+      "filename": "EAV03495.JPG",
+      "localPath": "photos/1018/EAV03495.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV03495.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית בוועדה המסדרת, 27.5.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 6110,
+      "filename": "EAV05171.JPG",
+      "localPath": "photos/1018/EAV05171.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV05171.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 24.8.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 6112,
+      "filename": "EAV07882.JPG",
+      "localPath": "photos/1018/EAV07882.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV07882.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 7.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 6113,
+      "filename": "EAV09315.JPG",
+      "localPath": "photos/1018/EAV09315.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV09315.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית בוועדת המשנה לנערות בסיכון, 9.9.2020. צילום יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 6116,
+      "filename": "EAV01413.JPG",
+      "localPath": "photos/1018/EAV01413.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV01413.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 7.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 6119,
+      "filename": "EAV04286.JPG",
+      "localPath": "photos/1018/EAV04286.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV04286.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 24.8.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 6241,
+      "filename": "EAV02821.JPG",
+      "localPath": "photos/1018/EAV02821.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV02821.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת קטי קטרין שטרית ביום השבעת הכנסת ה-24, 6.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8678,
+      "filename": "EAV04182.jpg",
+      "localPath": "photos/1018/EAV04182.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV04182.jpg",
+      "width": 3936,
+      "height": 2624,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 23.6.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8679,
+      "filename": "DST02897.JPG",
+      "localPath": "photos/1018/DST02897.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/DST02897.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 2.8.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8680,
+      "filename": "NOAM3751.JPG",
+      "localPath": "photos/1018/NOAM3751.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/NOAM3751.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת קטי קטרין שטרית, 18.10.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8681,
+      "filename": "EAV08304.JPG",
+      "localPath": "photos/1018/EAV08304.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV08304.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת קטי קטרין שטרית בוועדת הכספים, 7.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8682,
+      "filename": "EAV02077.JPG",
+      "localPath": "photos/1018/EAV02077.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV02077.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת קטי קטרין שטרית בוועדה המסדרת, 24.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8683,
+      "filename": "EAV00773.JPG",
+      "localPath": "photos/1018/EAV00773.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV00773.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת קטי קטרין שטרית בוועדת הכספים, 18.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8685,
+      "filename": "EAV02400.JPG",
+      "localPath": "photos/1018/EAV02400.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV02400.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת קטי קטרין שטרית במליאת הכנסת, 24.2.2021. צילום: דני שם-טוב דוברות הכנסת"
+    },
+    {
+      "id": 8686,
+      "filename": "EAV09788.JPG",
+      "localPath": "photos/1018/EAV09788.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV09788.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת קטי קטרין שטרית בוועדה המסדרת, 4.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8687,
+      "filename": "EAV04580.JPG",
+      "localPath": "photos/1018/EAV04580.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1018/EAV04580.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת קטי קטרין שטרית בוועדת החינוך, התרבות והספורט, 25.1.2021. צילום: שמוליק גרוסמן, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:56:24.481Z",
+  "localImagePath": "photos/1018/profile.jpg"
+}

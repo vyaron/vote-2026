@@ -1,0 +1,310 @@
+{
+  "id": 1105,
+  "name": "חנוך דב מלביצקי",
+  "fullTitle": "חבר הכנסת חנוך דב מלביצקי",
+  "faction": "הליכוד ",
+  "email": "chmelavitzky@knesset.gov.il",
+  "workPhone": "8895",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1105/1_1105_3_19712.jpeg?v=20260415_62045",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1105/1_1105_3_19712.jpeg?v=20260415_62045",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1105/1_1105_1_19918.png?v=20260415_62045",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1105/1_1105_4_19919.png?v=20260415_62045"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"א באדר תשל\"ג , 13/02/1973",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "- תואר שני בהיסטוריה של עם ישראל, אוניברסיטת חיפה\n- תואר ראשון במשפטים, אוניברסיטת רייכמן הרצליה",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "78",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש ועדת הכספים",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1105/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1105/1_1105_3_19712.jpeg?v=20260415_62045",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10054,
+      "filename": "DST01181.jpg",
+      "localPath": "photos/1105/DST01181.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/DST01181.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת חנוך דב מלביצקי ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10147,
+      "filename": "20221207111017_NOAM0385.jpg",
+      "localPath": "photos/1105/20221207111017_NOAM0385.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20221207111017_NOAM0385.jpg",
+      "width": 5582,
+      "height": 3721,
+      "title": "חברי הכנסת חנוך דב מלביצקי ודוד אמסלם במליאה, 7.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10148,
+      "filename": "DST06429.jpg",
+      "localPath": "photos/1105/DST06429.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/DST06429.jpg",
+      "width": 4691,
+      "height": 3661,
+      "title": "חבר הכנסת חנוך דב מלביצקי בוועדה, 5.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10149,
+      "filename": "20221207124417_NOAM0696.jpg",
+      "localPath": "photos/1105/20221207124417_NOAM0696.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20221207124417_NOAM0696.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת חנוך דב מלביצקי, טלי גוטליב, ניר ברקת ואבי דכטר במליאת הכנסת, 7.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10150,
+      "filename": "20221114151105_NOAM9331.jpg",
+      "localPath": "photos/1105/20221114151105_NOAM9331.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20221114151105_NOAM9331.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חבר הכנסת חנוך דב מלביצקי ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10195,
+      "filename": "20221114150343_NOAM9270.jpg",
+      "localPath": "photos/1105/20221114150343_NOAM9270.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20221114150343_NOAM9270.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חבר הכנסת חנוך דב מלביצקי ביום עיון לחברי הכנסת החדשים, 14.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10266,
+      "filename": "NOAM4580.JPG",
+      "localPath": "photos/1105/NOAM4580.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/NOAM4580.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת חנוך דב מלביצקי בוועדה המיוחדת לדיון בהצעת החוק לתיקון פקודת המשטרה, 20.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10267,
+      "filename": "DST01562.jpg",
+      "localPath": "photos/1105/DST01562.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/DST01562.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת חנוך דב מלביצקי, גלעד קריב ושרן השכל בוועדה המסדרת, 22.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10604,
+      "filename": "20221222125502_NOAM5506.jpg",
+      "localPath": "photos/1105/20221222125502_NOAM5506.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20221222125502_NOAM5506.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת חנוך דב מלביצקי בוועדה להצעת חוק חוק-יסוד הממשלה, 22.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10605,
+      "filename": "20221228132102_NOAM7612.jpg",
+      "localPath": "photos/1105/20221228132102_NOAM7612.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20221228132102_NOAM7612.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת בועז ביסמוט, חנוך דב מלביצקי ומיכאל ביטון בישיבת הוועדה המסדרת, 29.12.2022, צילום:  נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10606,
+      "filename": "20230104092319_NOAM6818.jpg",
+      "localPath": "photos/1105/20230104092319_NOAM6818.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20230104092319_NOAM6818.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת חנוך דב מלביצקי, זאב קינלי ומשה טור פז בישיבת ועדה בכנסת. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10607,
+      "filename": "20230104092628_NOAM6850.jpg",
+      "localPath": "photos/1105/20230104092628_NOAM6850.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20230104092628_NOAM6850.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת ינון אזולאי, חנוך דב מלביצקי וצביקה פוגל בישיבת הוועדה המסדרת, 4.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10608,
+      "filename": "20230123175759_NOAM1501 (1).jpg",
+      "localPath": "photos/1105/20230123175759_NOAM1501 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20230123175759_NOAM1501 (1).jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת יואב קיש, חנוך דב מלביצקי, שמחה רוטמן ועמית הלוי במליאת הכנסת, 23.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10609,
+      "filename": "20230124181126_NOAM2163.jpg",
+      "localPath": "photos/1105/20230124181126_NOAM2163.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20230124181126_NOAM2163.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת חנוך דב מלביצקי ואופיר כץ במליאת הכנסת, 24.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10610,
+      "filename": "20230124195728_NOAM2618.jpg",
+      "localPath": "photos/1105/20230124195728_NOAM2618.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20230124195728_NOAM2618.jpg",
+      "width": 1159,
+      "height": 748,
+      "title": "חבר הכנסת חנוך דב מלביצקי במליאת הכנסת, 24.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10611,
+      "filename": "20230201120530_NOAM5591.jpg",
+      "localPath": "photos/1105/20230201120530_NOAM5591.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20230201120530_NOAM5591.jpg",
+      "width": 1015,
+      "height": 677,
+      "title": "חבר הכנסת חנוך דב מלביצקי נושא דברים במליאת הכנסת, 1,2,2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10612,
+      "filename": "20230201120538_NOAM5596.jpg",
+      "localPath": "photos/1105/20230201120538_NOAM5596.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20230201120538_NOAM5596.jpg",
+      "width": 1159,
+      "height": 774,
+      "title": "חבר הכנסת חנוך דב מלביצקי נושא דברים במליאת הכנסת, 1,2,2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10613,
+      "filename": "20230201120539_NOAM5598.jpg",
+      "localPath": "photos/1105/20230201120539_NOAM5598.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20230201120539_NOAM5598.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת חנוך דב מלביצקי נושא דברים במליאת הכנסת, 1,2,2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10614,
+      "filename": "20230201120704_NOAM5607.jpg",
+      "localPath": "photos/1105/20230201120704_NOAM5607.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20230201120704_NOAM5607.jpg",
+      "width": 1159,
+      "height": 772,
+      "title": "חבר הכנסת חנוך דב מלביצקי נושא דברים במליאת הכנסת, 1,2,2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10615,
+      "filename": "20230201120710_NOAM5616.jpg",
+      "localPath": "photos/1105/20230201120710_NOAM5616.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20230201120710_NOAM5616.jpg",
+      "width": 1159,
+      "height": 772,
+      "title": "חבר הכנסת חנוך דב מלביצקי ויושב-ראש הכנסת אמיר אוחנה במליאת הכנסת, 1.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10617,
+      "filename": "DST02076.jpg",
+      "localPath": "photos/1105/DST02076.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/DST02076.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת שרון ניר, אפרת רייטן וחנוך דב מלביצקי בישיבת הוועדה המשותפת לנושא שלילת אזרחותו או תושבותו של פעיל טרור שמקבל תגמול עבור ביצוע מעשה טרור. 24.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10618,
+      "filename": "DST06048.jpg",
+      "localPath": "photos/1105/DST06048.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/DST06048.jpg",
+      "width": 1099,
+      "height": 733,
+      "title": "חבר הכנסת חנוך דב מלביצקי נושא דברים במליאת הכנסת, 2.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10619,
+      "filename": "DST08382.jpg",
+      "localPath": "photos/1105/DST08382.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/DST08382.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת חנוך דב מלביצקי, אברהם בצלאל, יולי יואל אדלשטיין ואוהד טל בישיב ועדה בכנסת, 10.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10620,
+      "filename": "DST08562.jpg",
+      "localPath": "photos/1105/DST08562.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/DST08562.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת חנוך דב מלביצקי בישיבת ועדת החוקה, חוק ומשפט, 11.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10621,
+      "filename": "DST08723.jpg",
+      "localPath": "photos/1105/DST08723.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/DST08723.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת חנוך דב מלביצקי בישיבת ועדת החוקה, חוק ומשפט, 11.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10622,
+      "filename": "DST09091.jpg",
+      "localPath": "photos/1105/DST09091.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/DST09091.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת חנוך דב מלביצקי בישיבת הוועדה המסדרת, 13.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10623,
+      "filename": "Noam.M-8525.JPG",
+      "localPath": "photos/1105/Noam.M-8525.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/Noam.M-8525.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת חנוך דב מלביצקי בישיבת ועדה, 9.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10625,
+      "filename": "20221220092732_NOAM4577.jpg",
+      "localPath": "photos/1105/20221220092732_NOAM4577.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1105/20221220092732_NOAM4577.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת חנוך דב מלביצקי בוועדה להצעת חוק חוק-יסוד הממשלה, 20.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:35.159Z",
+  "localImagePath": "photos/1105/profile.jpg"
+}

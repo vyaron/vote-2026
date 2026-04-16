@@ -1,0 +1,241 @@
+{
+  "id": 1004,
+  "name": "מיכל שיר סגמן",
+  "fullTitle": "חברת הכנסת מיכל שיר סגמן",
+  "faction": "יש עתיד",
+  "email": "mshir@knesset.gov.il",
+  "workPhone": "02-6408145",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/MKMichalShir",
+    "twitter": "https://x.com/MichalShir",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1004/1_1004_3_12334.jpeg?v=20260415_58219",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1004/1_1004_3_12334.jpeg?v=20260415_58219",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1004/1_1004_1_11165.png?v=20260415_58219",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1004/1_1004_4_12298.png?v=20260415_58219"
+  },
+  "gender": "female",
+  "dateOfBirth": "כ\"ח בחשוון תש\"מ , 18/11/1979",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "תואר במדעי המדינה באוניברסיטת בר-אילן",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "ספרדית",
+    "צרפתית",
+    "סינית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "41",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1004/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1004/1_1004_3_12334.jpeg?v=20260415_58219",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 3651,
+      "filename": "FF4A1211.JPG",
+      "localPath": "photos/1004/FF4A1211.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/FF4A1211.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת מיכל שיר סגמן בהשבעת הכנסת ה-21, 30.4.2019. צילום: יוסי זמיר, דוברות הכנסת"
+    },
+    {
+      "id": 3654,
+      "filename": "ISH_6908.JPG",
+      "localPath": "photos/1004/ISH_6908.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/ISH_6908.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חברת הכנסת מיכל שיר סגמן, 29.4.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 4309,
+      "filename": "1S5A9093.JPG",
+      "localPath": "photos/1004/1S5A9093.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/1S5A9093.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חברת הכנסת מיכל שיר סגמן בהשבעת הכנסת ה-22, 3.10.2019. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 4429,
+      "filename": "NRF_7876.JPG",
+      "localPath": "photos/1004/NRF_7876.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/NRF_7876.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת מיכל שיר סגמן בהשבעת הכנסת ה-22, 3.10.2019. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 4603,
+      "filename": "P1870868.JPG",
+      "localPath": "photos/1004/P1870868.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/P1870868.JPG",
+      "width": 750,
+      "height": 562,
+      "title": "חברת הכנסת מיכל שיר סגמן בוועדת הכספים, 5.11.2019. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 4653,
+      "filename": "ISH_2053.JPG",
+      "localPath": "photos/1004/ISH_2053.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/ISH_2053.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת מיכל שיר סגמן בפגישה עם משלחת הפרלמנט האירופי, 28.10.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 4654,
+      "filename": "ISH_2060.JPG",
+      "localPath": "photos/1004/ISH_2060.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/ISH_2060.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת מיכל שיר סגמן בפגישה עם משלחת הפרלמנט האירופי, 28.10.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 6125,
+      "filename": "EAV09625.JPG",
+      "localPath": "photos/1004/EAV09625.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/EAV09625.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת מיכל שיר סגמן במליאת הכנסת, 9.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 6126,
+      "filename": "EAV02997.JPG",
+      "localPath": "photos/1004/EAV02997.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/EAV02997.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת מיכל שיר סגמן בוועדת הכספים, 18.8.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 6128,
+      "filename": "EAV09601.JPG",
+      "localPath": "photos/1004/EAV09601.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/EAV09601.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חברת הכנסת מיכל שיר סגמן במליאת הכנסת, 9.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 6129,
+      "filename": "EAV03036.JPG",
+      "localPath": "photos/1004/EAV03036.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/EAV03036.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת מיכל שיר סגמן בוועדת הכספים, 18.8.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 6130,
+      "filename": "EAV05793.JPG",
+      "localPath": "photos/1004/EAV05793.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/EAV05793.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברות הכנסת מיכל שיר סגמן וקטי שטרית בוועדת הכספים, 25.8.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 6132,
+      "filename": "EAV07127.JPG",
+      "localPath": "photos/1004/EAV07127.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/EAV07127.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת מיכל שיר סגמן בוועדה לזכויות הילד, 7.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 8700,
+      "filename": "20211108113820_NOAM3027.jpg",
+      "localPath": "photos/1004/20211108113820_NOAM3027.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/20211108113820_NOAM3027.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "יושבת-ראש הוועדה המיוחדת לזכויות הילד חברת הכנסת מיכל שיר סגמן, 9.11.2021, צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8701,
+      "filename": "DST06196.JPG",
+      "localPath": "photos/1004/DST06196.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/DST06196.JPG",
+      "width": 1381,
+      "height": 1080,
+      "title": "יושבת-ראש הוועדה המיוחדת לזכויות הילד חברת הכנסת מיכל שיר סגמן, 8.11.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8702,
+      "filename": "20211108113813_NOAM3025 (1).jpg",
+      "localPath": "photos/1004/20211108113813_NOAM3025 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/20211108113813_NOAM3025 (1).jpg",
+      "width": 1517,
+      "height": 1011,
+      "title": "יושבת-ראש הוועדה המיוחדת לזכויות הילד חברת הכנסת מיכל שיר סגמן, 9.11.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8703,
+      "filename": "EAV00123.JPG",
+      "localPath": "photos/1004/EAV00123.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/EAV00123.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת מיכל שיר סגמן במליאת הכנסת, 20.12.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8704,
+      "filename": "EAV06060.JPG",
+      "localPath": "photos/1004/EAV06060.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/EAV06060.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת מיכל שיר סגמן במליאת הכנסת, 23.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8705,
+      "filename": "EAV04572.JPG",
+      "localPath": "photos/1004/EAV04572.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/EAV04572.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת מיכל שיר סגמן, 23.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8706,
+      "filename": "EAV01928.JPG",
+      "localPath": "photos/1004/EAV01928.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1004/EAV01928.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת מיכל שיר סגמן משוחחת עם חברי משלחת פרלמנטרית מבריטניה, 16.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:56:26.873Z",
+  "localImagePath": "photos/1004/profile.jpg"
+}

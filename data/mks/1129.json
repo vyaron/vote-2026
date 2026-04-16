@@ -1,0 +1,158 @@
+{
+  "id": 1129,
+  "name": "סמיר בן סעיד",
+  "fullTitle": "חבר הכנסת סמיר בן סעיד",
+  "faction": "חד\"ש-תע\"ל",
+  "email": "samirb@knesset.gov.il",
+  "workPhone": null,
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1129/1_1129_3_20971.jpeg?v=20260415_23262",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1129/1_1129_3_20971.jpeg?v=20260415_23262",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1129/1_1129_1_20966.png?v=20260415_23262",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1129/1_1129_4_21311.jpeg?v=20260415_23262"
+  },
+  "gender": "male",
+  "dateOfBirth": "כ\"ה בתמוז תשל\"ט , 20/07/1979",
+  "deathDate": null,
+  "placeOfBirth": "ירדן",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "שפה וספרות ערבית שפה וספרות ערבית אסכולות הוראה דת אסלאם ומזרח תיכון",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "ערבית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": null,
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1129/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1129/1_1129_3_20971.jpeg?v=20260415_23262",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 11020,
+      "filename": "WhatsApp Image 2025-12-15 at 11.59.30 (3).jpeg",
+      "localPath": "photos/1129/WhatsApp Image 2025-12-15 at 11.59.30 (3).jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1129/WhatsApp Image 2025-12-15 at 11.59.30 (3).jpeg",
+      "width": 1600,
+      "height": 1066,
+      "title": ""
+    },
+    {
+      "id": 11021,
+      "filename": "WhatsApp Image 2025-12-15 at 11.59.29.jpeg",
+      "localPath": "photos/1129/WhatsApp Image 2025-12-15 at 11.59.29.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1129/WhatsApp Image 2025-12-15 at 11.59.29.jpeg",
+      "width": 1600,
+      "height": 1066,
+      "title": ""
+    },
+    {
+      "id": 11022,
+      "filename": "WhatsApp Image 2025-12-15 at 11.59.30 (1).jpeg",
+      "localPath": "photos/1129/WhatsApp Image 2025-12-15 at 11.59.30 (1).jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1129/WhatsApp Image 2025-12-15 at 11.59.30 (1).jpeg",
+      "width": 1600,
+      "height": 1066,
+      "title": ""
+    },
+    {
+      "id": 11023,
+      "filename": "WhatsApp Image 2025-12-15 at 11.59.30 (2).jpeg",
+      "localPath": "photos/1129/WhatsApp Image 2025-12-15 at 11.59.30 (2).jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1129/WhatsApp Image 2025-12-15 at 11.59.30 (2).jpeg",
+      "width": 1600,
+      "height": 1066,
+      "title": ""
+    },
+    {
+      "id": 11024,
+      "filename": "WhatsApp Image 2025-12-15 at 11.59.30 (4).jpeg",
+      "localPath": "photos/1129/WhatsApp Image 2025-12-15 at 11.59.30 (4).jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1129/WhatsApp Image 2025-12-15 at 11.59.30 (4).jpeg",
+      "width": 1600,
+      "height": 1066,
+      "title": ""
+    },
+    {
+      "id": 11025,
+      "filename": "WhatsApp Image 2025-12-15 at 11.59.30 (5).jpeg",
+      "localPath": "photos/1129/WhatsApp Image 2025-12-15 at 11.59.30 (5).jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1129/WhatsApp Image 2025-12-15 at 11.59.30 (5).jpeg",
+      "width": 1600,
+      "height": 1066,
+      "title": ""
+    },
+    {
+      "id": 11026,
+      "filename": "WhatsApp Image 2025-12-15 at 11.59.30 (6).jpeg",
+      "localPath": "photos/1129/WhatsApp Image 2025-12-15 at 11.59.30 (6).jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1129/WhatsApp Image 2025-12-15 at 11.59.30 (6).jpeg",
+      "width": 1600,
+      "height": 1066,
+      "title": ""
+    },
+    {
+      "id": 11027,
+      "filename": "WhatsApp Image 2025-12-15 at 11.59.29 (1).jpeg",
+      "localPath": "photos/1129/WhatsApp Image 2025-12-15 at 11.59.29 (1).jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1129/WhatsApp Image 2025-12-15 at 11.59.29 (1).jpeg",
+      "width": 1600,
+      "height": 1066,
+      "title": ""
+    },
+    {
+      "id": 11028,
+      "filename": "WhatsApp Image 2025-12-15 at 11.59.29 (2).jpeg",
+      "localPath": "photos/1129/WhatsApp Image 2025-12-15 at 11.59.29 (2).jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1129/WhatsApp Image 2025-12-15 at 11.59.29 (2).jpeg",
+      "width": 1600,
+      "height": 1066,
+      "title": ""
+    },
+    {
+      "id": 11029,
+      "filename": "WhatsApp Image 2025-12-15 at 11.59.30.jpeg",
+      "localPath": "photos/1129/WhatsApp Image 2025-12-15 at 11.59.30.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1129/WhatsApp Image 2025-12-15 at 11.59.30.jpeg",
+      "width": 1600,
+      "height": 1066,
+      "title": ""
+    },
+    {
+      "id": 11030,
+      "filename": "NOAM9558.JPG",
+      "localPath": "photos/1129/NOAM9558.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1129/NOAM9558.JPG",
+      "width": 5178,
+      "height": 3872,
+      "title": "צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:29.792Z",
+  "localImagePath": "photos/1129/profile.jpg"
+}

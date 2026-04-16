@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-04-15T18:27:26.511Z",
+  "testMkId": 876,
+  "endpoints": [
+    {
+      "endpoint": "Main Page Analysis",
+      "status": 247,
+      "success": true,
+      "hasData": true
+    },
+    {
+      "endpoint": "GetMkdetailsHeader",
+      "status": 200,
+      "success": true,
+      "hasData": true
+    },
+    {
+      "endpoint": "GetMkDetailsContent",
+      "status": 200,
+      "success": true,
+      "hasData": true
+    },
+    {
+      "endpoint": "GetMKImages",
+      "status": 200,
+      "success": true,
+      "hasData": true
+    },
+    {
+      "endpoint": "OData - Root",
+      "status": 200,
+      "success": true,
+      "hasData": true
+    },
+    {
+      "endpoint": "OData - Metadata",
+      "status": 415,
+      "success": false,
+      "hasData": false,
+      "error": "Request failed with status code 415"
+    },
+    {
+      "endpoint": "OData - KNS_Person",
+      "status": 200,
+      "success": true,
+      "hasData": true
+    },
+    {
+      "endpoint": "OData - KNS_MK",
+      "status": 404,
+      "success": false,
+      "hasData": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "endpoint": "OData - KNS_Faction",
+      "status": 200,
+      "success": true,
+      "hasData": true
+    },
+    {
+      "endpoint": "OData - KNS_Committee",
+      "status": 200,
+      "success": true,
+      "hasData": true
+    },
+    {
+      "endpoint": "OData - KNS_Bill",
+      "status": 200,
+      "success": true,
+      "hasData": true
+    },
+    {
+      "endpoint": "OData - KNS_Vote",
+      "status": 404,
+      "success": false,
+      "hasData": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "endpoint": "OData - KNS_Knesset",
+      "status": 404,
+      "success": false,
+      "hasData": false,
+      "error": "Request failed with status code 404"
+    },
+    {
+      "endpoint": "Potential MK List - /WebSiteApi/knessetapi/MKs/GetAllMks",
+      "status": 400,
+      "success": false,
+      "hasData": false,
+      "error": "Request failed with status code 400"
+    },
+    {
+      "endpoint": "Potential MK List - /WebSiteApi/knessetapi/MKs/GetCurrentMks",
+      "status": 400,
+      "success": false,
+      "hasData": false,
+      "error": "Request failed with status code 400"
+    },
+    {
+      "endpoint": "Potential MK List - /WebSiteApi/knessetapi/MKs/GetMksList",
+      "status": 400,
+      "success": false,
+      "hasData": false,
+      "error": "Request failed with status code 400"
+    },
+    {
+      "endpoint": "Potential MK List - /WebSiteApi/knessetapi/MKs/GetAllCurrentMks",
+      "status": 400,
+      "success": false,
+      "hasData": false,
+      "error": "Request failed with status code 400"
+    }
+  ]
+}

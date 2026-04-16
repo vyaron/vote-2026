@@ -1,0 +1,176 @@
+{
+  "id": 1116,
+  "name": "דן אילוז",
+  "fullTitle": "חבר הכנסת דן אילוז",
+  "faction": "הליכוד ",
+  "email": "danillouz@knesset.gov.il",
+  "workPhone": "6506",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/danillouz",
+    "twitter": "https://x.com/dillouz",
+    "instagram": "https://www.instagram.com/danillouz/?hl=en",
+    "youtube": "https://www.youtube.com/user/dillouz",
+    "website": "https://www.tiktok.com/@mkdanillouz"
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1116/1_1116_3_19861.jpeg?v=20260415_50519",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1116/1_1116_3_19861.jpeg?v=20260415_50519",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1116/1_1116_1_19953.png?v=20260415_50519",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1116/1_1116_4_19954.png?v=20260415_50519"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ב באדר תשמ\"ו , 21/02/1986",
+  "deathDate": null,
+  "placeOfBirth": "קנדה",
+  "immigrationYear": "2009",
+  "residence": null,
+  "education": "תואר ראשון במשפטים מאוניברסיטת מקגיל תואר שני במדיניות ציבורית מהאוניברסיטה העברית",
+  "militaryService": "- סרן במילואים",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "צרפתית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "88",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש ועדת משנה לפיתוח סחר בינלאומי",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1116/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1116/1_1116_3_19861.jpeg?v=20260415_50519",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10454,
+      "filename": "DST08201.jpg",
+      "localPath": "photos/1116/DST08201.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/DST08201.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת דן אילוז נושא נאום בכורה במליאת הכנסת, 8.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10455,
+      "filename": "DST08210.jpg",
+      "localPath": "photos/1116/DST08210.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/DST08210.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת דן אילוז נושא נאום בכורה במליאת הכנסת, 8.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10456,
+      "filename": "DST08301.jpg",
+      "localPath": "photos/1116/DST08301.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/DST08301.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת דן אילוז לאחר שנשא נאום בכורה במליאת הכנסת, 8.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10457,
+      "filename": "Noam.M-0961.JPG",
+      "localPath": "photos/1116/Noam.M-0961.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/Noam.M-0961.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת דן אילוז בישיבת ועדת העלייה, הקליטה והתפוצות, 15.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10458,
+      "filename": "Noam.M-1008.JPG",
+      "localPath": "photos/1116/Noam.M-1008.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/Noam.M-1008.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת דן אילוז ושלום דנינו בדיון בוועדת הכלכלה, 23.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10459,
+      "filename": "Noam.M-1016.JPG",
+      "localPath": "photos/1116/Noam.M-1016.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/Noam.M-1016.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת דן אילוז בדיון בוועדת הכלכלה, 23.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10460,
+      "filename": "Noam.M-9397.JPG",
+      "localPath": "photos/1116/Noam.M-9397.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/Noam.M-9397.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת דן אילוז מצהיר אמונים לכנסת, 9.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10461,
+      "filename": "20230109174028_NOAM9408.jpg",
+      "localPath": "photos/1116/20230109174028_NOAM9408.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/20230109174028_NOAM9408.jpg",
+      "width": 1159,
+      "height": 772,
+      "title": "חבר הכנסת דן אילוז (משמאל) במליאת הכנסת, 9.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10462,
+      "filename": "20230130115923_NOAM3659.jpg",
+      "localPath": "photos/1116/20230130115923_NOAM3659.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/20230130115923_NOAM3659.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת דן אילוז, בועז ביסמוט ואביגדור ליברמן בישיבת ועדת העלייה, הקליטה והתפוצות, 30.1.2023. צילם: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10463,
+      "filename": "20230130120312_NOAM3685.jpg",
+      "localPath": "photos/1116/20230130120312_NOAM3685.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/20230130120312_NOAM3685.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת דן אילוז, בועז ביסמוט ואביגדור ליברמן בישיבת ועדת העלייה, הקליטה והתפוצות, 30.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10464,
+      "filename": "20230130122104_NOAM3764.jpg",
+      "localPath": "photos/1116/20230130122104_NOAM3764.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/20230130122104_NOAM3764.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת דן אילוז בישיבת ועדת העלייה, הקליטה והתפוצות, 30.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10465,
+      "filename": "DST07895.jpg",
+      "localPath": "photos/1116/DST07895.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/DST07895.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת דן אילוז ומירב בן ארי בישיבת הוועדה לביטחון לאומי, 7.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10466,
+      "filename": "DST08196.jpg",
+      "localPath": "photos/1116/DST08196.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1116/DST08196.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת דן אילוז נושא נאום בכורה במליאת הכנסת, 8.2.2023. צילום: דני שם-טוב, דוברות הכנסת:"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:05.231Z",
+  "localImagePath": "photos/1116/profile.jpg"
+}

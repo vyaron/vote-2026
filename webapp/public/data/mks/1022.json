@@ -1,0 +1,280 @@
+{
+  "id": 1022,
+  "name": "רם בן ברק",
+  "fullTitle": "חבר הכנסת רם בן ברק",
+  "faction": "יש עתיד",
+  "email": "rbenbarak@knesset.gov.il",
+  "workPhone": "8035,8036",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/rambenbarak/",
+    "twitter": "https://twitter.com/Ram_Ben_Barak",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1022/1_1022_3_11242.jpeg?v=20260415_25949",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1022/1_1022_3_11242.jpeg?v=20260415_25949",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1022/1_1022_1_11107.png?v=20260415_25949",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1022/1_1022_4_11254.png?v=20260415_25949"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"א בניסן תשי\"ח , 01/04/1958",
+  "deathDate": null,
+  "placeOfBirth": "עפולה, ישראל",
+  "immigrationYear": null,
+  "residence": "נהלל",
+  "education": "- תואר ראשון במדעי המדינה\n- תואר שני במדעי המדינה ולימודי ביטחון לאומי",
+  "militaryService": "סרן",
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": "רם בן ברק נולד וגדל במושב נהלל. בשנת 1976 התגייס לצה\"ל ושירת כלוחם וקצין בסיירת מטכ\"ל. בתפקידו האחרון היה מפקד פלוגת לוחמה בטרור. בשנת 1981 השתחרר בדרגת סרן.\n\nבשנת 1984 הצטרף בן ברק למוסד למודיעין ולתפקידים מיוחדים ושירת במגוון תפקידי לחימה ופיקוד באגף המבצעים של הארגון. הוא שירת גם כראש אגף המבצעים, ובמהלך תקופת כהונתו היה אחראי, בין השאר, על איסוף וגילוי המידע על הקמתו של כור גרעיני בסוריה. בשנת 2009 מונה לסגן ולמשנה לראש המוסד. \n\nעם סיום תפקידו כסגן ראש המוסד יצא לשליחות בארצות הברית ושימש עמית מחקר בכיר במכון המחקר הבין-לאומי ברוקינגס בוושינגטון הבירה.\n\nבדצמבר 2014 מונה לתפקיד מנכ\"ל המשרד למודיעין ולעניינים אסטרטגיים תחת השרים יובל שטייניץ וישראל כץ. \n\nחבר הכנסת רם בן ברק הוא בוגר המכללה לביטחון לאומי (מב\"ל), בעל תואר ראשון במדעי המדינה וסוציולוגיה ותואר שני במדעי המדינה וביטחון לאומי מאוניברסיטת חיפה. \n\nב-15 בינואר 2018 הודיע על הצטרפותו למפלגת יש עתיד. הוא נבחר לכנסת העשרים-ואחת ואחר כך לכנסת העשרים-ושתיים מטעם סיעת כחול לבן (חוסן לישראל, תל\"ם, יש עתיד). בכנסת העשרים-ושלוש הוא מכהן מטעם סיעת יש עתיד-תל\"ם.\n\nרם בן ברק נשוי לד\"ר איילת עמישב בן ברק. הוא אב לשלושה ילדים וסבא לשלושה נכדים. \n\n\nאפשר לקרוא את קורות החיים של חברי הכנסת גם בשפה הערבית והאנגלית.",
+  "knessetId": 25,
+  "plenumSeatNumber": "39",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1022/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1022/1_1022_3_11242.jpeg?v=20260415_25949",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 4304,
+      "filename": "1S5A9069.JPG",
+      "localPath": "photos/1022/1S5A9069.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/1S5A9069.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חבר הכנסת רם בן ברק ביום השבעת הכנסת ה-22, 3.10.2019. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 4426,
+      "filename": "NRF_7849.JPG",
+      "localPath": "photos/1022/NRF_7849.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/NRF_7849.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רם בן ברק ביום השבעת הכנסת ה-22, 3.10.2019. צילום: נועם ריבקין, דוברות הכנסת"
+    },
+    {
+      "id": 4616,
+      "filename": "P1870985.JPG",
+      "localPath": "photos/1022/P1870985.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/P1870985.JPG",
+      "width": 750,
+      "height": 562,
+      "title": "חבר הכנסת רם בן ברק במליאת הכנסת, 5.11.2019. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 4679,
+      "filename": "IMG_5182.JPG",
+      "localPath": "photos/1022/IMG_5182.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/IMG_5182.JPG",
+      "width": 750,
+      "height": 562,
+      "title": "חבר הכנסת רם בן ברק במליאת הכנסת, 19.11.2019. צילום: דקלה משולם, דוברות הכנסת"
+    },
+    {
+      "id": 4822,
+      "filename": "EAV05827.JPG",
+      "localPath": "photos/1022/EAV05827.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/EAV05827.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רם בן ברק במליאת הכנסת, 6.5.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5684,
+      "filename": "EAV07557.JPG",
+      "localPath": "photos/1022/EAV07557.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/EAV07557.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רם בן ברק במליאת הכנסת, 7.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5685,
+      "filename": "EAV07804.JPG",
+      "localPath": "photos/1022/EAV07804.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/EAV07804.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רם בן ברק במליאת הכנסת, 7.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5690,
+      "filename": "EAV02974.JPG",
+      "localPath": "photos/1022/EAV02974.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/EAV02974.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רם בן ברק בוועדת הכספים, 18.8.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 9641,
+      "filename": "20220628181106_NOAM1029.jpg",
+      "localPath": "photos/1022/20220628181106_NOAM1029.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/20220628181106_NOAM1029.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת רם בן ברק במליאת הכנסת, 28.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9642,
+      "filename": "DST06847.JPG",
+      "localPath": "photos/1022/DST06847.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/DST06847.JPG",
+      "width": 1868,
+      "height": 1142,
+      "title": "חבר הכנסת רם בן ברק במליאת הכנסת, 15.6.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9643,
+      "filename": "DST08543.JPG",
+      "localPath": "photos/1022/DST08543.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/DST08543.JPG",
+      "width": 2040,
+      "height": 1362,
+      "title": "יושב-ראש ועדת החוץ והביטחון חבר הכנסת רם בן ברק, 25.5.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9644,
+      "filename": "NOAM2842.JPG",
+      "localPath": "photos/1022/NOAM2842.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/NOAM2842.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת רם בן ברק במליאת הכנסת, 23.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9645,
+      "filename": "DST06679.JPG",
+      "localPath": "photos/1022/DST06679.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/DST06679.JPG",
+      "width": 1836,
+      "height": 1253,
+      "title": "יושב-ראש ועדת החוץ והביטחון חבר הכנסת רם בן ברק, 23.5.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9646,
+      "filename": "20220330091752_NOAM5020.jpg",
+      "localPath": "photos/1022/20220330091752_NOAM5020.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/20220330091752_NOAM5020.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "יושב-ראש ועדת החוץ והביטחון חבר הכנסת רם בן ברק, 30.3.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9647,
+      "filename": "20220315111024_NOAM3006.jpg",
+      "localPath": "photos/1022/20220315111024_NOAM3006.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/20220315111024_NOAM3006.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "יושב-ראש ועדת החוץ והביטחון חבר הכנסת רם בן ברק, 15.3.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9648,
+      "filename": "20220310084622_NOAM1999.jpg",
+      "localPath": "photos/1022/20220310084622_NOAM1999.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/20220310084622_NOAM1999.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "יושב-ראש ועדת החוץ והביטחון חבר הכנסת רם בן ברק, 10.3.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9649,
+      "filename": "DST06472.JPG",
+      "localPath": "photos/1022/DST06472.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/DST06472.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת רם בן ברק במליאת הכנסת, 9.3.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9650,
+      "filename": "DST02603.JPG",
+      "localPath": "photos/1022/DST02603.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/DST02603.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "יושב-ראש ועדת החוץ והביטחון חבר הכנסת רם בן ברק בסיור הוועדה במערת המכפלה, 10.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9651,
+      "filename": "DST09735.JPG",
+      "localPath": "photos/1022/DST09735.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/DST09735.JPG",
+      "width": 2068,
+      "height": 1411,
+      "title": "יושב-ראש ועדת החוץ והביטחון חבר הכנסת רם בן ברק בישיבה עם חברי פרלמנט מאיחוד האמירויות, 7.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9652,
+      "filename": "DST08522.JPG",
+      "localPath": "photos/1022/DST08522.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/DST08522.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "יושב-ראש ועדת החוץ והביטחון חבר הכנסת רם בן ברק, 12.1.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9653,
+      "filename": "DST03276.JPG",
+      "localPath": "photos/1022/DST03276.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/DST03276.JPG",
+      "width": 1616,
+      "height": 1080,
+      "title": "חבר הכנסת רם בן ברק באירוע הוקרה לפצועי מערכות ישראל ונפגעי פעולות האיבה, 23.11.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9654,
+      "filename": "20211109144507_NOAM4406.jpg",
+      "localPath": "photos/1022/20211109144507_NOAM4406.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/20211109144507_NOAM4406.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "יושב-ראש ועדת החוץ והביטחון חבר הכנסת רם בן ברק בישיבה בהשתתפות הרמטכ\"ל רב-אלוף אביב כוכבי, 9.11.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9655,
+      "filename": "DST05312.JPG",
+      "localPath": "photos/1022/DST05312.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/DST05312.JPG",
+      "width": 1616,
+      "height": 1080,
+      "title": "חבר הכנסת רם בן ברק במליאת הכנסת, 20.10.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9656,
+      "filename": "20210727150343_NOAM0255.jpg",
+      "localPath": "photos/1022/20210727150343_NOAM0255.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/20210727150343_NOAM0255.jpg",
+      "width": 1485,
+      "height": 989,
+      "title": "יושב-ראש ועדת החוץ והביטחון חבר הכנסת רם בן ברק בפגישה עם עם שגרירת גרמניה בישראל, 27.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9657,
+      "filename": "20210715085604_NOAM9884.jpg",
+      "localPath": "photos/1022/20210715085604_NOAM9884.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1022/20210715085604_NOAM9884.jpg",
+      "width": 1422,
+      "height": 948,
+      "title": "חבר הכנסת רם בן ברק במליאת הכנסת, 15.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:27.243Z",
+  "localImagePath": "photos/1022/profile.jpg"
+}

@@ -1,0 +1,145 @@
+{
+  "id": 1096,
+  "name": "עמיחי אליהו",
+  "fullTitle": "חבר הכנסת עמיחי אליהו",
+  "faction": "עוצמה יהודית בראשות איתמר בן גביר",
+  "email": "abene@knesset.gov.il",
+  "workPhone": "02-6408883",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1096/1_1096_3_19667.jpeg?v=20260415_87299",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1096/1_1096_3_19667.jpeg?v=20260415_87299",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1096/1_1096_1_19817.png?v=20260415_87299",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1096/1_1096_4_19818.png?v=20260415_87299"
+  },
+  "gender": "male",
+  "dateOfBirth": "כ\"ז בניסן תשל\"ט , 24/04/1979",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": null,
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "125",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "שר המורשת",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1096/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1096/1_1096_3_19667.jpeg?v=20260415_87299",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10024,
+      "filename": "NOAM0601.JPG",
+      "localPath": "photos/1096/NOAM0601.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1096/NOAM0601.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת עמיחי אליהו נשבע אמונים לכנסת ה-25. 15.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10025,
+      "filename": "DST00934.JPG",
+      "localPath": "photos/1096/DST00934.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1096/DST00934.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת עמיחי אליהו ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10026,
+      "filename": "DST01226.JPG",
+      "localPath": "photos/1096/DST01226.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1096/DST01226.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת עמיחי אליהו ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10033,
+      "filename": "DST03593.jpg",
+      "localPath": "photos/1096/DST03593.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1096/DST03593.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת עמיחי אליהו במליאה, 16.11.2022.צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10155,
+      "filename": "20221206165802_NOAM0222.jpg",
+      "localPath": "photos/1096/20221206165802_NOAM0222.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1096/20221206165802_NOAM0222.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת עמיחי אליהו ויוליה מלינובסקי במליאה, 7.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10157,
+      "filename": "NOAM0190.JPG",
+      "localPath": "photos/1096/NOAM0190.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1096/NOAM0190.JPG",
+      "width": 5465,
+      "height": 3643,
+      "title": "חבר הכנסת עמיחי אליהו בהשבעת הכנסת ה-25, 15.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10158,
+      "filename": "20221206164335_NOAM0158.jpg",
+      "localPath": "photos/1096/20221206164335_NOAM0158.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1096/20221206164335_NOAM0158.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת עמיחי אליהו וצביקה פוגל במליאה, 7.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10159,
+      "filename": "DST05729.jpg",
+      "localPath": "photos/1096/DST05729.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1096/DST05729.jpg",
+      "width": 750,
+      "height": 501,
+      "title": "חבר הכנסת עמיחי אליהו במליאה, 28.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10161,
+      "filename": "DST07186.jpg",
+      "localPath": "photos/1096/DST07186.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1096/DST07186.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת איתמר בן גביר ועמיחי אליהו לאחר נאום הבכורה במליאה, 7.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10232,
+      "filename": "DST09163.jpg",
+      "localPath": "photos/1096/DST09163.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1096/DST09163.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת עמיחי אליהו במליאה, 14.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:08.809Z",
+  "localImagePath": "photos/1096/profile.jpg"
+}

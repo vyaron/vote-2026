@@ -1,0 +1,149 @@
+{
+  "id": 1094,
+  "name": "דבי ביטון",
+  "fullTitle": "חברת הכנסת דבי ביטון",
+  "faction": "יש עתיד",
+  "email": "dvbiton@knesset.gov.il",
+  "workPhone": "02-6408330",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/mkDvoraBiton/",
+    "twitter": "https://twitter.com/DvoraBiton",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1094/1_1094_3_19657.jpeg?v=20260415_15404",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1094/1_1094_3_19657.jpeg?v=20260415_15404",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1094/1_1094_1_19819.png?v=20260415_15404",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1094/1_1094_4_19820.png?v=20260415_15404"
+  },
+  "gender": "unknown",
+  "dateOfBirth": "כ\"ה בסיוון תשכ\"ה , 25/06/1965",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "- תואר שני במשפטים LLM\n- תואר ראשון במשפטים LLB\n- לימודי תעודה, מינהל עסקים\n- לימודי אחות, בית החולים ברזילאי\n- לימודי דירקטוריון, אוניברסיטת בר אילן",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "מרוקנית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "56",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1094/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1094/1_1094_3_19657.jpeg?v=20260415_15404",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 9997,
+      "filename": "20221114151854_NOAM9365.jpg",
+      "localPath": "photos/1094/20221114151854_NOAM9365.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1094/20221114151854_NOAM9365.jpg",
+      "width": 1433,
+      "height": 936,
+      "title": "חברות הכנסת טלי גוטליב, לימור סון הר מלך, מטי צרפתי הרכבי, שרון ניר ודבי ביטון ביום הכשרה לחברי הכנסת החדשים, 14.11.2022.  צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9999,
+      "filename": "DST00881.JPG",
+      "localPath": "photos/1094/DST00881.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1094/DST00881.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת דבי ביטון ביום הכשרה לחברי הכנסת החדשים, 14.11.2022.  צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10000,
+      "filename": "DST01175.JPG",
+      "localPath": "photos/1094/DST01175.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1094/DST01175.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת דבי ביטון ביום הכשרה לחברי הכנסת החדשים, 14.11.2022.  צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10021,
+      "filename": "DST02150_2.jpg",
+      "localPath": "photos/1094/DST02150_2.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1094/DST02150_2.jpg",
+      "width": 2560,
+      "height": 1707,
+      "title": "חברת הכנסת דבי ביטון בהשבעת הכנסת ה-25, 15.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10031,
+      "filename": "DST03544.jpg",
+      "localPath": "photos/1094/DST03544.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1094/DST03544.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת דבי ביטון במליאה, 16.11.2022.צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10166,
+      "filename": "DST07279.jpg",
+      "localPath": "photos/1094/DST07279.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1094/DST07279.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת דבי ביטון במליאה, 7.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10167,
+      "filename": "DST04985.jpg",
+      "localPath": "photos/1094/DST04985.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1094/DST04985.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת דבי ביטון ומיכאל מרדכי ביטון במליאה, 23.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10168,
+      "filename": "20221207125455_NOAM0736.jpg",
+      "localPath": "photos/1094/20221207125455_NOAM0736.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1094/20221207125455_NOAM0736.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת דבי ביטון במליאה, 7.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10215,
+      "filename": "20221215184824_NOAM3759.jpg",
+      "localPath": "photos/1094/20221215184824_NOAM3759.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1094/20221215184824_NOAM3759.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת דבי ביטון במליאה, 15.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10216,
+      "filename": "20221218095534_NOAM4350.jpg",
+      "localPath": "photos/1094/20221218095534_NOAM4350.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1094/20221218095534_NOAM4350.jpg",
+      "width": 5301,
+      "height": 3534,
+      "title": "חברות הכנסת שרן השכל, יסמין פרידמן  ודבי ביטון בוועדה המיוחדת לדיון בהצעת חוק יסוד: הממשלה, 18.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:17.813Z",
+  "localImagePath": "photos/1094/profile.jpg"
+}

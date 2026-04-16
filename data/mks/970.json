@@ -1,0 +1,271 @@
+{
+  "id": 970,
+  "name": "ינון אזולאי",
+  "fullTitle": "חבר הכנסת ינון אזולאי",
+  "faction": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+  "email": "yazulai@knesset.gov.il",
+  "workPhone": "8453,8454,4525",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/970/1_970_3_2722.jpeg?v=20260415_90681",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/970/1_970_3_2722.jpeg?v=20260415_90681",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/970/1_970_1_2719.png?v=20260415_90681",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/970/1_970_4_2720.png?v=20260415_90681"
+  },
+  "gender": "male",
+  "dateOfBirth": "ט\"ו בתמוז תשל\"ט , 10/07/1979",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": "אשדוד",
+  "education": null,
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "81",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש סיעת התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/970/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/970/1_970_3_2722.jpeg?v=20260415_90681",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 3149,
+      "filename": "NRF15111.jpg",
+      "localPath": "photos/970/NRF15111.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/NRF15111.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ינון אזולאי נושא נאום בכורה במליאת הכנסת, 14.3.2018. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 3150,
+      "filename": "NRF15119.jpg",
+      "localPath": "photos/970/NRF15119.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/NRF15119.jpg",
+      "width": 750,
+      "height": 461,
+      "title": "חבר הכנסת ינון אזולאי נושא נאום בכורה במליאת הכנסת, 14.3.2018. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 3213,
+      "filename": "ISH_0923.jpg",
+      "localPath": "photos/970/ISH_0923.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/ISH_0923.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ינון אזולאי במליאת הכנסת, 19.11.2018. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 3252,
+      "filename": "1S5A9972.JPG",
+      "localPath": "photos/970/1S5A9972.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/1S5A9972.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ינון אזולאי ביום השבעת הכנסת ה-21, 30.4.2019. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 4185,
+      "filename": "ISH_7611.jpg",
+      "localPath": "photos/970/ISH_7611.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/ISH_7611.jpg",
+      "width": 500,
+      "height": 750,
+      "title": "חבר הכנסת ינון אזולאי בבחירת מבקר המדינה, 3.6.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 4599,
+      "filename": "P1870826.JPG",
+      "localPath": "photos/970/P1870826.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/P1870826.JPG",
+      "width": 750,
+      "height": 562,
+      "title": "חבר הכנסת ינון אזולאי בוועדת הכספים, 5.11.2019. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5644,
+      "filename": "EAV03082.JPG",
+      "localPath": "photos/970/EAV03082.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/EAV03082.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת ינון אזולאי ורם שפע בוועדת הכספים, 19.8.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5645,
+      "filename": "EAV05759.JPG",
+      "localPath": "photos/970/EAV05759.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/EAV05759.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת ינון אזולאי, מיכאל מלכיאלי ואיתן גינזבורג בוועדת הכספים, 25.8.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 6242,
+      "filename": "EAV02857.JPG",
+      "localPath": "photos/970/EAV02857.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/EAV02857.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ינון אזולאי ביום השבעת הכנסת ה-24, 6.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9929,
+      "filename": "DST00647.JPG",
+      "localPath": "photos/970/DST00647.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/DST00647.JPG",
+      "width": 1813,
+      "height": 1208,
+      "title": "חבר הכנסת ינון אזולאי בוועדת הכלכלה, 28.6.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9930,
+      "filename": "DST09706.JPG",
+      "localPath": "photos/970/DST09706.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/DST09706.JPG",
+      "width": 1425,
+      "height": 1228,
+      "title": "חבר הכנסת ינון אזולאי בוועדת הכלכלה, 26.6.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9931,
+      "filename": "DST08446.JPG",
+      "localPath": "photos/970/DST08446.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/DST08446.JPG",
+      "width": 2018,
+      "height": 1384,
+      "title": "חבר הכנסת ינון אזולאי במליאת הכנסת, 21.6.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9932,
+      "filename": "20220615145004_NOAM0860.jpg",
+      "localPath": "photos/970/20220615145004_NOAM0860.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/20220615145004_NOAM0860.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת ינון אזולאי במליאת הכנסת, 15.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9933,
+      "filename": "20220606202214_NOAM7958.jpg",
+      "localPath": "photos/970/20220606202214_NOAM7958.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/20220606202214_NOAM7958.jpg",
+      "width": 5311,
+      "height": 3541,
+      "title": "חבר הכנסת ינון אזולאי במליאת הכנסת, 6.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9934,
+      "filename": "DST03062.JPG",
+      "localPath": "photos/970/DST03062.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/DST03062.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת ינון אזולאי בסיור ועדת הבריאות בבית החולים שיבא, 2.6.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9935,
+      "filename": "20220531172636_NOAM7033.jpg",
+      "localPath": "photos/970/20220531172636_NOAM7033.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/20220531172636_NOAM7033.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת ינון אזולאי וגבי לסקי במליאת הכנסת, 31.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9936,
+      "filename": "20220530092135_NOAM5503.jpg",
+      "localPath": "photos/970/20220530092135_NOAM5503.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/20220530092135_NOAM5503.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת ינון אזולאי בוועדת הכספים, 30.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9937,
+      "filename": "DST09714.JPG",
+      "localPath": "photos/970/DST09714.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/DST09714.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת ינון אזולאי במליאת הכנסת, 25.5.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9938,
+      "filename": "20220517101434_NOAM1025.jpg",
+      "localPath": "photos/970/20220517101434_NOAM1025.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/20220517101434_NOAM1025.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת ינון אזולאי ואופיר כץ בוועדת הכספים, 17.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9939,
+      "filename": "DST04085.JPG",
+      "localPath": "photos/970/DST04085.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/DST04085.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת ינון אזולאי בוועדת הכנסת, 7.3.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9940,
+      "filename": "20211228152801_NOAM0714.jpg",
+      "localPath": "photos/970/20211228152801_NOAM0714.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/20211228152801_NOAM0714.jpg",
+      "width": 5522,
+      "height": 3681,
+      "title": "חבר הכנסת ינון אזולאי בוועדת הכספים, 28.12.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9941,
+      "filename": "DST01758_1.JPG",
+      "localPath": "photos/970/DST01758_1.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/DST01758_1.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת ינון אזולאי בוועדת הכספים, 26.12.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9942,
+      "filename": "20211124141719_NOAM0461.jpg",
+      "localPath": "photos/970/20211124141719_NOAM0461.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/20211124141719_NOAM0461.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת ינון אזולאי במליאת הכנסת, 24.11.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9943,
+      "filename": "20210701144218_NOAM3940.jpg",
+      "localPath": "photos/970/20210701144218_NOAM3940.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/970/20210701144218_NOAM3940.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חברי הכנסת ינון אזולאי ומשה ארבל בוועדת החוקה, חוק ומשפט, 1.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:03.656Z",
+  "localImagePath": "photos/970/profile.jpg"
+}

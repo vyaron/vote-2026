@@ -1,0 +1,145 @@
+{
+  "id": 1095,
+  "name": "בועז ביסמוט",
+  "fullTitle": "חבר הכנסת בועז ביסמוט",
+  "faction": "הליכוד ",
+  "email": "bbismut@knesset.gov.il",
+  "workPhone": "02-6408381",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1095/1_1095_3_19662.jpeg?v=20260415_64254",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1095/1_1095_3_19662.jpeg?v=20260415_64254",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1095/1_1095_1_19773.png?v=20260415_64254",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1095/1_1095_4_19774.png?v=20260415_64254"
+  },
+  "gender": "male",
+  "dateOfBirth": "כ' בכסלו תשכ\"ה , 25/11/1964",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": null,
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "85",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש ועדת החוץ והביטחון, יושב-ראש הוועדה המשותפת לוועדת הכספים ולוועדת החוץ והביטחון לתקציב הביטחון, יושב-ראש ועדה משותפת של ועדת החוץ והביטחון וועדת החוקה, חוק ומשפט לעניין הכרזה על מצב חירום, יושב-ראש ועדת משנה למודיעין, שירותים חשאיים ושו\"ן, יושב-ראש ועדת משנה לענייני עורף, יושב-ראש ועדת משנה לפי סעיף 5 לחוק הכנסת לעניין חסיון קצא\"א ויושב-ראש ועדת משנה לבחינת תחקירי ארועי השבעה באוקטובר ומלחמת חרבות ברזל",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1095/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1095/1_1095_3_19662.jpeg?v=20260415_64254",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 9984,
+      "filename": "DST01192.jpg",
+      "localPath": "photos/1095/DST01192.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1095/DST01192.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת בועז ביסמוט ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9985,
+      "filename": "20221114151105_NOAM9331.jpg",
+      "localPath": "photos/1095/20221114151105_NOAM9331.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1095/20221114151105_NOAM9331.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חברי הכנסת בועז ביסמוט, משה סעדה וחנוך מלביצקי ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9986,
+      "filename": "DST00987.JPG",
+      "localPath": "photos/1095/DST00987.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1095/DST00987.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת בועז ביסמוט ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9987,
+      "filename": "DST01003.JPG",
+      "localPath": "photos/1095/DST01003.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1095/DST01003.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת בועז ביסמוט ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10111,
+      "filename": "20221121171411_NOAM1673.jpg",
+      "localPath": "photos/1095/20221121171411_NOAM1673.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1095/20221121171411_NOAM1673.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת בועז ביסמוט בנאום בכורה במליאה, 21.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10143,
+      "filename": "20221207125935_NOAM0749.jpg",
+      "localPath": "photos/1095/20221207125935_NOAM0749.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1095/20221207125935_NOAM0749.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת בועז ביסמוט במליאה, 7.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10144,
+      "filename": "DST05704.jpg",
+      "localPath": "photos/1095/DST05704.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1095/DST05704.jpg",
+      "width": 1616,
+      "height": 1080,
+      "title": "חבר הכנסת בועז ביסמוט במליאה, 28.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10145,
+      "filename": "20221114150613_NOAM9295.jpg",
+      "localPath": "photos/1095/20221114150613_NOAM9295.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1095/20221114150613_NOAM9295.jpg",
+      "width": 1434,
+      "height": 926,
+      "title": "חבר הכנסת בועז ביסמוט ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10146,
+      "filename": "DST05993.jpg",
+      "localPath": "photos/1095/DST05993.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1095/DST05993.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת בועז ביסמוט במליאה, 29.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10160,
+      "filename": "20221207133432_NOAM0901.jpg",
+      "localPath": "photos/1095/20221207133432_NOAM0901.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1095/20221207133432_NOAM0901.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת בועז ביסמוט, מיקי זוהר וחיים כץ במליאה, 7.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:23.358Z",
+  "localImagePath": "photos/1095/profile.jpg"
+}

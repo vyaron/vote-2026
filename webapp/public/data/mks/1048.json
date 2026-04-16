@@ -1,0 +1,256 @@
+{
+  "id": 1048,
+  "name": "יעל רון בן משה",
+  "fullTitle": "חברת הכנסת יעל רון בן משה",
+  "faction": "כחול לבן - המחנה הממלכתי",
+  "email": "yaelron@knesset.gov.il",
+  "workPhone": "8553,8162,8552",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/yaelronbenmoshe/?locale=he_IL",
+    "twitter": "https://x.com/yael_ron",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1048/1_1048_3_16568.jpeg?v=20260415_12587",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1048/1_1048_3_16568.jpeg?v=20260415_12587",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1048/1_1048_1_16573.png?v=20260415_12587",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1048/1_1048_4_16574.png?v=20260415_12587"
+  },
+  "gender": "female",
+  "dateOfBirth": "י\"ד בחשוון תשל\"ט , 14/11/1978",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": "געתון",
+  "education": "- 2000–2003: תואר ראשון במדע המדינה, סוציולוגיה ואנתרופולוגיה, אוניברסיטת תל אביב\n- תואר שני במדע המדינה עם התמחות ביחסים בין-לאומיים ואסטרטגיה\n- בוגרת ושותפה בתוכנית וקסנר למנהיגות בכירה בישראל, לימודים באוניברסיטת הרווארד, בוסטון",
+  "militaryService": "סמב\"צית חי\"ר ואחראית משמרת בחמ\"ל אוגדתי",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": null,
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1048/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1048/1_1048_3_16568.jpeg?v=20260415_12587",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 6262,
+      "filename": "EAV06031.JPG",
+      "localPath": "photos/1048/EAV06031.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV06031.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת יעל רון בן משה בטקס \"לכל איש יש שם\" להנצחת שמות הנספים בשואה, 8.4.20201. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6319,
+      "filename": "EAV06026.JPG",
+      "localPath": "photos/1048/EAV06026.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV06026.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת יעל רון בן משה בטקס \"לכל איש יש שם\" להנצחת שמות הנספים בשואה, 8.4.20201. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6320,
+      "filename": "EAV05880.JPG",
+      "localPath": "photos/1048/EAV05880.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV05880.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת יעל רון בן משה בטקס \"לכל איש יש שם\" בכנסת, 8.4.20201. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6398,
+      "filename": "EAV02899 (1).JPG",
+      "localPath": "photos/1048/EAV02899 (1).JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV02899 (1).JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת יעל רון בן משה בוועדת הכנסת, 7.1.2021. צילום דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6399,
+      "filename": "EAV04795.JPG",
+      "localPath": "photos/1048/EAV04795.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV04795.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת יעל רון בן משה במליאת הכנסת, 8.3.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6400,
+      "filename": "1E1A5955.JPG",
+      "localPath": "photos/1048/1E1A5955.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/1E1A5955.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת יעל רון בן משה ביום השבעת הכנסת ה-24, 6.4.2021. צילום: אסי אפרתי, תדמית הפקות, דוברות הכנסת"
+    },
+    {
+      "id": 6401,
+      "filename": "EAV00077.JPG",
+      "localPath": "photos/1048/EAV00077.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV00077.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת יעל רון בן משה בוועדת החוקה, חוק ומשפט, 7.2.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6402,
+      "filename": "EAV01781.JPG",
+      "localPath": "photos/1048/EAV01781.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV01781.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת יעל רון בן משה במליאת הכנסת, 4.1.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6403,
+      "filename": "EAV01792.JPG",
+      "localPath": "photos/1048/EAV01792.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV01792.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת יעל רון בן משה במליאת הכנסת, 4.1.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8754,
+      "filename": "DST05948.JPG",
+      "localPath": "photos/1048/DST05948.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/DST05948.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת יעל רון בן משה, יושבת-ראש הוועדה המיוחדת לפניות הציבור, 4.8.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8755,
+      "filename": "DST04160 (1).JPG",
+      "localPath": "photos/1048/DST04160 (1).JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/DST04160 (1).JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת יעל רון בן משה בהיבחרה ליושבת-ראש הוועדה המיוחדת לפניות הציבור, 3.8.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8756,
+      "filename": "DST00283.JPG",
+      "localPath": "photos/1048/DST00283.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/DST00283.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת יעל רון בן משה במליאת הכנסת, 27.7.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8757,
+      "filename": "EAV09695.JPG",
+      "localPath": "photos/1048/EAV09695.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV09695.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת יעל רון בן משה במליאת הכנסת, 9.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8758,
+      "filename": "EAV05510.JPG",
+      "localPath": "photos/1048/EAV05510.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV05510.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת יעל רון בן משה בוועדת החוץ והביטחון, 31.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8759,
+      "filename": "EAV04549.JPG",
+      "localPath": "photos/1048/EAV04549.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV04549.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת יעל רון בן משה בוועדת החוץ והביטחון, 27.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8760,
+      "filename": "EAV02037.JPG",
+      "localPath": "photos/1048/EAV02037.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV02037.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת יעל רון בן משה בוועדה המסדרת, 24.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8761,
+      "filename": "EAV00352.JPG",
+      "localPath": "photos/1048/EAV00352.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV00352.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת יעל רון בן משה בוועדת החוץ והביטחון, 13.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8762,
+      "filename": "EAV00823.JPG",
+      "localPath": "photos/1048/EAV00823.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV00823.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת יעל רון בן משה במליאת הכנסת, 29.12.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8763,
+      "filename": "NOAM7015.JPG",
+      "localPath": "photos/1048/NOAM7015.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/NOAM7015.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "יושבת-ראש הוועדה המיוחדת לפניות הציבור חברת הכנסת יעל רון בן משה, 16.11.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8764,
+      "filename": "EAV00843.JPG",
+      "localPath": "photos/1048/EAV00843.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV00843.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת יעל רון בן משה במליאת הכנסת, 29.12.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8765,
+      "filename": "EAV01116.JPG",
+      "localPath": "photos/1048/EAV01116.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV01116.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת יעל רון בן משה במליאת הכנסת, 13.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8766,
+      "filename": "EAV00561.JPG",
+      "localPath": "photos/1048/EAV00561.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1048/EAV00561.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת יעל רון בן משה ומאיר יצחק-הלוי במליאת הכנסת, 16.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:56:21.088Z",
+  "localImagePath": "photos/1048/profile.jpg"
+}

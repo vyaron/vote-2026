@@ -1,0 +1,274 @@
+{
+  "id": 1068,
+  "name": "אפרת רייטן מרום",
+  "fullTitle": "חברת הכנסת אפרת רייטן מרום",
+  "faction": "העבודה",
+  "email": "eraiten@knesset.gov.il",
+  "workPhone": "8307",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/EfratRaytenOfficial",
+    "twitter": "https://twitter.com/Efratrayten1",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1068/1_1068_3_17773.jpeg?v=20260415_22551",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1068/1_1068_3_17773.jpeg?v=20260415_22551",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1068/1_1068_1_17872.png?v=20260415_22551",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1068/1_1068_4_17873.png?v=20260415_22551"
+  },
+  "gender": "female",
+  "dateOfBirth": "ב' בסיוון תשל\"ב , 15/05/1972",
+  "deathDate": null,
+  "placeOfBirth": "חיפה, ישראל",
+  "immigrationYear": null,
+  "residence": "תל אביב-יפו",
+  "education": "- LLB משפטים",
+  "militaryService": "סמל",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "66",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושבת-ראש סיעת העבודה",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1068/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1068/1_1068_3_17773.jpeg?v=20260415_22551",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 6180,
+      "filename": "EAV01845.JPG",
+      "localPath": "photos/1068/EAV01845.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV01845.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אפרת רייטן מרום ביום עיון לחברי הכנסת החדשים לקראת פתיחת הכנסת ה-24, 5.4.2021. צילום דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6182,
+      "filename": "EAV01748.JPG",
+      "localPath": "photos/1068/EAV01748.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV01748.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אפרת רייטן מרום ביום עיון לחברי הכנסת החדשים לקראת פתיחת הכנסת ה-24, 5.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6183,
+      "filename": "EAV01701.JPG",
+      "localPath": "photos/1068/EAV01701.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV01701.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אפרת רייטן מרום ביום עיון לחברי הכנסת החדשים לקראת פתיחת הכנסת ה-24, 5.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6184,
+      "filename": "IMG-20210405-WA0015.jpg",
+      "localPath": "photos/1068/IMG-20210405-WA0015.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/IMG-20210405-WA0015.jpg",
+      "width": 750,
+      "height": 562,
+      "title": "חברת הכנסת אפרת רייטן מרום ביום עיון לחברי הכנסת החדשים לקראת פתיחת הכנסת ה-24, 5.4.2021. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 6270,
+      "filename": "EAV03174.JPG",
+      "localPath": "photos/1068/EAV03174.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV03174.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אפרת רייטן מרום ביום השבעת הכנסת ה-24, 6.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6321,
+      "filename": "EAV08789.JPG",
+      "localPath": "photos/1068/EAV08789.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV08789.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אפרת רייטן מרום בוועדה המסדרת, 19.4.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 6322,
+      "filename": "EAV06599.JPG",
+      "localPath": "photos/1068/EAV06599.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV06599.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אפרת רייטן מרום בטקס \"לכל איש יש שם\", 8.4.2021. צילום דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6325,
+      "filename": "EAV07374.JPG",
+      "localPath": "photos/1068/EAV07374.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV07374.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אפרת רייטן מרום במליאת הכנסת, 12.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6387,
+      "filename": "EAV06957.jpg",
+      "localPath": "photos/1068/EAV06957.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV06957.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אפרת רייטן מרום לאחר נאום הבכורה במליאת הכנסת, 27.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6391,
+      "filename": "EAV07377.JPG",
+      "localPath": "photos/1068/EAV07377.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV07377.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אפרת רייטן מרום במליאת הכנסת, 12.4.2021. צילום דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6392,
+      "filename": "EAV06048.JPG",
+      "localPath": "photos/1068/EAV06048.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV06048.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אפרת רייטן מרום בוועדה המסדרת, 26.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6394,
+      "filename": "EAV06849.jpg",
+      "localPath": "photos/1068/EAV06849.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV06849.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אפרת רייטן מרום בנאום בכורה במליאת הכנסת, 27.4.2021, צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6396,
+      "filename": "EAV06865.jpg",
+      "localPath": "photos/1068/EAV06865.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV06865.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אפרת רייטן מרום בנאום בכורה במליאת הכנסת, 27.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8738,
+      "filename": "NOAM4075.JPG",
+      "localPath": "photos/1068/NOAM4075.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/NOAM4075.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "יושבת-ראש ועדת העבודה והרווחה חברת הכנסת אפרת רייטן מרום, 6.12.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8739,
+      "filename": "DST07418.JPG",
+      "localPath": "photos/1068/DST07418.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/DST07418.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושבת-ראש ועדת העבודה והרווחה חברת הכנסת אפרת רייטן מרום, 6.10.2021. צילום: דני שם-טוב דוברות הכנסת"
+    },
+    {
+      "id": 8740,
+      "filename": "DST03094.JPG",
+      "localPath": "photos/1068/DST03094.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/DST03094.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושבת-ראש ועדת העבודה והרווחה חברת הכנסת אפרת רייטן מרום, 18.10.2021. צילום: דני שם-טוב דוברות הכנסת"
+    },
+    {
+      "id": 8741,
+      "filename": "NOAM0032.JPG",
+      "localPath": "photos/1068/NOAM0032.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/NOAM0032.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת אפרת רייטן מרום בהיבחרה ליושבת-ראש ועדת העבודה והרווחה, 26.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8742,
+      "filename": "EAV00128.JPG",
+      "localPath": "photos/1068/EAV00128.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV00128.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אפרת רייטן מרום במליאת הכנסת, 9.6.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8743,
+      "filename": "EAV03943.JPG",
+      "localPath": "photos/1068/EAV03943.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV03943.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אפרת רייטן מרום במליאת הכנסת, 26.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8744,
+      "filename": "EAV01926.JPG",
+      "localPath": "photos/1068/EAV01926.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV01926.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת אפרת רייטן מרום ושמחה רוטמן בוועדה המסדרת, 24.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8745,
+      "filename": "EAV00601.JPG",
+      "localPath": "photos/1068/EAV00601.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV00601.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אפרת רייטן מרום בוועדת הכספים, 18.5.2021 צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8746,
+      "filename": "EAV01981.JPG",
+      "localPath": "photos/1068/EAV01981.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/EAV01981.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אפרת רייטן מרום בוועדה המסדרת, 24.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8747,
+      "filename": "DST01496.JPG",
+      "localPath": "photos/1068/DST01496.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/DST01496.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושבת-ראש ועדת העבודה והרווחה חברת הכנסת אפרת רייטן מרום, 28.7.2021. צילום: דני שם-טוב דוברות הכנסת"
+    },
+    {
+      "id": 8748,
+      "filename": "NOAM0095.JPG",
+      "localPath": "photos/1068/NOAM0095.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1068/NOAM0095.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת אפרת רייטן מרום בהיבחרה ליושבת-ראש ועדת העבודה והרווחה, 26.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:56:22.000Z",
+  "localImagePath": "photos/1068/profile.jpg"
+}

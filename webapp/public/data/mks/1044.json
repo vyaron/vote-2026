@@ -1,0 +1,235 @@
+{
+  "id": 1044,
+  "name": "עמית הלוי",
+  "fullTitle": "חבר הכנסת עמית הלוי",
+  "faction": "הליכוד ",
+  "email": "ahalevi@knesset.gov.il",
+  "workPhone": null,
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/MKAmitHalevi",
+    "twitter": "https://twitter.com/HaleviAmit",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1044/1_1044_3_16220.jpeg?v=20260415_13257",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1044/1_1044_3_16220.jpeg?v=20260415_13257",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1044/1_1044_1_16232.png?v=20260415_13257",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1044/1_1044_4_16233.png?v=20260415_13257"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ב בסיוון תשל\"א , 05/06/1971",
+  "deathDate": null,
+  "placeOfBirth": "חיפה, ישראל",
+  "immigrationYear": null,
+  "residence": "ירושלים",
+  "education": "- תואר ראשון בהיסטוריה ומדע המדינה, אוניברסיטת בר אילן \n- תואר שני במדיניות ציבורית, האוניברסיטה העברית",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "97",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1044/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1044/1_1044_3_16220.jpeg?v=20260415_13257",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 5747,
+      "filename": "EAV09147.JPG",
+      "localPath": "photos/1044/EAV09147.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV09147.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5748,
+      "filename": "EAV00175.JPG",
+      "localPath": "photos/1044/EAV00175.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV00175.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5749,
+      "filename": "EAV02649.JPG",
+      "localPath": "photos/1044/EAV02649.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV02649.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5750,
+      "filename": "EAV05500.JPG",
+      "localPath": "photos/1044/EAV05500.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV05500.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5751,
+      "filename": "EAV09125.JPG",
+      "localPath": "photos/1044/EAV09125.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV09125.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5752,
+      "filename": "EAV00001.JPG",
+      "localPath": "photos/1044/EAV00001.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV00001.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5753,
+      "filename": "EAV00180.JPG",
+      "localPath": "photos/1044/EAV00180.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV00180.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5754,
+      "filename": "EAV00403.JPG",
+      "localPath": "photos/1044/EAV00403.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV00403.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5755,
+      "filename": "EAV00436.JPG",
+      "localPath": "photos/1044/EAV00436.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV00436.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5756,
+      "filename": "EAV05319.JPG",
+      "localPath": "photos/1044/EAV05319.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV05319.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5757,
+      "filename": "EAV05330.JPG",
+      "localPath": "photos/1044/EAV05330.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV05330.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5758,
+      "filename": "EAV05499.JPG",
+      "localPath": "photos/1044/EAV05499.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV05499.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5759,
+      "filename": "EAV06070.JPG",
+      "localPath": "photos/1044/EAV06070.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV06070.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5760,
+      "filename": "EAV06073.JPG",
+      "localPath": "photos/1044/EAV06073.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV06073.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5761,
+      "filename": "EAV06223.JPG",
+      "localPath": "photos/1044/EAV06223.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV06223.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5762,
+      "filename": "EAV07007.JPG",
+      "localPath": "photos/1044/EAV07007.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV07007.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5763,
+      "filename": "EAV08954.JPG",
+      "localPath": "photos/1044/EAV08954.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV08954.JPG",
+      "width": 500,
+      "height": 750,
+      "title": ""
+    },
+    {
+      "id": 5764,
+      "filename": "EAV00489.JPG",
+      "localPath": "photos/1044/EAV00489.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV00489.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5765,
+      "filename": "EAV02621.JPG",
+      "localPath": "photos/1044/EAV02621.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV02621.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 5766,
+      "filename": "EAV01661.JPG",
+      "localPath": "photos/1044/EAV01661.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1044/EAV01661.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:50.084Z",
+  "localImagePath": "photos/1044/profile.jpg"
+}

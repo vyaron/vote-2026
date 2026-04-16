@@ -1,0 +1,276 @@
+{
+  "id": 1029,
+  "name": "משה אבוטבול",
+  "fullTitle": "חבר הכנסת משה אבוטבול",
+  "faction": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+  "email": "mabutbul@knesset.gov.il",
+  "workPhone": "02-6408751",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/MAbutbul",
+    "twitter": "https://twitter.com/Abutbulm",
+    "instagram": "https://www.instagram.com/mkabutbulmoshe/",
+    "youtube": "https://www.youtube.com/channel/UCNxQ0j4kKFVR9x1Ll0pr_Ew",
+    "website": "https://www.tiktok.com/@mabutbul"
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1029/1_1029_3_13527.jpeg?v=20260415_47821",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1029/1_1029_3_13527.jpeg?v=20260415_47821",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1029/1_1029_1_13588.png?v=20260415_47821",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1029/1_1029_4_13589.png?v=20260415_47821"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ד בתמוז תשכ\"ה , 14/07/1965",
+  "deathDate": null,
+  "placeOfBirth": "באר שבע, ישראל",
+  "immigrationYear": null,
+  "residence": "בית שמש",
+  "education": "- ישיבה קטנה\n- ישיבה גדולה\n- אברך כולל",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "ערבית",
+    "ארמית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "82",
+  "isCurrentMk": true,
+  "isPresent": true,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1029/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1029/1_1029_3_13527.jpeg?v=20260415_47821",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 4388,
+      "filename": "1S5A9560.JPG",
+      "localPath": "photos/1029/1S5A9560.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/1S5A9560.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חבר הכנסת משה אבוטבול ביום השבעת הכנסת ה-22, 3.10.2019. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 4499,
+      "filename": "ISH_2101.JPG",
+      "localPath": "photos/1029/ISH_2101.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/ISH_2101.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה אבוטבול במליאת הכנסת, 28.10.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 4689,
+      "filename": "IMG_5294.JPG",
+      "localPath": "photos/1029/IMG_5294.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/IMG_5294.JPG",
+      "width": 750,
+      "height": 562,
+      "title": "חבר הכנסת משה אבוטבול במליאת הכנסת, 19.11.2019. צילום: דקלה משולם, דוברות הכנסת"
+    },
+    {
+      "id": 5631,
+      "filename": "EAV08224.JPG",
+      "localPath": "photos/1029/EAV08224.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/EAV08224.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה אבוטבול בוועדת העבודה והרווחה 8.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5633,
+      "filename": "EAV01288.JPG",
+      "localPath": "photos/1029/EAV01288.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/EAV01288.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת משה אבוטבול, תמר זנדברג ואוריאל בוסו במליאת הכנסת, 9.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5634,
+      "filename": "EAV01313.JPG",
+      "localPath": "photos/1029/EAV01313.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/EAV01313.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה אבוטבול, תמר זנדברג ויוסף טייב במליאת הכנסת, 9.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 8588,
+      "filename": "EAV00298.JPG",
+      "localPath": "photos/1029/EAV00298.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/EAV00298.JPG",
+      "width": 1021,
+      "height": 681,
+      "title": "חברי הכנסת משה אבוטבול ופטין מולא במליאת הכנסת, 16.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8589,
+      "filename": "EAV02093.JPG",
+      "localPath": "photos/1029/EAV02093.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/EAV02093.JPG",
+      "width": 1021,
+      "height": 681,
+      "title": "חבר הכנסת משה אבוטבול בוועדה המסדרת, 24.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8590,
+      "filename": "EAV08334.JPG",
+      "localPath": "photos/1029/EAV08334.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/EAV08334.JPG",
+      "width": 1021,
+      "height": 681,
+      "title": "חבר הכנסת משה אבוטבול במליאת הכנסת, 19.4.2021 צילום: דוברות הכנסת"
+    },
+    {
+      "id": 8591,
+      "filename": "EAV03922.JPG",
+      "localPath": "photos/1029/EAV03922.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/EAV03922.JPG",
+      "width": 1021,
+      "height": 681,
+      "title": "חבר הכנסת משה אבוטבול בוועדת החינוך, התרבות והספורט, 24.8.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 8592,
+      "filename": "EAV06990.JPG",
+      "localPath": "photos/1029/EAV06990.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/EAV06990.JPG",
+      "width": 1021,
+      "height": 681,
+      "title": "חבר הכנסת משה אבוטבול בבחירת נציגי הכנסת לוועדות בחירה ומינוי של נושאי משרה שיפוטית, 15.7.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 8593,
+      "filename": "EAV05261.JPG",
+      "localPath": "photos/1029/EAV05261.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/EAV05261.JPG",
+      "width": 1021,
+      "height": 681,
+      "title": "חבר הכנסת משה אבוטבול, תמר זנדברג ויוסף טייב במליאת הכנסת, 9.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 9954,
+      "filename": "20220608123906_NOAM8921.jpg",
+      "localPath": "photos/1029/20220608123906_NOAM8921.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/20220608123906_NOAM8921.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת משה אבוטבול במליאת הכנסת, 8.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9955,
+      "filename": "20220614151452_NOAM9820.jpg",
+      "localPath": "photos/1029/20220614151452_NOAM9820.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/20220614151452_NOAM9820.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת משה אבוטבול במליאת הכנסת, 14.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9956,
+      "filename": "DST01177_1.JPG",
+      "localPath": "photos/1029/DST01177_1.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/DST01177_1.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת משה אבוטבול במליאת הכנסת, 31.5.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9957,
+      "filename": "DST04758.JPG",
+      "localPath": "photos/1029/DST04758.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/DST04758.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת משה אבוטבול בטקס \"לכל איש יש שם\" להנצחת שמות הנספים בשואה, 28.4.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9958,
+      "filename": "DST08242.JPG",
+      "localPath": "photos/1029/DST08242.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/DST08242.JPG",
+      "width": 2010,
+      "height": 1318,
+      "title": "חבר הכנסת משה אבוטבול במליאת הכנסת, 23.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9959,
+      "filename": "NOAM8308.JPG",
+      "localPath": "photos/1029/NOAM8308.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/NOAM8308.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת משה אבוטבול ומיכל מרים וולדיגר בוועדת העבודה והרווחה, 8.2.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9960,
+      "filename": "20211221125737_NOAM9497.jpg",
+      "localPath": "photos/1029/20211221125737_NOAM9497.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/20211221125737_NOAM9497.jpg",
+      "width": 5136,
+      "height": 3424,
+      "title": "חברי הכנסת משה אבוטבול וניר אורבך בדיון משותף של ועדת ביטחון הפנים וועדת החוץ והביטחון, 21.2.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9961,
+      "filename": "NOAM9553.JPG",
+      "localPath": "photos/1029/NOAM9553.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/NOAM9553.JPG",
+      "width": 4898,
+      "height": 3265,
+      "title": "חבר הכנסת משה אבוטבול בוועדה למען זכויות הילד, 23.11.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9962,
+      "filename": "20211014095905_NOAM3030.jpg",
+      "localPath": "photos/1029/20211014095905_NOAM3030.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/20211014095905_NOAM3030.jpg",
+      "width": 1386,
+      "height": 924,
+      "title": "חברי הכנסת משה אבוטבול ונירה שפק בוועדת העבודה והרווחה, 14.10.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9963,
+      "filename": "20211011182128_NOAM1191.jpg",
+      "localPath": "photos/1029/20211011182128_NOAM1191.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/20211011182128_NOAM1191.jpg",
+      "width": 1447,
+      "height": 964,
+      "title": "חבר הכנסת משה אבוטבול במליאת הכנסת, 11.10.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9964,
+      "filename": "WhatsApp Image 2021-04-06 at 09.48.45.jpeg",
+      "localPath": "photos/1029/WhatsApp Image 2021-04-06 at 09.48.45.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/WhatsApp Image 2021-04-06 at 09.48.45.jpeg",
+      "width": 1600,
+      "height": 1069,
+      "title": "חבר הכנסת משה אבוטבול ביום השבעת הכנסת ה-24, 6.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9965,
+      "filename": "DST04559.JPG",
+      "localPath": "photos/1029/DST04559.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1029/DST04559.JPG",
+      "width": 1616,
+      "height": 1080,
+      "title": "חבר הכנסת משה אבוטבול במליאת הכנסת, 3.8.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:00.272Z",
+  "localImagePath": "photos/1029/profile.jpg"
+}

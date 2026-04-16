@@ -1,0 +1,229 @@
+{
+  "id": 1101,
+  "name": "שלום דנינו",
+  "fullTitle": "חבר הכנסת שלום דנינו",
+  "faction": "הליכוד ",
+  "email": "shdanino@knesset.gov.il",
+  "workPhone": "02-6408802",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1101/1_1101_3_19687.jpeg?v=20260415_59078",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1101/1_1101_3_19687.jpeg?v=20260415_59078",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1101/1_1101_1_20060.png?v=20260415_59078",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1101/1_1101_4_20061.png?v=20260415_59078"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ט באייר תשט\"ז , 30/04/1956",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "- BA, תואר ראשון מאוניברסיטת בן גוריון\n- תעודת ניהול מאוניברסיטת בר אילן",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": "שלום דנינו הוא חבר בכנסת העשרים-וחמש מטעם מפלגת הליכוד. איש עסקים ויזם, בעל תואר ראשון מאוניברסיטת בן-גוריון, ותואר ראשון בניהול מטעם אוניברסיטת בר אילן.\n\nשלום דנינו נולד ב־1956 בעיר אופקים לפריחה ומאיר דנינו אשר עלו ממרוקו. הוא נשוי לאלן ואב לשלוש, ומתגורר כיום ביישוב עומר.\n\nשלום דנינו השתחרר מהצבא בתום כעשר שנות שירות בדרגת רב-סרן. בתפקידו האחרון שירת כמפקד יחידה. בשירותו בחיל האוויר מילא תפקידים מגוונים בתחום המבצעים והמנהלה. דרגותיו הוענקו בקיצור פז\"מ ובנוהל קצין מצטיין. כיום דנינו חבר בוועד המנהל של מוזיאון מורשת חיל האוויר.\n\nשלום דנינו חבר בתנועת הליכוד עשרות שנים, עוד מהיותה תנועת החירות, שכן גדל והתחנך כאיש חירות עוד בבית הוריו. בבחירות המקדימות בשנת 2022, לקראת הבחירות לכנסת העשרים-וחמש, נבחר כנציג מחוז הנגב בפער ניכר ומשמעותי, ולפיכך שובץ במקום ה-22 ברשימת הליכוד, אשר זכתה ל־32 מנדטים בבחירות אלו. דנינו מכהן כחבר כנסת מ-15 בנובמבר 2022, היום שבו הושבעו חברי הכנסת.\n\nשלום דנינו הוא איש עסקים ויזם, מבעלי בית האבות \"דורות בנגב\" בבאר שבע, חברת נדל\"ן וחברה מסחרית.",
+  "knessetId": 25,
+  "plenumSeatNumber": "77",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש ועדה משותפת חוץ וביטחון ופנים לדיון בהארכת תוקף חוק האזרחות והכניסה לישראל, יושב-ראש הוועדה המשותפת לוועדת החוץ והביטחון ולוועדת העבודה והרווחה, לפי חוק שירות הקבע בצה\"ל (גמלאות) ויושב-ראש ועדת משנה לקידום עסקים קטנים ובינוניים",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1101/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1101/1_1101_3_19687.jpeg?v=20260415_59078",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10052,
+      "filename": "DST01186.jpg",
+      "localPath": "photos/1101/DST01186.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/DST01186.jpg",
+      "width": 5386,
+      "height": 3591,
+      "title": "חבר הכנסת שלום דנינו ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10191,
+      "filename": "DST09419.JPG",
+      "localPath": "photos/1101/DST09419.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/DST09419.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת שלום דנינו בוועדת חוקה חוק ומשפט, 15.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10192,
+      "filename": "Noam.M-2573.JPG",
+      "localPath": "photos/1101/Noam.M-2573.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/Noam.M-2573.JPG",
+      "width": 5009,
+      "height": 3339,
+      "title": "חברי הכנסת רם בן ברק, יבגני סובה ושלום דנינו בוועדה המסדרת, 28.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10193,
+      "filename": "Noam.M-1067.JPG",
+      "localPath": "photos/1101/Noam.M-1067.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/Noam.M-1067.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת שלום דנינו , 12.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10194,
+      "filename": "20221128123401_NOAM8631.jpg",
+      "localPath": "photos/1101/20221128123401_NOAM8631.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/20221128123401_NOAM8631.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת שלום דנינו בדיון בוועדת הכספים, 28.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10498,
+      "filename": "20230124194210_NOAM2540.jpg",
+      "localPath": "photos/1101/20230124194210_NOAM2540.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/20230124194210_NOAM2540.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת שלום דנינו, טלי גוטליב, דוד ביטן ואופיר כץ במליאת הכנסת, 24.1.2023. צילום נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10499,
+      "filename": "20230124194533_NOAM2575.jpg",
+      "localPath": "photos/1101/20230124194533_NOAM2575.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/20230124194533_NOAM2575.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת שלום דנינו, יוליה מלינובסקי, דוד ביטן ואופיר כץ במליאת הכנסת, 24.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10500,
+      "filename": "DST00060.jpg",
+      "localPath": "photos/1101/DST00060.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/DST00060.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת שלום דנינו בוועדה המיוחדת לתיקון פקודת המשטרה, 19.12.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10501,
+      "filename": "DST01192.jpg",
+      "localPath": "photos/1101/DST01192.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/DST01192.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת שלום דנינו ובועז ביסמוט ביום עיון לחברי הכנסת החדשים, 14.11.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10502,
+      "filename": "DST01197.jpg",
+      "localPath": "photos/1101/DST01197.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/DST01197.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת שלום דנינו ובועז ביסמוט ביום עיון לחברי הכנסת החדשים, 14.11.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10503,
+      "filename": "DST09433.jpg",
+      "localPath": "photos/1101/DST09433.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/DST09433.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת שלום דנינו בוועדה המיוחדת להצעת חוק-יסוד: הממשלה (שר נוסף במשרד וכשירותם של שרים), 5.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10504,
+      "filename": "Noam.M-0961.JPG",
+      "localPath": "photos/1101/Noam.M-0961.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/Noam.M-0961.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת שלום דנינו, דן אילוז, ולדימיר בליאק ונעמה לזימי בוועדת הכלכלה, 23.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10505,
+      "filename": "Noam.M-1008.JPG",
+      "localPath": "photos/1101/Noam.M-1008.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/Noam.M-1008.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת דן אילוז ושלום דנינו בדיון בוועדת הכלכלה, 23.1.2023. צילום נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10506,
+      "filename": "Noam.M-1075.JPG",
+      "localPath": "photos/1101/Noam.M-1075.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/Noam.M-1075.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת שלום דנינו , 12.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10507,
+      "filename": "Noam.M-1106.JPG",
+      "localPath": "photos/1101/Noam.M-1106.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/Noam.M-1106.JPG",
+      "width": 549,
+      "height": 823,
+      "title": "חבר הכנסת שלום דנינו , 12.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10508,
+      "filename": "20221215121853_NOAM3393.jpg",
+      "localPath": "photos/1101/20221215121853_NOAM3393.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/20221215121853_NOAM3393.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת שלום דנינו בישיבת ועדת הכספים, 15.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10510,
+      "filename": "20230118095214_NOAM0198.jpg",
+      "localPath": "photos/1101/20230118095214_NOAM0198.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/20230118095214_NOAM0198.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת שלום דנינו ואביגדור ליברמן בישיבת ועדת הכלכלה, 18.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10511,
+      "filename": "20230123173221_NOAM1281.jpg",
+      "localPath": "photos/1101/20230123173221_NOAM1281.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/20230123173221_NOAM1281.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת שלום דנינו במליאת הכנסת, 23.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10512,
+      "filename": "20230123173952_NOAM1347.jpg",
+      "localPath": "photos/1101/20230123173952_NOAM1347.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1101/20230123173952_NOAM1347.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת שלום דנינו, אריה דרעי ודודי אמסלם במליאת הכנסת, 23.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:47.682Z",
+  "localImagePath": "photos/1101/profile.jpg"
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1055,
+  "name": "חיים ביטון",
+  "fullTitle": "חבר הכנסת חיים ביטון",
+  "faction": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+  "email": "chbiton@knesset.gov.il",
+  "workPhone": "02-6408050",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1055/1_1055_3_17783.jpeg?v=20260415_34477",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1055/1_1055_3_17783.jpeg?v=20260415_34477",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1055/1_1055_1_17896.png?v=20260415_34477",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1055/1_1055_4_17897.png?v=20260415_34477"
+  },
+  "gender": "male",
+  "dateOfBirth": "ט' בשבט תשל\"ח , 17/01/1978",
+  "deathDate": null,
+  "placeOfBirth": "ירושלים, ישראל",
+  "immigrationYear": null,
+  "residence": "גבעת זאב",
+  "education": "- BA תואר ראשון במשפטים",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "113",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1055/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1055/1_1055_3_17783.jpeg?v=20260415_34477",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:18.836Z",
+  "localImagePath": "photos/1055/profile.jpg"
+}

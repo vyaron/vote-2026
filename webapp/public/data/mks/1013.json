@@ -1,0 +1,248 @@
+{
+  "id": 1013,
+  "name": "עופר כסיף",
+  "fullTitle": "חבר הכנסת עופר כסיף",
+  "faction": "חד\"ש-תע\"ל",
+  "email": "ocassif@knesset.gov.il",
+  "workPhone": "02-6408125",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/ofercass/",
+    "twitter": "https://twitter.com/ofercass",
+    "instagram": "https://www.instagram.com/ofer_cassif/",
+    "youtube": "https://www.youtube.com/@MKOferCassif",
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1013/1_1013_3_12312.jpeg?v=20260415_44585",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1013/1_1013_3_12312.jpeg?v=20260415_44585",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1013/1_1013_1_11142.png?v=20260415_44585",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1013/1_1013_4_11246.png?v=20260415_44585"
+  },
+  "gender": "male",
+  "dateOfBirth": "כ' בטבת תשכ\"ה , 25/12/1964",
+  "deathDate": null,
+  "placeOfBirth": "ראשון לציון, ישראל",
+  "immigrationYear": null,
+  "residence": "רחובות",
+  "education": "ד\"ר לפילוסופיה ולפוליטיקה",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "ספרדית"
+  ],
+  "bio": "עופר כסיף נולד בראשון לציון בשנת 1964, וכבר בימיו בביה\"ס התיכון היה פעיל פוליטית. הוא מתגורר ברחובות, נשוי ואב לבן.\n\nבמהלך האינתיפאדה הראשונה היה כסיף לסרבן הראשון שסירב לשרת בשטחים הכבושים, והוא נכלא על כך ארבע פעמים. במקביל הצטרף למפלגה הקומוניסטית ותנועת חד\"ש, ובהן מילא ועדיין ממלא תפקידים במוסדות ההנהגה. בצעירותו עבד כיועץ פרלמנטרי לחבר הכנסת ומזכ\"ל מק\"י לשעבר מאיר וילנר ז\"ל.\n\nהוא למד מדע המדינה ופילוסופיה לתואר ראשון באוניברסיטה העברית, ולאחר מכן המשיך במסלול ישיר לדוקטורט בפילוסופיה פוליטית בבית הספר לכלכלה של לונדון, ולפוסט-דוקטורט באוניברסיטת קולומביה בניו יורק. \n\nעד לבחירתו לכנסת עבד כסיף כמרצה בתחומי ממשל ופוליטיקה באוניברסיטה העברית, במכללה האקדמית תל אביב-יפו ובמכללת ספיר.",
+  "knessetId": 25,
+  "plenumSeatNumber": "67",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1013/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1013/1_1013_3_12312.jpeg?v=20260415_44585",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 3769,
+      "filename": "DSC_6866.JPG",
+      "localPath": "photos/1013/DSC_6866.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/DSC_6866.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חבר הכנסת עופר כסיף במליאת הכנסת, 13.5.2019 צילום:  דוברות הכנסת"
+    },
+    {
+      "id": 3811,
+      "filename": "ISH_3671.JPG",
+      "localPath": "photos/1013/ISH_3671.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/ISH_3671.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת עופר כסיף במליאת הכנסת, 14.5.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 4618,
+      "filename": "P1870995.JPG",
+      "localPath": "photos/1013/P1870995.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/P1870995.JPG",
+      "width": 750,
+      "height": 562,
+      "title": "חברי הכנסת עופר כסיף ומיכאל ביטון במליאת הכנסת, 5.11.2019. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 4699,
+      "filename": "IMG_5474.JPG",
+      "localPath": "photos/1013/IMG_5474.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/IMG_5474.JPG",
+      "width": 750,
+      "height": 562,
+      "title": "חברי הכנסת עופר כסיף ואורי מקלב במליאת הכנסת, 19.11.2019. צילום: דקלה משולם, דוברות הכנסת"
+    },
+    {
+      "id": 4700,
+      "filename": "IMG_5251.JPG",
+      "localPath": "photos/1013/IMG_5251.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/IMG_5251.JPG",
+      "width": 750,
+      "height": 562,
+      "title": "חבר הכנסת עופר כסיף במליאת הכנסת, 19.11.2019. צילום: דקלה משולם, דוברות הכנסת"
+    },
+    {
+      "id": 5038,
+      "filename": "EAV04122.JPG",
+      "localPath": "photos/1013/EAV04122.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/EAV04122.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת עופר כסיף ועאידה תומא סלימאן במליאת הכנסת, 27.5.2020 צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5057,
+      "filename": "EAV03495.JPG",
+      "localPath": "photos/1013/EAV03495.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/EAV03495.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת עופר כסיף, קטי שיטרית ורם שפע בוועדה המסדרת, 27.5.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5892,
+      "filename": "EAV01797.JPG",
+      "localPath": "photos/1013/EAV01797.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/EAV01797.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת עופר כסיף במליאת הכנסת, 9.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5893,
+      "filename": "EAV05084.JPG",
+      "localPath": "photos/1013/EAV05084.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/EAV05084.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת עופר כסיף במליאת הכנסת, 26.8.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 6172,
+      "filename": "EAV08968.JPG",
+      "localPath": "photos/1013/EAV08968.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/EAV08968.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת עופר כסיף בוועדת החוקה, חוק ומשפט, 10.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9258,
+      "filename": "DST00412.JPG",
+      "localPath": "photos/1013/DST00412.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/DST00412.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת עופר כסיף במליאת הכנסת, 2.9.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9259,
+      "filename": "NOAM7941.JPG",
+      "localPath": "photos/1013/NOAM7941.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/NOAM7941.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת עופר כסיף ויוסף שיין בוועדת החינוך, התרבות והספורט, 31.1.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9262,
+      "filename": "EAV09911.JPG",
+      "localPath": "photos/1013/EAV09911.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/EAV09911.JPG",
+      "width": 2422,
+      "height": 1615,
+      "title": "חברי הכנסת עופר כסיף ואוסאמה סעדי בוועדת החוקה, חוק ומשפט, 17.8.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 9263,
+      "filename": "EAV05245.JPG",
+      "localPath": "photos/1013/EAV05245.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/EAV05245.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חבר הכנסת עופר כסיף בוועדת החינוך, התרבות והספורט, 17.9.2020. צילום: שמוליק גרוסמן, דוברות הכנסת"
+    },
+    {
+      "id": 9264,
+      "filename": "EAV07430.JPG",
+      "localPath": "photos/1013/EAV07430.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/EAV07430.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חבר הכנסת עופר כסיף במליאת הכנסת, 24.9.2020. צילום: רונית גל, דוברות הכנסת"
+    },
+    {
+      "id": 9265,
+      "filename": "EAV07960.JPG",
+      "localPath": "photos/1013/EAV07960.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/EAV07960.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חבר הכנסת עופר כסיף בוועדת החוקה, חוק ומשפט, 29.9.2020. צילום: רונית גל, דוברות הכנסת"
+    },
+    {
+      "id": 9266,
+      "filename": "DSC05995.JPG",
+      "localPath": "photos/1013/DSC05995.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/DSC05995.JPG",
+      "width": 3008,
+      "height": 2000,
+      "title": "חבר הכנסת עופר כסיף בוועדת הפנים ואיכות הסביבה, 12.10.2020. צילום: יניב נדב, דוברות הכנסת"
+    },
+    {
+      "id": 9267,
+      "filename": "GIDI9788.JPG",
+      "localPath": "photos/1013/GIDI9788.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/GIDI9788.JPG",
+      "width": 4176,
+      "height": 2784,
+      "title": "חבר הכנסת עופר כסיף במליאת הכנסת, 15.10.2020. צילום: גדעון אלון, דוברות הכנסת"
+    },
+    {
+      "id": 9268,
+      "filename": "EAV05373.JPG",
+      "localPath": "photos/1013/EAV05373.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/EAV05373.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת עופר כסיף במליאת הכנסת, 28.10.2020. צילום: שמוליק גרוסמן, דוברות הכנסת"
+    },
+    {
+      "id": 9269,
+      "filename": "EAV06932.JPG",
+      "localPath": "photos/1013/EAV06932.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/EAV06932.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושב-ראש ועדת המשנה להשכלה גבוהה חבר הכנסת עופר כסיף, 25.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9295,
+      "filename": "NOAM1298.JPG",
+      "localPath": "photos/1013/NOAM1298.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1013/NOAM1298.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת עופר כסיף במליאת הכנסת, 8.3.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:14.337Z",
+  "localImagePath": "photos/1013/profile.jpg"
+}

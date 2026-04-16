@@ -1,0 +1,275 @@
+{
+  "id": 1026,
+  "name": "ווליד טאהא",
+  "fullTitle": "חבר הכנסת ווליד טאהא",
+  "faction": "רע\"ם",
+  "email": "hak_taha@knesset.gov.il",
+  "workPhone": "02-6408978",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/waleedtaha2019/",
+    "twitter": "https://twitter.com/Waleedt68",
+    "instagram": "https://instagram.com/mk.waleed.taha?igshid=ozo9e1pv5mi5",
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1026/1_1026_3_13539.jpeg?v=20260415_39665",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1026/1_1026_3_13539.jpeg?v=20260415_39665",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1026/1_1026_1_13603.png?v=20260415_39665",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1026/1_1026_4_13604.png?v=20260415_39665"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ד באלול תשכ\"ח , 07/09/1968",
+  "deathDate": null,
+  "placeOfBirth": "פתח תקווה, ישראל",
+  "immigrationYear": null,
+  "residence": "כפר קאסם",
+  "education": "- תואר ראשון בהצטיינות במדעי המדינה, האוניברסיטה הפתוחה \n- תואר שני בלימודי ביטחון, אוניברסיטת תל אביב \n- תעודת הוראה בהיסטוריה, אוניברסיטת תל אביב",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "ערבית"
+  ],
+  "bio": "חבר הכנסת ווליד טאהא, תושב העיר כפר קאסם, יליד שנת 1968, נבחר לראשונה לכנסת העשרים-ושתיים ולאחר מכן לכנסת העשרים-ושלוש מטעם הרשימה הערבית המאוחדת (רע״ם).\n\nהוא בעל תואר ראשון בהצטיינות במדעי המדינה (עם התמקדות ביחסים בין-לאומיים) מהאוניברסיטה הפתוחה ותואר שני בלימודי ביטחון מאוניברסיטת תל אביב. כמו כן הוא בעל תעודת הוראה בהיסטוריה מאוניברסיטת תל אביב.\n\nטאהא חבר במועצת אל-שורא ובלשכה המדינית בתנועה האסלאמית, ואף היה מורה, מחנך ומנהל בית ספר ברמלה.\n\nלפני שנבחר לכנסת היה מנהל אגף החינוך בעיריית כפר קאסם במשך ארבע שנים.\n\nבכנסת העשרים-ושלוש הוא חבר בוועדת החינוך, התרבות והספורט ובוועדה המיוחדת לפניות הציבור, ויושב-ראש ועדת החינוך ברשימה המשותפת. הוא אף הקים שתי שדולות לקידום החינוך והספורט בחברה הערבית.\n\nווליד טאהא עוסק בקידום החינוך בכלל והחינוך הערבי בפרט, ובמגוון נושאים הקשורים לשיפור ולקידום מעמדה של החברה הערבית.\n\n\nאפשר לקרוא את קורות החיים של חברי הכנסת גם בשפה הערבית והאנגלית.",
+  "knessetId": 25,
+  "plenumSeatNumber": "42",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש סיעת רע\"ם",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1026/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1026/1_1026_3_13539.jpeg?v=20260415_39665",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 4543,
+      "filename": "ISH_9757.JPG",
+      "localPath": "photos/1026/ISH_9757.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/ISH_9757.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ווליד טאהא ביום עיון לחברי הכנסת החדשים בכנסת ה-22, 26.9.2019. צילום: יצחק הררי, דוברות הכנסת"
+    },
+    {
+      "id": 5819,
+      "filename": "EAV09372.JPG",
+      "localPath": "photos/1026/EAV09372.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV09372.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ווליד טאהא בוועדת החינוך, התרבות והספורט, 9.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5820,
+      "filename": "EAV07011.JPG",
+      "localPath": "photos/1026/EAV07011.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV07011.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ווליד טאהא בוועדת החוקה, חוק ומשפט, 6.9.2020. צילום: שמוליק גרוסמן, דוברות הכנסת"
+    },
+    {
+      "id": 5821,
+      "filename": "EAV07734.JPG",
+      "localPath": "photos/1026/EAV07734.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV07734.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ווליד טאהא במליאת הכנסת, 7.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 9326,
+      "filename": "NOAM3710.JPG",
+      "localPath": "photos/1026/NOAM3710.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/NOAM3710.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "יושב-ראש ועדת הפנים והגנת הסביבה חבר הכנסת ווליד טאהא, 18.10.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9327,
+      "filename": "NOAM8394.JPG",
+      "localPath": "photos/1026/NOAM8394.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/NOAM8394.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת ווליד טאהא בבחירתו ליושב-ראש ועדת הפנים והגנת הסביבה, 12.9.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9328,
+      "filename": "N_M05103.JPG",
+      "localPath": "photos/1026/N_M05103.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/N_M05103.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ווליד טאהא בוועדה המסדרת, 27.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9329,
+      "filename": "EAV09862.JPG",
+      "localPath": "photos/1026/EAV09862.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV09862.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת ווליד טאהא ואחמד טיבי בוועדה המסדרת, 4.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9330,
+      "filename": "EAV06228.JPG",
+      "localPath": "photos/1026/EAV06228.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV06228.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת ווליד טאהא ומנסור עבאס בוועדה המסדרת, 26.4.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9331,
+      "filename": "EAV02422.JPG",
+      "localPath": "photos/1026/EAV02422.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV02422.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ווליד טאהא ביום השבעת הכנסת ה-24, 6.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9332,
+      "filename": "EAV04022.JPG",
+      "localPath": "photos/1026/EAV04022.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV04022.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ווליד טאהא במליאת הכנסת, 3.3.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9333,
+      "filename": "EAV01889.JPG",
+      "localPath": "photos/1026/EAV01889.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV01889.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ווליד טאהא במליאת הכנסת, 22.2.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9334,
+      "filename": "EAV00004.JPG",
+      "localPath": "photos/1026/EAV00004.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV00004.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ווליד טאהא במליאת הכנסת, 3.2.2021. צילום: שמוליק גרוסמן, דוברות הכנסת"
+    },
+    {
+      "id": 9335,
+      "filename": "EAV04951.JPG",
+      "localPath": "photos/1026/EAV04951.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV04951.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ווליד טאהא במליאת הכנסת, 25.1.2021. צילום: שמוליק גרוסמן, דוברות הכנסת"
+    },
+    {
+      "id": 9336,
+      "filename": "EAV08211.JPG",
+      "localPath": "photos/1026/EAV08211.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV08211.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ווליד טאהא במליאת הכנסת, 30.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9337,
+      "filename": "EAV03995.JPG",
+      "localPath": "photos/1026/EAV03995.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV03995.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ווליד טאהא במליאת הכנסת, 18.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9338,
+      "filename": "EAV02300.JPG",
+      "localPath": "photos/1026/EAV02300.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV02300.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ווליד טאהא בוועדת החינוך, התרבות והספורט, 17.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9339,
+      "filename": "EAV08582.JPG",
+      "localPath": "photos/1026/EAV08582.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV08582.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ווליד טאהא במליאת הכנסת, 9.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9340,
+      "filename": "DST09105.JPG",
+      "localPath": "photos/1026/DST09105.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/DST09105.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושב-ראש ועדת הפנים והגנת הסביבה חבר הכנסת ווליד טאהא בישיבה בהשתתפות שרת הפנים אילת שקד, 28.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9341,
+      "filename": "DST02225.JPG",
+      "localPath": "photos/1026/DST02225.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/DST02225.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושב-ראש ועדת הפנים והגנת הסביבה חבר הכנסת ווליד טאהא, 18.1.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9342,
+      "filename": "EAV07993.JPG",
+      "localPath": "photos/1026/EAV07993.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV07993.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושב-ראש הוועדה המיוחדת לפניות הציבור חבר הכנסת ווליד טאהא, 9.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9343,
+      "filename": "EAV07489.JPG",
+      "localPath": "photos/1026/EAV07489.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV07489.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ווליד טאהא בוועדה לזכויות הילד, 4.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9344,
+      "filename": "DSC07341.JPG",
+      "localPath": "photos/1026/DSC07341.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/DSC07341.JPG",
+      "width": 3008,
+      "height": 2000,
+      "title": "חבר הכנסת ווליד טאהא בוועדה המיוחדת למיגור הפשיעה בחברה הערבית, 27.10.2020. צילום: יניב נדב, דוברות הכנסת"
+    },
+    {
+      "id": 9345,
+      "filename": "EAV09675.JPG",
+      "localPath": "photos/1026/EAV09675.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1026/EAV09675.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ווליד טאהא במליאת הכנסת, 13.10.2020. צילום: שמוליק גרוסמן, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:01.228Z",
+  "localImagePath": "photos/1026/profile.jpg"
+}

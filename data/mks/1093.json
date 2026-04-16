@@ -1,0 +1,148 @@
+{
+  "id": 1093,
+  "name": "ואליד אלהואשלה",
+  "fullTitle": "חבר הכנסת ואליד אלהואשלה",
+  "faction": "רע\"ם",
+  "email": "waleed.alh@knesset.gov.il",
+  "workPhone": "8171",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/walhwashla?mibextid=ZbWKwL",
+    "twitter": "https://x.com/WAlhwashla?t=NgKGSV8lX5OfmpY-kgw9bg&s=08",
+    "instagram": "https://www.instagram.com/waleed_alhwashla?igsh=MWh6ejR0bHJsc2hzZg",
+    "youtube": null,
+    "website": "https://t.me/Waleed_Alhwashla"
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1093/1_1093_3_19652.jpeg?v=20260415_29483",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1093/1_1093_3_19652.jpeg?v=20260415_29483",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1093/1_1093_1_19815.png?v=20260415_29483",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1093/1_1093_4_19816.png?v=20260415_29483"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ג בתשרי תשמ\"ב , 11/10/1981",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "- תואר ראשון בלימודי המזרח התיכון באוניברסיטה הפתוחה\n- תואר שני במדעי המדינה באוניברסיטת חיפה",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "ערבית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "52",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1093/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1093/1_1093_3_19652.jpeg?v=20260415_29483",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10017,
+      "filename": "DST01999.jpg",
+      "localPath": "photos/1093/DST01999.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1093/DST01999.jpg",
+      "width": 2560,
+      "height": 1707,
+      "title": "חבר הכנסת ואליד אל הואשלה בהשבעת הכנסת ה-25, 15.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10019,
+      "filename": "DST01234.JPG",
+      "localPath": "photos/1093/DST01234.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1093/DST01234.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ואליד אל הואשלה ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10262,
+      "filename": "Noam.M-5339.JPG",
+      "localPath": "photos/1093/Noam.M-5339.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1093/Noam.M-5339.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת ואליד אל הואשלה ויואב סגלוביץ' בוועדה מיוחדת לדיון בהצעת חוק לתיקון פקודת המשטרה, 22.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10263,
+      "filename": "20221207110549_NOAM0350.jpg",
+      "localPath": "photos/1093/20221207110549_NOAM0350.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1093/20221207110549_NOAM0350.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת ואליד אל הואשלה במליאה, 7.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10264,
+      "filename": "20221207125338_NOAM0724.jpg",
+      "localPath": "photos/1093/20221207125338_NOAM0724.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1093/20221207125338_NOAM0724.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת ואליד אל הואשלה במליאה, 7.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10270,
+      "filename": "Noam.M-5609.JPG",
+      "localPath": "photos/1093/Noam.M-5609.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1093/Noam.M-5609.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת ואליד אל הואשלה ומיקי לוי בוועדה המיוחדת לדיון בהצעת חוק לתיקון פקודת המשטרה, 25.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10271,
+      "filename": "DST01439.JPG",
+      "localPath": "photos/1093/DST01439.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1093/DST01439.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ואליד אל הואשלה בוועדה המיוחדת לדיון בהצעת חוק יסוד: הממשלה, 22.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10341,
+      "filename": "DST01848.jpg",
+      "localPath": "photos/1093/DST01848.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1093/DST01848.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ואליד אל הואשלה בוועדה המסדרת, 26.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10343,
+      "filename": "DST02366.jpg",
+      "localPath": "photos/1093/DST02366.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1093/DST02366.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ואליד אל הואשלה במליאה, 26.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10413,
+      "filename": "20221229135511_NOAM8389.jpg",
+      "localPath": "photos/1093/20221229135511_NOAM8389.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1093/20221229135511_NOAM8389.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת יואליד אל הואשלה במליאה, 29.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:06.126Z",
+  "localImagePath": "photos/1093/profile.jpg"
+}

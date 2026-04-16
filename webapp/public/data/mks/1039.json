@@ -1,0 +1,280 @@
+{
+  "id": 1039,
+  "name": "אוריאל בוסו",
+  "fullTitle": "חבר הכנסת אוריאל בוסו",
+  "faction": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+  "email": "urielb@knesset.gov.il",
+  "workPhone": "8396,8376,8395",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": "https://twitter.com/BussoUriel",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1039/1_1039_3_15050.jpeg?v=20260415_01174",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1039/1_1039_3_15050.jpeg?v=20260415_01174",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1039/1_1039_1_15069.png?v=20260415_01174",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1039/1_1039_4_15070.png?v=20260415_01174"
+  },
+  "gender": "male",
+  "dateOfBirth": "ט\"ז באלול תשל\"ג , 13/09/1973",
+  "deathDate": null,
+  "placeOfBirth": "רמלה, ישראל",
+  "immigrationYear": null,
+  "residence": "פתח תקווה",
+  "education": "משפטים, הקריה האקדמית אונו",
+  "militaryService": "סגן",
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "8",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1039/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1039/1_1039_3_15050.jpeg?v=20260415_01174",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 9620,
+      "filename": "20211026193025_NOAM8131.jpg",
+      "localPath": "photos/1039/20211026193025_NOAM8131.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/20211026193025_NOAM8131.jpg",
+      "width": 1484,
+      "height": 989,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 26.10.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9621,
+      "filename": "20211101112936_NOAM9547.jpg",
+      "localPath": "photos/1039/20211101112936_NOAM9547.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/20211101112936_NOAM9547.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 1.11.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9622,
+      "filename": "20211115192913_NOAM6458.jpg",
+      "localPath": "photos/1039/20211115192913_NOAM6458.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/20211115192913_NOAM6458.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 15.11.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9623,
+      "filename": "DST01421.JPG",
+      "localPath": "photos/1039/DST01421.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/DST01421.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 22.12.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9624,
+      "filename": "DST08167.JPG",
+      "localPath": "photos/1039/DST08167.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/DST08167.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 23.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9625,
+      "filename": "DST03105.JPG",
+      "localPath": "photos/1039/DST03105.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/DST03105.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת אוריאל בוסו בסיור ועדת הבריאות בבית החולים שיבא, 2.6.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 5249,
+      "filename": "EAV08982.JPG",
+      "localPath": "photos/1039/EAV08982.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV08982.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 6.7.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5290,
+      "filename": "EAV04823.JPG",
+      "localPath": "photos/1039/EAV04823.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV04823.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 30.6.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5293,
+      "filename": "EAV04667.JPG",
+      "localPath": "photos/1039/EAV04667.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV04667.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת אוריאל בוסו וינון אזולאי במליאת הכנסת, 30.6.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5361,
+      "filename": "EAV05496.JPG",
+      "localPath": "photos/1039/EAV05496.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV05496.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 14.7.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5428,
+      "filename": "EAV03905.JPG",
+      "localPath": "photos/1039/EAV03905.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV03905.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת אוריאל בוסו ובצלאל סמוטריץ' במליאת הכנסת, 15.7.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5675,
+      "filename": "EAV07622.JPG",
+      "localPath": "photos/1039/EAV07622.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV07622.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 7.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5677,
+      "filename": "EAV08250.JPG",
+      "localPath": "photos/1039/EAV08250.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV08250.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אוריאל בוסו בוועדה המיוחדת לעניין הקרן לאזרחי ישראל, 8.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5678,
+      "filename": "EAV08367.JPG",
+      "localPath": "photos/1039/EAV08367.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV08367.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת אוריאל בוסו ואיתן גינזבורג בוועדת ההעבודה, הרווחה והבריאות, 8.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5680,
+      "filename": "EAV01509.JPG",
+      "localPath": "photos/1039/EAV01509.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV01509.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 9.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5681,
+      "filename": "EAV02294.JPG",
+      "localPath": "photos/1039/EAV02294.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV02294.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אוריאל בוסו בוועדת הכלכלה, 14.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 6282,
+      "filename": "EAV05914.JPG",
+      "localPath": "photos/1039/EAV05914.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV05914.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אוריאל בוסו בטקס \"לכל איש יש שם\" להנצחת שמות הנספים בשואה, 8.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6283,
+      "filename": "EAV08150.JPG",
+      "localPath": "photos/1039/EAV08150.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV08150.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 19.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9613,
+      "filename": "NOAM9581.JPG",
+      "localPath": "photos/1039/NOAM9581.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/NOAM9581.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת אוריאל בוסו בוועדת ביטחון הפנים, 14.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9614,
+      "filename": "20220518122706_NOAM1409.jpg",
+      "localPath": "photos/1039/20220518122706_NOAM1409.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/20220518122706_NOAM1409.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 18.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9615,
+      "filename": "NOAM3466.JPG",
+      "localPath": "photos/1039/NOAM3466.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/NOAM3466.JPG",
+      "width": 4834,
+      "height": 3223,
+      "title": "חבר הכנסת אוריאל בוסו במליאת הכנסת, 21.2.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9616,
+      "filename": "20211109140540_NOAM4299.jpg",
+      "localPath": "photos/1039/20211109140540_NOAM4299.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/20211109140540_NOAM4299.jpg",
+      "width": 1422,
+      "height": 948,
+      "title": "חבר הכנסת אוריאל בוסו בוועדת החוקה, חוק ומשפט, 9.11.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9617,
+      "filename": "20211026183711_NOAM8077.jpg",
+      "localPath": "photos/1039/20211026183711_NOAM8077.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/20211026183711_NOAM8077.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חברי הכנסת אוריאל בוסו ובני בגין בוועדת החוקה, חוק ומשפט, 26.10.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9618,
+      "filename": "20210630103200_NOAM2416.jpg",
+      "localPath": "photos/1039/20210630103200_NOAM2416.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/20210630103200_NOAM2416.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חברי הכנסת אוריאל בוסו ואמילי חיה מואטי בוועדת החוץ והביטחון הזמנית, 30.6.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9619,
+      "filename": "EAV02426.JPG",
+      "localPath": "photos/1039/EAV02426.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1039/EAV02426.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת אוריאל בוסו ביום השבעת הכנסת ה-24, 6.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:15.442Z",
+  "localImagePath": "photos/1039/profile.jpg"
+}

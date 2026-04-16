@@ -1,0 +1,220 @@
+{
+  "id": 1118,
+  "name": "שלי טל מירון",
+  "fullTitle": "חברת הכנסת שלי טל מירון",
+  "faction": "יש עתיד",
+  "email": "shellytm@knesset.gov.il",
+  "workPhone": "8191",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/mkshellytalmeron",
+    "twitter": "https://x.com/Shellytalmeron",
+    "instagram": "https://www.instagram.com/shellytalmeron/?hl=en",
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1118/1_1118_3_19926.jpeg?v=20260415_32083",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1118/1_1118_3_19926.jpeg?v=20260415_32083",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1118/1_1118_1_19930.png?v=20260415_32083",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1118/1_1118_4_19931.png?v=20260415_32083"
+  },
+  "gender": "unknown",
+  "dateOfBirth": "ט' באייר תשל\"ט , 06/05/1979",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "תקשורת ומדעי המדינה באוניברסיטת תל אביב",
+  "militaryService": "- שירתה 6 שנים בחיל האוויר כדוברת, קצינת הדרכה בטייסת AH-1 קוברה, קצינת מבצעים ומפקדת קורס קצינות מבצעים\n- שירתה במילואים כמפקדת מרכז תקשורת",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "60",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1118/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1118/1_1118_3_19926.jpeg?v=20260415_32083",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10798,
+      "filename": "NOAM9950-2.jpeg",
+      "localPath": "photos/1118/NOAM9950-2.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/NOAM9950-2.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10799,
+      "filename": "20230208100348_NOAM0128.jpg",
+      "localPath": "photos/1118/20230208100348_NOAM0128.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/20230208100348_NOAM0128.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10800,
+      "filename": "20230220175716_NOAM1857.jpeg",
+      "localPath": "photos/1118/20230220175716_NOAM1857.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/20230220175716_NOAM1857.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10801,
+      "filename": "20230319114133_NOAM7501.jpeg",
+      "localPath": "photos/1118/20230319114133_NOAM7501.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/20230319114133_NOAM7501.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10802,
+      "filename": "20230322105901_NOAM9360.jpeg",
+      "localPath": "photos/1118/20230322105901_NOAM9360.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/20230322105901_NOAM9360.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10803,
+      "filename": "20230322110336_NOAM9387.jpeg",
+      "localPath": "photos/1118/20230322110336_NOAM9387.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/20230322110336_NOAM9387.jpeg",
+      "width": 5247,
+      "height": 3498,
+      "title": ""
+    },
+    {
+      "id": 10804,
+      "filename": "20230322151016_NOAM9885.jpeg",
+      "localPath": "photos/1118/20230322151016_NOAM9885.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/20230322151016_NOAM9885.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10805,
+      "filename": "DST04738.jpeg",
+      "localPath": "photos/1118/DST04738.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/DST04738.jpeg",
+      "width": 5272,
+      "height": 3515,
+      "title": ""
+    },
+    {
+      "id": 10806,
+      "filename": "DST06821.jpeg",
+      "localPath": "photos/1118/DST06821.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/DST06821.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10807,
+      "filename": "Noam.M-1012.JPG",
+      "localPath": "photos/1118/Noam.M-1012.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/Noam.M-1012.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10808,
+      "filename": "Noam.M-1297.JPG",
+      "localPath": "photos/1118/Noam.M-1297.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/Noam.M-1297.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10809,
+      "filename": "Noam.M-7119.JPG",
+      "localPath": "photos/1118/Noam.M-7119.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/Noam.M-7119.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10810,
+      "filename": "Noam.M-7247.JPG",
+      "localPath": "photos/1118/Noam.M-7247.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/Noam.M-7247.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10811,
+      "filename": "Noam.M-9314.JPG",
+      "localPath": "photos/1118/Noam.M-9314.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/Noam.M-9314.JPG",
+      "width": 5261,
+      "height": 3507,
+      "title": ""
+    },
+    {
+      "id": 10812,
+      "filename": "Noam.M-9759.JPG",
+      "localPath": "photos/1118/Noam.M-9759.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/Noam.M-9759.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10813,
+      "filename": "NOAM0414.jpeg",
+      "localPath": "photos/1118/NOAM0414.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/NOAM0414.jpeg",
+      "width": 5129,
+      "height": 3419,
+      "title": ""
+    },
+    {
+      "id": 10814,
+      "filename": "NOAM0368.jpeg",
+      "localPath": "photos/1118/NOAM0368.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/NOAM0368.jpeg",
+      "width": 5261,
+      "height": 3507,
+      "title": ""
+    },
+    {
+      "id": 10815,
+      "filename": "DST01888.jpeg",
+      "localPath": "photos/1118/DST01888.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1118/DST01888.jpeg",
+      "width": 5250,
+      "height": 3500,
+      "title": ""
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:32.273Z",
+  "localImagePath": "photos/1118/profile.jpg"
+}

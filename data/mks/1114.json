@@ -1,0 +1,172 @@
+{
+  "id": 1114,
+  "name": "יצחק קרויזר",
+  "fullTitle": "חבר הכנסת יצחק קרויזר",
+  "faction": "עוצמה יהודית בראשות איתמר בן גביר",
+  "email": "ykroyzer@knesset.gov.il",
+  "workPhone": "3137",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1114/1_1114_3_19866.jpeg?v=20260415_27281",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1114/1_1114_3_19866.jpeg?v=20260415_27281",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1114/1_1114_1_20054.png?v=20260415_27281",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1114/1_1114_4_20055.png?v=20260415_27281"
+  },
+  "gender": "male",
+  "dateOfBirth": "כ\"א באלול תשמ\"ה , 07/09/1985",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": null,
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "137",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש ועדת הפנים והגנת הסביבה",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1114/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1114/1_1114_3_19866.jpeg?v=20260415_27281",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10641,
+      "filename": "20230124125245_NOAM1878.jpg",
+      "localPath": "photos/1114/20230124125245_NOAM1878.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/20230124125245_NOAM1878.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק קרויזר בישיבת ועדת החוקה, חוק ומשפט, 24.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10642,
+      "filename": "20230130175412_NOAM4386.jpg",
+      "localPath": "photos/1114/20230130175412_NOAM4386.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/20230130175412_NOAM4386.jpg",
+      "width": 1159,
+      "height": 772,
+      "title": "חברי הכנסת יצחק קרויזר וצביקה פוגל בישיבת מליאת הכנסת, 30.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10643,
+      "filename": "DST00438.jpg",
+      "localPath": "photos/1114/DST00438.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/DST00438.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק קרויזר נושא דברים במליאת הכנסת. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10644,
+      "filename": "DST06043.jpg",
+      "localPath": "photos/1114/DST06043.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/DST06043.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת יצחק קרויזר וצביקה פוגל במליאת הכנסת, 2.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10645,
+      "filename": "20230102172944_NOAM0209.jpg",
+      "localPath": "photos/1114/20230102172944_NOAM0209.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/20230102172944_NOAM0209.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק קרויזר במליאת הכנסת, 2.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10646,
+      "filename": "20230110120622_NOAM9707.jpg",
+      "localPath": "photos/1114/20230110120622_NOAM9707.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/20230110120622_NOAM9707.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת יצחק קרויזר, ניסים ואטורי וגלעד קריב בישיבת ועדת החוקה, חוק ומשפט, 10.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10647,
+      "filename": "Noam.M-5293.JPG",
+      "localPath": "photos/1114/Noam.M-5293.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/Noam.M-5293.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת צביקה פוגל, יצחק קרויזר וניסים ואטורי בישיבת ועדה, 1.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10648,
+      "filename": "DST08564.jpg",
+      "localPath": "photos/1114/DST08564.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/DST08564.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת יוסף טייב, אברהם בצלאל, יצחק קרויזר ומשה סולומון במליאת הכנסת, 8.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10649,
+      "filename": "20230123105111_NOAM1088.jpg",
+      "localPath": "photos/1114/20230123105111_NOAM1088.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/20230123105111_NOAM1088.jpg",
+      "width": 1159,
+      "height": 771,
+      "title": "חברי הכנסת יצחק קרויזר ואריאל קלנר בישיבת ועדת החוקה, חוק ומשפט, 23.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10650,
+      "filename": "Noam.M-0923.JPG",
+      "localPath": "photos/1114/Noam.M-0923.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/Noam.M-0923.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק קרויזר בישיבת ועדת החוקה, חוק ומשפט, 22.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10651,
+      "filename": "20230117143711_NOAM1116.jpg",
+      "localPath": "photos/1114/20230117143711_NOAM1116.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/20230117143711_NOAM1116.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת גלעד קריב, אבתיסם מרעאנה ונעמה לזימי בישיבת ועדת החוקה, חוק ומשפט, 17.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10652,
+      "filename": "20230117163010_NOAM9928.jpg",
+      "localPath": "photos/1114/20230117163010_NOAM9928.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/20230117163010_NOAM9928.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק קרויזר בוועדת הכנסת הבוחרת את חברת הכנסת לימור סון הר מלך ליושבת-ראש הוועדה לפיקוח על הקרן לאזרחי ישראל, 17.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10653,
+      "filename": "20230110094357_NOAM9597.jpg",
+      "localPath": "photos/1114/20230110094357_NOAM9597.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1114/20230110094357_NOAM9597.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת יצחק קרויזר וגלעד קריב, 10.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:56:14.547Z",
+  "localImagePath": "photos/1114/profile.jpg"
+}

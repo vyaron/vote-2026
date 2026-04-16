@@ -1,0 +1,343 @@
+{
+  "id": 1100,
+  "name": "אלי דלל",
+  "fullTitle": "חבר הכנסת אלי דלל",
+  "faction": "הליכוד ",
+  "email": "edalal@knesset.gov.il",
+  "workPhone": "02-6408022",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/profile.php?id=100003021889950",
+    "twitter": "https://twitter.com/elidallal32",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1100/1_1100_3_19682.jpeg?v=20260415_89961",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1100/1_1100_3_19682.jpeg?v=20260415_89961",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1100/1_1100_1_19810.png?v=20260415_89961",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1100/1_1100_4_19811.png?v=20260415_89961"
+  },
+  "gender": "male",
+  "dateOfBirth": "ב' באדר תשט\"ו , 24/02/1955",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": "נתניה",
+  "education": "- תואר שני, מוסמך אוניברסיטה – MA במדיניות ציבורית, אוניברסיטת תל אביב, 2010\n- בוגר הפקולטה להנדסה – B.Sc, מהנדס מכונות, אוניברסיטת תל אביב, 1981 \n- מינהל עסקים למהנדסים, 1980 \n- הכשרת דירקטורים, 1998",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "79",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1100/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1100/1_1100_3_19682.jpeg?v=20260415_89961",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10532,
+      "filename": "Noam.M-9552.JPG",
+      "localPath": "photos/1100/Noam.M-9552.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/Noam.M-9552.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10533,
+      "filename": "Noam.M-9555.JPG",
+      "localPath": "photos/1100/Noam.M-9555.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/Noam.M-9555.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10534,
+      "filename": "Noam.M-9867.JPG",
+      "localPath": "photos/1100/Noam.M-9867.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/Noam.M-9867.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10535,
+      "filename": "Noam.M-9975.JPG",
+      "localPath": "photos/1100/Noam.M-9975.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/Noam.M-9975.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10536,
+      "filename": "20221130111138_NOAM9326.jpeg",
+      "localPath": "photos/1100/20221130111138_NOAM9326.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/20221130111138_NOAM9326.jpeg",
+      "width": 2908,
+      "height": 1939,
+      "title": "חבר הכנסת אלי דלל נושא דברים במליאת הכנסת, 30.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10537,
+      "filename": "20221130111146_NOAM9329 (1).jpg",
+      "localPath": "photos/1100/20221130111146_NOAM9329 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/20221130111146_NOAM9329 (1).jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אלי דלל נושא דברים במליאת הכנסת, 30.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10538,
+      "filename": "20221214094248_NOAM2684.jpg",
+      "localPath": "photos/1100/20221214094248_NOAM2684.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/20221214094248_NOAM2684.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת אלי דלל, משה סעדה ויולי אדלשטיין במליאת הכנסת, 14.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10540,
+      "filename": "20230116094402_NOAM9707 (1).jpg",
+      "localPath": "photos/1100/20230116094402_NOAM9707 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/20230116094402_NOAM9707 (1).jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת אברהם בצלאל אימאן ח'טיב יאסין ואלי דלל בדיון בוועדת הכלכלה, 16.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10541,
+      "filename": "20230125095836_NOAM2820.jpg",
+      "localPath": "photos/1100/20230125095836_NOAM2820.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/20230125095836_NOAM2820.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אלי דלל בדיון בוועדת הכלכלה, 25.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10015,
+      "filename": "DST01164.JPG",
+      "localPath": "photos/1100/DST01164.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST01164.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת אלי דלל ביום עיון לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10016,
+      "filename": "DST00926.JPG",
+      "localPath": "photos/1100/DST00926.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST00926.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת אליהו דלל ביום עיון לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10217,
+      "filename": "DST09825.jpg",
+      "localPath": "photos/1100/DST09825.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST09825.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת אלי דלל, ינון אזולאי ואימאן ח'טיב יאסין בוועדת הכספים, 15.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10218,
+      "filename": "20221130111138_NOAM9326.jpg",
+      "localPath": "photos/1100/20221130111138_NOAM9326.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/20221130111138_NOAM9326.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אלי דלל במליאת הכנסת, 30.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10219,
+      "filename": "DST05802.jpg",
+      "localPath": "photos/1100/DST05802.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST05802.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת אלי דלל בוועדה, 2911.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10220,
+      "filename": "DST04090.jpg",
+      "localPath": "photos/1100/DST04090.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST04090.jpg",
+      "width": 2560,
+      "height": 1707,
+      "title": "חבר הכנסת אלי דלל בוועדה המסדרת, 20.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10221,
+      "filename": "DST02009.jpg",
+      "localPath": "photos/1100/DST02009.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST02009.jpg",
+      "width": 2560,
+      "height": 1707,
+      "title": "חבר הכנסת אלי דלל ביום השבעת הכנסת ה-25, 15.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10273,
+      "filename": "Noam.M-5279.JPG",
+      "localPath": "photos/1100/Noam.M-5279.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/Noam.M-5279.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת אלי דלל, גלעד קריב ועופר כסיף בוועדה המיוחדת לדיון בהצעת החוק לתיקון פקודת המשטרה, 22.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10513,
+      "filename": "DST01166.jpg",
+      "localPath": "photos/1100/DST01166.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST01166.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אליהו דלל ביום עיון לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10514,
+      "filename": "DST02602.jpg",
+      "localPath": "photos/1100/DST02602.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST02602.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אלי דלל במליאת הכנסת, 25.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10515,
+      "filename": "DST02607.jpg",
+      "localPath": "photos/1100/DST02607.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST02607.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אלי דלל במליאת הכנסת, 25.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10517,
+      "filename": "DST02714.jpg",
+      "localPath": "photos/1100/DST02714.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST02714.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אלי דלל במליאת הכנסת, 25.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10518,
+      "filename": "DST04209.jpg",
+      "localPath": "photos/1100/DST04209.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST04209.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אלי דלל בבחירתו ליושב-ראש הוועדה לזכויות הילד, 31.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10519,
+      "filename": "DST04226.jpg",
+      "localPath": "photos/1100/DST04226.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST04226.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אלי דלל בבחירתו ליושב-ראש הוועדה לזכויות הילד, 31.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10520,
+      "filename": "DST04236 (1).jpg",
+      "localPath": "photos/1100/DST04236 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST04236 (1).jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אלי דלל בבחירתו ליושב-ראש הוועדה לזכויות הילד, 31.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10524,
+      "filename": "DST08612.jpg",
+      "localPath": "photos/1100/DST08612.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/DST08612.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אלי דלל בישיבת ועדת החוקה, חוק ומשפט, 11.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10525,
+      "filename": "Noam.M-0236.JPG",
+      "localPath": "photos/1100/Noam.M-0236.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/Noam.M-0236.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10526,
+      "filename": "Noam.M-5358.JPG",
+      "localPath": "photos/1100/Noam.M-5358.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/Noam.M-5358.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10527,
+      "filename": "Noam.M-5400.JPG",
+      "localPath": "photos/1100/Noam.M-5400.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/Noam.M-5400.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10528,
+      "filename": "Noam.M-8118.JPG",
+      "localPath": "photos/1100/Noam.M-8118.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/Noam.M-8118.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10529,
+      "filename": "Noam.M-9526.JPG",
+      "localPath": "photos/1100/Noam.M-9526.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/Noam.M-9526.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10530,
+      "filename": "Noam.M-9529.JPG",
+      "localPath": "photos/1100/Noam.M-9529.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/Noam.M-9529.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10531,
+      "filename": "Noam.M-9544.JPG",
+      "localPath": "photos/1100/Noam.M-9544.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1100/Noam.M-9544.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:46.736Z",
+  "localImagePath": "photos/1100/profile.jpg"
+}

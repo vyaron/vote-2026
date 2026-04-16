@@ -1,0 +1,265 @@
+{
+  "id": 884,
+  "name": "אורית סטרוק",
+  "fullTitle": "חברת הכנסת אורית סטרוק",
+  "faction": "הציונות הדתית בראשות בצלאל סמוטריץ'",
+  "email": "ostruk@knesset.gov.il",
+  "workPhone": "02-6408043",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/oritstrook/",
+    "twitter": "https://twitter.com/oritstrock",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/884/1_884_3_2213.jpeg?v=20260415_70107",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/884/1_884_3_2213.jpeg?v=20260415_70107",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/884/1_884_1_17892.png?v=20260415_70107",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/884/1_884_4_17893.png?v=20260415_70107"
+  },
+  "gender": "female",
+  "dateOfBirth": "ט\"ז באדר תש\"כ , 15/03/1960",
+  "deathDate": null,
+  "placeOfBirth": "ירושלים, ישראל",
+  "immigrationYear": null,
+  "residence": "חברון",
+  "education": "תעודת בגרות",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "111",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "שרת ההתיישבות והמשימות הלאומיות",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/884/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/884/1_884_3_2213.jpeg?v=20260415_70107",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 6192,
+      "filename": "EAV01818.JPG",
+      "localPath": "photos/884/EAV01818.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV01818.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אורית סטרוק ביום עיון לחברי הכנסת החדשים, 5.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6195,
+      "filename": "EAV01459.JPG",
+      "localPath": "photos/884/EAV01459.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV01459.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אורית סטרוק ביום עיון לחברי הכנסת החדשים, 5.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6196,
+      "filename": "EAV01836.JPG",
+      "localPath": "photos/884/EAV01836.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV01836.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת אורית סטרוק, מיכל מרים וולדיגר ושמחה רוטמן ביום עיון לחברי הכנסת החדשים, 5.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6200,
+      "filename": "EAV01519.JPG",
+      "localPath": "photos/884/EAV01519.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV01519.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברות הכנסת אורית סטרוק ואמילי חיה מואטי ביום עיון לחברי הכנסת החדשים, 5.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6417,
+      "filename": "EAV06013.JPG",
+      "localPath": "photos/884/EAV06013.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV06013.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אורית סטרוק בוועדה המסדרת, 26.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6475,
+      "filename": "EAV09699.JPG",
+      "localPath": "photos/884/EAV09699.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV09699.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת אורית סטרוק ושמחה רוטמן בוועדה המסדרת, 4.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 6478,
+      "filename": "EAV08897.JPG",
+      "localPath": "photos/884/EAV08897.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV08897.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אורית סטרוק במליאת הכנסת, 3.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8957,
+      "filename": "EAV01611.JPG",
+      "localPath": "photos/884/EAV01611.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV01611.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אורית סטרוק בוועדה המסדרת, 24.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8958,
+      "filename": "NOAM3319.JPG",
+      "localPath": "photos/884/NOAM3319.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/NOAM3319.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת אורית סטרוק במליאת הכנסת, 3.8.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8960,
+      "filename": "EAV00044.JPG",
+      "localPath": "photos/884/EAV00044.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV00044.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אורית סטרוק במליאת הכנסת, 12.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8961,
+      "filename": "EAV00313.JPG",
+      "localPath": "photos/884/EAV00313.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV00313.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת אורית סטרוק ואופיר סופר בוועדת החוץ והביטחון, 13.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8962,
+      "filename": "EAV03673.JPG",
+      "localPath": "photos/884/EAV03673.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV03673.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חברי הכנסת אורית סטרוק ובצלאל סמוטריץ במליאת הכנסת, 26.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8963,
+      "filename": "EAV03767.JPG",
+      "localPath": "photos/884/EAV03767.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV03767.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אורית סטרוק במליאת הכנסת, 26.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8964,
+      "filename": "EAV08155.JPG",
+      "localPath": "photos/884/EAV08155.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV08155.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אורית סטרוק בוועדת החוץ והביטחון, 7.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8965,
+      "filename": "EAV09591.JPG",
+      "localPath": "photos/884/EAV09591.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/EAV09591.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אורית סטרוק במליאת הכנסת, 9.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8966,
+      "filename": "DST00747.JPG",
+      "localPath": "photos/884/DST00747.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/DST00747.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אורית סטרוק בוועדה המסדרת, 6.7.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8967,
+      "filename": "DST00430.JPG",
+      "localPath": "photos/884/DST00430.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/DST00430.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אורית סטרוק במליאת הכנסת, 27.7.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8968,
+      "filename": "DST05501.JPG",
+      "localPath": "photos/884/DST05501.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/DST05501.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אורית סטרוק במליאת הכנסת, 8.11.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8969,
+      "filename": "DST01325.JPG",
+      "localPath": "photos/884/DST01325.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/DST01325.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת אורית סטרוק במליאת הכנסת, 17.1.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8972,
+      "filename": "1E1A6085.JPG",
+      "localPath": "photos/884/1E1A6085.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/1E1A6085.JPG",
+      "width": 4464,
+      "height": 2976,
+      "title": "חברת הכנסת אורית סטרוק בהשבעת הכנסת ה-24, 6.4.2021. צילום: אסי אפרתי, תדמית הפקות, דוברות הכנסת"
+    },
+    {
+      "id": 8973,
+      "filename": "1E1A6088.JPG",
+      "localPath": "photos/884/1E1A6088.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/1E1A6088.JPG",
+      "width": 4464,
+      "height": 2976,
+      "title": "חברת הכנסת אורית סטרוק בהשבעת הכנסת ה-24, 6.4.2021. צילום: אסי אפרתי - תדמית הפקות, דוברות הכנסת"
+    },
+    {
+      "id": 9022,
+      "filename": "DST02161.JPG",
+      "localPath": "photos/884/DST02161.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/DST02161.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חברת הכנסת אורית סטרוק בסיור ועדת החוץ והביטחון במערת המכפלה, 10.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9023,
+      "filename": "DST02570.JPG",
+      "localPath": "photos/884/DST02570.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/884/DST02570.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חברת הכנסת אורית סטרוק בסיור ועדת החוץ והביטחון במערת המכפלה, 10.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:53.759Z",
+  "localImagePath": "photos/884/profile.jpg"
+}

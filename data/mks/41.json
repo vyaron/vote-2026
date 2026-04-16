@@ -1,0 +1,166 @@
+{
+  "id": 41,
+  "name": "אריה מכלוף דרעי",
+  "fullTitle": "חבר הכנסת אריה מכלוף דרעי",
+  "faction": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+  "email": "aderey@knesset.gov.il",
+  "workPhone": "02-6408698",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "http://www.facebook.com/DeryArye?fref=ts",
+    "twitter": null,
+    "instagram": null,
+    "youtube": "http://www.youtube.com/user/ariyederi",
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/41/1_41_3_110.jpeg?v=20260415_89902",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/41/1_41_3_110.jpeg?v=20260415_89902",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/41/1_41_1_108.png?v=20260415_89902",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/41/1_41_4_13595.png?v=20260415_89902"
+  },
+  "gender": "male",
+  "dateOfBirth": "ט' באדר תשי\"ט , 17/02/1959",
+  "deathDate": null,
+  "placeOfBirth": "מקנס, מרוקו",
+  "immigrationYear": "1968",
+  "residence": "ירושלים",
+  "education": "- לימודים בישיבת ”פורת יוסף” בירושלים\n- לימודים בישיבת חברון בירושלים",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "צרפתית",
+    "מרוקנית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "75",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/41/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/41/1_41_3_110.jpeg?v=20260415_89902",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 4191,
+      "filename": "ISH_7645.jpg",
+      "localPath": "photos/41/ISH_7645.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/41/ISH_7645.jpg",
+      "width": 500,
+      "height": 750,
+      "title": ""
+    },
+    {
+      "id": 4193,
+      "filename": "ISH_0054.JPG",
+      "localPath": "photos/41/ISH_0054.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/41/ISH_0054.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 4194,
+      "filename": "ISH_0039.JPG",
+      "localPath": "photos/41/ISH_0039.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/41/ISH_0039.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 4195,
+      "filename": "IMG_9370.JPG",
+      "localPath": "photos/41/IMG_9370.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/41/IMG_9370.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 4196,
+      "filename": "IMG_5609.JPG",
+      "localPath": "photos/41/IMG_5609.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/41/IMG_5609.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 4198,
+      "filename": "IMG_9366.JPG",
+      "localPath": "photos/41/IMG_9366.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/41/IMG_9366.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 4199,
+      "filename": "E32J1386.JPG",
+      "localPath": "photos/41/E32J1386.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/41/E32J1386.JPG",
+      "width": 500,
+      "height": 750,
+      "title": ""
+    },
+    {
+      "id": 4200,
+      "filename": "E32J1370.JPG",
+      "localPath": "photos/41/E32J1370.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/41/E32J1370.JPG",
+      "width": 500,
+      "height": 750,
+      "title": ""
+    },
+    {
+      "id": 4201,
+      "filename": "ISH_7705.JPG",
+      "localPath": "photos/41/ISH_7705.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/41/ISH_7705.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 4202,
+      "filename": "ISH_7713.JPG",
+      "localPath": "photos/41/ISH_7713.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/41/ISH_7713.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 4532,
+      "filename": "ISH_2098.JPG",
+      "localPath": "photos/41/ISH_2098.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/41/ISH_2098.JPG",
+      "width": 500,
+      "height": 750,
+      "title": ""
+    },
+    {
+      "id": 4533,
+      "filename": "ISH_2149.JPG",
+      "localPath": "photos/41/ISH_2149.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/41/ISH_2149.JPG",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:49.147Z",
+  "localImagePath": "photos/41/profile.jpg"
+}

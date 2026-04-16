@@ -1,0 +1,247 @@
+{
+  "id": 1124,
+  "name": "משה פסל",
+  "fullTitle": "חבר הכנסת משה פסל",
+  "faction": "הליכוד ",
+  "email": "hak_passal@knesset.gov.il",
+  "workPhone": null,
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/passalmoshe/",
+    "twitter": null,
+    "instagram": null,
+    "youtube": "https://youtube.com/@moshepassal?si=7FCffBmj3evkZUhY",
+    "website": "https://www.tiktok.com/@moshepassal?_t=8ngd4vABtAY&_r=1"
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1124/1_1124_3_20007.jpeg?v=20260415_64787",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1124/1_1124_3_20007.jpeg?v=20260415_64787",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1124/1_1124_1_20796.png?v=20260415_64787",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1124/1_1124_4_20797.png?v=20260415_64787"
+  },
+  "gender": "male",
+  "dateOfBirth": "כ\"ב באב תשמ\"ט , 23/08/1989",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": null,
+  "militaryService": "- שירות בגדוד קרן בחיל התותחנים ולאחר מכן במדור תקציבים בזרוע היבשה.",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "133",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1124/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1124/1_1124_3_20007.jpeg?v=20260415_64787",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10719,
+      "filename": "DST02672.jpeg",
+      "localPath": "photos/1124/DST02672.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/DST02672.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת משה פסל לצד חבריו לסיעת הליכוד, 22.3.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10720,
+      "filename": "20230313174208_NOAM4328.jpeg",
+      "localPath": "photos/1124/20230313174208_NOAM4328.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/20230313174208_NOAM4328.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת משה פסל ביום כניסתו לתפקיד, 13.3.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10961,
+      "filename": "20240716124140_NOAM0284.jpg",
+      "localPath": "photos/1124/20240716124140_NOAM0284.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/20240716124140_NOAM0284.jpg",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 10962,
+      "filename": "20240723133822_NOAM4404.jpg",
+      "localPath": "photos/1124/20240723133822_NOAM4404.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/20240723133822_NOAM4404.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל נואם במליאת הכנסת, 23.7.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10963,
+      "filename": "20240723144303_NOAM4653.jpg",
+      "localPath": "photos/1124/20240723144303_NOAM4653.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/20240723144303_NOAM4653.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל נואם על דוכן הכנסת, 23.7.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10964,
+      "filename": "20240724130931_NOAM5644.jpg",
+      "localPath": "photos/1124/20240724130931_NOAM5644.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/20240724130931_NOAM5644.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל נואם על דוכן הכנסת, 24.7.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10965,
+      "filename": "Banner_1124.png",
+      "localPath": "photos/1124/Banner_1124.png",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/Banner_1124.png",
+      "width": 750,
+      "height": 333,
+      "title": "חבר הכנסת משה פסל נואם על דוכן הכנסת. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 10966,
+      "filename": "D_ST0019.jpg",
+      "localPath": "photos/1124/D_ST0019.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/D_ST0019.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל נואם במליאת הכנסת, 16.7.2024. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10967,
+      "filename": "D_ST4162.jpg",
+      "localPath": "photos/1124/D_ST4162.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/D_ST4162.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל (משמאל) בדיון הוועדה לביטחון לאומי, 18.11.2024. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10968,
+      "filename": "D_ST7573 (1).jpg",
+      "localPath": "photos/1124/D_ST7573 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/D_ST7573 (1).jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל על דוכן הכנסת, 19.6.2024. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10969,
+      "filename": "Noam.M-9599 (1).JPG",
+      "localPath": "photos/1124/Noam.M-9599 (1).JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/Noam.M-9599 (1).JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל לצד חבריו לקואליציה במליאת הכנסת, 22.3.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10970,
+      "filename": "NOAM0405.jpg",
+      "localPath": "photos/1124/NOAM0405.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/NOAM0405.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל במליאת הכנסת, 29.9.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10971,
+      "filename": "NOAM2367.jpg",
+      "localPath": "photos/1124/NOAM2367.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/NOAM2367.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל בדיון של הוועדה משותפת לוועדות החוקה, חוק ומשפט וועדת הכלכלה, 27.11.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10972,
+      "filename": "NOAM3640.jpg",
+      "localPath": "photos/1124/NOAM3640.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/NOAM3640.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל בדיון ועדת החוקה, חוק ומשפט, 17.12.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10973,
+      "filename": "NOAM4244 (1).jpg",
+      "localPath": "photos/1124/NOAM4244 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/NOAM4244 (1).jpg",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 10974,
+      "filename": "NOAM4259.jpg",
+      "localPath": "photos/1124/NOAM4259.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/NOAM4259.jpg",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 10975,
+      "filename": "NOAM8274.jpg",
+      "localPath": "photos/1124/NOAM8274.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/NOAM8274.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל בדיון ועדת הכנסת על חוק גירוש משפחות מחבלים, 29.10.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10976,
+      "filename": "NOAM8408.jpg",
+      "localPath": "photos/1124/NOAM8408.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/NOAM8408.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל בדיון בוועדת הכלכלה, 18.9.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10977,
+      "filename": "__ML0973.jpg",
+      "localPath": "photos/1124/__ML0973.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/__ML0973.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל בדיון הוועדה לביטחון לאומי, 17.12.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10978,
+      "filename": "__MM1009.jpg",
+      "localPath": "photos/1124/__MM1009.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/__MM1009.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל בדיון הוועדה לביטחון לאומי, 17.12.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10979,
+      "filename": "_OAM2712.jpg",
+      "localPath": "photos/1124/_OAM2712.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1124/_OAM2712.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה פסל במליאת הכנסת לצד חבריו לקואליציה, 15.1.2025. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:56:07.041Z",
+  "localImagePath": "photos/1124/profile.jpg"
+}

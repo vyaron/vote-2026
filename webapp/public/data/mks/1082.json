@@ -1,0 +1,190 @@
+{
+  "id": 1082,
+  "name": "נעמה לזימי",
+  "fullTitle": "חברת הכנסת נעמה לזימי",
+  "faction": "העבודה",
+  "email": "naamalazimi@knesset.gov.il",
+  "workPhone": "02-6408184",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1082/1_1082_3_17989.jpeg?v=20260415_01641",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1082/1_1082_3_17989.jpeg?v=20260415_01641",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1082/1_1082_1_18106.png?v=20260415_01641",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1082/1_1082_4_18107.png?v=20260415_01641"
+  },
+  "gender": "female",
+  "dateOfBirth": "א' בשבט תשמ\"ו , 11/01/1986",
+  "deathDate": null,
+  "placeOfBirth": "מגדל העמק, ישראל",
+  "immigrationYear": null,
+  "residence": "חיפה",
+  "education": "- תואר ראשון במדעי המדינה\n- תואר שני בהיסטוריה של עם ישראל",
+  "militaryService": "סרן",
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "43",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושבת-ראש הוועדה המיוחדת לענייני הצעירים",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1082/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1082/1_1082_3_17989.jpeg?v=20260415_01641",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 6603,
+      "filename": "EAV03676.JPG",
+      "localPath": "photos/1082/EAV03676.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/EAV03676.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת נעמה לזימי במליאת הכנסת, 22.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6607,
+      "filename": "20210706213712_NOAM5700.jpg",
+      "localPath": "photos/1082/20210706213712_NOAM5700.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/20210706213712_NOAM5700.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת נעמה לזימי ויוראי להב הרצנו במליאת הכנסת, 6.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 6610,
+      "filename": "DST01160.JPG",
+      "localPath": "photos/1082/DST01160.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/DST01160.JPG",
+      "width": 750,
+      "height": 501,
+      "title": "חברת הכנסת נעמה לזימי בנאום בכורה במליאת הכנסת, 27.7.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6611,
+      "filename": "DST09029.JPG",
+      "localPath": "photos/1082/DST09029.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/DST09029.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת נעמה לזימי בוועדת הכספים, 26.7.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6612,
+      "filename": "EAV03615.JPG",
+      "localPath": "photos/1082/EAV03615.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/EAV03615.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת נעמה לזימי, עידית סילמן ורם שפע במליאת הכנסת, 22.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6613,
+      "filename": "EAV03627.JPG",
+      "localPath": "photos/1082/EAV03627.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/EAV03627.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת נעמה לזימי מצהירה אמונים בכנסת ה-24, 22.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9146,
+      "filename": "NOAM6465.JPG",
+      "localPath": "photos/1082/NOAM6465.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/NOAM6465.JPG",
+      "width": 4898,
+      "height": 3265,
+      "title": "חברת הכנסת נעמה לזימי בוועדת הכספים, 24.10.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9147,
+      "filename": "DST03869.JPG",
+      "localPath": "photos/1082/DST03869.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/DST03869.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת נעמה לזימי בוועדה לביטחון הפנים, 19.10.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9148,
+      "filename": "DST02986.JPG",
+      "localPath": "photos/1082/DST02986.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/DST02986.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת נעמה לזימי בוועדת הכספים, 18.10.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9149,
+      "filename": "NOAM1574.JPG",
+      "localPath": "photos/1082/NOAM1574.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/NOAM1574.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת נעמה לזימי במליאת הכנסת, 16.2.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9150,
+      "filename": "NOAM8494.JPG",
+      "localPath": "photos/1082/NOAM8494.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/NOAM8494.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת נעמה לזימי ויוסף טייב במליאת הכנסת, 2.3.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9151,
+      "filename": "DST02809.JPG",
+      "localPath": "photos/1082/DST02809.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/DST02809.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת נעמה לזימי בוועדה לקידום מעמד האישה ולשוויון מגדרי, 14.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9161,
+      "filename": "N_M05451.JPG",
+      "localPath": "photos/1082/N_M05451.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/N_M05451.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת נעמה לזימי ואחמד טיבי בוועדה המסדרת, 27.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9170,
+      "filename": "20220323113004_NOAM4175.jpg",
+      "localPath": "photos/1082/20220323113004_NOAM4175.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/20220323113004_NOAM4175.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת נעמה לזימי בוועדת הכספים, 23.3.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9495,
+      "filename": "NOAM9610.JPG",
+      "localPath": "photos/1082/NOAM9610.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1082/NOAM9610.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת נעמה לזימי בוועדה המיוחדת לעניין הקרן לאזרחי ישראל, 14.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:25.806Z",
+  "localImagePath": "photos/1082/profile.jpg"
+}

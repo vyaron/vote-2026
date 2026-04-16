@@ -1,0 +1,148 @@
+{
+  "id": 1112,
+  "name": "נאור שירי",
+  "fullTitle": "חבר הכנסת נאור שירי",
+  "faction": "יש עתיד",
+  "email": "nshiri@knesset.gov.il",
+  "workPhone": "02-6496273",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/mkNaorShiri",
+    "twitter": "https://twitter.com/naorshiri",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1112/1_1112_3_19758.jpeg?v=20260415_66881",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1112/1_1112_3_19758.jpeg?v=20260415_66881",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1112/1_1112_1_19920.png?v=20260415_66881",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1112/1_1112_4_19921.png?v=20260415_66881"
+  },
+  "gender": "male",
+  "dateOfBirth": "י' באייר תשמ\"ה , 01/05/1985",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": null,
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": "נאור שירי נולד בשנת 1985 בהוד השרון, והוא גר בה כל חייו. בתיכון למד בכפר הנוער על שם ב\"צ מוסינזון בעיר. בשנים 2003–2008 שירת ביחידה מיוחדת בחיל הים.\n\nהיה חבר מועצת העיר הוד השרון, סגן ראש העיר ומחזיק תיק הביטחון, יושב-ראש דירקטוריון חברת אלומה מייסודה של הסוכנות היהודית, העוסקת בחינוך ובתרבות בעיר, וראש מטה השטח של מפלגת יש עתיד.\n\nבכנסת הוא חבר בוועדת הפנים ואיכות הסביבה, בוועדת הצעירים, בוועדת המדע והטכנולוגיה ובוועדה לביטחון לאומי, ויושב-ראש השדולה למען הגיל הרך, השדולה למען הדורות הבאים והשדולה למען שיטור עירוני בערי ישראל.\n\nפעילות פוליטית: \nבשנת 2012, עם הקמת מפלגת יש עתיד בראשות יאיר לפיד, הצטרף אליה שירי והקים תא סטודנטים שלה באוניברסיטת בן-גוריון בנגב. \nבבחירות לכנסת התשע-עשרה, שנערכו בשנת 2013, זכתה מפלגת יש עתיד ב־19 מנדטים, ובשנת 2014 החל שירי לעבוד עם ח\"כ בועז טופורובסקי מהמפלגה כיועץ פרלמנטרי וכאחראי ועדות. באותה התקופה היה ממובילי ניסוח הסכם היועצים החדש בכנסת.\n\nלקראת הבחירות לכנסת העשרים, בשנת 2015, מונה שירי לנהל את מרחבי צפון ומרכז במערך השטח של המפלגה.\nלקראת הבחירות לכנסת העשרים-ואחת, בשנת 2019, עבר לנהל את מרחב דרום ואזור ירושלים.\nלאחר הבחירות לכנסת העשרים-וארבע, בשנת 2021, קודם לראשות מטה השטח הארצי של המפלגה.\nלקראת הבחירות לכנסת העשרים-וחמש הוצב במקום ה־24 ברשימה, ובעקבות זאת נבחר לכנסת.",
+  "knessetId": 25,
+  "plenumSeatNumber": "59",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1112/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1112/1_1112_3_19758.jpeg?v=20260415_66881",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10051,
+      "filename": "DST01249.jpg",
+      "localPath": "photos/1112/DST01249.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1112/DST01249.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת נאור שירי ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10181,
+      "filename": "DST09478.JPG",
+      "localPath": "photos/1112/DST09478.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1112/DST09478.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת נאור שירי בוועדה המיוחדת לדיון בהצעת חוק לתיקון פקודת המשטרה, 15.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10204,
+      "filename": "DST09983.jpg",
+      "localPath": "photos/1112/DST09983.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1112/DST09983.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת נאור שירי בוועדה מיוחדת לדיון בהצעת חוק לתיקון פקודת המשטרה, 19.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10205,
+      "filename": "20221218093618_NOAM4270.jpg",
+      "localPath": "photos/1112/20221218093618_NOAM4270.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1112/20221218093618_NOAM4270.jpg",
+      "width": 5484,
+      "height": 3657,
+      "title": "חברי הכנסת מיקי לוי, נאור שירי ומשה סולומון בוועדה מיוחדת לדיון בהצעת חוק לתיקון פקודת המשטרה, 18.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10206,
+      "filename": "DST09514.jpg",
+      "localPath": "photos/1112/DST09514.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1112/DST09514.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת שרון ניר, נאור שירי ומשה סולומון בוועדה מיוחדת לדיון בהצעת חוק לתיקון פקודת המשטרה, 15.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10210,
+      "filename": "DST08261.jpg",
+      "localPath": "photos/1112/DST08261.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1112/DST08261.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת נאור שיר בוועדה המסדרת, 12.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10211,
+      "filename": "DST01711.JPG",
+      "localPath": "photos/1112/DST01711.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1112/DST01711.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת נאור שיר בהשבעת הכנסת ה-25, 15.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10212,
+      "filename": "DST08333.jpg",
+      "localPath": "photos/1112/DST08333.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1112/DST08333.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת נאור שיר במליאה, 12.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10252,
+      "filename": "20221220141103_NOAM4876.jpg",
+      "localPath": "photos/1112/20221220141103_NOAM4876.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1112/20221220141103_NOAM4876.jpg",
+      "width": 5045,
+      "height": 3363,
+      "title": "חברי הכנסת נאור שירי ומירב בן ארי במליאה, 20.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10253,
+      "filename": "DST01034.jpg",
+      "localPath": "photos/1112/DST01034.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1112/DST01034.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת נאור שירי במליאה, 20.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:56:28.381Z",
+  "localImagePath": "photos/1112/profile.jpg"
+}

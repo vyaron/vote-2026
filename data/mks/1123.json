@@ -1,0 +1,220 @@
+{
+  "id": 1123,
+  "name": "אושר שקלים",
+  "fullTitle": "חבר הכנסת אושר שקלים",
+  "faction": "הליכוד ",
+  "email": "oshkalim@knesset.gov.il",
+  "workPhone": "02-6408105",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/oshershkalim",
+    "twitter": "https://twitter.com/OsherShkalim",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1123/1_1123_3_19975.jpeg?v=20260415_61776",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1123/1_1123_3_19975.jpeg?v=20260415_61776",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1123/1_1123_1_20052.png?v=20260415_61776",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1123/1_1123_4_20053.png?v=20260415_61776"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ד בתמוז תשל\"ד , 04/07/1974",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "- MA – תואר שני בתקשורת פוליטית, אוניברסיטת בר אילן\n- BA – תואר ראשון במדעי החברה משולב, אוניברסיטת בר אילן\n- תעודה - קורס מאמני חדרי כושר, מכון וינגייט",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "99",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש הוועדה המיוחדת לפניות הציבור",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1123/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1123/1_1123_3_19975.jpeg?v=20260415_61776",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10692,
+      "filename": "20230313183415_NOAM4539.jpeg",
+      "localPath": "photos/1123/20230313183415_NOAM4539.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/20230313183415_NOAM4539.jpeg",
+      "width": 5156,
+      "height": 3438,
+      "title": ""
+    },
+    {
+      "id": 10693,
+      "filename": "20230313183436_NOAM4546.jpeg",
+      "localPath": "photos/1123/20230313183436_NOAM4546.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/20230313183436_NOAM4546.jpeg",
+      "width": 5197,
+      "height": 3464,
+      "title": ""
+    },
+    {
+      "id": 10694,
+      "filename": "20230313183515_NOAM4554.jpeg",
+      "localPath": "photos/1123/20230313183515_NOAM4554.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/20230313183515_NOAM4554.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10695,
+      "filename": "20230327104518_NOAM1736.jpeg",
+      "localPath": "photos/1123/20230327104518_NOAM1736.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/20230327104518_NOAM1736.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10696,
+      "filename": "DST00839.jpeg",
+      "localPath": "photos/1123/DST00839.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/DST00839.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10697,
+      "filename": "DST02672.jpeg",
+      "localPath": "photos/1123/DST02672.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/DST02672.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10698,
+      "filename": "DST03610.jpeg",
+      "localPath": "photos/1123/DST03610.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/DST03610.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10699,
+      "filename": "DST04228.jpeg",
+      "localPath": "photos/1123/DST04228.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/DST04228.jpeg",
+      "width": 4647,
+      "height": 3098,
+      "title": ""
+    },
+    {
+      "id": 10700,
+      "filename": "DST04252_1.jpeg",
+      "localPath": "photos/1123/DST04252_1.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/DST04252_1.jpeg",
+      "width": 5575,
+      "height": 3717,
+      "title": ""
+    },
+    {
+      "id": 10701,
+      "filename": "DST04316.jpeg",
+      "localPath": "photos/1123/DST04316.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/DST04316.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10702,
+      "filename": "Noam.M-4645.JPG",
+      "localPath": "photos/1123/Noam.M-4645.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/Noam.M-4645.JPG",
+      "width": 5188,
+      "height": 3459,
+      "title": ""
+    },
+    {
+      "id": 10703,
+      "filename": "Noam.M-4650.JPG",
+      "localPath": "photos/1123/Noam.M-4650.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/Noam.M-4650.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10704,
+      "filename": "NOAM9769-2.jpeg",
+      "localPath": "photos/1123/NOAM9769-2.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/NOAM9769-2.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10705,
+      "filename": "20230221112322_NOAM2977.jpeg",
+      "localPath": "photos/1123/20230221112322_NOAM2977.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/20230221112322_NOAM2977.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10706,
+      "filename": "20230221112445_NOAM2996.jpeg",
+      "localPath": "photos/1123/20230221112445_NOAM2996.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/20230221112445_NOAM2996.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10707,
+      "filename": "20230221112449_NOAM2999.jpeg",
+      "localPath": "photos/1123/20230221112449_NOAM2999.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/20230221112449_NOAM2999.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10708,
+      "filename": "20230306092320_NOAM1540.jpeg",
+      "localPath": "photos/1123/20230306092320_NOAM1540.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/20230306092320_NOAM1540.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10709,
+      "filename": "20230313113418_NOAM3663.jpeg",
+      "localPath": "photos/1123/20230313113418_NOAM3663.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1123/20230313113418_NOAM3663.jpeg",
+      "width": 4396,
+      "height": 2931,
+      "title": ""
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:56:29.295Z",
+  "localImagePath": "photos/1123/profile.jpg"
+}

@@ -1,0 +1,148 @@
+{
+  "id": 1045,
+  "name": "ניסים ואטורי",
+  "fullTitle": "חבר הכנסת ניסים ואטורי",
+  "faction": "הליכוד ",
+  "email": "nvaturi@knesset.gov.il",
+  "workPhone": "02-6408070",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/Likudv",
+    "twitter": "https://twitter.com/nissimv",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1045/1_1045_3_16502.jpeg?v=20260415_96923",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1045/1_1045_3_16502.jpeg?v=20260415_96923",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1045/1_1045_1_16575.png?v=20260415_96923",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1045/1_1045_4_16576.png?v=20260415_96923"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"א בחשוון תש\"ל , 23/10/1969",
+  "deathDate": null,
+  "placeOfBirth": "ראשון לציון, ישראל",
+  "immigrationYear": null,
+  "residence": "אלוני הבשן",
+  "education": "תואר ראשון במשפטים, מכללת שערי משפט",
+  "militaryService": "- רב סמל ראשון\n- השתחרר ב-21 בפברואר 1991",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "76",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "סגן יו\"ר הכנסת, יושב-ראש הוועדה לפיקוח על הקרן לאזרחי ישראל ויושב-ראש ועדת משנה לעניין פינוי מוקשים ונפלים",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1045/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1045/1_1045_3_16502.jpeg?v=20260415_96923",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10055,
+      "filename": "DST01213.jpg",
+      "localPath": "photos/1045/DST01213.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1045/DST01213.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ניסים ואטורי ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10169,
+      "filename": "20221215172113_NOAM3531.jpg",
+      "localPath": "photos/1045/20221215172113_NOAM3531.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1045/20221215172113_NOAM3531.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת ניסים ואטורי במליאה, 15.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10170,
+      "filename": "DST09803.jpg",
+      "localPath": "photos/1045/DST09803.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1045/DST09803.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת ניסים ואטורי ומאי גולן במליאה, 18.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10171,
+      "filename": "DST02047.jpg",
+      "localPath": "photos/1045/DST02047.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1045/DST02047.jpg",
+      "width": 2560,
+      "height": 1707,
+      "title": "חבר הכנסת ניסים ואטורי בוהשבעת הכנסת ה-25, 15.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10172,
+      "filename": "DST05396.jpg",
+      "localPath": "photos/1045/DST05396.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1045/DST05396.jpg",
+      "width": 1616,
+      "height": 1080,
+      "title": "חבר הכנסת ניסים ואטורי בוועדת הכספים, 28.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10173,
+      "filename": "20221207124503_NOAM0707.jpg",
+      "localPath": "photos/1045/20221207124503_NOAM0707.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1045/20221207124503_NOAM0707.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת ניסים ואטורי במליאה, 7.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10174,
+      "filename": "20221207124356_NOAM0687.jpg",
+      "localPath": "photos/1045/20221207124356_NOAM0687.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1045/20221207124356_NOAM0687.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת ניסים ואטורי במליאה, 7.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10175,
+      "filename": "DST09338.jpg",
+      "localPath": "photos/1045/DST09338.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1045/DST09338.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ניסים ואטורי בוועדת הכספים, 14.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10275,
+      "filename": "EAV04683.JPG",
+      "localPath": "photos/1045/EAV04683.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1045/EAV04683.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ניסים ואטורי מצהיר אמונים לכנסת ה-23, 14.12.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10276,
+      "filename": "EAV05271.JPG",
+      "localPath": "photos/1045/EAV05271.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1045/EAV05271.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ניסים ואטורי בנאום בכורה במליה, 15.12.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:52.529Z",
+  "localImagePath": "photos/1045/profile.jpg"
+}

@@ -1,0 +1,253 @@
+{
+  "id": 1102,
+  "name": "יצחק שמעון וסרלאוף",
+  "fullTitle": "חבר הכנסת יצחק שמעון וסרלאוף",
+  "faction": "עוצמה יהודית בראשות איתמר בן גביר",
+  "email": "yvaserlof@knesset.gov.il",
+  "workPhone": "02-6408166",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1102/1_1102_3_19692.jpeg?v=20260415_64456",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1102/1_1102_3_19692.jpeg?v=20260415_64456",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1102/1_1102_1_19808.png?v=20260415_64456",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1102/1_1102_4_19809.png?v=20260415_64456"
+  },
+  "gender": "male",
+  "dateOfBirth": "ט\"ו באב תשנ\"ב , 14/08/1992",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": null,
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "116",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "שר הנגב והגליל והחוסן הלאומי",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1102/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1102/1_1102_3_19692.jpeg?v=20260415_64456",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10053,
+      "filename": "DST01314.jpg",
+      "localPath": "photos/1102/DST01314.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/DST01314.jpg",
+      "width": 5537,
+      "height": 3692,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10182,
+      "filename": "NOAM0194.JPG",
+      "localPath": "photos/1102/NOAM0194.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/NOAM0194.JPG",
+      "width": 5644,
+      "height": 3763,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף ביום השבעת הכנסת ה-25, 15.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10183,
+      "filename": "DST09816.jpg",
+      "localPath": "photos/1102/DST09816.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/DST09816.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף בבמליאה, 18.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10184,
+      "filename": "20221130113709_NOAM9384.jpg",
+      "localPath": "photos/1102/20221130113709_NOAM9384.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/20221130113709_NOAM9384.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף נושא דברים במליאת הכנסת, 30.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10185,
+      "filename": "DST08072.jpg",
+      "localPath": "photos/1102/DST08072.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/DST08072.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף בוועדת הכספים, 12.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10233,
+      "filename": "DST04555.jpg",
+      "localPath": "photos/1102/DST04555.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/DST04555.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת עמיחי אליהו, יצחק גולדקנופ ויעקב טסלר בוועדת הכספים, 21.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10254,
+      "filename": "20221220141720_NOAM4897.jpg",
+      "localPath": "photos/1102/20221220141720_NOAM4897.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/20221220141720_NOAM4897.jpg",
+      "width": 4968,
+      "height": 3312,
+      "title": "חברי הכנסת אלמוג כהן, יוראי להב הרצנו, יצחק שמעון וסרלאוף ועודד פורר במליאה, 20.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10542,
+      "filename": "20230104132954_NOAM7081.jpg",
+      "localPath": "photos/1102/20230104132954_NOAM7081.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/20230104132954_NOAM7081.jpg",
+      "width": 1159,
+      "height": 791,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף במליאת הכנסת, 4.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10543,
+      "filename": "20230208092944_NOAM0051.jpg",
+      "localPath": "photos/1102/20230208092944_NOAM0051.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/20230208092944_NOAM0051.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף בוועדה המיוחדת לחיזוק ופיתוח הנגב והגליל, 8.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10544,
+      "filename": "20230208093041_NOAM0057.jpg",
+      "localPath": "photos/1102/20230208093041_NOAM0057.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/20230208093041_NOAM0057.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת יצחק שמעון וסרלאוף ומיכאל ביטון בוועדה המיוחדת לחיזוק ופיתוח הנגב והגליל, 8.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10545,
+      "filename": "20230208093059_NOAM0059.jpg",
+      "localPath": "photos/1102/20230208093059_NOAM0059.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/20230208093059_NOAM0059.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת יצחק שמעון וסרלאוף, מיכאל ביטון ושלמה קרעי בוועדה המיוחדת לחיזוק ופיתוח הנגב והגליל, 8.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10546,
+      "filename": "20230208093119_NOAM0072 (1).jpg",
+      "localPath": "photos/1102/20230208093119_NOAM0072 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/20230208093119_NOAM0072 (1).jpg",
+      "width": 1159,
+      "height": 772,
+      "title": "חברי הכנסת יצחק שמעון וסרלאוף ושלמה קרעי בוועדה המיוחדת לחיזוק ופיתוח הנגב והגליל, 8.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10547,
+      "filename": "20230208132712_NOAM9905.jpg",
+      "localPath": "photos/1102/20230208132712_NOAM9905.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/20230208132712_NOAM9905.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף נושא דברים במליאת הכנסת, 8.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10548,
+      "filename": "DST04833.jpg",
+      "localPath": "photos/1102/DST04833.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/DST04833.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף במליאת הכנסת, 21.11.2022. צילום: דני-שם טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10549,
+      "filename": "DST06512.jpg",
+      "localPath": "photos/1102/DST06512.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/DST06512.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת יצחק שמעון וסרלאוף ועידית סילמן בוועדה המסדרת, 5.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10550,
+      "filename": "DST08141.jpg",
+      "localPath": "photos/1102/DST08141.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/DST08141.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת יצחק שמעון וסרלאוף וצבי ידידיה סוכות במליאת הכנסת, 8.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10551,
+      "filename": "DST08736.jpg",
+      "localPath": "photos/1102/DST08736.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/DST08736.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף בוועדה המסדרת, 13.12.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10552,
+      "filename": "DST09818.jpg",
+      "localPath": "photos/1102/DST09818.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/DST09818.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף במליאת הכנסת, 18.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10553,
+      "filename": "20221130122223_NOAM9618.jpg",
+      "localPath": "photos/1102/20221130122223_NOAM9618.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/20221130122223_NOAM9618.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף במליאת הכנסת, 30.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10554,
+      "filename": "20221130122831_NOAM9676.jpg",
+      "localPath": "photos/1102/20221130122831_NOAM9676.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/20221130122831_NOAM9676.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק וסרלאוף במליאת הכנסת, 30.11.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10555,
+      "filename": "20221213110016_NOAM2341.jpg",
+      "localPath": "photos/1102/20221213110016_NOAM2341.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/20221213110016_NOAM2341.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יצחק שמעון וסרלאוף בטקס חילופי יושב-ראש הכנסת, 13.12.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10556,
+      "filename": "20221228114511_NOAM7550.jpg",
+      "localPath": "photos/1102/20221228114511_NOAM7550.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1102/20221228114511_NOAM7550.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת יצחק שמעון וסרלאוף ואלמוג כהן בויכוח סוער עם חבר הכנסת עופר כסיף במליאת הכנסת, 28.12.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:56.010Z",
+  "localImagePath": "photos/1102/profile.jpg"
+}

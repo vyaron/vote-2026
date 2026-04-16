@@ -1,0 +1,292 @@
+{
+  "id": 1125,
+  "name": "ששון ששי גואטה ",
+  "fullTitle": "חבר הכנסת ששון ששי גואטה ",
+  "faction": "הליכוד ",
+  "email": "hak_guetta@knesset.gov.il",
+  "workPhone": "02-6408494",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://did.li/Imb6q",
+    "twitter": "https://did.li/Sassong-X",
+    "instagram": "https://did.li/UOOaa",
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1125/1_1125_3_20029.jpeg?v=20260415_65393",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1125/1_1125_3_20029.jpeg?v=20260415_65393",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1125/1_1125_1_20778.png?v=20260415_65393",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1125/1_1125_4_20779.png?v=20260415_65393"
+  },
+  "gender": "male",
+  "dateOfBirth": "ז' בסיוון תש\"מ , 22/05/1980",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "תואר ראשון בחינוך",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": "תושב מושב גורן שבצפון, חקלאי ונציג המושבים והמועצות האזוריות.",
+  "knessetId": 25,
+  "plenumSeatNumber": "101",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש ועדת המשנה לתחבורה ציבורית",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1125/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1125/1_1125_3_20029.jpeg?v=20260415_65393",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10834,
+      "filename": "DST03900.jpeg",
+      "localPath": "photos/1125/DST03900.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/DST03900.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ששי גואטה לצד חברי הקואליציה, 27.3.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10835,
+      "filename": "DST04006.jpeg",
+      "localPath": "photos/1125/DST04006.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/DST04006.jpeg",
+      "width": 4160,
+      "height": 2773,
+      "title": "חבר הכנסת ששי גואטה בישיבת מליאת הכנסת הראשונה בתור חבר כנסת, 27.3.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10836,
+      "filename": "20230326150234_NOAM0787.jpeg",
+      "localPath": "photos/1125/20230326150234_NOAM0787.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/20230326150234_NOAM0787.jpeg",
+      "width": 4603,
+      "height": 3069,
+      "title": "חבר הכנסת ששי גואטה במליאת הכנסת, 26.3.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10837,
+      "filename": "20230326150304_NOAM0790.jpeg",
+      "localPath": "photos/1125/20230326150304_NOAM0790.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/20230326150304_NOAM0790.jpeg",
+      "width": 4720,
+      "height": 3146,
+      "title": "חבר הכנסת ששי גואטה ביום השבעתו לחבר כנסת, 26.3.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10838,
+      "filename": "DST03848.jpeg",
+      "localPath": "photos/1125/DST03848.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/DST03848.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ששי גואטה לצד שר המשפטים וחבר הכנסת יריב לוין, 27.3.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10907,
+      "filename": "20240710102615_NOAM7388.jpg",
+      "localPath": "photos/1125/20240710102615_NOAM7388.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/20240710102615_NOAM7388.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה בוועדת הכלכלה, 10.7.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10908,
+      "filename": "20240710102705_NOAM7403.jpg",
+      "localPath": "photos/1125/20240710102705_NOAM7403.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/20240710102705_NOAM7403.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה בוועדת הכלכלה, 10.7.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10909,
+      "filename": "20240723135939_NOAM4470.jpg",
+      "localPath": "photos/1125/20240723135939_NOAM4470.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/20240723135939_NOAM4470.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה על דוכן הנואמים במליאת הכנסת, 23.7.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10910,
+      "filename": "20240723140247_NOAM4521.jpg",
+      "localPath": "photos/1125/20240723140247_NOAM4521.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/20240723140247_NOAM4521.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה על דוכן הכנסת, 23.7.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10911,
+      "filename": "20240807094928_NOAM0056.jpg",
+      "localPath": "photos/1125/20240807094928_NOAM0056.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/20240807094928_NOAM0056.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה בדיון בוועדת הכלכלה על העלייה במחיר הגז הטבעי, 7.8.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10912,
+      "filename": "D_ST0271.jpg",
+      "localPath": "photos/1125/D_ST0271.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/D_ST0271.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה בוועדה המיוחדת לעובדים זרים, 4.3.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10913,
+      "filename": "D_ST1028.jpg",
+      "localPath": "photos/1125/D_ST1028.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/D_ST1028.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה על דוכן הכנסת, 5.11.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10914,
+      "filename": "D_ST1298.jpg",
+      "localPath": "photos/1125/D_ST1298.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/D_ST1298.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה בדיון בוועדת הכלכלה, 9.12.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10915,
+      "filename": "D_ST3759.jpg",
+      "localPath": "photos/1125/D_ST3759.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/D_ST3759.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה מחויך במליאת הכנסת, 20.3.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10916,
+      "filename": "D_ST4210.jpg",
+      "localPath": "photos/1125/D_ST4210.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/D_ST4210.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה מנהל דיון בוועדת הכלכלה, 18.11.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10917,
+      "filename": "D_ST5110.jpg",
+      "localPath": "photos/1125/D_ST5110.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/D_ST5110.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה מנהל דיון בוועדת הכלכלה, 16.12.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10918,
+      "filename": "DST02338.jpg",
+      "localPath": "photos/1125/DST02338.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/DST02338.jpg",
+      "width": 750,
+      "height": 501,
+      "title": "חבר הכנסת ששי גואטה בדיון בוועדת הכלכלה על חוק אספקת חשמל, 31.1.2024. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10919,
+      "filename": "DST04362.jpg",
+      "localPath": "photos/1125/DST04362.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/DST04362.jpg",
+      "width": 750,
+      "height": 500,
+      "title": ""
+    },
+    {
+      "id": 10920,
+      "filename": "NOAM3567 (1).jpg",
+      "localPath": "photos/1125/NOAM3567 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/NOAM3567 (1).jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה בדיון בוועדה המיוחדת לעובדים זרים, 16.12.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10921,
+      "filename": "NOAM6509.jpg",
+      "localPath": "photos/1125/NOAM6509.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/NOAM6509.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה בדיון בוועדת הכלכלה על תעריפי המים לחקלאות, 4.12.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10922,
+      "filename": "NOAM8365.jpg",
+      "localPath": "photos/1125/NOAM8365.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/NOAM8365.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת ששי גואטה (מימין) ויצחק קרויזר במליאת הכנסת, 19.11.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10923,
+      "filename": "_OAM2968.jpg",
+      "localPath": "photos/1125/_OAM2968.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/_OAM2968.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה במליאת הכנסת, 15.1.2025. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10924,
+      "filename": "_OAM2986.jpg",
+      "localPath": "photos/1125/_OAM2986.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/_OAM2986.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה לצד חבר הכנסת יצחק וסרלאוף, 15.1.2025. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10925,
+      "filename": "20230621124206_NOAM0164.jpg",
+      "localPath": "photos/1125/20230621124206_NOAM0164.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/20230621124206_NOAM0164.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה מחויך במליאת הכנסת, 21.6.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10926,
+      "filename": "20240116123706_NOAM2199.jpg",
+      "localPath": "photos/1125/20240116123706_NOAM2199.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/20240116123706_NOAM2199.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה בוועדת העבודה והרווחה, 16.1.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10927,
+      "filename": "20240527132153_NOAM7035.jpg",
+      "localPath": "photos/1125/20240527132153_NOAM7035.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1125/20240527132153_NOAM7035.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ששי גואטה בוועדת המיוחדת לעובדים זרים, 27.5.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:33.887Z",
+  "localImagePath": "photos/1125/profile.jpg"
+}

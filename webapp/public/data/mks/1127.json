@@ -1,0 +1,289 @@
+{
+  "id": 1127,
+  "name": "ירון לוי",
+  "fullTitle": "חבר הכנסת ירון לוי",
+  "faction": "יש עתיד",
+  "email": "yalevi@knesset.gov.il",
+  "workPhone": "02-6408894",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/yaronlevi.by?mibextid=ZbWKwL",
+    "twitter": "https://x.com/Yaron_Levi_by?t=gKtt1GjYZmJVqvGkWSkyAw&s=09",
+    "instagram": "https://www.instagram.com/yaronlevi.by?igsh=MTBqa21pNjFwY3FoNg==",
+    "youtube": null,
+    "website": "https://www.tiktok.com/@yaronlevi.by?_t=8krSvsMDSbq&_r=1"
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1127/1_1127_3_20229.png?v=20260415_84471",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1127/1_1127_3_20229.png?v=20260415_84471",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1127/1_1127_1_20800.png?v=20260415_84471",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1127/1_1127_4_20801.png?v=20260415_84471"
+  },
+  "gender": "male",
+  "dateOfBirth": "כ\"ט באב תשמ\"א , 29/08/1981",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "- תעודת מאמן ג'ודו, מכללת וינגייט",
+  "militaryService": "שירת בצה\"ל שירות מלא כספורטאי מצטיין",
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": "נשוי ואב לשלושה ילדים.\n\nכיהן כסגן ראש העיר בת ים והחזיק בתיק הספורט, הצעירים והחופים.\n\nבעברו כספורטאי מקצועי בתחום הג'ודו ייצג את ישראל בתחרויות בין-לאומיות וזכה באליפות ישראל ובאליפות גביע אירופה.\n\nייסד את עמותת \"תיק לכל תלמיד\", המעניקה מדי שנה עשרות אלפי תיקים לילדים ממשפחות מעוטות יכולת.\n\nהוביל את המאבק לפיקוח על מחירי הצהרונים והוזלתם, שבעקבותיו סבסדה מדינת ישראל את מחירי הצהרונים במאות שקלים בחודש לכל משפחה.",
+  "knessetId": 25,
+  "plenumSeatNumber": "61",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1127/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1127/1_1127_3_20229.png?v=20260415_84471",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10928,
+      "filename": "20240626092247_NOAM8985.jpg",
+      "localPath": "photos/1127/20240626092247_NOAM8985.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/20240626092247_NOAM8985.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון בוועדת החינוך, התרבות והספורט על החינוך העל-יסודי, 26.6.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10929,
+      "filename": "20240722150009_NOAM3968.jpg",
+      "localPath": "photos/1127/20240722150009_NOAM3968.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/20240722150009_NOAM3968.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי דוכן במליאת הכנסת, 22.7.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10930,
+      "filename": "D_ST2071.jpg",
+      "localPath": "photos/1127/D_ST2071.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/D_ST2071.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי נואם בזעם במליאת הכנסת, 9.12.2024. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10931,
+      "filename": "D_ST2195.jpg",
+      "localPath": "photos/1127/D_ST2195.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/D_ST2195.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון השדולה למען בריאות הנפש ומניעת אובדנות, 10.12.2024. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10932,
+      "filename": "D_ST2253.jpg",
+      "localPath": "photos/1127/D_ST2253.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/D_ST2253.jpg",
+      "width": 750,
+      "height": 502,
+      "title": "חבר הכנסת ירון לוי לצד יו\"ר הכנסת בדיון השדולה למען בריאות הנפש ומניעת אובדנות, 10.12.2024. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10933,
+      "filename": "D_ST2610.jpg",
+      "localPath": "photos/1127/D_ST2610.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/D_ST2610.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון ועדת החוקה, חוק ומשפט, 11.12.2024. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10934,
+      "filename": "D_ST3503.jpg",
+      "localPath": "photos/1127/D_ST3503.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/D_ST3503.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון הוועדה לפיקוח על הקרן לאזרחי ישראל, 12.11.2024. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10935,
+      "filename": "D_ST3541.jpg",
+      "localPath": "photos/1127/D_ST3541.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/D_ST3541.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי מפנה שאלה בדיון במליאת הכנסת, 13.11.2024. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10936,
+      "filename": "D_ST7905.jpg",
+      "localPath": "photos/1127/D_ST7905.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/D_ST7905.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון ועדת המשנה לספורט, 13.2.2024. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10937,
+      "filename": "D_ST9170.jpg",
+      "localPath": "photos/1127/D_ST9170.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/D_ST9170.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון הוועדה המיוחדת לפניות הציבור, 15.7.2024. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10938,
+      "filename": "NOAM1343.JPG",
+      "localPath": "photos/1127/NOAM1343.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/NOAM1343.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון הוועדה המיוחדת למאבק בשימוש בסמים ובאלכוהול, 5.6.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10939,
+      "filename": "NOAM2631.jpg",
+      "localPath": "photos/1127/NOAM2631.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/NOAM2631.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון ועדת הכספים על העברות תקציביות, 2.9.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10940,
+      "filename": "NOAM4133.JPG",
+      "localPath": "photos/1127/NOAM4133.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/NOAM4133.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון ועדת החוץ והביטחון, 9.4.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10941,
+      "filename": "NOAM4815.jpg",
+      "localPath": "photos/1127/NOAM4815.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/NOAM4815.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון משותף לוועדות החינוך ולוועדה למאבק בסמים ובאלכוהול, 24.12.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10942,
+      "filename": "NOAM8033.jpg",
+      "localPath": "photos/1127/NOAM8033.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/NOAM8033.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון הוועדה לזכויות הילד, 29.10.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10943,
+      "filename": "NOAM8594.JPG",
+      "localPath": "photos/1127/NOAM8594.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/NOAM8594.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון ועדת העבודה והרווחה, 1.4.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10944,
+      "filename": "NOAM9205.jpg",
+      "localPath": "photos/1127/NOAM9205.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/NOAM9205.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי נואם במליאת הכנסת, 30.10.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10945,
+      "filename": "NOAM9640 (1).jpg",
+      "localPath": "photos/1127/NOAM9640 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/NOAM9640 (1).jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי על דוכן הכנסת, 9.12.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10946,
+      "filename": "__MM1528.jpg",
+      "localPath": "photos/1127/__MM1528.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/__MM1528.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון ועדת הכלכלה, 18.12.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10947,
+      "filename": "__MM1905.jpg",
+      "localPath": "photos/1127/__MM1905.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/__MM1905.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת ירון לוי (משמאל) ויונתן משריקי במליאת הכנסת, 18.12.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10948,
+      "filename": "20240228184641_NOAM2691.jpg",
+      "localPath": "photos/1127/20240228184641_NOAM2691.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/20240228184641_NOAM2691.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי נואם במליאת הכנסת, 28.2.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10949,
+      "filename": "20240402172131_NOAM0527.jpg",
+      "localPath": "photos/1127/20240402172131_NOAM0527.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/20240402172131_NOAM0527.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי על דוכן הכנסת, 2.4.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10950,
+      "filename": "20240402172346_NOAM0580.jpg",
+      "localPath": "photos/1127/20240402172346_NOAM0580.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/20240402172346_NOAM0580.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי על דוכן מליאת הכנסת, 2.4.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10951,
+      "filename": "20240417103255_NOAM6951.jpg",
+      "localPath": "photos/1127/20240417103255_NOAM6951.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/20240417103255_NOAM6951.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בוועדה המיוחדת לטיפול בשורדי השואה, 17.4.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10952,
+      "filename": "20240529093705_NOAM8947.jpg",
+      "localPath": "photos/1127/20240529093705_NOAM8947.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/20240529093705_NOAM8947.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון בוועדת החינוך, התרבות והספורט, 29.5.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10953,
+      "filename": "20240529094100_NOAM9004.jpg",
+      "localPath": "photos/1127/20240529094100_NOAM9004.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1127/20240529094100_NOAM9004.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ירון לוי בדיון בוועדת החינוך, התרבות והספורט, 29.5.2024. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:21.402Z",
+  "localImagePath": "photos/1127/profile.jpg"
+}

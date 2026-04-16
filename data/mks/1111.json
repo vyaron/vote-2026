@@ -1,0 +1,199 @@
+{
+  "id": 1111,
+  "name": "אליהו רביבו",
+  "fullTitle": "חבר הכנסת אליהו רביבו",
+  "faction": "הליכוד ",
+  "email": "erevivo@knesset.gov.il",
+  "workPhone": "02-6408236",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1111/1_1111_3_19753.jpeg?v=20260415_10425",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1111/1_1111_3_19753.jpeg?v=20260415_10425",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1111/1_1111_1_19957.png?v=20260415_10425",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1111/1_1111_4_19958.png?v=20260415_10425"
+  },
+  "gender": "male",
+  "dateOfBirth": "כ\"ה באייר תשל\"ג , 27/05/1973",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": null,
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "71",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "סגן יו\"ר הכנסת ויושב-ראש ועדת האתיקה",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1111/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1111/1_1111_3_19753.jpeg?v=20260415_10425",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10654,
+      "filename": "20230206202549_NOAM8900.jpg",
+      "localPath": "photos/1111/20230206202549_NOAM8900.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/20230206202549_NOAM8900.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10655,
+      "filename": "20230206202625_NOAM8914.jpg",
+      "localPath": "photos/1111/20230206202625_NOAM8914.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/20230206202625_NOAM8914.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10656,
+      "filename": "DST03155.jpg",
+      "localPath": "photos/1111/DST03155.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/DST03155.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10657,
+      "filename": "DST03513.jpg",
+      "localPath": "photos/1111/DST03513.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/DST03513.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10658,
+      "filename": "DST07407.jpg",
+      "localPath": "photos/1111/DST07407.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/DST07407.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10659,
+      "filename": "Noam.M-0235.JPG",
+      "localPath": "photos/1111/Noam.M-0235.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/Noam.M-0235.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10660,
+      "filename": "Noam.M-9397.JPG",
+      "localPath": "photos/1111/Noam.M-9397.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/Noam.M-9397.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אליהו רביבו בבחירתו ליושב-ראש הוועדה המיוחדת לעובדים זרים, 7.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10661,
+      "filename": "Noam.M-9421.JPG",
+      "localPath": "photos/1111/Noam.M-9421.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/Noam.M-9421.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10662,
+      "filename": "Noam.M-9426.JPG",
+      "localPath": "photos/1111/Noam.M-9426.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/Noam.M-9426.JPG",
+      "width": 1159,
+      "height": 731,
+      "title": ""
+    },
+    {
+      "id": 10663,
+      "filename": "Noam.M-9429.JPG",
+      "localPath": "photos/1111/Noam.M-9429.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/Noam.M-9429.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10664,
+      "filename": "20230109172555_NOAM9330.jpg",
+      "localPath": "photos/1111/20230109172555_NOAM9330.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/20230109172555_NOAM9330.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אליהו רביבו נושא דברים במליאת הכנסת, 9.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10665,
+      "filename": "20230116174456_NOAM0117.jpg",
+      "localPath": "photos/1111/20230116174456_NOAM0117.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/20230116174456_NOAM0117.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אליהו רביבו נושא דברים במליאת הכנסת, 16.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10666,
+      "filename": "20230117150459_NOAM1177.jpg",
+      "localPath": "photos/1111/20230117150459_NOAM1177.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/20230117150459_NOAM1177.jpg",
+      "width": 1159,
+      "height": 772,
+      "title": "חבר הכנסת אליהו רביבו בדיון בוועדת הכספים, 17.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10667,
+      "filename": "20230124195728_NOAM2618.jpg",
+      "localPath": "photos/1111/20230124195728_NOAM2618.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/20230124195728_NOAM2618.jpg",
+      "width": 1159,
+      "height": 748,
+      "title": "חבר הכנסת אליהו רביבו במליאת הכנסת, 24.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10668,
+      "filename": "20230125095301_NOAM2776.jpg",
+      "localPath": "photos/1111/20230125095301_NOAM2776.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/20230125095301_NOAM2776.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אליהו רביבו בישיבת ועדת הכנסת, 25.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10669,
+      "filename": "20230125122757_NOAM2930.jpg",
+      "localPath": "photos/1111/20230125122757_NOAM2930.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1111/20230125122757_NOAM2930.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אליהו רביבו במליאת הכנסת. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:56:18.754Z",
+  "localImagePath": "photos/1111/profile.jpg"
+}

@@ -1,0 +1,212 @@
+{
+  "id": 1110,
+  "name": "צביקה פוגל",
+  "fullTitle": "חבר הכנסת צביקה פוגל",
+  "faction": "עוצמה יהודית בראשות איתמר בן גביר",
+  "email": "tzfoghel@knesset.gov.il",
+  "workPhone": "02-6753676",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/fogheltzvika",
+    "twitter": "https://twitter.com/tzvikafoghel",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1110/1_1110_3_19738.jpeg?v=20260415_86313",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1110/1_1110_3_19738.jpeg?v=20260415_86313",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1110/1_1110_1_19798.png?v=20260415_86313",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1110/1_1110_4_19799.png?v=20260415_86313"
+  },
+  "gender": "male",
+  "dateOfBirth": "כ\"ט בחשוון תשי\"ז , 03/11/1956",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "- BA כללי, היסטוריה\n- MA בהתנהגות אירגונית",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "רומנית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "124",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש הוועדה לביטחון לאומי, יושב-ראש ועדה משותפת של הוועדה לביטחון לאומי וועדת החוקה, חוק ומשפט, לפי חוק האזנת סתר, התשל\"ט-1979, יושב-ראש ועדה משותפת לדיון בהצעות חוק כלי הנשק הבלתי חוקיים , יושב-ראש ועדת משנה לנושאים מסווגים ויושב-ראש סיעת עוצמה יהודית בראשות איתמר בן גביר",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1110/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1110/1_1110_3_19738.jpeg?v=20260415_86313",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10027,
+      "filename": "DST01227.JPG",
+      "localPath": "photos/1110/DST01227.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/DST01227.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת צביקה פוגל ביום עיון לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10028,
+      "filename": "DST00876.JPG",
+      "localPath": "photos/1110/DST00876.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/DST00876.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת צביקה פוגל ביום עיון לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10038,
+      "filename": "NOAM9660.JPG",
+      "localPath": "photos/1110/NOAM9660.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/NOAM9660.JPG",
+      "width": 5655,
+      "height": 3770,
+      "title": "חבר הכנסת צביקה פוגל ביום השבעת הכנסת ה-25, 15.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10251,
+      "filename": "20221220102055_NOAM4747.jpg",
+      "localPath": "photos/1110/20221220102055_NOAM4747.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/20221220102055_NOAM4747.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת לימור סון הר מלך, צביקה פוגל ויעקב אשר במליאת הכנסת, 20.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10342,
+      "filename": "20221226185008_NOAM6272.jpg",
+      "localPath": "photos/1110/20221226185008_NOAM6272.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/20221226185008_NOAM6272.jpg",
+      "width": 4783,
+      "height": 3189,
+      "title": "חבר הכנסת צביקה פוגל במליאת הכנסת, 26.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10345,
+      "filename": "20221228093817_NOAM7039.jpg",
+      "localPath": "photos/1110/20221228093817_NOAM7039.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/20221228093817_NOAM7039.jpg",
+      "width": 5640,
+      "height": 3760,
+      "title": "חברי הכנסת צביקה פוגל ומירב בן ארי במליאת הכנסת, 28.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10630,
+      "filename": "DST06078.JPG",
+      "localPath": "photos/1110/DST06078.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/DST06078.JPG",
+      "width": 1364,
+      "height": 924,
+      "title": "חבר הכנסת צביקה פוגל נושא דברים במליאת הכנסת. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10631,
+      "filename": "DST06090.jpg",
+      "localPath": "photos/1110/DST06090.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/DST06090.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת צביקה פוגל נושא דברים במליאת הכנסת. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10632,
+      "filename": "DST06096 (1).jpg",
+      "localPath": "photos/1110/DST06096 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/DST06096 (1).jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת צביקה פוגל נושא דברים במליאת הכנסת. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10633,
+      "filename": "DST07847.jpg",
+      "localPath": "photos/1110/DST07847.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/DST07847.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "יושב-ראש הוועדה לביטחון לאומי חבר הכנסת צביקה פוגל. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10634,
+      "filename": "NOAM9658.JPG",
+      "localPath": "photos/1110/NOAM9658.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/NOAM9658.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת צביקה פוגל ביום השבעת הכנסת ה-25, 15.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10635,
+      "filename": "20221206164335_NOAM0158.jpg",
+      "localPath": "photos/1110/20221206164335_NOAM0158.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/20221206164335_NOAM0158.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת צביקה פוגל ועמיחי אליהו במליאת הכנסת. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10636,
+      "filename": "20221214095020_NOAM2733.jpg",
+      "localPath": "photos/1110/20221214095020_NOAM2733.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/20221214095020_NOAM2733.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת עמיחי אליהו, צביקה פוגל ואבי מעוז במליאת הכנסת. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10637,
+      "filename": "20230116091714_NOAM9614.jpg",
+      "localPath": "photos/1110/20230116091714_NOAM9614.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/20230116091714_NOAM9614.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת צביקה פוגל בישיבת ועדה. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10638,
+      "filename": "20230116091922_NOAM9639 (1).jpg",
+      "localPath": "photos/1110/20230116091922_NOAM9639 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/20230116091922_NOAM9639 (1).jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת צביקה פוגל בוועדת הכנסת, 16.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10639,
+      "filename": "20230201164440_NOAM6048.jpg",
+      "localPath": "photos/1110/20230201164440_NOAM6048.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/20230201164440_NOAM6048.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "יושב-ראש הוועדה לביטחון לאומי חבר הכנסת צביקה פוגל, 1.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10640,
+      "filename": "DST01231.jpg",
+      "localPath": "photos/1110/DST01231.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1110/DST01231.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת צביקה פוגל ביום עיון לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:56:03.754Z",
+  "localImagePath": "photos/1110/profile.jpg"
+}

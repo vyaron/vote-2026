@@ -1,0 +1,257 @@
+{
+  "id": 1007,
+  "name": "מנסור עבאס",
+  "fullTitle": "חבר הכנסת מנסור עבאס",
+  "faction": "רע\"ם",
+  "email": "mabas@knesset.gov.il",
+  "workPhone": "8161,8203,8686",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/mansour.abbas.39",
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1007/1_1007_3_12320.jpeg?v=20260415_70518",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1007/1_1007_3_12320.jpeg?v=20260415_70518",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1007/1_1007_1_11151.png?v=20260415_70518",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1007/1_1007_4_12284.png?v=20260415_70518"
+  },
+  "gender": "male",
+  "dateOfBirth": "ל' בניסן תשל\"ד , 22/04/1974",
+  "deathDate": null,
+  "placeOfBirth": "מע'אר, ישראל",
+  "immigrationYear": null,
+  "residence": "מע'אר",
+  "education": "- תואר ראשון במדעי רפואת שיניים\n- ד\"ר לרפואת שיניים",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "ערבית"
+  ],
+  "bio": "ד\"ר מנסור עבאס מסיעת הרשימה המשותפת הוא יושב-ראש רע\"מ (רשימה ערבית מאוחדת) בכנסת. \n\nהוא נולד ב-22 באפריל 1974, מתגורר בכפר מע'אר שבגליל, נשוי ואב לשלושה.\n\nד\"ר מנסור עבאס למד רפואת שיניים באוניברסיטה העברית בירושלים, והוא רופא שיניים במקצועו. בשנים 1997–1998 היה יושב-ראש ועד הסטודנטים הערבים באוניברסיטה העברית. עתה הוא לומד באוניברסיטת חיפה לקראת תואר שני במדעי המדינה.\n\nד\"ר מנסור עבאס מכהן כסגן יושב-ראש הפלג הדרומי של התנועה האסלאמית. הוא הוגה ומחבר אמנת התנועה האסלאמית, המבססת את האסלאם הוַוסַטי.\n\nבשנת 2018 קיבל את פרס \"איש השנה לפיוס ויישוב סכסוכים בחברה הערבית\" מטעם רדיו אל-שמס.\n\nבכנסת העשרים-ואחת היה יושב-ראש השדולה למאבק בפשיעה ובאלימות בחברה הערבית.\n\nבכנסת העשרים-ושלוש הוא יושב-ראש צוות הרשימה המשותפת למאבק בפשיעה ובאלימות בחברה הערבית ויושב-ראש הוועדה המיוחדת למיגור הפשיעה במגזר הערבי. \n\n\nאפשר לקרוא את קורות החיים של חברי הכנסת גם בשפה הערבית והאנגלית.",
+  "knessetId": 25,
+  "plenumSeatNumber": "33",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1007/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1007/1_1007_3_12320.jpeg?v=20260415_70518",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 3919,
+      "filename": "ISH_4430.JPG",
+      "localPath": "photos/1007/ISH_4430.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/ISH_4430.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת מנסור עבאס, עבד אלחכים חאג' יחיא ויוסף ג'בארין  במליאת הכנסת, 20.5.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 4113,
+      "filename": "ISH_6347.JPG",
+      "localPath": "photos/1007/ISH_6347.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/ISH_6347.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת מנסור עבאס ויצחק זאב פינדרוס במליאת הכנסת,  28.5.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 5119,
+      "filename": "EAV00831.JPG",
+      "localPath": "photos/1007/EAV00831.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV00831.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "יושב-ראש הוועדה המיוחדת למיגור הפשיעה בחברה הערבית חבר הכנסת מנסור עבאס, 29.6.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5123,
+      "filename": "EAV05893.JPG",
+      "localPath": "photos/1007/EAV05893.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV05893.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת מנסור עבאס במליאת הכנסת,  23.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 5997,
+      "filename": "EAV07794.JPG",
+      "localPath": "photos/1007/EAV07794.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV07794.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת מנסור עבאס ואנטאנס שחאדה במליאת הכנסת, 7.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5998,
+      "filename": "EAV01249.JPG",
+      "localPath": "photos/1007/EAV01249.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV01249.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת מנסור עבאס ואמיר אוחנה במליאת הכנסת, 9.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5999,
+      "filename": "EAV04321.JPG",
+      "localPath": "photos/1007/EAV04321.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV04321.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "יושב-ראש הוועדה המיוחדת למיגור הפשיעה בחברה הערבית חבר הכנסת מנסור עבאס, 11.10.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6000,
+      "filename": "EAV07199.JPG",
+      "localPath": "photos/1007/EAV07199.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV07199.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "יושב-ראש הוועדה המיוחדת למיגור הפשיעה בחברה הערבית חבר הכנסת מנסור עבאס, 7.9.2020. צילום: יהונתן סמיה, דוברות הכנסת"
+    },
+    {
+      "id": 8903,
+      "filename": "EAV00985_JPG.jpg",
+      "localPath": "photos/1007/EAV00985_JPG.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV00985_JPG.jpg",
+      "width": 640,
+      "height": 426,
+      "title": "חברי הכנסת מנסור עבאס ואיימן עודה במליאת הכנסת, 17.5.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 8904,
+      "filename": "NOAM7743.JPG",
+      "localPath": "photos/1007/NOAM7743.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/NOAM7743.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת מנסור עבאס במליאת הכנסת, 12.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8905,
+      "filename": "EAV01297.JPG",
+      "localPath": "photos/1007/EAV01297.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV01297.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושב-ראש הוועדה המיוחדת לענייני החברה הערבית חבר הכנסת מנסור עבאס, 21.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8906,
+      "filename": "EAV09795.JPG",
+      "localPath": "photos/1007/EAV09795.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV09795.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת מנסור עבאס במליאת הכנסת, 9.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8907,
+      "filename": "EAV08658.JPG",
+      "localPath": "photos/1007/EAV08658.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV08658.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חברי הכנסת מנסור עבאס ועמר בר-לב במליאת הכנסת, 7.6.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8908,
+      "filename": "DST05854.JPG",
+      "localPath": "photos/1007/DST05854.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/DST05854.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "סגן יושב-ראש הכנסת חבר הכנסת מנסור עבאס במליאת הכנסת, 1.12.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8909,
+      "filename": "NOAM9430.JPG",
+      "localPath": "photos/1007/NOAM9430.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/NOAM9430.JPG",
+      "width": 4898,
+      "height": 3265,
+      "title": "חבר הכנסת מנסור עבאס במליאת הכנסת, 14.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8910,
+      "filename": "EAV00833.JPG",
+      "localPath": "photos/1007/EAV00833.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV00833.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת מנסור עבאס במליאת הכנסת, 13.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8911,
+      "filename": "EAV08605.JPG",
+      "localPath": "photos/1007/EAV08605.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV08605.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חבר הכנסת מנסור עבאס במליאת הכנסת, 7.6.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8912,
+      "filename": "DST03323.JPG",
+      "localPath": "photos/1007/DST03323.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/DST03323.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת מנסור עבאס ואיתן גינזבורג במליאת הכנסת, 2.8.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8913,
+      "filename": "EAV04342.JPG",
+      "localPath": "photos/1007/EAV04342.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV04342.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "יושב-ראש הוועדה המיוחדת למיגור הפשיעה בחברה הערבית חבר הכנסת מנסור עבאס, 27.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8914,
+      "filename": "EAV01630.JPG",
+      "localPath": "photos/1007/EAV01630.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV01630.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושב-ראש הוועדה המיוחדת למיגור הפשיעה בחברה הערבית חבר הכנסת מנסור עבאס, 24.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8915,
+      "filename": "EAV06645.JPG",
+      "localPath": "photos/1007/EAV06645.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV06645.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת מנסור עבאס בהיבחרו ליושב-ראש הוועדה המיוחדת למיגור הפשיעה בחברה הערבית, 26.4.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8916,
+      "filename": "EAV05607.JPG",
+      "localPath": "photos/1007/EAV05607.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1007/EAV05607.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חברי הכנסת מנסור עבאס ויובל שטייניץ במליאת הכנסת, 10.8.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:56.217Z",
+  "localImagePath": "photos/1007/profile.jpg"
+}

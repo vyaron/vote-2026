@@ -1,0 +1,220 @@
+{
+  "id": 1061,
+  "name": "רון כץ",
+  "fullTitle": "חבר הכנסת רון כץ",
+  "faction": "יש עתיד",
+  "email": "rkatz@knesset.gov.il",
+  "workPhone": "02-6408391",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/YeshAtidPT",
+    "twitter": "https://twitter.com/Ronkatz22",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1061/1_1061_3_17813.jpeg?v=20260415_16111",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1061/1_1061_3_17813.jpeg?v=20260415_16111",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1061/1_1061_1_17894.png?v=20260415_16111",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1061/1_1061_4_17895.png?v=20260415_16111"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ט בתשרי תשמ\"ו , 04/10/1985",
+  "deathDate": null,
+  "placeOfBirth": "עפולה, ישראל",
+  "immigrationYear": null,
+  "residence": "פתח תקווה",
+  "education": "LLB במשפטים",
+  "militaryService": "סרן. השתחרר ב-14.2.2012.",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "48",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש ועדת משנה לתחרות ושירות ללקוח במערכת הבנקאית",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1061/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1061/1_1061_3_17813.jpeg?v=20260415_16111",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 6464,
+      "filename": "EAV08977.JPG",
+      "localPath": "photos/1061/EAV08977.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/EAV08977.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רון כץ במליאת הכנסת, 4.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6465,
+      "filename": "EAV09526.JPG",
+      "localPath": "photos/1061/EAV09526.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/EAV09526.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רון כץ במליאת הכנסת, 4.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 6467,
+      "filename": "EAV00468.JPG",
+      "localPath": "photos/1061/EAV00468.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/EAV00468.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רון כץ במליאת הכנסת, 5.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6469,
+      "filename": "EAV00548.JPG",
+      "localPath": "photos/1061/EAV00548.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/EAV00548.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רון כץ בוועדת החוץ והביטחון, 10.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6470,
+      "filename": "EAV00577.JPG",
+      "localPath": "photos/1061/EAV00577.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/EAV00577.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת רון כץ ואריאל בוסו בוועדת החוץ והביטחון, 10.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6509,
+      "filename": "EAV02570.JPG",
+      "localPath": "photos/1061/EAV02570.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/EAV02570.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רון כץ במליאת הכנסת, 24.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6510,
+      "filename": "EAV04141.JPG",
+      "localPath": "photos/1061/EAV04141.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/EAV04141.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רון כץ במליאת הכנסת, 26.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 6512,
+      "filename": "EAV09874.JPG",
+      "localPath": "photos/1061/EAV09874.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/EAV09874.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רון כץ בוועדה המסדרת, 4.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 6513,
+      "filename": "EAV02108.JPG",
+      "localPath": "photos/1061/EAV02108.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/EAV02108.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רון כץ בהשבעת הכנסת ה-24, 6.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6514,
+      "filename": "EAV02543.JPG",
+      "localPath": "photos/1061/EAV02543.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/EAV02543.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רון כץ בנאום בכורה במליאת הכנסת, 24.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6516,
+      "filename": "1E1A5914.JPG",
+      "localPath": "photos/1061/1E1A5914.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/1E1A5914.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת רון כץ ביום השבעת הכנסת ה-24, 6.4.2021. צילום: אסי אפרתי – תדמית הפקות, דוברות הכנסת"
+    },
+    {
+      "id": 6518,
+      "filename": "EAV00278.JPG",
+      "localPath": "photos/1061/EAV00278.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/EAV00278.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת רון כץ ואריאל בוסו בוועדת החוץ והביטחון, 13.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9222,
+      "filename": "DST06276.JPG",
+      "localPath": "photos/1061/DST06276.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/DST06276.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושב-ראש ועדת המשנה לקידום ההייטק בישראל חבר הכנסת רון כץ, 20.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9223,
+      "filename": "DST06271.JPG",
+      "localPath": "photos/1061/DST06271.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/DST06271.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושב-ראש ועדת המשנה לקידום ההייטק בישראל חבר הכנסת רון כץ, 20.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9224,
+      "filename": "DST05891.JPG",
+      "localPath": "photos/1061/DST05891.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/DST05891.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושב-ראש ועדת המשנה לקידום ההייטק בישראל חבר הכנסת רון כץ, 25.1.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9225,
+      "filename": "EAV06011.JPG",
+      "localPath": "photos/1061/EAV06011.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/EAV06011.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת רון כץ במליאת הכנסת, 31.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9226,
+      "filename": "DST03080.JPG",
+      "localPath": "photos/1061/DST03080.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/DST03080.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת רון כץ עם נשיא המדינה הנבחר יצחק הרצוג ורעייתו מיכל, 7.7.2021. צילום:  דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9250,
+      "filename": "20220428101728_NOAM7946.jpg",
+      "localPath": "photos/1061/20220428101728_NOAM7946.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1061/20220428101728_NOAM7946.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חבר הכנסת רון כץ יחד ואביו ארנסט כץ, דור שני לניצולי השואה, מדליקים נר זיכרון בטקס \"לכל איש יש שם\" בכנסת, 28.4.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:18.816Z",
+  "localImagePath": "photos/1061/profile.jpg"
+}

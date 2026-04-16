@@ -1,0 +1,57 @@
+{
+  "id": 1128,
+  "name": "עפיף עבד",
+  "fullTitle": "חבר הכנסת עפיף עבד",
+  "faction": "הליכוד ",
+  "email": "abbed@knesset.gov.il",
+  "workPhone": null,
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/afef.abed/",
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1128/1_1128_3_20759.jpeg?v=20260415_87698",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1128/1_1128_3_20759.jpeg?v=20260415_87698",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1128/1_1128_1_20802.png?v=20260415_87698",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1128/1_1128_4_20803.png?v=20260415_87698"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ז בשבט תשל\"ד , 09/02/1974",
+  "deathDate": null,
+  "placeOfBirth": "ירכא, ישראל",
+  "immigrationYear": null,
+  "residence": "ירכא",
+  "education": null,
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית"
+  ],
+  "bio": "עפיף עבד הוא איש עסקים, פוליטיקאי, דרוזי ישראלי המכהן כחבר הכנסת העשרים וחמש מטעם מפלגת הליכוד, נציג המגזר הלא יהודי.\nעבד נולד ב-9 בפברואר 1974 לאמין וכאמלה בכפר הדרוזי ירכא, והינו האח הבכור מבין חמישה אחים. בשנת 1994 השתחרר משירותו הצבאי בטרם עת, עקב נסיבות משפחתיות מיוחדות – טיפל באביו, שנותר מרותק למיטתו בעקבות תאונת דרכים קשה. \nבשנת 1998 החל לעבוד במועצת כפר ירכא בתפקיד מנהל מחלקת רישוי עסקים. בשנים 1998 עד 2004 היה יו”ר עמותת בני ירכא בכדורסל.\n\nעבד פעיל משנת 1996 במפלגת הליכוד. בשנת 2001 הפך חבר מרכז ליכוד. בשנת 2010 הפך סגן יו\"ר תנועת צעירי הליכוד הארצית. בשנת 2012 נבחר למזכירות הליכוד, זכה בתמיכה רחבה ושובץ במקום ה-43 ברשימת הליכוד לכנסת. \n\nב-5 בינואר 2025 החל עבד לכהן כחבר הכנסת העשרים וחמש, בעקבות התפטרותו של חבר הכנסת יואב גלנט. עבד נחשב לאחראי על תחום האוכלוסייה הלא-יהודית בליכוד ומקיים קשר הדוק עם כלל מנהיגי העדה הדרוזית ובני המיעוטים.\n\nעבד נשוי לראניה וגר בירכא. לזוג שמונה ילדים.",
+  "knessetId": 25,
+  "plenumSeatNumber": "102",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1128/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1128/1_1128_3_20759.jpeg?v=20260415_87698",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:57.348Z",
+  "localImagePath": "photos/1128/profile.jpg"
+}

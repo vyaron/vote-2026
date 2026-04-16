@@ -1,0 +1,265 @@
+{
+  "id": 1008,
+  "name": "משה ארבל",
+  "fullTitle": "חבר הכנסת משה ארבל",
+  "faction": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+  "email": "marbel@knesset.gov.il",
+  "workPhone": "8528,8412",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1008/1_1008_3_11235.jpeg?v=20260415_17388",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1008/1_1008_3_11235.jpeg?v=20260415_17388",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1008/1_1008_1_11103.png?v=20260415_17388",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1008/1_1008_4_11248.png?v=20260415_17388"
+  },
+  "gender": "male",
+  "dateOfBirth": "כ' בטבת תשמ\"ד , 26/12/1983",
+  "deathDate": null,
+  "placeOfBirth": "פתח תקווה, ישראל",
+  "immigrationYear": null,
+  "residence": "פתח תקווה",
+  "education": "- תואר ראשון במשפטים, הקריה האקדמית אונו\n- תואר שני במשפטים (בהצטיינות), הקריה האקדמית אונו\n- לימודי תעודה, בית הספר למינהל עסקים באוניברסיטת הרווארד, בוסטון \n- תלמיד לתואר שלישי (PhD in Law) בבית ספר ע\"ש הארי רדזינר למשפטים במרכז הבינתחומי בהרצליה",
+  "militaryService": "סמל",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "6",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1008/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1008/1_1008_3_11235.jpeg?v=20260415_17388",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 3262,
+      "filename": "FF4A1665.JPG",
+      "localPath": "photos/1008/FF4A1665.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/FF4A1665.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת משה ארבל ביום השבעת חברי הכנסת ה-21, 30.4.2019. צילום: יוסי זמיר, דוברות הכנסת"
+    },
+    {
+      "id": 3688,
+      "filename": "משה ארבל.JPG",
+      "localPath": "photos/1008/משה ארבל.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/משה ארבל.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חבר הכנסת משה ארבל מדליק נר זיכרון לזכר נספי השואה. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 4318,
+      "filename": "1S5A9173.JPG",
+      "localPath": "photos/1008/1S5A9173.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/1S5A9173.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חבר הכנסת משה ארבל ביום השבעת חברי הכנסת ה-22, 3.10.2019. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 5665,
+      "filename": "EAV05025.JPG",
+      "localPath": "photos/1008/EAV05025.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/EAV05025.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "סגן יושב-ראש הכנסת חבר הכנסת משה ארבל, 16.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5666,
+      "filename": "EAV04180.JPG",
+      "localPath": "photos/1008/EAV04180.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/EAV04180.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת משה ארבל ומיקי חיימוביץ במליאת הכנסת, 24.8.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5667,
+      "filename": "EAV04856.JPG",
+      "localPath": "photos/1008/EAV04856.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/EAV04856.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "סגן יושב-ראש הכנסת חבר הכנסת משה ארבל, 26.8.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 9835,
+      "filename": "20220629163955_NOAM2032.jpg",
+      "localPath": "photos/1008/20220629163955_NOAM2032.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/20220629163955_NOAM2032.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת משה ארבל במליאת הכנסת, 29.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9836,
+      "filename": "20220622111345_NOAM4024.jpg",
+      "localPath": "photos/1008/20220622111345_NOAM4024.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/20220622111345_NOAM4024.jpg",
+      "width": 1468,
+      "height": 979,
+      "title": "חברי הכנסת משה ארבל ושמחה רוטמן במליאת הכנסת, 22.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9837,
+      "filename": "DST07301.JPG",
+      "localPath": "photos/1008/DST07301.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/DST07301.JPG",
+      "width": 1836,
+      "height": 1257,
+      "title": "חבר הכנסת משה ארבל במליאת הכנסת, 23.5.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9838,
+      "filename": "20220309173151_NOAM1839.jpg",
+      "localPath": "photos/1008/20220309173151_NOAM1839.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/20220309173151_NOAM1839.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת משה ארבל במליאת הכנסת, 9.3.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9839,
+      "filename": "DST09914.JPG",
+      "localPath": "photos/1008/DST09914.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/DST09914.JPG",
+      "width": 1833,
+      "height": 1218,
+      "title": "חבר הכנסת משה ארבל במליאת הכנסת, 7.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9840,
+      "filename": "20220131192910_NOAM8505.jpg",
+      "localPath": "photos/1008/20220131192910_NOAM8505.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/20220131192910_NOAM8505.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת משה ארבל במליאת הכנסת, 31.1.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9841,
+      "filename": "20211229184424_NOAM1723.jpg",
+      "localPath": "photos/1008/20211229184424_NOAM1723.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/20211229184424_NOAM1723.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת משה ארבל במליאת הכנסת, 29.12.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9842,
+      "filename": "20211208182908_NOAM5995.jpg",
+      "localPath": "photos/1008/20211208182908_NOAM5995.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/20211208182908_NOAM5995.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת משה ארבל ומיכל רוזין במליאת הכנסת, 8.12.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9843,
+      "filename": "DST04688.JPG",
+      "localPath": "photos/1008/DST04688.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/DST04688.JPG",
+      "width": 1616,
+      "height": 1080,
+      "title": "חבר הכנסת משה ארבל במליאת הכנסת, 20.10.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9844,
+      "filename": "20210727141146_NOAM0135.jpg",
+      "localPath": "photos/1008/20210727141146_NOAM0135.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/20210727141146_NOAM0135.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חבר הכנסת משה ארבל בוועדת החוקה, חוק ומשפט, 27.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9845,
+      "filename": "20210704162920_NOAM4189.jpg",
+      "localPath": "photos/1008/20210704162920_NOAM4189.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/20210704162920_NOAM4189.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חברי הכנסת משה ארבל ורון כץ בוועדת החוקה, חוק ומשפט, 4.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9846,
+      "filename": "20210629144516_NOAM1914.jpg",
+      "localPath": "photos/1008/20210629144516_NOAM1914.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/20210629144516_NOAM1914.jpg",
+      "width": 1394,
+      "height": 929,
+      "title": "חברי הכנסת משה ארבל וצבי האוזר בוועדת החוקה, חוק ומשפט, 29.6.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9847,
+      "filename": "חכ משה ארבל.jpeg",
+      "localPath": "photos/1008/חכ משה ארבל.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/חכ משה ארבל.jpeg",
+      "width": 1600,
+      "height": 1069,
+      "title": "חבר הכנסת משה ארבל בוועדה המסדרת, 27.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9848,
+      "filename": "SHL_4914.JPG",
+      "localPath": "photos/1008/SHL_4914.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/SHL_4914.JPG",
+      "width": 8256,
+      "height": 5504,
+      "title": "חברי הכנסת משה ארבל ומוסי רז בשיחה לכבוד יום ההולדת של הכנסת בט\"ו בשבט, 17.1.2021. צילום: שלומי אמסלם, דוברות הכנסת"
+    },
+    {
+      "id": 9849,
+      "filename": "20220105185859_NOAM3908.jpg",
+      "localPath": "photos/1008/20220105185859_NOAM3908.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/20220105185859_NOAM3908.jpg",
+      "width": 5635,
+      "height": 3757,
+      "title": "חברי הכנסת משה ארבל וינון אזולאי במליאת הכנסת, 5.1.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9850,
+      "filename": "NOAM5776.JPG",
+      "localPath": "photos/1008/NOAM5776.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/NOAM5776.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת משה ארבל, יעקב מרגי, אוריאל בוסו וינון אזולאי במליאת הכנסת, 20.10.2021. צילום נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9851,
+      "filename": "EAV04569.JPG",
+      "localPath": "photos/1008/EAV04569.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1008/EAV04569.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת משה ארבל ועאידה תומא סלימאן במליאת הכנסת, 8.3.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:11.595Z",
+  "localImagePath": "photos/1008/profile.jpg"
+}

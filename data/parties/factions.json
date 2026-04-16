@@ -1,0 +1,1212 @@
+[
+  {
+    "id": 882,
+    "name": "הליכוד",
+    "knessetNum": 20,
+    "startDate": "2015-03-31T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 902,
+    "name": "המחנה הציוני",
+    "knessetNum": 20,
+    "startDate": "2015-03-31T00:00:00",
+    "finishDate": "2019-01-01T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 903,
+    "name": "הרשימה המשותפת (חד\"ש, רע\"ם, בל\"ד ותע\"ל)",
+    "knessetNum": 20,
+    "startDate": "2015-03-31T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 904,
+    "name": "יש עתיד",
+    "knessetNum": 20,
+    "startDate": "2015-03-31T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 905,
+    "name": "ישראל ביתנו",
+    "knessetNum": 20,
+    "startDate": "2015-03-31T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 906,
+    "name": "כולנו בראשות משה כחלון",
+    "knessetNum": 20,
+    "startDate": "2015-03-31T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 907,
+    "name": "הבית היהודי בראשות נפתלי בנט",
+    "knessetNum": 20,
+    "startDate": "2015-03-31T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 908,
+    "name": "יהדות התורה",
+    "knessetNum": 20,
+    "startDate": "2015-03-31T00:00:00",
+    "finishDate": "2019-01-09T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 909,
+    "name": "מרצ",
+    "knessetNum": 20,
+    "startDate": "2015-03-31T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 910,
+    "name": "ש\"ס",
+    "knessetNum": 20,
+    "startDate": "2015-03-31T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 913,
+    "name": "חה\"כ אורלי לוי-אבקסיס",
+    "knessetNum": 20,
+    "startDate": "2017-03-15T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 914,
+    "name": "העבודה הישראלית",
+    "knessetNum": 20,
+    "startDate": "2019-01-01T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 915,
+    "name": "התנועה",
+    "knessetNum": 20,
+    "startDate": "2019-01-01T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 916,
+    "name": "הימין החדש",
+    "knessetNum": 20,
+    "startDate": "2018-12-30T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1055,
+    "name": "דגל התורה",
+    "knessetNum": 20,
+    "startDate": "2019-01-09T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1056,
+    "name": "אגודת ישראל",
+    "knessetNum": 20,
+    "startDate": "2019-01-09T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1057,
+    "name": "תע\"ל – בראשות אחמד טיבי",
+    "knessetNum": 20,
+    "startDate": "2019-01-09T00:00:00",
+    "finishDate": "2019-04-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 917,
+    "name": "כחול לבן",
+    "knessetNum": 21,
+    "startDate": "2019-04-30T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 918,
+    "name": "ש\"ס",
+    "knessetNum": 21,
+    "startDate": "2019-04-30T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 922,
+    "name": "רע\"ם - בל\"ד - הרשימה הערבית המאוחדת ברית לאומית דמוקרטית",
+    "knessetNum": 21,
+    "startDate": "2019-04-30T00:00:00",
+    "finishDate": "2019-06-02T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 923,
+    "name": "הבית היהודי - האיחוד הלאומי",
+    "knessetNum": 21,
+    "startDate": "2019-04-30T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 924,
+    "name": "חד\"ש תע\"ל בראשות איימן עודה ואחמד טיבי",
+    "knessetNum": 21,
+    "startDate": "2019-04-30T00:00:00",
+    "finishDate": "2019-07-10T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 925,
+    "name": "העבודה",
+    "knessetNum": 21,
+    "startDate": "2019-04-30T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 926,
+    "name": "מרצ",
+    "knessetNum": 21,
+    "startDate": "2019-04-30T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 928,
+    "name": "יהדות התורה",
+    "knessetNum": 21,
+    "startDate": "2019-04-30T00:00:00",
+    "finishDate": "2019-07-10T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 929,
+    "name": "ישראל ביתנו בראשות אביגדור ליברמן",
+    "knessetNum": 21,
+    "startDate": "2019-04-30T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 930,
+    "name": "כולנו בראשות משה כחלון",
+    "knessetNum": 21,
+    "startDate": "2019-04-30T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 931,
+    "name": "הליכוד בהנהגת בנימין נתניהו לראשות הממשלה",
+    "knessetNum": 21,
+    "startDate": "2019-04-30T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1058,
+    "name": "אח\"י - ארץ, חברה, יהדות",
+    "knessetNum": 21,
+    "startDate": "2019-06-02T00:00:00",
+    "finishDate": "2019-09-04T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1059,
+    "name": "רע\"ם – רשימת האיחוד הערבי",
+    "knessetNum": 21,
+    "startDate": "2019-06-02T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1060,
+    "name": "בל\"ד – ברית לאומית דמוקרטית",
+    "knessetNum": 21,
+    "startDate": "2019-06-02T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1061,
+    "name": "חד\"ש",
+    "knessetNum": 21,
+    "startDate": "2019-07-10T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1062,
+    "name": "תע\"ל",
+    "knessetNum": 21,
+    "startDate": "2019-07-10T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1063,
+    "name": "אגודת ישראל",
+    "knessetNum": 21,
+    "startDate": "2019-07-10T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1064,
+    "name": "דגל התורה",
+    "knessetNum": 21,
+    "startDate": "2019-07-10T00:00:00",
+    "finishDate": "2019-10-03T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 932,
+    "name": "ש\"ס",
+    "knessetNum": 22,
+    "startDate": "2019-10-03T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 933,
+    "name": "הליכוד בהנהגת בנימין נתניהו לראשות הממשלה",
+    "knessetNum": 22,
+    "startDate": "2019-10-03T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 934,
+    "name": "העבודה - גשר",
+    "knessetNum": 22,
+    "startDate": "2019-10-03T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 935,
+    "name": "הבית היהודי - האיחוד הלאומי",
+    "knessetNum": 22,
+    "startDate": "2019-10-10T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 936,
+    "name": "יהדות התורה והשבת אגודת ישראל - דגל התורה",
+    "knessetNum": 22,
+    "startDate": "2019-10-03T00:00:00",
+    "finishDate": "2019-12-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 937,
+    "name": "ישראל ביתנו בראשות אביגדור ליברמן",
+    "knessetNum": 22,
+    "startDate": "2019-10-03T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 938,
+    "name": "כחול לבן",
+    "knessetNum": 22,
+    "startDate": "2019-10-03T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 939,
+    "name": "המחנה הדמוקרטי",
+    "knessetNum": 22,
+    "startDate": "2019-10-03T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 940,
+    "name": "הרשימה המשותפת חד\"ש, רע\"ם, תע\"ל, בל\"ד",
+    "knessetNum": 22,
+    "startDate": "2019-10-03T00:00:00",
+    "finishDate": "2019-12-30T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 941,
+    "name": "הימין החדש",
+    "knessetNum": 22,
+    "startDate": "2019-10-10T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1065,
+    "name": "אגודת ישראל",
+    "knessetNum": 22,
+    "startDate": "2019-12-30T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1066,
+    "name": "דגל התורה",
+    "knessetNum": 22,
+    "startDate": "2019-12-30T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1067,
+    "name": "חד\"ש - חזית דמוקרטית לשלום ושוויון",
+    "knessetNum": 22,
+    "startDate": "2019-12-30T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1068,
+    "name": "בל\"ד - ברית לאומית דמוקרטית",
+    "knessetNum": 22,
+    "startDate": "2019-12-30T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1069,
+    "name": "רע\"מ - רשימת האיחוד הערבי",
+    "knessetNum": 22,
+    "startDate": "2019-12-30T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1070,
+    "name": "תע\"ל - התנועה הערבית לשינוי",
+    "knessetNum": 22,
+    "startDate": "2019-12-30T00:00:00",
+    "finishDate": "2020-03-16T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1077,
+    "name": "ימינה בראשות איילת שקד הבית היהודי – האיחוד הלאומי – הימין החדש",
+    "knessetNum": 22,
+    "startDate": "2019-10-03T00:00:00",
+    "finishDate": "2019-10-10T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 942,
+    "name": "הליכוד",
+    "knessetNum": 23,
+    "startDate": "2020-03-16T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 943,
+    "name": "הרשימה המשותפת חד\"ש, רע\"מ, תע\"ל, בל\"ד",
+    "knessetNum": 23,
+    "startDate": "2020-03-16T00:00:00",
+    "finishDate": "2021-01-28T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 944,
+    "name": "יהדות התורה והשבת אגודת ישראל - דגל התורה",
+    "knessetNum": 23,
+    "startDate": "2020-03-16T00:00:00",
+    "finishDate": "2020-12-28T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 945,
+    "name": "ישראל ביתנו בראשות אביגדור ליברמן",
+    "knessetNum": 23,
+    "startDate": "2020-03-16T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 946,
+    "name": "כחול לבן",
+    "knessetNum": 23,
+    "startDate": "2020-03-29T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 947,
+    "name": "ש\"ס",
+    "knessetNum": 23,
+    "startDate": "2020-03-16T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 948,
+    "name": "ימינה",
+    "knessetNum": 23,
+    "startDate": "2020-03-16T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 949,
+    "name": "העבודה - גשר - מרצ",
+    "knessetNum": 23,
+    "startDate": "2020-03-16T00:00:00",
+    "finishDate": "2020-03-23T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 950,
+    "name": "יש עתיד",
+    "knessetNum": 23,
+    "startDate": "2020-03-29T00:00:00",
+    "finishDate": "2020-03-29T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 951,
+    "name": "תל\"ם - תנועה לאומית ממלכתית",
+    "knessetNum": 23,
+    "startDate": "2020-03-29T00:00:00",
+    "finishDate": "2020-03-29T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 952,
+    "name": "חה\"כ ע'דיר כמאל מריח",
+    "knessetNum": 23,
+    "startDate": "2020-03-29T00:00:00",
+    "finishDate": "2020-03-29T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 953,
+    "name": "חה\"כ פנינה תמנו",
+    "knessetNum": 23,
+    "startDate": "2020-03-29T00:00:00",
+    "finishDate": "2020-03-29T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 954,
+    "name": "דרך ארץ",
+    "knessetNum": 23,
+    "startDate": "2020-03-29T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 955,
+    "name": "יש עתיד - תל\"ם",
+    "knessetNum": 23,
+    "startDate": "2020-03-29T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 956,
+    "name": "העבודה - מרצ",
+    "knessetNum": 23,
+    "startDate": "2020-03-23T00:00:00",
+    "finishDate": "2020-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 957,
+    "name": "גשר",
+    "knessetNum": 23,
+    "startDate": "2020-03-23T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 958,
+    "name": "העבודה הישראלית",
+    "knessetNum": 23,
+    "startDate": "2020-04-06T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 959,
+    "name": "מרצ",
+    "knessetNum": 23,
+    "startDate": "2020-04-06T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 960,
+    "name": "הבית היהודי",
+    "knessetNum": 23,
+    "startDate": "2020-07-14T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1071,
+    "name": "אגודת ישראל",
+    "knessetNum": 23,
+    "startDate": "2020-12-28T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1072,
+    "name": "דגל התורה",
+    "knessetNum": 23,
+    "startDate": "2020-12-28T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1073,
+    "name": "האיחוד הלאומי",
+    "knessetNum": 23,
+    "startDate": "2021-01-20T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1074,
+    "name": "הרשימה המשותפת",
+    "knessetNum": 23,
+    "startDate": "2021-01-28T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1075,
+    "name": "רע\"מ – רשימת האיחוד הערבי",
+    "knessetNum": 23,
+    "startDate": "2021-01-28T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1076,
+    "name": "תע\"ל – התנועה הערבית להתחדשות",
+    "knessetNum": 23,
+    "startDate": "2021-01-28T00:00:00",
+    "finishDate": "2021-04-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1079,
+    "name": "כחול לבן בראשות בנימין גנץ",
+    "knessetNum": 23,
+    "startDate": "2020-03-16T00:00:00",
+    "finishDate": "2020-03-29T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 961,
+    "name": "הציונות הדתית",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 962,
+    "name": "הליכוד בהנהגת בנימין נתניהו לראשות הממשלה",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 963,
+    "name": "העבודה",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 964,
+    "name": "הרשימה המשותפת (חד\"ש, תע\"ל, בל\"ד)",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-09-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 965,
+    "name": "יהדות התורה והשבת - אגודת ישראל דגל התורה",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-08-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 966,
+    "name": "ימינה בראשות נפתלי בנט",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-08-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 967,
+    "name": "יש עתיד",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 968,
+    "name": "ישראל ביתנו",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 969,
+    "name": "כחול לבן",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 970,
+    "name": "מרצ",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 971,
+    "name": "ש\"ס",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 972,
+    "name": "תקווה חדשה",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-08-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 973,
+    "name": "הרשימה הערבית המאוחדת",
+    "knessetNum": 24,
+    "startDate": "2021-04-06T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 974,
+    "name": "עתיד אחד",
+    "knessetNum": 24,
+    "startDate": "2021-06-27T00:00:00",
+    "finishDate": "2021-06-27T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1080,
+    "name": "חה\"כ עמיחי שיקלי",
+    "knessetNum": 24,
+    "startDate": "2022-04-25T00:00:00",
+    "finishDate": "2022-07-14T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1081,
+    "name": "עוצמה יהודית",
+    "knessetNum": 24,
+    "startDate": "2022-07-03T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1082,
+    "name": "דגל התורה",
+    "knessetNum": 24,
+    "startDate": "2022-08-15T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1083,
+    "name": "אגודת ישראל",
+    "knessetNum": 24,
+    "startDate": "2022-08-15T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1084,
+    "name": "נעם - בראשות חה\"כ אבי מעוז",
+    "knessetNum": 24,
+    "startDate": "2022-08-15T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1085,
+    "name": "המחנה הממלכתי",
+    "knessetNum": 24,
+    "startDate": "2022-08-15T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1086,
+    "name": "ביחד",
+    "knessetNum": 24,
+    "startDate": "2022-08-15T00:00:00",
+    "finishDate": "2022-09-06T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1087,
+    "name": "דרך ארץ",
+    "knessetNum": 24,
+    "startDate": "2022-08-15T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1088,
+    "name": "תקווה חדשה - אחדות לישראל",
+    "knessetNum": 24,
+    "startDate": "2022-08-15T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1089,
+    "name": "הרשימה המשותפת (חד\"ש, בל\"ד)",
+    "knessetNum": 24,
+    "startDate": "2022-09-06T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1090,
+    "name": "התנועה הערבית להתחדשות (תע\"ל)",
+    "knessetNum": 24,
+    "startDate": "2022-09-06T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1091,
+    "name": "ימינה",
+    "knessetNum": 24,
+    "startDate": "2022-08-15T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1092,
+    "name": "חופש כלכלי",
+    "knessetNum": 24,
+    "startDate": "2022-09-15T00:00:00",
+    "finishDate": "2022-11-15T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1095,
+    "name": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+    "knessetNum": 25,
+    "startDate": "2022-11-15T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1096,
+    "name": "הליכוד ",
+    "knessetNum": 25,
+    "startDate": "2022-11-15T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1097,
+    "name": "הציונות הדתית",
+    "knessetNum": 25,
+    "startDate": "2022-11-15T00:00:00",
+    "finishDate": "2022-11-20T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1098,
+    "name": "המחנה הממלכתי",
+    "knessetNum": 25,
+    "startDate": "2022-11-15T00:00:00",
+    "finishDate": "2025-07-08T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1099,
+    "name": "רע\"ם",
+    "knessetNum": 25,
+    "startDate": "2022-11-15T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1100,
+    "name": "העבודה",
+    "knessetNum": 25,
+    "startDate": "2022-11-15T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1101,
+    "name": "יהדות התורה",
+    "knessetNum": 25,
+    "startDate": "2022-11-15T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1102,
+    "name": "יש עתיד",
+    "knessetNum": 25,
+    "startDate": "2022-11-15T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1103,
+    "name": "חד\"ש-תע\"ל",
+    "knessetNum": 25,
+    "startDate": "2022-11-15T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1104,
+    "name": "ישראל ביתנו",
+    "knessetNum": 25,
+    "startDate": "2022-11-15T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1105,
+    "name": "הציונות הדתית בראשות בצלאל סמוטריץ'",
+    "knessetNum": 25,
+    "startDate": "2022-11-20T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1106,
+    "name": "עוצמה יהודית בראשות איתמר בן גביר",
+    "knessetNum": 25,
+    "startDate": "2022-11-15T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1107,
+    "name": "נעם - בראשות אבי מעוז",
+    "knessetNum": 25,
+    "startDate": "2022-11-20T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1108,
+    "name": "הימין הממלכתי ",
+    "knessetNum": 25,
+    "startDate": "2024-03-13T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1109,
+    "name": "חה\"כ עידן רול",
+    "knessetNum": 25,
+    "startDate": "2025-01-14T00:00:00",
+    "finishDate": "2025-08-13T00:00:00",
+    "isCurrent": false,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  },
+  {
+    "id": 1110,
+    "name": "כחול לבן - המחנה הממלכתי",
+    "knessetNum": 25,
+    "startDate": "2025-07-08T00:00:00",
+    "finishDate": null,
+    "isCurrent": true,
+    "members": [],
+    "scrapedAt": "2026-04-16T11:07:36.587Z"
+  }
+]

@@ -1,0 +1,718 @@
+[
+  {
+    "endpoint": "Main Page Analysis",
+    "status": 247,
+    "data": {
+      "mkLinksFound": 0,
+      "uniqueIds": [],
+      "apiPatterns": []
+    }
+  },
+  {
+    "endpoint": "GetMkdetailsHeader",
+    "status": 200,
+    "data": {
+      "ID": 876,
+      "Name": "מיקי לוי",
+      "MkName": "חבר הכנסת מיקי לוי",
+      "Position": "",
+      "Faction": "יש עתיד",
+      "mk_work_phone": "8187",
+      "mk_home_phone": " ",
+      "mk_fax": " ",
+      "Email": "mickeylevy@knesset.gov.il",
+      "IsPresent": false,
+      "Video": "61lihh3neGs",
+      "Facebook": "http://www.facebook.com/LevyYeshAtid?fref=ts",
+      "Twitter": "https://twitter.com/MKMickeyLevy",
+      "Website": "",
+      "Instagram": "https://www.instagram.com/mkmickeylevy/",
+      "Youtube": "http://www.youtube.com/channel/UCszzR9HojRlARu7xJHStaqw",
+      "MkImage": "https://fs.knesset.gov.il/globaldocs/MK/876/1_876_3_2167.jpeg?v=20260415_99902",
+      "LobbyImage": "https://fs.knesset.gov.il/globaldocs/MK/876/1_876_3_2167.jpeg?v=20260415_99902",
+      "BannerImage": "https://fs.knesset.gov.il/globaldocs/MK/876/1_876_1_2165.png?v=20260415_99902",
+      "BannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/876/1_876_4_2168.png?v=20260415_99902",
+      "CurrentKnesset": false,
+      "KnessetId": 25,
+      "Gender": 1,
+      "IsCurrentMk": true,
+      "KnessetsList": null
+    }
+  },
+  {
+    "endpoint": "GetMkDetailsContent",
+    "status": 200,
+    "data": {
+      "ID": 876,
+      "DateOfBirth": "י\"ז בסיוון תשי\"א , 21/06/1951",
+      "DeathDate": null,
+      "PlaceOfBirth": "ירושלים, ישראל",
+      "ImmigrationYear": "",
+      "Residence": "מבשרת ציון",
+      "Education": "- BA – תואר ראשון במדעי החברה, אוניברסיטת חיפה&#x0D;\n- MA – תואר שני בחינוך",
+      "MilitaryService": "רס”ן",
+      "NationalService": "",
+      "profession": null,
+      "Languages": " אנגלית",
+      "Content": "נולד בשנת 1951. אב לארבעה ילדים. מתגורר במבשרת-ציון.\nכיהן כסגן שר האוצר בממשלה ה-33.\nניצב בדימוס, לשעבר מפקד מחוז ירושלים של משטרת ישראל.\nבעל תואר ראשון במדעי המדינה מאוניברסיטת חיפה ותואר שני בחינוך מאוניברסיטת דרבי.\n \nכסגן שר האוצר היה אמון על רשות המסים, ובמסגרת תפקידו עסק בבעיית ההון השחור ובהרחבת גביית המסים. בזכות המדיניות שקידם גבתה רשות המסים בשנת הכספים 2014 יותר מ-4 מיליארד שקלים מעבר לתחזיות. קידם חקיקה לסגירת פרצות מס ולחיזוק רשות המסים במאבק בהון השחור. במסגרת חקיקה זו אושר ”חוק הצ'יינג'ים” (נותני שירותי מטבע), המחייב נותני שירותי מטבע לדווח על המרות סכומי כסף גדולים, וכך נחסם צינור מרכזי להלבנת הון. במקביל חיזק את הקשר בין רשות המסים למשטרת ישראל כדי שישתפו פעולה נגד עבריינות מס קשה – מהלך שזכה בתחילת 2015 לציון לשבח מארגון ה-OECD. \n\nלוי הביא לתוספת של מאות תקני כוח-אדם ברשות המסים והקים ”שולחן עגול” בין הרשות לבין המייצגים (לשכות רואי-חשבון, עורכי-הדין, נציגי העסקים הקטנים והבינוניים ויועצי המס) כדי לפתור בעיות ולעבוד יחד. כמו כן, במסגרת תפקידו ביקר לראשונה בכל משרדי רשות המסים ברחבי הארץ, כדי לשמור על קשר ישיר עם השטח ועם אנשי הרשות. \n \nלוי שירת במשטרת ישראל בתפקידים בכירים, והבולט שבהם היה שירותו כמפקד מחוז ירושלים של המשטרה בשיאה של אינתיפאדת אל-אקצא; ניהל את הטיפול המשטרתי בפיגועי הטרור הרצחניים שאירעו בירושלים ובמניעתם; היה נספח המשטרה בשגרירות ישראל בוושינגטון, ארצות-הברית. השתחרר משירותו במשטרה בדרגת ניצב.\n \nזכה בפרסים רבים, ובהם ”אביר איכות השלטון” ו”איש השנה בחברה ובביטחון” לשנת 2002, של ערוץ 2. שימש חבר הנהלה בעמותת ”ערכים בספורט” למניעת אלימות בספורט, וחבר הנהלה בעמותת ”וראייטי” בירושלים. היה מנכ”ל חברת ”אגד תעבורה” ויועץ לביטחון פנים ולביטחון עירוני ברוסיה ובברזיל.\n\n\nאפשר לקרוא את קורות החיים של חברי הכנסת גם בשפה הערבית והאנגלית.",
+      "PlenumSeatNumber": "37",
+      "IsCurrentMk": true,
+      "ProfessionsDetails": ""
+    }
+  },
+  {
+    "endpoint": "GetMKImages",
+    "status": 200,
+    "data": [
+      {
+        "ID": 1514,
+        "SpId": 1558,
+        "ImageName": "IMG_0132.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/IMG_0132.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי במליאת הכנסת 25.11.2015. צילום: דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 1518,
+        "SpId": 1562,
+        "ImageName": "IMG_7070.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/IMG_7070.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי במליאת הכנסת, 6.8.2015. צילום: דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 1519,
+        "SpId": 1563,
+        "ImageName": "ISH_3114.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/ISH_3114.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי בוועדת הכנסת, 21.12.2016. צילום: דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 1522,
+        "SpId": 1566,
+        "ImageName": "ISH_6643.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/ISH_6643.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי בוועדת הכספים, 14.11.2016. צילום: דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 1523,
+        "SpId": 1567,
+        "ImageName": "JEN_5368.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/JEN_5368.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "498",
+        "ImageTitle": "חבר הכנסת מיקי לוי במליאת הכנסת, 11.5.2015. צילום: דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 3461,
+        "SpId": 3648,
+        "ImageName": "1S5A9910.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/1S5A9910.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי ביום השבעת הכנסת ה-21, 30.4.2019. צילום: נועם מושקוביץ, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 4030,
+        "SpId": 4267,
+        "ImageName": "ISH_5114.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/ISH_5114.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי בוועדה המיוחדת למאבק בנגעי הסמים והאלכוהול,  21.5.2019. צילום: דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 4348,
+        "SpId": 4601,
+        "ImageName": "1S5A9446.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/1S5A9446.JPG",
+        "ImageWidth": "500",
+        "ImageHeight": "750",
+        "ImageTitle": "חבר הכנסת מיקי לוי ביום השבעת הכנסת ה-22, 3.10.2019. צילום: נועם מושקוביץ, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 4457,
+        "SpId": 4718,
+        "ImageName": "NRF_8099.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/NRF_8099.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי בהשבעת הכנסת ה-22, 3.10.2019. צילום: נועם ריבקין, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 5388,
+        "SpId": 5696,
+        "ImageName": "EAV06624.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/EAV06624.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חברי הכנסת מיקי לוי וחיים כץ במליאת הכנסת, 6.5.2020. צילום: עדינה ולמן, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 5392,
+        "SpId": 5700,
+        "ImageName": "EAV07109.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/EAV07109.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי במליאת הכנסת, 7.5.2020. צילום: עדינה ולמן, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 5400,
+        "SpId": 5708,
+        "ImageName": "EAV02574.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/EAV02574.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי במליאת הכנסת, 20.5.2020. צילום: עדינה ולמן, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 5405,
+        "SpId": 5714,
+        "ImageName": "EAV09593.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/EAV09593.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי בוועדת הכספים, 22.6.2020. צילום: עדינה ולמן, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 5491,
+        "SpId": 5805,
+        "ImageName": "EAV01001.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/EAV01001.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי בוועדת הכלכלה, 22.7.2020. צילום: עדינה ולמן, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 5494,
+        "SpId": 5808,
+        "ImageName": "EAV00548.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/EAV00548.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי בוועדת החוקה, חוק ומשפט, 22.7.2020. צילום: עדינה ולמן, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 5907,
+        "SpId": 6231,
+        "ImageName": "EAV07951.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/EAV07951.JPG",
+        "ImageWidth": "750",
+        "ImageHeight": "500",
+        "ImageTitle": "חבר הכנסת מיקי לוי במליאת הכנסת, 7.9.2020. צילום: יהונתן סמייה, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 9192,
+        "SpId": 7681,
+        "ImageName": "NOAM9240.jpg",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/NOAM9240.jpg",
+        "ImageWidth": "4464",
+        "ImageHeight": "2976",
+        "ImageTitle": "חבר הכנסת מיקי לוי ביום בחירתו ליושב–ראש הכנסת ה-24, 13.6.2021. צילום: נועם מושקוביץ, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 9193,
+        "SpId": 7682,
+        "ImageName": "20220406100528_NOAM5580.jpg",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/20220406100528_NOAM5580.jpg",
+        "ImageWidth": "4801",
+        "ImageHeight": "3230",
+        "ImageTitle": "יושב-ראש הכנסת מיקי לוי בישיבת מליאת הכנסת, 6.4.2021. צילום: נועם מושקוביץ, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 9194,
+        "SpId": 7683,
+        "ImageName": "NOAM4182.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/NOAM4182.JPG",
+        "ImageWidth": "5808",
+        "ImageHeight": "3872",
+        "ImageTitle": "יושב-ראש הכנסת מיקי לוי בוועדת הכנסת, 22.2.2022. צילום: נועם מושקוביץ, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 9195,
+        "SpId": 7684,
+        "ImageName": "NOAM3510.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/NOAM3510.JPG",
+        "ImageWidth": "5808",
+        "ImageHeight": "3872",
+        "ImageTitle": "יושב-ראש הכנסת חבר הכנסת מיקי לוי ומבקר המדינה מתניהו אנגלמן, 4.8.2021. צילום: נועם מושקוביץ, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 9196,
+        "SpId": 7685,
+        "ImageName": "DST04551.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/DST04551.JPG",
+        "ImageWidth": "6000",
+        "ImageHeight": "4000",
+        "ImageTitle": "יושב-ראש הכנסת מיקי לוי במליאת הכנסת, 3.8.2021. צילום: דני שם-טוב, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 9197,
+        "SpId": 7686,
+        "ImageName": "NOAM6251.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/NOAM6251.JPG",
+        "ImageWidth": "4898",
+        "ImageHeight": "3265",
+        "ImageTitle": "יושב-ראש הכנסת מיקי לוי ורעייתו ונשיא המדינה הנבחר יצחק הרצוג ורעייתו, 7.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 9198,
+        "SpId": 7687,
+        "ImageName": "NOAM4152.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/NOAM4152.JPG",
+        "ImageWidth": "5808",
+        "ImageHeight": "3872",
+        "ImageTitle": "יושב–ראש הכנסת מיקי לוי מקבל חיסון נגד נגיף הקורונה, 6.1.2022. צילום: נועם מושקוביץ, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 9199,
+        "SpId": 7688,
+        "ImageName": "NOAM8896 (1).jpg",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/NOAM8896 (1).jpg",
+        "ImageWidth": "4464",
+        "ImageHeight": "2976",
+        "ImageTitle": "חבר הכנסת מיקי לוי מתמנה ליושב–ראש הכנסת ה-24, 13.6.2021. צילום: נועם מושקוביץ, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 9200,
+        "SpId": 7689,
+        "ImageName": "NOAM8119.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/NOAM8119.JPG",
+        "ImageWidth": "5808",
+        "ImageHeight": "3872",
+        "ImageTitle": "יושב–ראש הכנסת מיקי לוי וקנצלר גרמניה אולף שולץ בכנסת, 2.3.2022. צילום: נועם מושקוביץ, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      },
+      {
+        "ID": 9201,
+        "SpId": 7690,
+        "ImageName": "NOAM0922.JPG",
+        "ImagePath": "/mk/MKPersonalDetailsImages/876/NOAM0922.JPG",
+        "ImageWidth": "5808",
+        "ImageHeight": "3872",
+        "ImageTitle": "יושב–ראש הכנסת מיקי לוי מקבל את פני יושבת-ראש בית הנבחרים האמריקאי ננסי פלוסי, 16.2.2022. צילום: נועם מושקוביץ, דוברות הכנסת",
+        "FolderName": "MKPersonalDetailsImages",
+        "SiteName": "mk"
+      }
+    ]
+  },
+  {
+    "endpoint": "OData - Root",
+    "status": 200,
+    "data": {
+      "odata.metadata": "https://knesset.gov.il/Odata/ParliamentInfo.svc/$metadata",
+      "value": [
+        {
+          "name": "KNS_Agenda",
+          "url": "KNS_Agenda"
+        },
+        {
+          "name": "KNS_Bill",
+          "url": "KNS_Bill"
+        },
+        {
+          "name": "KNS_BillHistoryInitiator",
+          "url": "KNS_BillHistoryInitiator"
+        },
+        {
+          "name": "KNS_BillInitiator",
+          "url": "KNS_BillInitiator"
+        },
+        {
+          "name": "KNS_BillName",
+          "url": "KNS_BillName"
+        },
+        {
+          "name": "KNS_BillSplit",
+          "url": "KNS_BillSplit"
+        },
+        {
+          "name": "KNS_BillUnion",
+          "url": "KNS_BillUnion"
+        },
+        {
+          "name": "KNS_CmtSessionItem",
+          "url": "KNS_CmtSessionItem"
+        },
+        {
+          "name": "KNS_CmtSiteCode",
+          "url": "KNS_CmtSiteCode"
+        },
+        {
+          "name": "KNS_Committee",
+          "url": "KNS_Committee"
+        },
+        {
+          "name": "KNS_CommitteeSession",
+          "url": "KNS_CommitteeSession"
+        },
+        {
+          "name": "KNS_DocumentAgenda",
+          "url": "KNS_DocumentAgenda"
+        },
+        {
+          "name": "KNS_DocumentBill",
+          "url": "KNS_DocumentBill"
+        },
+        {
+          "name": "KNS_DocumentCommitteeSession",
+          "url": "KNS_DocumentCommitteeSession"
+        },
+        {
+          "name": "KNS_DocumentIsraelLaw",
+          "url": "KNS_DocumentIsraelLaw"
+        },
+        {
+          "name": "KNS_DocumentLaw",
+          "url": "KNS_DocumentLaw"
+        },
+        {
+          "name": "KNS_DocumentPlenumSession",
+          "url": "KNS_DocumentPlenumSession"
+        },
+        {
+          "name": "KNS_DocumentQuery",
+          "url": "KNS_DocumentQuery"
+        },
+        {
+          "name": "KNS_Faction",
+          "url": "KNS_Faction"
+        },
+        {
+          "name": "KNS_GovMinistry",
+          "url": "KNS_GovMinistry"
+        },
+        {
+          "name": "KNS_IsraelLaw",
+          "url": "KNS_IsraelLaw"
+        },
+        {
+          "name": "KNS_IsraelLawBinding",
+          "url": "KNS_IsraelLawBinding"
+        },
+        {
+          "name": "KNS_IsraelLawClassificiation",
+          "url": "KNS_IsraelLawClassificiation"
+        },
+        {
+          "name": "KNS_IsraelLawMinistry",
+          "url": "KNS_IsraelLawMinistry"
+        },
+        {
+          "name": "KNS_IsraelLawName",
+          "url": "KNS_IsraelLawName"
+        },
+        {
+          "name": "KNS_ItemType",
+          "url": "KNS_ItemType"
+        },
+        {
+          "name": "KNS_JointCommittee",
+          "url": "KNS_JointCommittee"
+        },
+        {
+          "name": "KNS_KnessetDates",
+          "url": "KNS_KnessetDates"
+        },
+        {
+          "name": "KNS_Law",
+          "url": "KNS_Law"
+        },
+        {
+          "name": "KNS_LawBinding",
+          "url": "KNS_LawBinding"
+        },
+        {
+          "name": "KNS_MkSiteCode",
+          "url": "KNS_MkSiteCode"
+        },
+        {
+          "name": "KNS_Person",
+          "url": "KNS_Person"
+        },
+        {
+          "name": "KNS_PersonToPosition",
+          "url": "KNS_PersonToPosition"
+        },
+        {
+          "name": "KNS_PlenumSession",
+          "url": "KNS_PlenumSession"
+        },
+        {
+          "name": "KNS_PlmSessionItem",
+          "url": "KNS_PlmSessionItem"
+        },
+        {
+          "name": "KNS_Position",
+          "url": "KNS_Position"
+        },
+        {
+          "name": "KNS_Query",
+          "url": "KNS_Query"
+        },
+        {
+          "name": "KNS_Status",
+          "url": "KNS_Status"
+        }
+      ]
+    }
+  },
+  {
+    "endpoint": "OData - Metadata",
+    "status": 415,
+    "data": null,
+    "error": "Request failed with status code 415"
+  },
+  {
+    "endpoint": "OData - KNS_Person",
+    "status": 200,
+    "data": {
+      "odata.metadata": "https://knesset.gov.il/Odata/ParliamentInfo.svc/$metadata#KNS_Person",
+      "value": [
+        {
+          "PersonID": 48,
+          "LastName": "מלר-הורוביץ",
+          "FirstName": "ירדנה",
+          "GenderID": 250,
+          "GenderDesc": "נקבה",
+          "Email": null,
+          "IsCurrent": false,
+          "LastUpdatedDate": "2024-07-28T21:41:35.37"
+        },
+        {
+          "PersonID": 122,
+          "LastName": "פורדס",
+          "FirstName": "גיורא",
+          "GenderID": 251,
+          "GenderDesc": "זכר",
+          "Email": null,
+          "IsCurrent": false,
+          "LastUpdatedDate": "2020-03-23T23:33:55.387"
+        }
+      ]
+    }
+  },
+  {
+    "endpoint": "OData - KNS_MK",
+    "status": 404,
+    "data": null,
+    "error": "Request failed with status code 404"
+  },
+  {
+    "endpoint": "OData - KNS_Faction",
+    "status": 200,
+    "data": {
+      "odata.metadata": "https://knesset.gov.il/Odata/ParliamentInfo.svc/$metadata#KNS_Faction",
+      "value": [
+        {
+          "FactionID": 3,
+          "Name": "ישראל אחת",
+          "KnessetNum": 15,
+          "StartDate": "1999-06-07T00:00:00",
+          "FinishDate": "2001-05-15T00:00:00",
+          "IsCurrent": false,
+          "LastUpdatedDate": "2019-01-24T11:45:06.46"
+        },
+        {
+          "FactionID": 4,
+          "Name": "הליכוד",
+          "KnessetNum": 15,
+          "StartDate": "1999-06-07T00:00:00",
+          "FinishDate": "2003-02-17T00:00:00",
+          "IsCurrent": false,
+          "LastUpdatedDate": "2019-01-24T11:45:06.46"
+        }
+      ]
+    }
+  },
+  {
+    "endpoint": "OData - KNS_Committee",
+    "status": 200,
+    "data": {
+      "odata.metadata": "https://knesset.gov.il/Odata/ParliamentInfo.svc/$metadata#KNS_Committee",
+      "value": [
+        {
+          "CommitteeID": 1,
+          "Name": "ועדת הכנסת",
+          "CategoryID": 1,
+          "CategoryDesc": "ועדת הכנסת",
+          "KnessetNum": 15,
+          "CommitteeTypeID": 70,
+          "CommitteeTypeDesc": "ועדת הכנסת",
+          "Email": "vadatk@knesset.gov.il",
+          "StartDate": "1999-06-07T00:00:00",
+          "FinishDate": null,
+          "AdditionalTypeID": 991,
+          "AdditionalTypeDesc": "קבועה",
+          "ParentCommitteeID": null,
+          "CommitteeParentName": null,
+          "IsCurrent": true,
+          "LastUpdatedDate": "2017-04-24T16:47:06.32"
+        },
+        {
+          "CommitteeID": 2,
+          "Name": "ועדת הכספים",
+          "CategoryID": 2,
+          "CategoryDesc": "ועדת הכספים",
+          "KnessetNum": 15,
+          "CommitteeTypeID": 71,
+          "CommitteeTypeDesc": "ועדה ראשית",
+          "Email": null,
+          "StartDate": "1999-06-07T00:00:00",
+          "FinishDate": null,
+          "AdditionalTypeID": 991,
+          "AdditionalTypeDesc": "קבועה",
+          "ParentCommitteeID": null,
+          "CommitteeParentName": null,
+          "IsCurrent": true,
+          "LastUpdatedDate": "2015-03-20T12:02:57"
+        }
+      ]
+    }
+  },
+  {
+    "endpoint": "OData - KNS_Bill",
+    "status": 200,
+    "data": {
+      "odata.metadata": "https://knesset.gov.il/Odata/ParliamentInfo.svc/$metadata#KNS_Bill",
+      "value": [
+        {
+          "BillID": 5,
+          "KnessetNum": 1,
+          "Name": "חוק שכר חברי הכנסת, התש\"ט-1949",
+          "SubTypeID": 55,
+          "SubTypeDesc": "ועדה",
+          "PrivateNumber": null,
+          "CommitteeID": 377,
+          "StatusID": 118,
+          "Number": null,
+          "PostponementReasonID": null,
+          "PostponementReasonDesc": null,
+          "PublicationDate": "1949-06-07T00:00:00",
+          "MagazineNumber": 10,
+          "PageNumber": 41,
+          "IsContinuationBill": null,
+          "SummaryLaw": null,
+          "PublicationSeriesID": 6071,
+          "PublicationSeriesDesc": "ספר החוקים",
+          "PublicationSeriesFirstCall": null,
+          "LastUpdatedDate": "2022-11-17T11:08:23"
+        },
+        {
+          "BillID": 20,
+          "KnessetNum": 7,
+          "Name": "חוק מקצועות רפואיים (אגרות), התשל\"א-1971",
+          "SubTypeID": 53,
+          "SubTypeDesc": "ממשלתית",
+          "PrivateNumber": null,
+          "CommitteeID": 280,
+          "StatusID": 118,
+          "Number": 887,
+          "PostponementReasonID": null,
+          "PostponementReasonDesc": null,
+          "PublicationDate": "1971-03-05T00:00:00",
+          "MagazineNumber": 618,
+          "PageNumber": 68,
+          "IsContinuationBill": null,
+          "SummaryLaw": null,
+          "PublicationSeriesID": 6071,
+          "PublicationSeriesDesc": "ספר החוקים",
+          "PublicationSeriesFirstCall": "הצעות חוק - 887 ,מיום 16:00:00",
+          "LastUpdatedDate": "2022-06-06T14:22:16.14"
+        }
+      ]
+    }
+  },
+  {
+    "endpoint": "OData - KNS_Vote",
+    "status": 404,
+    "data": null,
+    "error": "Request failed with status code 404"
+  },
+  {
+    "endpoint": "OData - KNS_Knesset",
+    "status": 404,
+    "data": null,
+    "error": "Request failed with status code 404"
+  },
+  {
+    "endpoint": "Potential MK List - /WebSiteApi/knessetapi/MKs/GetAllMks",
+    "status": 400,
+    "data": null,
+    "error": "Request failed with status code 400"
+  },
+  {
+    "endpoint": "Potential MK List - /WebSiteApi/knessetapi/MKs/GetCurrentMks",
+    "status": 400,
+    "data": null,
+    "error": "Request failed with status code 400"
+  },
+  {
+    "endpoint": "Potential MK List - /WebSiteApi/knessetapi/MKs/GetMksList",
+    "status": 400,
+    "data": null,
+    "error": "Request failed with status code 400"
+  },
+  {
+    "endpoint": "Potential MK List - /WebSiteApi/knessetapi/MKs/GetAllCurrentMks",
+    "status": 400,
+    "data": null,
+    "error": "Request failed with status code 400"
+  }
+]

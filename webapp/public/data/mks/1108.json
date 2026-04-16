@@ -1,0 +1,154 @@
+{
+  "id": 1108,
+  "name": "לימור סון הר מלך",
+  "fullTitle": "חברת הכנסת לימור סון הר מלך",
+  "faction": "עוצמה יהודית בראשות איתמר בן גביר",
+  "email": "lsun.har@knesset.gov.il",
+  "workPhone": "02-6408487",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": "https://publicrequests.ozma-yeudit.co.il/contact4/"
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1108/1_1108_3_19728.jpeg?v=20260415_99627",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1108/1_1108_3_19728.jpeg?v=20260415_99627",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1108/1_1108_1_19782.png?v=20260415_99627",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1108/1_1108_4_19783.png?v=20260415_99627"
+  },
+  "gender": "female",
+  "dateOfBirth": "ו' באב תשל\"ט , 30/07/1979",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": null,
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "138",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "סגנית יו\"ר הכנסת",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1108/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1108/1_1108_3_19728.jpeg?v=20260415_99627",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10005,
+      "filename": "NOAM8926.JPG",
+      "localPath": "photos/1108/NOAM8926.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1108/NOAM8926.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת לימור סון הר מלך ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10006,
+      "filename": "20221114151854_NOAM9365.jpg",
+      "localPath": "photos/1108/20221114151854_NOAM9365.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1108/20221114151854_NOAM9365.jpg",
+      "width": 750,
+      "height": 490,
+      "title": "חברות הכנסת טלי גוטליב, לימור סון הר מלך, מטי צרפתי הרכבי, שרון ניר ודבי ביטון ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10022,
+      "filename": "DST02079.jpg",
+      "localPath": "photos/1108/DST02079.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1108/DST02079.jpg",
+      "width": 2560,
+      "height": 1707,
+      "title": "חברת הכנסת לימור סון הר מלך בהשבעת הכנסת ה-25, 15.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10069,
+      "filename": "NOAM8921.JPG",
+      "localPath": "photos/1108/NOAM8921.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1108/NOAM8921.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת לימור סון הר מלך ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10113,
+      "filename": "20221121162013_NOAM1428.jpg",
+      "localPath": "photos/1108/20221121162013_NOAM1428.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1108/20221121162013_NOAM1428.jpg",
+      "width": 4980,
+      "height": 3320,
+      "title": "חברי הכנסת לימור סון הר מלך ומשה סולומון במליאה, 21.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10115,
+      "filename": "DST04699.jpg",
+      "localPath": "photos/1108/DST04699.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1108/DST04699.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת לימור סון הר מלך במליאה, 22.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10142,
+      "filename": "DST07295.jpg",
+      "localPath": "photos/1108/DST07295.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1108/DST07295.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת לימור סון הר מלך במליאה, 7.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10203,
+      "filename": "DST00112.jpg",
+      "localPath": "photos/1108/DST00112.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1108/DST00112.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת לימור סון הר מלך בוועדה להצעת חוק-יסוד: הממשלה, 19.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10248,
+      "filename": "DST04647.jpg",
+      "localPath": "photos/1108/DST04647.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1108/DST04647.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת לימור סון הר מלך במליאה, 22.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10249,
+      "filename": "DST05964.jpg",
+      "localPath": "photos/1108/DST05964.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1108/DST05964.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת לימור סון הר מלך במליאה, 29.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10250,
+      "filename": "20221220102055_NOAM4747.jpg",
+      "localPath": "photos/1108/20221220102055_NOAM4747.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1108/20221220102055_NOAM4747.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת לימור סון הר מלך, צביקה פוגל ויעקב אשר במליאה, 20.12.2022. צילום: נועם שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:51.404Z",
+  "localImagePath": "photos/1108/profile.jpg"
+}

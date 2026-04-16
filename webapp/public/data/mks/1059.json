@@ -1,0 +1,181 @@
+{
+  "id": 1059,
+  "name": "גלית דיסטל אטבריאן ",
+  "fullTitle": "חברת הכנסת גלית דיסטל אטבריאן ",
+  "faction": "הליכוד ",
+  "email": "gdistal@knesset.gov.il",
+  "workPhone": "02-6408145",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1059/1_1059_3_17778.jpeg?v=20260415_82592",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1059/1_1059_3_17778.jpeg?v=20260415_82592",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1059/1_1059_1_17847.png?v=20260415_82592",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1059/1_1059_4_17848.png?v=20260415_82592"
+  },
+  "gender": "female",
+  "dateOfBirth": "י\"ג בטבת תשל\"א , 10/01/1971",
+  "deathDate": null,
+  "placeOfBirth": "ירושלים, ישראל",
+  "immigrationYear": null,
+  "residence": "כפר האורנים",
+  "education": "- תואר ראשון באוניברסיטת תל-אביב\n- לקראת תואר שני באוניברסיטה העברית",
+  "militaryService": "רב\"ט. השתחררה ב-1991",
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "72",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושבת-ראש הוועדה לדיון בהצעת חוק התקשורת (שידורים), התשפ\"ו-2025 (מ/1898) ויושבת-ראש ועדת משנה להגות יהודית במערכת החינוך",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1059/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1059/1_1059_3_17778.jpeg?v=20260415_82592",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 6369,
+      "filename": "EAV03025.JPG",
+      "localPath": "photos/1059/EAV03025.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/EAV03025.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן ביום השבעת הכנסת ה-24, 6.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6372,
+      "filename": "EAV09268.JPG",
+      "localPath": "photos/1059/EAV09268.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/EAV09268.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן במליאת הכנסת, 21.4.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 6373,
+      "filename": "EAV09288.JPG",
+      "localPath": "photos/1059/EAV09288.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/EAV09288.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן במליאת הכנסת, 21.4.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8917,
+      "filename": "20220124193123_NOAM6993.jpg",
+      "localPath": "photos/1059/20220124193123_NOAM6993.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/20220124193123_NOAM6993.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן מקבלת מחבר הכנסת אמיר אוחנה ציור ובו דמותה כפי שצייר אותה, 24.1.2022, צילום נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9448,
+      "filename": "DST00469.JPG",
+      "localPath": "photos/1059/DST00469.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/DST00469.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן במליאת הכנסת, 30.5.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9449,
+      "filename": "20220511113733_NOAM0371.jpg",
+      "localPath": "photos/1059/20220511113733_NOAM0371.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/20220511113733_NOAM0371.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן במליאת הכנסת, 11.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9450,
+      "filename": "DST00039.JPG",
+      "localPath": "photos/1059/DST00039.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/DST00039.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן במליאת הכנסת, 28.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9451,
+      "filename": "NOAM0746.JPG",
+      "localPath": "photos/1059/NOAM0746.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/NOAM0746.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן בוועדת הכלכלה, 15.2.2022. צילום:  נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9452,
+      "filename": "20210712093427_NOAM7257.jpg",
+      "localPath": "photos/1059/20210712093427_NOAM7257.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/20210712093427_NOAM7257.jpg",
+      "width": 1357,
+      "height": 905,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן בוועדה המסדרת, 12.7.2021. צילום:  נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9453,
+      "filename": "חכ גלית אטבריאן דיסטל.jpeg",
+      "localPath": "photos/1059/חכ גלית אטבריאן דיסטל.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/חכ גלית אטבריאן דיסטל.jpeg",
+      "width": 1600,
+      "height": 1069,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן בוועדה המסדרת, 27.6.2021. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 9454,
+      "filename": "DST01798.JPG",
+      "localPath": "photos/1059/DST01798.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/DST01798.JPG",
+      "width": 1616,
+      "height": 1080,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן במליאת הכנסת, 27.7.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9455,
+      "filename": "DST08181.JPG",
+      "localPath": "photos/1059/DST08181.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/DST08181.JPG",
+      "width": 1616,
+      "height": 1080,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן במליאת הכנסת, 6.10.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9456,
+      "filename": "20210912110756_NOAM8287.jpg",
+      "localPath": "photos/1059/20210912110756_NOAM8287.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/20210912110756_NOAM8287.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חברת הכנסת גלית דיסטל אטבריאן בוועדת הכנסת, 12.9.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10187,
+      "filename": "DST09657.JPG",
+      "localPath": "photos/1059/DST09657.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1059/DST09657.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת גלית דיסטל אטבריאן, אוהד טל, לימור סן הר-מלך ומשה סולומון במליאה, 15.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:45.666Z",
+  "localImagePath": "photos/1059/profile.jpg"
+}

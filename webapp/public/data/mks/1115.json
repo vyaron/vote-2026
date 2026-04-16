@@ -1,0 +1,184 @@
+{
+  "id": 1115,
+  "name": "יונתן מישרקי",
+  "fullTitle": "חבר הכנסת יונתן מישרקי",
+  "faction": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+  "email": "msyoni@knesset.gov.il",
+  "workPhone": "02-6753655, 02-6496081",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1115/1_1115_3_19849.jpeg?v=20260415_61751",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1115/1_1115_3_19849.jpeg?v=20260415_61751",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1115/1_1115_1_19955.png?v=20260415_61751",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1115/1_1115_4_19956.png?v=20260415_61751"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ט באב תשמ\"ד , 17/08/1984",
+  "deathDate": null,
+  "placeOfBirth": "ירושלים, ישראל",
+  "immigrationYear": null,
+  "residence": "ירושלים",
+  "education": "LL.B - תואר ראשון במשפטים",
+  "militaryService": "שירות לאומי",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "103",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש ועדת הבריאות ויושב-ראש ועדת משנה למיגון ומוכנות מערכת הבריאות בישראל במלחמת חרבות ברזל",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1115/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1115/1_1115_3_19849.jpeg?v=20260415_61751",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10594,
+      "filename": "20230207163317_NOAM9654.jpg",
+      "localPath": "photos/1115/20230207163317_NOAM9654.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/20230207163317_NOAM9654.jpg",
+      "width": 1159,
+      "height": 719,
+      "title": "חבר הכנסת יונתן מישרקי נושא דברים במליאת הכנסת, 7.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10595,
+      "filename": "DST08152.jpg",
+      "localPath": "photos/1115/DST08152.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/DST08152.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יונתן מישרקי בישיבת ועדת הכספים, 10.1.2023. צילום: דני שם-טוב"
+    },
+    {
+      "id": 10597,
+      "filename": "Noam.M-3905.JPG",
+      "localPath": "photos/1115/Noam.M-3905.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/Noam.M-3905.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10598,
+      "filename": "11.jpg",
+      "localPath": "photos/1115/11.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/11.jpg",
+      "width": 1066,
+      "height": 1599,
+      "title": "חבר הכנסת יונתן מישרקי. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 10599,
+      "filename": "20230104132650_NOAM7053.jpg",
+      "localPath": "photos/1115/20230104132650_NOAM7053.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/20230104132650_NOAM7053.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יונתן מישרקי מצהיר אמונים לכנסת, 3.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10600,
+      "filename": "20230110120340_NOAM9684.jpg",
+      "localPath": "photos/1115/20230110120340_NOAM9684.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/20230110120340_NOAM9684.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת יונתן מישרקי ואריאל קלנר בישיבה בוועדת החוקה, חוק ומשפט, 10.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10601,
+      "filename": "20230110132913_NOAM9940.jpg",
+      "localPath": "photos/1115/20230110132913_NOAM9940.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/20230110132913_NOAM9940.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת יונתן מישרקי בדיון בוועדה, 10.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10602,
+      "filename": "20230123105215_NOAM1108.jpg",
+      "localPath": "photos/1115/20230123105215_NOAM1108.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/20230123105215_NOAM1108.jpg",
+      "width": 1159,
+      "height": 769,
+      "title": "חבר הכנסת יונתן מישרקי בדיון בוועדת החוקה, חוק ומשפט, 23.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10603,
+      "filename": "20230201125432_NOAM5864.jpg",
+      "localPath": "photos/1115/20230201125432_NOAM5864.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/20230201125432_NOAM5864.jpg",
+      "width": 1015,
+      "height": 677,
+      "title": "חבר הכנסת יונתן מישרקי נושא דברים במליאת הכנסת, 1.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10793,
+      "filename": "20230110132913_NOAM9940.jpeg",
+      "localPath": "photos/1115/20230110132913_NOAM9940.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/20230110132913_NOAM9940.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10794,
+      "filename": "20230207163317_NOAM9654.jpeg",
+      "localPath": "photos/1115/20230207163317_NOAM9654.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/20230207163317_NOAM9654.jpeg",
+      "width": 5442,
+      "height": 3374,
+      "title": ""
+    },
+    {
+      "id": 10795,
+      "filename": "DST03581.jpeg",
+      "localPath": "photos/1115/DST03581.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/DST03581.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10796,
+      "filename": "Noam.M-9533.JPG",
+      "localPath": "photos/1115/Noam.M-9533.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/Noam.M-9533.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10797,
+      "filename": "Noam.M-9538.JPG",
+      "localPath": "photos/1115/Noam.M-9538.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1115/Noam.M-9538.JPG",
+      "width": 5392,
+      "height": 3595,
+      "title": ""
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:34.201Z",
+  "localImagePath": "photos/1115/profile.jpg"
+}

@@ -1,0 +1,253 @@
+{
+  "id": 1066,
+  "name": "גלעד קריב",
+  "fullTitle": "חבר הכנסת גלעד קריב",
+  "faction": "העבודה",
+  "email": "gkariv@knesset.gov.il",
+  "workPhone": "02-6408880",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1066/1_1066_3_17753.jpeg?v=20260415_35539",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1066/1_1066_3_17753.jpeg?v=20260415_35539",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1066/1_1066_1_17890.png?v=20260415_35539",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1066/1_1066_4_17891.png?v=20260415_35539"
+  },
+  "gender": "male",
+  "dateOfBirth": "ה' בכסלו תשל\"ד , 30/11/1973",
+  "deathDate": null,
+  "placeOfBirth": "תל אביב, ישראל",
+  "immigrationYear": null,
+  "residence": "גבעתיים",
+  "education": "- BA במשפטים ומחשבת ישראל\n- MAHL מדעי היהדות\n- LLM תואר שני במשפטים",
+  "militaryService": "סגן",
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "54",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש ועדת העלייה והקליטה והתפוצות",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1066/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1066/1_1066_3_17753.jpeg?v=20260415_35539",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 6244,
+      "filename": "EAV02948.JPG",
+      "localPath": "photos/1066/EAV02948.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV02948.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת גלעד קריב ביום השבעת הכנסת ה-24, 6.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6317,
+      "filename": "EAV06419.JPG",
+      "localPath": "photos/1066/EAV06419.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV06419.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת גלעד קריב בטקס \"לכל איש יש שם\" להנצחת שמות של נספי השואה, 8.4.2021. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 6375,
+      "filename": "EAV06763.JPG",
+      "localPath": "photos/1066/EAV06763.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV06763.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת גלעד קריב במליאת הכנסת, 27.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6378,
+      "filename": "EAV07397.JPG",
+      "localPath": "photos/1066/EAV07397.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV07397.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת גלעד קריב במליאת הכנסת, 12.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6379,
+      "filename": "EAV08405.JPG",
+      "localPath": "photos/1066/EAV08405.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV08405.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת גלעד קריב במליאת הכנסת, 19.4.2021. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 6486,
+      "filename": "EAV00359.JPG",
+      "localPath": "photos/1066/EAV00359.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV00359.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת גלעד קריב בנאום הבכורה במליאת הכנסת, 5.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6490,
+      "filename": "EAV00614.JPG",
+      "localPath": "photos/1066/EAV00614.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV00614.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת גלעד קריב בוועדת הכספים, 3.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6491,
+      "filename": "EAV00042.JPG",
+      "localPath": "photos/1066/EAV00042.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV00042.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת גלעד קריב במליאת הכנסת, 20.4.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8836,
+      "filename": "NOAM3502.JPG",
+      "localPath": "photos/1066/NOAM3502.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/NOAM3502.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "יושב-ראש ועדת החוקה, חוק ומשפט חבר הכנסת גלעד קריב, 1.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8837,
+      "filename": "DST06929.JPG",
+      "localPath": "photos/1066/DST06929.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/DST06929.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושב-ראש ועדת החוקה, חוק ומשפט חבר הכנסת גלעד קריב, 29.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8838,
+      "filename": "EAV03703.JPG",
+      "localPath": "photos/1066/EAV03703.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV03703.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חבר הכנסת גלעד קריב במליאת הכנסת, 22.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8839,
+      "filename": "EAV07728.JPG",
+      "localPath": "photos/1066/EAV07728.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV07728.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת גלעד קריב בוועדת הכספים, 3.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8840,
+      "filename": "EAV01398.JPG",
+      "localPath": "photos/1066/EAV01398.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV01398.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת גלעד קריב במליאת הכנסת, 19.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8841,
+      "filename": "EAV03883.JPG",
+      "localPath": "photos/1066/EAV03883.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV03883.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת גלעד קריב ויובל שטייניץ במליאת הכנסת, 26.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8842,
+      "filename": "EAV08130.JPG",
+      "localPath": "photos/1066/EAV08130.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV08130.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת גלעד קריב ואבי דיכטר בוועדת החוץ והביטחון, 7.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8843,
+      "filename": "EAV08813.JPG",
+      "localPath": "photos/1066/EAV08813.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/EAV08813.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חברי הכנסת גלעד קריב ונירה שפק בוועדת הכספים, 8.6.2021, צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8844,
+      "filename": "NOAM7064.JPG",
+      "localPath": "photos/1066/NOAM7064.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/NOAM7064.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "יושב-ראש ועדת החוקה, חוק ומשפט חבר הכנסת גלעד קריב, 11.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8845,
+      "filename": "NOAM7244.JPG",
+      "localPath": "photos/1066/NOAM7244.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/NOAM7244.JPG",
+      "width": 4898,
+      "height": 3265,
+      "title": "יושב-ראש ועדת החוקה, חוק ומשפט חבר הכנסת גלעד קריב, 2.9.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8846,
+      "filename": "DST06954.JPG",
+      "localPath": "photos/1066/DST06954.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/DST06954.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת גלעד קריב בהיבחרו ליושב-ראש ועדת החוקה, חוק ומשפט, 28.6.2021. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 8847,
+      "filename": "NOAM3854.JPG",
+      "localPath": "photos/1066/NOAM3854.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/NOAM3854.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "יושב-ראש ועדת החוקה, חוק ומשפט חבר הכנסת גלעד קריב, 6.12.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8848,
+      "filename": "NOAM8018.JPG",
+      "localPath": "photos/1066/NOAM8018.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/NOAM8018.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "יושב-ראש ועדת החוקה, חוק ומשפט חבר הכנסת גלעד קריב, 26.10.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8849,
+      "filename": "DST05338.JPG",
+      "localPath": "photos/1066/DST05338.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1066/DST05338.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושב-ראש ועדת החוקה, חוק ומשפט חבר הכנסת גלעד קריב, 30.11.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:56:16.099Z",
+  "localImagePath": "photos/1066/profile.jpg"
+}

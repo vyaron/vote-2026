@@ -1,0 +1,253 @@
+{
+  "id": 1121,
+  "name": "צבי ידידיה סוכות",
+  "fullTitle": "חבר הכנסת צבי ידידיה סוכות",
+  "faction": "הציונות הדתית בראשות בצלאל סמוטריץ'",
+  "email": "tzvisuccot@knesset.gov.il",
+  "workPhone": "6872",
+  "homePhone": "02-6406872",
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1121/1_1121_3_19949.jpeg?v=20260415_16786",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1121/1_1121_3_19949.jpeg?v=20260415_16786",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1121/1_1121_1_20056.png?v=20260415_16786",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1121/1_1121_4_20057.png?v=20260415_16786"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ד בתשרי תשנ\"א , 03/10/1990",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": null,
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "139",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש ועדת החינוך התרבות והספורט ויושב-ראש ועדת משנה לענייני איו\"ש",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1121/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1121/1_1121_3_19949.jpeg?v=20260415_16786",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10743,
+      "filename": "DST08861.jpeg",
+      "localPath": "photos/1121/DST08861.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST08861.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10744,
+      "filename": "20230214165956_NOAM0322.jpeg",
+      "localPath": "photos/1121/20230214165956_NOAM0322.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/20230214165956_NOAM0322.jpeg",
+      "width": 5103,
+      "height": 3401,
+      "title": ""
+    },
+    {
+      "id": 10745,
+      "filename": "20230214165958_NOAM0324.jpeg",
+      "localPath": "photos/1121/20230214165958_NOAM0324.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/20230214165958_NOAM0324.jpeg",
+      "width": 5022,
+      "height": 3115,
+      "title": ""
+    },
+    {
+      "id": 10746,
+      "filename": "20230221180552_NOAM3983.jpeg",
+      "localPath": "photos/1121/20230221180552_NOAM3983.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/20230221180552_NOAM3983.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10747,
+      "filename": "20230314154921_NOAM5088.jpeg",
+      "localPath": "photos/1121/20230314154921_NOAM5088.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/20230314154921_NOAM5088.jpeg",
+      "width": 5454,
+      "height": 3636,
+      "title": ""
+    },
+    {
+      "id": 10748,
+      "filename": "20230314155503_NOAM5126.jpeg",
+      "localPath": "photos/1121/20230314155503_NOAM5126.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/20230314155503_NOAM5126.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10749,
+      "filename": "20230314155533_NOAM5138.jpeg",
+      "localPath": "photos/1121/20230314155533_NOAM5138.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/20230314155533_NOAM5138.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10750,
+      "filename": "20230402103439_NOAM3866.jpeg",
+      "localPath": "photos/1121/20230402103439_NOAM3866.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/20230402103439_NOAM3866.jpeg",
+      "width": 5148,
+      "height": 3432,
+      "title": ""
+    },
+    {
+      "id": 10751,
+      "filename": "20230402104200_NOAM3929.jpeg",
+      "localPath": "photos/1121/20230402104200_NOAM3929.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/20230402104200_NOAM3929.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10752,
+      "filename": "DST02014.jpeg",
+      "localPath": "photos/1121/DST02014.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST02014.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10753,
+      "filename": "DST02054.jpeg",
+      "localPath": "photos/1121/DST02054.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST02054.jpeg",
+      "width": 2560,
+      "height": 1707,
+      "title": ""
+    },
+    {
+      "id": 10754,
+      "filename": "DST02059.jpeg",
+      "localPath": "photos/1121/DST02059.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST02059.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10755,
+      "filename": "DST02069.jpeg",
+      "localPath": "photos/1121/DST02069.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST02069.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10756,
+      "filename": "DST02088.jpeg",
+      "localPath": "photos/1121/DST02088.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST02088.jpeg",
+      "width": 5308,
+      "height": 3539,
+      "title": ""
+    },
+    {
+      "id": 10757,
+      "filename": "DST02105.jpeg",
+      "localPath": "photos/1121/DST02105.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST02105.jpeg",
+      "width": 2560,
+      "height": 1707,
+      "title": ""
+    },
+    {
+      "id": 10758,
+      "filename": "DST02111.jpeg",
+      "localPath": "photos/1121/DST02111.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST02111.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10759,
+      "filename": "DST02180.jpeg",
+      "localPath": "photos/1121/DST02180.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST02180.jpeg",
+      "width": 5427,
+      "height": 3618,
+      "title": ""
+    },
+    {
+      "id": 10760,
+      "filename": "DST08134_1.jpeg",
+      "localPath": "photos/1121/DST08134_1.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST08134_1.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10761,
+      "filename": "DST08141.jpeg",
+      "localPath": "photos/1121/DST08141.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST08141.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10762,
+      "filename": "DST08693.jpg",
+      "localPath": "photos/1121/DST08693.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST08693.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10763,
+      "filename": "DST08805.jpeg",
+      "localPath": "photos/1121/DST08805.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST08805.jpeg",
+      "width": 5251,
+      "height": 3501,
+      "title": ""
+    },
+    {
+      "id": 10764,
+      "filename": "DST02108.jpeg",
+      "localPath": "photos/1121/DST02108.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1121/DST02108.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:48.876Z",
+  "localImagePath": "photos/1121/profile.jpg"
+}

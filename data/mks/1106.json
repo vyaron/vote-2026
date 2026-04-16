@@ -1,0 +1,165 @@
+{
+  "id": 1106,
+  "name": "שרון ניר",
+  "fullTitle": "חברת הכנסת שרון ניר",
+  "faction": "ישראל ביתנו",
+  "email": "shnir@knesset.gov.il",
+  "workPhone": "02-6408093",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1106/1_1106_3_19718.jpeg?v=20260415_86442",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1106/1_1106_3_19718.jpeg?v=20260415_86442",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1106/1_1106_1_19780.png?v=20260415_86442",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1106/1_1106_4_19781.png?v=20260415_86442"
+  },
+  "gender": "unknown",
+  "dateOfBirth": "ד' בחשוון תשל\"א , 03/11/1970",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "- BA, תואר ראשון במדעי התנהגות, חטיבת מינהל עסקים ומשאבי אנוש, אוניברסיטת בן גוריון\n- MBA, תואר שני במינהל עסקים, אוניברסיטת בן גוריון\n- MA, תואר שני במדעי המדינה וביטחון לאומי, אוניברסיטת חיפה",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "128",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1106/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1106/1_1106_3_19718.jpeg?v=20260415_86442",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 9996,
+      "filename": "20221114151854_NOAM9365.jpg",
+      "localPath": "photos/1106/20221114151854_NOAM9365.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1106/20221114151854_NOAM9365.jpg",
+      "width": 1433,
+      "height": 936,
+      "title": "חברות הכנסת טלי גוטליב, לימור סון הר מלך, מטי צרפתי הרכבי, שרון ניר ודבי ביטון ביום הכשרה לחברי הכנסת החדשים, 14.11.2022.  צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10001,
+      "filename": "DST01243.JPG",
+      "localPath": "photos/1106/DST01243.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1106/DST01243.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת שרון ניר ביום הכשרה לחברי הכנסת החדשים, 14.11.2022.  צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10004,
+      "filename": "DST02221.jpg",
+      "localPath": "photos/1106/DST02221.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1106/DST02221.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת שרון ניר בהשבעת הכנסת ה-25, 15.11.2022.  צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10037,
+      "filename": "NOAM9931.JPG",
+      "localPath": "photos/1106/NOAM9931.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1106/NOAM9931.JPG",
+      "width": 5610,
+      "height": 3740,
+      "title": "חברת הכנסת שרון ניר בבהשבעת הכנסת ה-25, 15.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10100,
+      "filename": "NOAM1378.JPG",
+      "localPath": "photos/1106/NOAM1378.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1106/NOAM1378.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת שרון ניר בוועדה הזמנית לענייני חוץ וביטחון, 21.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10116,
+      "filename": "DST04905.jpg",
+      "localPath": "photos/1106/DST04905.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1106/DST04905.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת שרון ניר בנאום בכורה במליאה, 22.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10133,
+      "filename": "DST07302.jpg",
+      "localPath": "photos/1106/DST07302.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1106/DST07302.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת שרון ניר במליאה, 7.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10134,
+      "filename": "20221206161523_NOAM0062.jpg",
+      "localPath": "photos/1106/20221206161523_NOAM0062.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1106/20221206161523_NOAM0062.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת אביגדור ליברמן ושרון ניר במליאה, 6.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10135,
+      "filename": "20221130114138_NOAM9417.jpg",
+      "localPath": "photos/1106/20221130114138_NOAM9417.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1106/20221130114138_NOAM9417.jpg",
+      "width": 5199,
+      "height": 3466,
+      "title": "חברת הכנסת שרון ניר במליאה, 30.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10136,
+      "filename": "DST05745.jpg",
+      "localPath": "photos/1106/DST05745.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1106/DST05745.jpg",
+      "width": 1616,
+      "height": 1080,
+      "title": "חברת הכנסת שרון ניר במליאה, 28.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10178,
+      "filename": "DST09890.JPG",
+      "localPath": "photos/1106/DST09890.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1106/DST09890.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת שרון ניר בוועדה המיוחדת לדיון בהצעת חוק יסוד: הממשלה, 15.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10208,
+      "filename": "DST09514.jpg",
+      "localPath": "photos/1106/DST09514.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1106/DST09514.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת שרון ניר, נאור שירי ומשה סולומון בוועדה מיוחדת לדיון בהצעת חוק לתיקון פקודת המשטרה, 15.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:43.724Z",
+  "localImagePath": "photos/1106/profile.jpg"
+}

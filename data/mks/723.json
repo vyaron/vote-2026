@@ -1,0 +1,239 @@
+{
+  "id": 723,
+  "name": "גילה גמליאל",
+  "fullTitle": "חברת הכנסת גילה גמליאל",
+  "faction": "הליכוד ",
+  "email": "ggamliel@knesset.gov.il",
+  "workPhone": "8430,8431",
+  "homePhone": "03-5330120",
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/MK.Gila.Gamliel",
+    "twitter": "https://twitter.com/GilaGamliel?lang=he",
+    "instagram": "https://www.instagram.com/gila_gamliel/",
+    "youtube": "http://www.youtube.com/user/gamlielgila",
+    "website": null
+  },
+  "videoId": "eBZtzsM2juE",
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/723/1_723_3_1586.jpeg?v=20260415_11591",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/723/1_723_3_1586.jpeg?v=20260415_11591",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/723/1_723_1_1584.png?v=20260415_11591",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/723/1_723_4_1587.png?v=20260415_11591"
+  },
+  "gender": "unknown",
+  "dateOfBirth": "ב' באדר תשל\"ד , 24/02/1974",
+  "deathDate": null,
+  "placeOfBirth": "גדרה, ישראל",
+  "immigrationYear": null,
+  "residence": "תל אביב-יפו",
+  "education": "- תואר ראשון במשפטים, המכללה האקדמית קרית-אונו\n- תואר ראשון בהיסטוריה של המזרח-התיכון ובפילוסופיה, אוניברסיטת בן-גוריון\n- תואר שני בפילוסופיה, אוניברסיטת בן-גוריון\n- תואר שני במשפטים (LLM), אוניברסיטת בר-אילן",
+  "militaryService": "סמלת, ראש צוות חוקרות עבודה בחיל-האוויר",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "ערבית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "26",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "שרת החדשנות והמדע והטכנולוגיה",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/723/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/723/1_723_3_1586.jpeg?v=20260415_11591",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 656,
+      "filename": "IMG_5111.JPG",
+      "localPath": "photos/723/IMG_5111.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/IMG_5111.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "השרה לשוויון חברתי גילה גמליאל מצהירה אמונים בכנסת, 15.5.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 662,
+      "filename": "IMG_6233.JPG",
+      "localPath": "photos/723/IMG_6233.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/IMG_6233.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "השרה לשוויון חברתי גילה גמליאל במליאת הכנסת, 8.6.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 664,
+      "filename": "IMG_7203.JPG",
+      "localPath": "photos/723/IMG_7203.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/IMG_7203.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "השרה לשוויון חברתי גילה גמליאל בוועדה לקידום מעמד האישה, 8.6.2015. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 669,
+      "filename": "IMG_8022.JPG",
+      "localPath": "photos/723/IMG_8022.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/IMG_8022.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "השרה לשוויון חברתי גילה גמליאל באירוע לציון יום האזרח הוותיק בכנסת, 26.7.2016. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 3326,
+      "filename": "FF4A1910.JPG",
+      "localPath": "photos/723/FF4A1910.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/FF4A1910.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת גילה גמליאל בהשבעת הכנסת ה-21, 30.4.2019. צילום: יוסי זמיר, דוברות הכנסת"
+    },
+    {
+      "id": 3327,
+      "filename": "IMG_2249.JPG",
+      "localPath": "photos/723/IMG_2249.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/IMG_2249.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "השרה לשוויון חברתי גילה גמליאל בתערוכה של הוועדה לזכויות הילד, 1.8.2016. צילום: יוסי זמיר, דוברות הכנסת"
+    },
+    {
+      "id": 4411,
+      "filename": "1S5A9734.JPG",
+      "localPath": "photos/723/1S5A9734.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/1S5A9734.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חברת הכנסת גילה גמליאל ביום השבעת הכנסת ה-22, 3.10.2019. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 5032,
+      "filename": "EAV03775.JPG",
+      "localPath": "photos/723/EAV03775.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/EAV03775.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "השרה להגנת הסביבה חברת הכנסת גילה גמליאל וחבר הכנסת אבי ניסקורן במליאת הכנסת, 27.5.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5219,
+      "filename": "EAV08891.JPG",
+      "localPath": "photos/723/EAV08891.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/EAV08891.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "השרה להגנת הסביבה חברת הכנסת גילה גמליאל במליאת הכנסת, 6.7.2000. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5734,
+      "filename": "EAV02324.JPG",
+      "localPath": "photos/723/EAV02324.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/EAV02324.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "השרה להגנת הסביבה חברת הכנסת גילה גמליאל בוועדת הכלכלה, 14.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5735,
+      "filename": "EAV05027.JPG",
+      "localPath": "photos/723/EAV05027.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/EAV05027.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "השרה להגנת הסביבה חברת הכנסת גמליאל במליאת הכנסת, 26.8.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 9532,
+      "filename": "20220622105648_NOAM3877.jpg",
+      "localPath": "photos/723/20220622105648_NOAM3877.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/20220622105648_NOAM3877.jpg",
+      "width": 5332,
+      "height": 3554,
+      "title": "חברת הכנסת גילה גמליאל במליאת הכנסת, 22.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9533,
+      "filename": "20220530171719_NOAM5926.jpg",
+      "localPath": "photos/723/20220530171719_NOAM5926.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/20220530171719_NOAM5926.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת גילה גמליאל ושר הרווחה מאיר כהן במליאת הכנסת, 30.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9534,
+      "filename": "20220525164805_NOAM4491.jpg",
+      "localPath": "photos/723/20220525164805_NOAM4491.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/20220525164805_NOAM4491.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת גילה גמליאל במליאת הכנסת, 25.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9535,
+      "filename": "DST06283.JPG",
+      "localPath": "photos/723/DST06283.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/DST06283.JPG",
+      "width": 1829,
+      "height": 1255,
+      "title": "חברת הכנסת גילה גמליאל במליאת הכנסת, 18.5.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9536,
+      "filename": "20220509155007_NOAM9028.jpg",
+      "localPath": "photos/723/20220509155007_NOAM9028.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/20220509155007_NOAM9028.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חברת הכנסת גילה גמליאל במליאת הכנסת, 9.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9537,
+      "filename": "20220216211045_NOAM2189.jpg",
+      "localPath": "photos/723/20220216211045_NOAM2189.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/20220216211045_NOAM2189.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת גילה גמליאל ויושבת-ראש בית הנבחרים של ארצות הברית ננסי פלוסי במלון המלך דוד בירושלים, 16.2.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9538,
+      "filename": "IMG-20210302-WA0023.jpg",
+      "localPath": "photos/723/IMG-20210302-WA0023.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/IMG-20210302-WA0023.jpg",
+      "width": 1600,
+      "height": 1069,
+      "title": "השרה להגנת הסביבה חברת הכנסת גילה גמליאל בוועדת הפנים והגנת הסביבה, 4.2.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 9539,
+      "filename": "20220630114942_NOAM3331.jpg",
+      "localPath": "photos/723/20220630114942_NOAM3331.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/20220630114942_NOAM3331.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברות הכנסת גילה גמליאל ומירב בן ארי במליאת הכנסת, 30.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9540,
+      "filename": "ISH_6643.JPG",
+      "localPath": "photos/723/ISH_6643.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/723/ISH_6643.JPG",
+      "width": 6720,
+      "height": 4480,
+      "title": "השרה לשוויון חברתי חברת הכנסת גילה גמליאל בוועדת העבודה והרווחה, 2.7.2018. צילום: דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:39.554Z",
+  "localImagePath": "photos/723/profile.jpg"
+}

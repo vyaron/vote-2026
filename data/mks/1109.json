@@ -1,0 +1,255 @@
+{
+  "id": 1109,
+  "name": "משה סעדה",
+  "fullTitle": "חבר הכנסת משה סעדה",
+  "faction": "הליכוד ",
+  "email": "mosaada@knesset.gov.il",
+  "workPhone": "02-6408600",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/profile.php?id=100083730021802",
+    "twitter": "https://twitter.com/MosheSaada1",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1109/1_1109_3_19733.jpeg?v=20260415_21649",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1109/1_1109_3_19733.jpeg?v=20260415_21649",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1109/1_1109_1_19922.png?v=20260415_21649",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1109/1_1109_4_19923.png?v=20260415_21649"
+  },
+  "gender": "male",
+  "dateOfBirth": "ו' בתשרי תשל\"ג , 14/09/1972",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "- תואר ראשון במשפטים, מכללת שערי משפט\n- רישיון עריכת דין",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "87",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש ועדה משותפת של וועדת החוקה, חוק ומשפט, ועדת הפנים והגנת הסביבה וועדת המדע והטכנולוגיה לפי חוק הכללת אמצעי זיהוי ביומטריים ונתוני זיהוי ביומטריים במסמכי זיהוי ובמאגר מידע והתש\"ע-2009",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1109/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1109/1_1109_3_19733.jpeg?v=20260415_21649",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 9991,
+      "filename": "20221114151105_NOAM9331_jpg.jpg",
+      "localPath": "photos/1109/20221114151105_NOAM9331_jpg.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/20221114151105_NOAM9331_jpg.jpg",
+      "width": 640,
+      "height": 426,
+      "title": "חברי הכנסת משה סעדה, בועז ביסמוט וחנוך מלביצקי ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9992,
+      "filename": "DST00991.JPG",
+      "localPath": "photos/1109/DST00991.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/DST00991.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת משה סעדה ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9993,
+      "filename": "DST01331.JPG",
+      "localPath": "photos/1109/DST01331.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/DST01331.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת משה סעדה ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10014,
+      "filename": "DST01951.jpg",
+      "localPath": "photos/1109/DST01951.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/DST01951.jpg",
+      "width": 2560,
+      "height": 1707,
+      "title": "חבר הכנסת משה סעדה בהשבעת הכנסת ה-25. 15.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10151,
+      "filename": "NOAM9693.JPG",
+      "localPath": "photos/1109/NOAM9693.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/NOAM9693.JPG",
+      "width": 5195,
+      "height": 3463,
+      "title": "חבר הכנסת משה סעדה בהשבעת הכנסת ה-25, 15.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10152,
+      "filename": "DST07075.jpg",
+      "localPath": "photos/1109/DST07075.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/DST07075.jpg",
+      "width": 5548,
+      "height": 3698,
+      "title": "חבר הכנסת משה סעדה בוועדה המסדרת, 7.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10228,
+      "filename": "DST00794.jpg",
+      "localPath": "photos/1109/DST00794.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/DST00794.jpg",
+      "width": 2560,
+      "height": 1707,
+      "title": "חברי הכנסת רון כץ ומשה סעדה בוועדה המיוחדת לדיון בהצעת חוק יסוד: הממשלה, 19.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10269,
+      "filename": "Noam.M-5659.JPG",
+      "localPath": "photos/1109/Noam.M-5659.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/Noam.M-5659.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת משה סעדה בוועדה המיוחדת לדיון בהצעת חוק לתיקון פקודת המשטרה, 25.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10340,
+      "filename": "Noam.M-5834.JPG",
+      "localPath": "photos/1109/Noam.M-5834.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/Noam.M-5834.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת משה סעדה בוועדה המיוחדת לדיון בהצעת חוק לתיקון פקודת המשטרה, 26.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10730,
+      "filename": "20230330141125_NOAM3661.jpeg",
+      "localPath": "photos/1109/20230330141125_NOAM3661.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/20230330141125_NOAM3661.jpeg",
+      "width": 4987,
+      "height": 3325,
+      "title": ""
+    },
+    {
+      "id": 10731,
+      "filename": "DST01643.jpeg",
+      "localPath": "photos/1109/DST01643.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/DST01643.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10732,
+      "filename": "DST01649_1.jpeg",
+      "localPath": "photos/1109/DST01649_1.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/DST01649_1.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10733,
+      "filename": "DST01652.jpeg",
+      "localPath": "photos/1109/DST01652.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/DST01652.jpeg",
+      "width": 6000,
+      "height": 4000,
+      "title": ""
+    },
+    {
+      "id": 10734,
+      "filename": "Noam.M-7213.JPG",
+      "localPath": "photos/1109/Noam.M-7213.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/Noam.M-7213.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10735,
+      "filename": "DST02430.jpeg",
+      "localPath": "photos/1109/DST02430.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/DST02430.jpeg",
+      "width": 5225,
+      "height": 3483,
+      "title": ""
+    },
+    {
+      "id": 10736,
+      "filename": "DST08347.jpg",
+      "localPath": "photos/1109/DST08347.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/DST08347.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": ""
+    },
+    {
+      "id": 10737,
+      "filename": "20230301095835_NOAM9769.jpeg",
+      "localPath": "photos/1109/20230301095835_NOAM9769.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/20230301095835_NOAM9769.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10738,
+      "filename": "DST01670.jpg",
+      "localPath": "photos/1109/DST01670.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/DST01670.jpg",
+      "width": 1099,
+      "height": 733,
+      "title": ""
+    },
+    {
+      "id": 10739,
+      "filename": "DST06323.jpeg",
+      "localPath": "photos/1109/DST06323.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/DST06323.jpeg",
+      "width": 4518,
+      "height": 3011,
+      "title": ""
+    },
+    {
+      "id": 10740,
+      "filename": "20230327071636_NOAM1073.jpeg",
+      "localPath": "photos/1109/20230327071636_NOAM1073.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/20230327071636_NOAM1073.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10741,
+      "filename": "20230305182857_NOAM1272.jpeg",
+      "localPath": "photos/1109/20230305182857_NOAM1272.jpeg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/20230305182857_NOAM1272.jpeg",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    },
+    {
+      "id": 10742,
+      "filename": "Noam.M-7419.JPG",
+      "localPath": "photos/1109/Noam.M-7419.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1109/Noam.M-7419.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": ""
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:54.694Z",
+  "localImagePath": "photos/1109/profile.jpg"
+}

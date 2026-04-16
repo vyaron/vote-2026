@@ -1,0 +1,219 @@
+{
+  "id": 69,
+  "name": "ישראל כץ",
+  "fullTitle": "חבר הכנסת ישראל כץ",
+  "faction": "הליכוד ",
+  "email": "yiskatz@knesset.gov.il",
+  "workPhone": "026408518",
+  "homePhone": null,
+  "fax": "6525",
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/katzisraellikud",
+    "twitter": "https://twitter.com/Israel_katz",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": "eZPcrjHh2bY",
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/69/1_69_3_191.jpeg?v=20260415_14003",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/69/1_69_3_191.jpeg?v=20260415_14003",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/69/1_69_1_189.png?v=20260415_14003",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/69/1_69_4_192.png?v=20260415_14003"
+  },
+  "gender": "male",
+  "dateOfBirth": "ה' בתשרי תשט\"ז , 21/09/1955",
+  "deathDate": null,
+  "placeOfBirth": "אשקלון, ישראל",
+  "immigrationYear": null,
+  "residence": "כפר אחים",
+  "education": "- תואר ראשון, האוניברסיטה העברית,\n- לימודים לתואר שני, אוניברסיטת בר-אילן",
+  "militaryService": "סרן, תאריך שחרור 12.5.1977",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "14",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "שר הביטחון",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/69/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/69/1_69_3_191.jpeg?v=20260415_14003",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 530,
+      "filename": "IMG_0152.JPG",
+      "localPath": "photos/69/IMG_0152.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/IMG_0152.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת ישראל כץ וחיים כץ במליאת הכנסת, 20.7.2016. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 535,
+      "filename": "IMG_5266.JPG",
+      "localPath": "photos/69/IMG_5266.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/IMG_5266.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "שר התחבורה והבטיחות בדרכים חבר הכנסת ישראל כץ מצהיר אמונים במליאת הכנסת, 14.5.2015. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 547,
+      "filename": "ISH_5833.JPG",
+      "localPath": "photos/69/ISH_5833.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/ISH_5833.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "שר התחבורה והבטיחות בדרכים חבר הכנסת ישראל כץ בוועדת הכספים, 9.11.2016. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 551,
+      "filename": "ISH_8887.JPG",
+      "localPath": "photos/69/ISH_8887.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/ISH_8887.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "שר התחבורה והבטיחות בדרכים חבר הכנסת ישראל כץ בכנס לציון היום הלאומי לבטיחות בדרכים, 22.11.2016. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 555,
+      "filename": "NRF12554.JPG",
+      "localPath": "photos/69/NRF12554.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/NRF12554.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "שר התחבורה חבר הכנסת ישראל כץ בוועדת הכלכלה, 20.3.2017. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 562,
+      "filename": "_MG_9196.JPG",
+      "localPath": "photos/69/_MG_9196.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/_MG_9196.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "שר התחבורה והבטיחות בדרכים חבר הכנסת ישראל כץ בכנסת, 16.8.2015. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 3447,
+      "filename": "1S5A0317.JPG",
+      "localPath": "photos/69/1S5A0317.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/1S5A0317.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ישראל כץ ביום השבעת הכנסת ה-21, 30.4.2019. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 4392,
+      "filename": "1S5A9574.JPG",
+      "localPath": "photos/69/1S5A9574.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/1S5A9574.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חבר הכנסת ישראל כץ ביום השבעת הכנסת ה-22, 3.10.2019. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 5185,
+      "filename": "EAV09438.JPG",
+      "localPath": "photos/69/EAV09438.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/EAV09438.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "שר האוצר חבר הכנסת ישראל כץ בכנסת, 8.6.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5467,
+      "filename": "EAV04227.JPG",
+      "localPath": "photos/69/EAV04227.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/EAV04227.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "שר האוצר חבר הכנסת ישראל כץ במליאת הכנסת, 27.7.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5898,
+      "filename": "EAV05065.JPG",
+      "localPath": "photos/69/EAV05065.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/EAV05065.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת ישראל כץ במליאת הכנסת, 26.8.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 9251,
+      "filename": "DST05541.JPG",
+      "localPath": "photos/69/DST05541.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/DST05541.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ישראל כץ במליאת הכנסת, 8.11.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9252,
+      "filename": "EAV09465.JPG",
+      "localPath": "photos/69/EAV09465.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/EAV09465.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "שר האוצר חבר הכנסת ישראל כץ בוועדת הכספים, 4.5.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9253,
+      "filename": "EAV00296.JPG",
+      "localPath": "photos/69/EAV00296.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/EAV00296.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "שר האוצר חבר הכנסת ישראל כץ בוועדת הכספים, 28.12.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9254,
+      "filename": "EAV04387.JPG",
+      "localPath": "photos/69/EAV04387.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/EAV04387.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "שר האוצר חבר הכנסת ישראל כץ במליאת הכנסת, 27.7.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 9255,
+      "filename": "NOAM9998.JPG",
+      "localPath": "photos/69/NOAM9998.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/NOAM9998.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת ישראל כץ ומירי רגב במליאת הכנסת, 27.7.2020. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9256,
+      "filename": "EAV06149.JPG",
+      "localPath": "photos/69/EAV06149.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/EAV06149.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת ישראל כץ בטקס \"לכל איש יש שם\" להנצחת שמות נספי השואה בכנסת, 27.7.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9260,
+      "filename": "20220502144433_NOAM8998.jpg",
+      "localPath": "photos/69/20220502144433_NOAM8998.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/69/20220502144433_NOAM8998.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת ישראל כץ במליאת הכנסת, 2.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:17.313Z",
+  "localImagePath": "photos/69/profile.jpg"
+}

@@ -1,0 +1,212 @@
+{
+  "id": 1043,
+  "name": "יוסף טייב",
+  "fullTitle": "חבר הכנסת יוסף טייב",
+  "faction": "התאחדות הספרדים שומרי תורה תנועתו של מרן הרב עובדיה יוסף זצ\"ל",
+  "email": "jtaieb@knesset.gov.il",
+  "workPhone": "02-6408169",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/YossiTaiebKnesset",
+    "twitter": "https://twitter.com/yossitaieb",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1043/1_1043_3_15131.jpeg?v=20260415_73326",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1043/1_1043_3_15131.jpeg?v=20260415_73326",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1043/1_1043_1_15137.png?v=20260415_73326",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1043/1_1043_4_15138.png?v=20260415_73326"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"א באדר תשמ\"א , 15/02/1981",
+  "deathDate": null,
+  "placeOfBirth": "פריז, צרפת",
+  "immigrationYear": "1996",
+  "residence": "קריית יערים",
+  "education": "הסמכה לרבנות",
+  "militaryService": "סמל",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "צרפתית"
+  ],
+  "bio": "חבר הכנסת יוסף טייב הוא נציג הצרפתים והעולים בסיעת ש\"ס בכנסת. הוא חבר בוועדת החינוך, התרבות והספורט, בוועדת הקליטה והעלייה ובוועדה לשלום הילד.\n\nטייב היה סגן ראש המועצה המקומית קריית יערים ונציג ש\"ס ביישוב. הוא גם ניהל בישראל את קרן וולפסון צרפתים דרך עמותת שלבים, העוסקת בתחום החינוך לעולי צרפת ולקידומם החינוכי בישראל.\n\nכיום הוא מתמקד בעבודתו בפרלמנט הישראלי. כחבר הכנסת הוא מקדיש את זמנו בעיקר לקידום העלייה לישראל ולשיפור תנאי העולים באמצעות התאמת סל קליטה לאוכלוסייה הצרפתית, שיאפשר את קליטתם בכבוד ויסייע להסדרת רווחתם בארץ ישראל.",
+  "knessetId": 25,
+  "plenumSeatNumber": "92",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1043/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1043/1_1043_3_15131.jpeg?v=20260415_73326",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 5421,
+      "filename": "EAV06479.JPG",
+      "localPath": "photos/1043/EAV06479.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV06479.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת יוסף טייב במליאת הכנסת, 1.7.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5840,
+      "filename": "EAV08670.JPG",
+      "localPath": "photos/1043/EAV08670.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV08670.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת יוסף טייב במליאת הכנסת, 8.9.2020. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 5842,
+      "filename": "EAV01048.JPG",
+      "localPath": "photos/1043/EAV01048.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV01048.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת יוסף טייב בוועדת החוקה, חוק ומשפט, 22.7.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5843,
+      "filename": "EAV03369.JPG",
+      "localPath": "photos/1043/EAV03369.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV03369.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת יוסף טייב במליאת הכנסת, 19.8.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5844,
+      "filename": "EAV05241.JPG",
+      "localPath": "photos/1043/EAV05241.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV05241.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת יוסף טייב בוועדת החינוך, התרבות והספורט, 17.9.2020. צילום: שמוליק גרוסמן,  דוברות הכנסת"
+    },
+    {
+      "id": 5845,
+      "filename": "EAV07126.JPG",
+      "localPath": "photos/1043/EAV07126.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV07126.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת יוסף טייב במליאת הכנסת, 3.8.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5850,
+      "filename": "EAV06061.JPG",
+      "localPath": "photos/1043/EAV06061.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV06061.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת יוסף טייב בוועדת החינוך, התרבות והספורט, 11.8.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 9310,
+      "filename": "EAV08955.JPG",
+      "localPath": "photos/1043/EAV08955.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV08955.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת יוסף טייב במליאת הכנסת, 20.4.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9311,
+      "filename": "EAV04008.JPG",
+      "localPath": "photos/1043/EAV04008.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV04008.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת יוסף טייב במליאת הכנסת, 3.3.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9312,
+      "filename": "EAV06682.JPG",
+      "localPath": "photos/1043/EAV06682.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV06682.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת יוסף טייב בוועדת הכנסת, 17.12.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9313,
+      "filename": "EAV02292.JPG",
+      "localPath": "photos/1043/EAV02292.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV02292.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "ממלא מקום יושב-ראש ועדת החינוך, התרבות והספורט חבר הכנסת יוסף טייב, 17.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9314,
+      "filename": "EAV09895.JPG",
+      "localPath": "photos/1043/EAV09895.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV09895.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חבר הכנסת יוסף טייב בוועדת החינוך, התרבות והספורט, 19.10.2020. צילום: שמוליק גרוסמן, דוברות הכנסת"
+    },
+    {
+      "id": 9315,
+      "filename": "EAV01792.JPG",
+      "localPath": "photos/1043/EAV01792.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV01792.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חבר הכנסת יוסף טייב בוועדה לזכויות הילד, 19.10.2020. צילום: שמוליק גרוסמן,  דוברות הכנסת"
+    },
+    {
+      "id": 9316,
+      "filename": "DSC06212.JPG",
+      "localPath": "photos/1043/DSC06212.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/DSC06212.JPG",
+      "width": 1968,
+      "height": 1312,
+      "title": "חבר הכנסת יוסף טייב בוועדת החינוך, התרבות והספורט, 12.10.2020. צילום: יניב נדב, דוברות הכנסת"
+    },
+    {
+      "id": 9317,
+      "filename": "EAV04841.JPG",
+      "localPath": "photos/1043/EAV04841.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV04841.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חבר הכנסת יוסף טייב במליאת הכנסת, 16.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 9318,
+      "filename": "EAV08786.JPG",
+      "localPath": "photos/1043/EAV08786.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/EAV08786.JPG",
+      "width": 3936,
+      "height": 2624,
+      "title": "חבר הכנסת יוסף טייב במליאת הכנסת, 8.9.2020. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 9319,
+      "filename": "20220509182331_NOAM9163.jpg",
+      "localPath": "photos/1043/20220509182331_NOAM9163.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1043/20220509182331_NOAM9163.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת יוסף טייב במליאת הכנסת, 9.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:06.348Z",
+  "localImagePath": "photos/1043/profile.jpg"
+}

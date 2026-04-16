@@ -1,0 +1,337 @@
+{
+  "id": 1090,
+  "name": "אוהד טל",
+  "fullTitle": "חבר הכנסת אוהד טל",
+  "faction": "הציונות הדתית בראשות בצלאל סמוטריץ'",
+  "email": "ohadt@knesset.gov.il",
+  "workPhone": "02-6408115",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/ohad.tal.16",
+    "twitter": "https://x.com/mkohadtal",
+    "instagram": "https://www.instagram.com/mkohadtal/?igsh=dzM5aHNrczIzMGg%253",
+    "youtube": "https://www.youtube.com/channel/UCsBkjyF7_UlupwueDTqx4hw",
+    "website": "https://www.tiktok.com/@mkohadtal?lang=he-IL"
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1090/1_1090_3_19702.jpeg?v=20260415_31591",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1090/1_1090_3_19702.jpeg?v=20260415_31591",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1090/1_1090_1_19806.png?v=20260415_31591",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1090/1_1090_4_19807.png?v=20260415_31591"
+  },
+  "gender": "male",
+  "dateOfBirth": "ט' בטבת תשמ\"ב , 04/01/1982",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "- BA בניהול מערכות חינוך ולימודי ארץ ישראל, אוניברסיטת בר אילן\n- MA בתוכנית המנהלים מינהל ומדיניות ציבורית, האוניברסיטה העברית \n- בגרות מלאה בישיבה התיכונית מצפה רמון",
+  "militaryService": "מפקד טנק בחיל השריון",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "93",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "יושב-ראש הוועדה למיזמים ציבוריים ויושב-ראש סיעת הציונות הדתית בראשות בצלאל סמוטריץ'",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1090/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1090/1_1090_3_19702.jpeg?v=20260415_31591",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 10050,
+      "filename": "DST01286.jpg",
+      "localPath": "photos/1090/DST01286.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST01286.jpg",
+      "width": 2300,
+      "height": 1611,
+      "title": "חבר הכנסת אוהד טל ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10189,
+      "filename": "DST09657.JPG",
+      "localPath": "photos/1090/DST09657.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST09657.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת גלית דיסטל אטבריאן, אוהד טל, לימור סן הר-מלך ומשה סולומון במליאת הכנסת, 15.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10239,
+      "filename": "DST05246.jpg",
+      "localPath": "photos/1090/DST05246.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST05246.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת משה סולומון ואוהד טל בארוע לחג הסיגד בכנסת, 24.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10241,
+      "filename": "DST05028.jpg",
+      "localPath": "photos/1090/DST05028.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST05028.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת מיכל מרים וולדיגר, אוהד טל, שמחה רוטמן ומשה סולומון במליאה, 23.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10242,
+      "filename": "20221206164303_NOAM0144.jpg",
+      "localPath": "photos/1090/20221206164303_NOAM0144.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/20221206164303_NOAM0144.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת אוהד טל נושא דברים במליאת הכנסת, 6.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10567,
+      "filename": "20230112151023_NOAM9593.jpg",
+      "localPath": "photos/1090/20230112151023_NOAM9593.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/20230112151023_NOAM9593.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אוהד טל בפגישה עם יושב-ראש הכנסת אמיר אוחנה, 12.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10568,
+      "filename": "20230112151025_NOAM9595.jpg",
+      "localPath": "photos/1090/20230112151025_NOAM9595.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/20230112151025_NOAM9595.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אוהד טל בפגישה עם יושב-ראש הכנסת אמיר אוחנה, 12.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10569,
+      "filename": "20230131131545_NOAM4714.jpg",
+      "localPath": "photos/1090/20230131131545_NOAM4714.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/20230131131545_NOAM4714.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת אוהד טל, עמית הלוי וגדי איזנקוט בישיבת ועדת החוץ והביטחון, 31.1.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10570,
+      "filename": "DST00683.jpg",
+      "localPath": "photos/1090/DST00683.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST00683.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אוהד טל נושא דברים במליאת הכנסת, 18.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10571,
+      "filename": "DST00704.jpg",
+      "localPath": "photos/1090/DST00704.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST00704.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אוהד טל נושא דברים במליאת הכנסת, 18.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10572,
+      "filename": "DST00730.jpg",
+      "localPath": "photos/1090/DST00730.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST00730.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אוהד טל נושא דברים במליאת הכנסת, 18.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10573,
+      "filename": "DST02217.jpg",
+      "localPath": "photos/1090/DST02217.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST02217.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אוהד טל נושא דברים במליאת הכנסת, 24.1.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10574,
+      "filename": "DST05063.jpg",
+      "localPath": "photos/1090/DST05063.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST05063.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "יושב-ראש הוועדה למיזמים ציבוריים חבר הכנסת אוהד טל, 28.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10575,
+      "filename": "DST05084.jpg",
+      "localPath": "photos/1090/DST05084.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST05084.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "יושב-ראש הוועדה למיזמים ציבוריים חבר הכנסת אוהד טל, 28.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10576,
+      "filename": "DST05108.jpg",
+      "localPath": "photos/1090/DST05108.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST05108.jpg",
+      "width": 1159,
+      "height": 779,
+      "title": "ישיבת הוועדה למיזמים ציבוריים בראשות חבר הכנסת אוהד טל בישיבה עם שר האוצר בצלאל סמוטריץ', 1.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10577,
+      "filename": "DST05112_1.jpg",
+      "localPath": "photos/1090/DST05112_1.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST05112_1.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת אוהד טל ואופיר כץ עם שר האוצר בצלאל סמוטריץ', 1.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10578,
+      "filename": "DST05115.jpg",
+      "localPath": "photos/1090/DST05115.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST05115.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "יושב-ראש הוועדה למיזמים ציבוריים הנבחר חבר הכנסת אוהד טל עם חברת הכנסת מיכל וולדיגר וחבר הכנסת אופיר סופר, 1.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10580,
+      "filename": "DST05937.jpg",
+      "localPath": "photos/1090/DST05937.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST05937.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת אוהד טל נושא דברים במליאת הכנסת ולידו חבר הכנסת אוריאל בוסו, 29.11.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10581,
+      "filename": "DST07633.jpg",
+      "localPath": "photos/1090/DST07633.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST07633.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "יושב-ראש הוועדה למיזמים ציבוריים חבר הכנסת אוהד טל, 7.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10582,
+      "filename": "DST07650_1.jpg",
+      "localPath": "photos/1090/DST07650_1.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST07650_1.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "יושב-ראש הוועדה למיזמים ציבוריים חבר הכנסת אוהד טל, 7.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10583,
+      "filename": "DST07666_1 (1).jpg",
+      "localPath": "photos/1090/DST07666_1 (1).jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST07666_1 (1).jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "הוועדה למיזמים ציבוריים בראשות חבר הכנסת אוהד טל, 7.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10584,
+      "filename": "DST07666_1.jpg",
+      "localPath": "photos/1090/DST07666_1.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST07666_1.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "הוועדה למיזמים ציבוריים בראשות חבר הכנסת אוהד טל, 7.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10585,
+      "filename": "DST07676.jpg",
+      "localPath": "photos/1090/DST07676.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST07676.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "הוועדה למיזמים ציבוריים בראשות חבר הכנסת אוהד טל, 7.2.2023. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10586,
+      "filename": "DST08141.jpg",
+      "localPath": "photos/1090/DST08141.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST08141.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת אליהו ברוכי, אוהד טל, יצחק שמעון וסרלאוף וצבי ידידיה סוכות, 8.2.2023. צילום;דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10587,
+      "filename": "DST09820.jpg",
+      "localPath": "photos/1090/DST09820.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/DST09820.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת אוהד טל, יבגני סובה ואימאן ח'טיב יאסין בישיבת ועדת הכספים, 15.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10588,
+      "filename": "Noam.M-9968.JPG",
+      "localPath": "photos/1090/Noam.M-9968.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/Noam.M-9968.JPG",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת אימאן ח'טיב יאסין, אוהד טל, חיים ביטון ואברהם בצלאל בדיון בוועדת הכספים, 6.12.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10589,
+      "filename": "20221130111403_NOAM9340.jpg",
+      "localPath": "photos/1090/20221130111403_NOAM9340.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/20221130111403_NOAM9340.jpg",
+      "width": 1386,
+      "height": 924,
+      "title": "חבר הכנסת אוהד טל נושא דברים במליאת הכנסת. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10590,
+      "filename": "20221130111844_NOAM9350.jpg",
+      "localPath": "photos/1090/20221130111844_NOAM9350.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/20221130111844_NOAM9350.jpg",
+      "width": 1300,
+      "height": 867,
+      "title": "חבר הכנסת אוהד טל נושא דברים במליאת הכנסת. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10591,
+      "filename": "20221206161637_NOAM0076.jpg",
+      "localPath": "photos/1090/20221206161637_NOAM0076.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/20221206161637_NOAM0076.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חברי הכנסת אוהד טל ואורית סטרוק במליאת הכנסת. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10592,
+      "filename": "20221229123057_NOAM8272.jpg",
+      "localPath": "photos/1090/20221229123057_NOAM8272.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/20221229123057_NOAM8272.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אוהד טל עם חברי הכנסת מהציונות הדתית במליאת הכנסת. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 10593,
+      "filename": "20230112150800_NOAM9589.jpg",
+      "localPath": "photos/1090/20230112150800_NOAM9589.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1090/20230112150800_NOAM9589.jpg",
+      "width": 1159,
+      "height": 773,
+      "title": "חבר הכנסת אוהד טל בשיחה עם יושב-ראש הכנסת אמיר אוחנה, 12.2.2023. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:07.373Z",
+  "localImagePath": "photos/1090/profile.jpg"
+}

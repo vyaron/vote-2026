@@ -1,0 +1,802 @@
+[
+  {
+    "mkId": 134,
+    "personId": 134,
+    "firstName": "אלינור",
+    "lastName": "ימין",
+    "fullName": "אלינור ימין",
+    "isCurrent": true
+  },
+  {
+    "mkId": 230,
+    "personId": 230,
+    "firstName": "שגית",
+    "lastName": "אפיק",
+    "fullName": "שגית אפיק",
+    "isCurrent": true
+  },
+  {
+    "mkId": "5",
+    "personId": 427,
+    "firstName": "אביגדור",
+    "lastName": "ליברמן",
+    "fullName": "אביגדור ליברמן",
+    "isCurrent": true
+  },
+  {
+    "mkId": "36",
+    "personId": 468,
+    "firstName": "ישראל",
+    "lastName": "כץ",
+    "fullName": "ישראל כץ",
+    "isCurrent": true
+  },
+  {
+    "mkId": "83",
+    "personId": 526,
+    "firstName": "משה",
+    "lastName": "גפני",
+    "fullName": "משה גפני",
+    "isCurrent": true
+  },
+  {
+    "mkId": "87",
+    "personId": 532,
+    "firstName": "יולי יואל",
+    "lastName": "אדלשטיין",
+    "fullName": "יולי יואל אדלשטיין",
+    "isCurrent": true
+  },
+  {
+    "mkId": 556,
+    "personId": 556,
+    "firstName": "חיים",
+    "lastName": "כץ",
+    "fullName": "חיים כץ",
+    "isCurrent": true
+  },
+  {
+    "mkId": 560,
+    "personId": 560,
+    "firstName": "אחמד",
+    "lastName": "טיבי",
+    "fullName": "אחמד טיבי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 563,
+    "personId": 563,
+    "firstName": "מאיר",
+    "lastName": "פרוש",
+    "fullName": "מאיר פרוש",
+    "isCurrent": true
+  },
+  {
+    "mkId": 965,
+    "personId": 965,
+    "firstName": "בנימין",
+    "lastName": "נתניהו",
+    "fullName": "בנימין נתניהו",
+    "isCurrent": true
+  },
+  {
+    "mkId": 1025,
+    "personId": 1025,
+    "firstName": "גילה",
+    "lastName": "גמליאל",
+    "fullName": "גילה גמליאל",
+    "isCurrent": true
+  },
+  {
+    "mkId": 1027,
+    "personId": 1027,
+    "firstName": "גדעון",
+    "lastName": "סער",
+    "fullName": "גדעון סער",
+    "isCurrent": true
+  },
+  {
+    "mkId": 1056,
+    "personId": 1056,
+    "firstName": "יעקב",
+    "lastName": "מרגי",
+    "fullName": "יעקב מרגי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 1057,
+    "personId": 1057,
+    "firstName": "ישראל",
+    "lastName": "אייכלר",
+    "fullName": "ישראל אייכלר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 1996,
+    "personId": 1996,
+    "firstName": "דן",
+    "lastName": "מרזוק",
+    "fullName": "דן מרזוק",
+    "isCurrent": true
+  },
+  {
+    "mkId": 2291,
+    "personId": 2291,
+    "firstName": "אריה מכלוף",
+    "lastName": "דרעי",
+    "fullName": "אריה מכלוף דרעי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 4395,
+    "personId": 4395,
+    "firstName": "אבי",
+    "lastName": "דיכטר",
+    "fullName": "אבי דיכטר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 4397,
+    "personId": 4397,
+    "firstName": "זאב",
+    "lastName": "אלקין",
+    "fullName": "זאב אלקין",
+    "isCurrent": true
+  },
+  {
+    "mkId": 11835,
+    "personId": 11835,
+    "firstName": "אורי",
+    "lastName": "מקלב",
+    "fullName": "אורי מקלב",
+    "isCurrent": true
+  },
+  {
+    "mkId": 12938,
+    "personId": 12938,
+    "firstName": "חמד",
+    "lastName": "עמאר",
+    "fullName": "חמד עמאר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 12951,
+    "personId": 12951,
+    "firstName": "יריב",
+    "lastName": "לוין",
+    "fullName": "יריב לוין",
+    "isCurrent": true
+  },
+  {
+    "mkId": 12959,
+    "personId": 12959,
+    "firstName": "מירי מרים",
+    "lastName": "רגב",
+    "fullName": "מירי מרים רגב",
+    "isCurrent": true
+  },
+  {
+    "mkId": 22151,
+    "personId": 22151,
+    "firstName": "אכרם",
+    "lastName": "חסון",
+    "fullName": "אכרם חסון",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23551,
+    "personId": 23551,
+    "firstName": "אורית מלכה",
+    "lastName": "סטרוק",
+    "fullName": "אורית מלכה סטרוק",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23558,
+    "personId": 23558,
+    "firstName": "דוד",
+    "lastName": "ביטן",
+    "fullName": "דוד ביטן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23560,
+    "personId": 23560,
+    "firstName": "יוליה",
+    "lastName": "מלינובסקי",
+    "fullName": "יוליה מלינובסקי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23564,
+    "personId": 23564,
+    "firstName": "דוד",
+    "lastName": "אמסלם",
+    "fullName": "דוד אמסלם",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23565,
+    "personId": 23565,
+    "firstName": "מרב",
+    "lastName": "מיכאלי",
+    "fullName": "מרב מיכאלי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23591,
+    "personId": 23591,
+    "firstName": "אלעזר",
+    "lastName": "שטרן",
+    "fullName": "אלעזר שטרן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23594,
+    "personId": 23594,
+    "firstName": "יאיר",
+    "lastName": "לפיד",
+    "fullName": "יאיר לפיד",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23597,
+    "personId": 23597,
+    "firstName": "מאיר",
+    "lastName": "כהן",
+    "fullName": "מאיר כהן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23631,
+    "personId": 23631,
+    "firstName": "קארין",
+    "lastName": "אלהרר",
+    "fullName": "קארין אלהרר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23632,
+    "personId": 23632,
+    "firstName": "מיקי",
+    "lastName": "לוי",
+    "fullName": "מיקי לוי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23635,
+    "personId": 23635,
+    "firstName": "פנינה",
+    "lastName": "תמנו",
+    "fullName": "פנינה תמנו",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23639,
+    "personId": 23639,
+    "firstName": "בועז",
+    "lastName": "טופורובסקי",
+    "fullName": "בועז טופורובסקי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 23641,
+    "personId": 23641,
+    "firstName": "יעקב",
+    "lastName": "אשר",
+    "fullName": "יעקב אשר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 28513,
+    "personId": 28513,
+    "firstName": "יואב",
+    "lastName": "בן צור",
+    "fullName": "יואב בן צור",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30055,
+    "personId": 30055,
+    "firstName": "בצלאל",
+    "lastName": "סמוטריץ'",
+    "fullName": "בצלאל סמוטריץ'",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30057,
+    "personId": 30057,
+    "firstName": "יואב",
+    "lastName": "קיש",
+    "fullName": "יואב קיש",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30058,
+    "personId": 30058,
+    "firstName": "מכלוף מיקי",
+    "lastName": "זוהר",
+    "fullName": "מכלוף מיקי זוהר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30066,
+    "personId": 30066,
+    "firstName": "איימן",
+    "lastName": "עודה",
+    "fullName": "איימן עודה",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30067,
+    "personId": 30067,
+    "firstName": "עאידה",
+    "lastName": "תומא סלימאן",
+    "fullName": "עאידה תומא סלימאן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30083,
+    "personId": 30083,
+    "firstName": "אלי",
+    "lastName": "כהן",
+    "fullName": "אלי כהן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30102,
+    "personId": 30102,
+    "firstName": "מירב",
+    "lastName": "בן ארי",
+    "fullName": "מירב בן ארי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30106,
+    "personId": 30106,
+    "firstName": "נעמה",
+    "lastName": "לזימי",
+    "fullName": "נעמה לזימי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30118,
+    "personId": 30118,
+    "firstName": "שרן מרים",
+    "lastName": "השכל",
+    "fullName": "שרן מרים השכל",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30121,
+    "personId": 30121,
+    "firstName": "עודד",
+    "lastName": "פורר",
+    "fullName": "עודד פורר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30300,
+    "personId": 30300,
+    "firstName": "אמיר",
+    "lastName": "אוחנה",
+    "fullName": "אמיר אוחנה",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30470,
+    "personId": 30470,
+    "firstName": "מיכאל",
+    "lastName": "מלכיאלי",
+    "fullName": "מיכאל מלכיאלי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30601,
+    "personId": 30601,
+    "firstName": "ינון",
+    "lastName": "אזולאי",
+    "fullName": "ינון אזולאי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30657,
+    "personId": 30657,
+    "firstName": "בנימין",
+    "lastName": "גנץ",
+    "fullName": "בנימין גנץ",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30660,
+    "personId": 30660,
+    "firstName": "משה",
+    "lastName": "ארבל",
+    "fullName": "משה ארבל",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30671,
+    "personId": 30671,
+    "firstName": "יעקב",
+    "lastName": "טסלר",
+    "fullName": "יעקב טסלר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30672,
+    "personId": 30672,
+    "firstName": "יצחק",
+    "lastName": "פינדרוס",
+    "fullName": "יצחק פינדרוס",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30682,
+    "personId": 30682,
+    "firstName": "מיכאל מרדכי",
+    "lastName": "ביטון",
+    "fullName": "מיכאל מרדכי ביטון",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30683,
+    "personId": 30683,
+    "firstName": "חילי",
+    "lastName": "טרופר",
+    "fullName": "חילי טרופר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30685,
+    "personId": 30685,
+    "firstName": "אורית",
+    "lastName": "פרקש הכהן",
+    "fullName": "אורית פרקש הכהן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30686,
+    "personId": 30686,
+    "firstName": "מירב",
+    "lastName": "כהן",
+    "fullName": "מירב כהן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30691,
+    "personId": 30691,
+    "firstName": "רם",
+    "lastName": "בן ברק",
+    "fullName": "רם בן ברק",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30693,
+    "personId": 30693,
+    "firstName": "איתן",
+    "lastName": "גינזבורג",
+    "fullName": "איתן גינזבורג",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30694,
+    "personId": 30694,
+    "firstName": "אלון",
+    "lastName": "שוסטר",
+    "fullName": "אלון שוסטר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30695,
+    "personId": 30695,
+    "firstName": "יואב",
+    "lastName": "סגלוביץ'",
+    "fullName": "יואב סגלוביץ'",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30700,
+    "personId": 30700,
+    "firstName": "ניר",
+    "lastName": "ברקת",
+    "fullName": "ניר ברקת",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30701,
+    "personId": 30701,
+    "firstName": "אופיר",
+    "lastName": "כץ",
+    "fullName": "אופיר כץ",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30702,
+    "personId": 30702,
+    "firstName": "חוה אתי",
+    "lastName": "עטייה",
+    "fullName": "חוה אתי עטייה",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30704,
+    "personId": 30704,
+    "firstName": "שלמה",
+    "lastName": "קרעי",
+    "fullName": "שלמה קרעי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30705,
+    "personId": 30705,
+    "firstName": "מיכל",
+    "lastName": "שיר סגמן",
+    "fullName": "מיכל שיר סגמן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30706,
+    "personId": 30706,
+    "firstName": "קטי קטרין",
+    "lastName": "שטרית",
+    "fullName": "קטי קטרין שטרית",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30708,
+    "personId": 30708,
+    "firstName": "מאי",
+    "lastName": "גולן",
+    "fullName": "מאי גולן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30710,
+    "personId": 30710,
+    "firstName": "אריאל",
+    "lastName": "קלנר",
+    "fullName": "אריאל קלנר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30711,
+    "personId": 30711,
+    "firstName": "עמית",
+    "lastName": "הלוי",
+    "fullName": "עמית הלוי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30713,
+    "personId": 30713,
+    "firstName": "מנסור",
+    "lastName": "עבאס",
+    "fullName": "מנסור עבאס",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30717,
+    "personId": 30717,
+    "firstName": "אופיר",
+    "lastName": "סופר",
+    "fullName": "אופיר סופר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30718,
+    "personId": 30718,
+    "firstName": "עידית",
+    "lastName": "סילמן",
+    "fullName": "עידית סילמן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30719,
+    "personId": 30719,
+    "firstName": "עופר",
+    "lastName": "כסיף",
+    "fullName": "עופר כסיף",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30720,
+    "personId": 30720,
+    "firstName": "יוראי",
+    "lastName": "להב הרצנו",
+    "fullName": "יוראי להב הרצנו",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30722,
+    "personId": 30722,
+    "firstName": "יבגני",
+    "lastName": "סובה",
+    "fullName": "יבגני סובה",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30749,
+    "personId": 30749,
+    "firstName": "משה",
+    "lastName": "אבוטבול",
+    "fullName": "משה אבוטבול",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30752,
+    "personId": 30752,
+    "firstName": "ווליד",
+    "lastName": "טאהא",
+    "fullName": "ווליד טאהא",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30758,
+    "personId": 30758,
+    "firstName": "אימאן",
+    "lastName": "ח'טיב יאסין",
+    "fullName": "אימאן ח'טיב יאסין",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30765,
+    "personId": 30765,
+    "firstName": "אוריאל",
+    "lastName": "בוסו",
+    "fullName": "אוריאל בוסו",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30770,
+    "personId": 30770,
+    "firstName": "יוסף",
+    "lastName": "טייב",
+    "fullName": "יוסף טייב",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30771,
+    "personId": 30771,
+    "firstName": "ראדה",
+    "lastName": "חסייסי",
+    "fullName": "ראדה חסייסי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30772,
+    "personId": 30772,
+    "firstName": "ניסים",
+    "lastName": "ואטורי",
+    "fullName": "ניסים ואטורי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30775,
+    "personId": 30775,
+    "firstName": "יעל",
+    "lastName": "רון בן משה",
+    "fullName": "יעל רון בן משה",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30776,
+    "personId": 30776,
+    "firstName": "ולדימיר",
+    "lastName": "בליאק",
+    "fullName": "ולדימיר בליאק",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30777,
+    "personId": 30777,
+    "firstName": "משה",
+    "lastName": "טור פז",
+    "fullName": "משה טור פז",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30780,
+    "personId": 30780,
+    "firstName": "רון",
+    "lastName": "כץ",
+    "fullName": "רון כץ",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30782,
+    "personId": 30782,
+    "firstName": "טטיאנה",
+    "lastName": "מזרסקי",
+    "fullName": "טטיאנה מזרסקי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30783,
+    "personId": 30783,
+    "firstName": "יסמין",
+    "lastName": "פרידמן",
+    "fullName": "יסמין פרידמן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30786,
+    "personId": 30786,
+    "firstName": "עמיחי",
+    "lastName": "שיקלי",
+    "fullName": "עמיחי שיקלי",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30799,
+    "personId": 30799,
+    "firstName": "מישל",
+    "lastName": "בוסקילה",
+    "fullName": "מישל בוסקילה",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30804,
+    "personId": 30804,
+    "firstName": "חיים",
+    "lastName": "ביטון",
+    "fullName": "חיים ביטון",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30807,
+    "personId": 30807,
+    "firstName": "גלעד",
+    "lastName": "קריב",
+    "fullName": "גלעד קריב",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30808,
+    "personId": 30808,
+    "firstName": "אפרת",
+    "lastName": "רייטן מרום",
+    "fullName": "אפרת רייטן מרום",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30809,
+    "personId": 30809,
+    "firstName": "גלית",
+    "lastName": "דיסטל אטבריאן",
+    "fullName": "גלית דיסטל אטבריאן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30810,
+    "personId": 30810,
+    "firstName": "מיכל מרים",
+    "lastName": "וולדיגר",
+    "fullName": "מיכל מרים וולדיגר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30811,
+    "personId": 30811,
+    "firstName": "איתמר",
+    "lastName": "בן גביר",
+    "fullName": "איתמר בן גביר",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30812,
+    "personId": 30812,
+    "firstName": "שמחה",
+    "lastName": "רוטמן",
+    "fullName": "שמחה רוטמן",
+    "isCurrent": true
+  },
+  {
+    "mkId": 30814,
+    "personId": 30814,
+    "firstName": "אבי",
+    "lastName": "מעוז",
+    "fullName": "אבי מעוז",
+    "isCurrent": true
+  }
+]

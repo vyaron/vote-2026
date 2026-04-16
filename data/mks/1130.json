@@ -1,0 +1,58 @@
+{
+  "id": 1130,
+  "name": "עדי עזוז",
+  "fullTitle": "חברת הכנסת עדי עזוז",
+  "faction": "יש עתיד",
+  "email": "aezuz@knesset.gov.il",
+  "workPhone": null,
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/adi.azuz.9",
+    "twitter": "https://x.com/AdiEzuz",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1130/1_1130_3_21032.jpeg?v=20260415_11599",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1130/1_1130_3_21032.jpeg?v=20260415_11599",
+    "banner": "",
+    "bannerMobile": ""
+  },
+  "gender": "unknown",
+  "dateOfBirth": "כ\"ח באדר תשמ\"ו , 09/03/1986",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "- תואר שני במשפטים ובמגדר מהאוניברסיטה העברית בירושלים\n- תואר ראשון במשפטים מהמכללה למנהל בראשון לציון\n- בגרות מלאה בתיכון יגאל אלון בראשון לציון",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": null,
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1130/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1130/1_1130_3_21032.jpeg?v=20260415_11599",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:59.802Z",
+  "localImagePath": "photos/1130/profile.jpg"
+}

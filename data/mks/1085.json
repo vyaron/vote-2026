@@ -1,0 +1,221 @@
+{
+  "id": 1085,
+  "name": "סימון דוידסון",
+  "fullTitle": "חבר הכנסת סימון דוידסון",
+  "faction": "יש עתיד",
+  "email": "hak_davidson@knesset.gov.il",
+  "workPhone": "02-6408388",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/davidson.simon.7",
+    "twitter": "https://x.com/simondav14?s=09",
+    "instagram": "https://www.instagram.com/davidsonsimon1?igsh=MTJxeXRpdGR1YTN0aQ",
+    "youtube": null,
+    "website": "https://www.tiktok.com/@simon_davidson"
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1085/1_1085_3_18028.jpeg?v=20260415_84729",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1085/1_1085_3_18028.jpeg?v=20260415_84729",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1085/1_1085_1_18116.png?v=20260415_84729",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1085/1_1085_4_18117.png?v=20260415_84729"
+  },
+  "gender": "male",
+  "dateOfBirth": "ח' באייר תש\"ל , 14/05/1970",
+  "deathDate": null,
+  "placeOfBirth": "וילנה, ברית המועצות",
+  "immigrationYear": "1972",
+  "residence": "נתניה",
+  "education": "- BA בחינוך",
+  "militaryService": "סמ\"ר; תאריך שחרור: 31.10.1991",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "רוסית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "58",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "סגן יו\"ר הכנסת ויושב-ראש ועדת משנה לספורט",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1085/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1085/1_1085_3_18028.jpeg?v=20260415_84729",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 9457,
+      "filename": "NOAM7338.JPG",
+      "localPath": "photos/1085/NOAM7338.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/NOAM7338.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "יושב-ראש ועדת המשנה לתקציבי הספורט חבר הכנסת סימון דוידסון, 6.6.2022. צילום: נועם מושקוביץ"
+    },
+    {
+      "id": 9458,
+      "filename": "DST02597.JPG",
+      "localPath": "photos/1085/DST02597.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/DST02597.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת סימון דוידסון, גבי לסקי ומיכל שיר סגמן במליאת הכנסת, 4.11.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9460,
+      "filename": "NOAM6392.JPG",
+      "localPath": "photos/1085/NOAM6392.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/NOAM6392.JPG",
+      "width": 4825,
+      "height": 3217,
+      "title": "ממלא מקום יושבת-ראש ועדת החינוך, התרבות והספורט, חבר הכנסת סימון דוידסון, 31.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9461,
+      "filename": "NOAM3076.JPG",
+      "localPath": "photos/1085/NOAM3076.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/NOAM3076.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת סימון דוידסון בטקס הוקרה לנבחרות הספורט האולימפית והפראלימפית שהשתתפו באולימפיאדת טוקיו, 4.10.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9462,
+      "filename": "20220512_132750A_jpg.jpg",
+      "localPath": "photos/1085/20220512_132750A_jpg.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/20220512_132750A_jpg.jpg",
+      "width": 640,
+      "height": 480,
+      "title": "חבר הכנסת סימון דוידסון בסיור ועדת המשנה לזכאי חוק השבות וקשר עם התפוצות בנמל התעופה ע\"ש דוד בן-גוריון, 12.5.2022. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 9463,
+      "filename": "DST07205.JPG",
+      "localPath": "photos/1085/DST07205.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/DST07205.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת סימון דוידסון בוועדת החוקה, חוק ומשפט, 15.3.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9464,
+      "filename": "DST01375.JPG",
+      "localPath": "photos/1085/DST01375.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/DST01375.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת סימון דוידסון בוועדה המיוחדת לענייני התמכרויות, סמים ואתגרי הצעירים בישראל, 1.6.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9465,
+      "filename": "NOAM7224.JPG",
+      "localPath": "photos/1085/NOAM7224.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/NOAM7224.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת סימון דוידסון וענבר בזק בוועדת החינוך, התרבות והספורט, 6.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9466,
+      "filename": "NOAM3413.JPG",
+      "localPath": "photos/1085/NOAM3413.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/NOAM3413.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "ממלא מקום יושב-ראש ועדת החוקה, חוק ומשפט, חבר הכנסת סימון דוידסון , 24.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9467,
+      "filename": "DST06794.JPG",
+      "localPath": "photos/1085/DST06794.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/DST06794.JPG",
+      "width": 2037,
+      "height": 1377,
+      "title": "חבר הכנסת סימון דוידסון בוועדה לזכויות הילד, 23.5.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9468,
+      "filename": "DST01480.JPG",
+      "localPath": "photos/1085/DST01480.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/DST01480.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת סימון דוידסון בסיור ועדת החינוך, התרבות והספורט ביד ושם, 24.4.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9469,
+      "filename": "DST07167.JPG",
+      "localPath": "photos/1085/DST07167.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/DST07167.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת סימון דוידסון בוועדת ביטחון הפנים, 22.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9470,
+      "filename": "20220126124930_NOAM7429.jpg",
+      "localPath": "photos/1085/20220126124930_NOAM7429.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/20220126124930_NOAM7429.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת סימון דוידסון במליאת הכנסת, 26.1.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9471,
+      "filename": "20211228172939_NOAM0825.jpg",
+      "localPath": "photos/1085/20211228172939_NOAM0825.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/20211228172939_NOAM0825.jpg",
+      "width": 5201,
+      "height": 3467,
+      "title": "חבר הכנסת סימון דוידסון במליאת הכנסת, 28.12.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9472,
+      "filename": "DST09092_1.JPG",
+      "localPath": "photos/1085/DST09092_1.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/DST09092_1.JPG",
+      "width": 1616,
+      "height": 1080,
+      "title": "חבר הכנסת סימון דוידסון במליאת הכנסת, 7.12.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9473,
+      "filename": "20211123171238_NOAM9984.jpg",
+      "localPath": "photos/1085/20211123171238_NOAM9984.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/20211123171238_NOAM9984.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חבר הכנסת סימון דוידסון במליאת הכנסת, 23.11.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9474,
+      "filename": "DST04634.JPG",
+      "localPath": "photos/1085/DST04634.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/DST04634.JPG",
+      "width": 1616,
+      "height": 1080,
+      "title": "חבר הכנסת סימון דוידסון במליאת הכנסת, 3.8.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9475,
+      "filename": "20210712161337_NOAM7521.jpg",
+      "localPath": "photos/1085/20210712161337_NOAM7521.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1085/20210712161337_NOAM7521.jpg",
+      "width": 1447,
+      "height": 964,
+      "title": "חבר הכנסת סימון דוידסון מצהיר אמונים במליאת הכנסת, 12.7.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:42.898Z",
+  "localImagePath": "photos/1085/profile.jpg"
+}

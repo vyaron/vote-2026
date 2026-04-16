@@ -1,0 +1,68 @@
+# Dependencies
+**/node_modules/
+.pnp
+.pnp.js
+.yarn/
+
+# Build outputs
+**/.next/
+**/out/
+**/dist/
+**/build/
+
+# Testing
+**/coverage/
+
+# Misc
+.DS_Store
+*.pem
+Thumbs.db
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Local env files
+.env
+.env*.local
+**/.env
+**/.env*.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Scraper specific
+scraper/node_modules/
+
+# Webapp specific
+webapp/.next/
+webapp/node_modules/
+webapp/.vercel/

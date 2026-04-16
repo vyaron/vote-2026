@@ -1,0 +1,271 @@
+{
+  "id": 1056,
+  "name": "איתמר בן גביר",
+  "fullTitle": "חבר הכנסת איתמר בן גביר",
+  "faction": "עוצמה יהודית בראשות איתמר בן גביר",
+  "email": "ibengvir@knesset.gov.il",
+  "workPhone": "02-6408196",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1056/1_1056_3_17788.jpeg?v=20260415_26968",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1056/1_1056_3_17788.jpeg?v=20260415_26968",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1056/1_1056_1_17860.png?v=20260415_26968",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1056/1_1056_4_17859.png?v=20260415_26968"
+  },
+  "gender": "male",
+  "dateOfBirth": "ו' באייר תשל\"ו , 06/05/1976",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": "קריית ארבע",
+  "education": "תואר במשפטים – עורך דין.",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "117",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "השר לביטחון לאומי",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1056/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1056/1_1056_3_17788.jpeg?v=20260415_26968",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 6174,
+      "filename": "EAV01422.JPG",
+      "localPath": "photos/1056/EAV01422.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/EAV01422.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת איתמר בן גביר ביום עיון לחברי הכנסת החדשים, 5.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6175,
+      "filename": "EAV01429.JPG",
+      "localPath": "photos/1056/EAV01429.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/EAV01429.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת איתמר בן גביר ביום עיון לחברי הכנסת החדשים, 5.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6176,
+      "filename": "EAV01443.JPG",
+      "localPath": "photos/1056/EAV01443.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/EAV01443.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת איתמר בן גביר ביום עיון לחברי הכנסת החדשים, 5.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6190,
+      "filename": "SHL_8732.JPG",
+      "localPath": "photos/1056/SHL_8732.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/SHL_8732.JPG",
+      "width": 750,
+      "height": 501,
+      "title": "חבר הכנסת איתמר בן גביר ביום עיון לחבר הכנסת החדשים, 5.4.2021. צילום: שלומי אמסלם – תדמית הפקות, דוברות הכנסת"
+    },
+    {
+      "id": 6240,
+      "filename": "EAV02757.JPG",
+      "localPath": "photos/1056/EAV02757.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/EAV02757.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת איתמר בן גביר ביום השבעת הכנסת ה-24, 6.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6284,
+      "filename": "EAV06414.JPG",
+      "localPath": "photos/1056/EAV06414.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/EAV06414.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת איתמר בן גביר בטקס \"לכל איש יש שם\" להנצחת שמותיהם של נספים בשואה, 8.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6288,
+      "filename": "EAV08114.JPG",
+      "localPath": "photos/1056/EAV08114.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/EAV08114.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת איתמר בן גביר במליאת הכנסת, 19.4.2021. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 6289,
+      "filename": "EAV07338.JPG",
+      "localPath": "photos/1056/EAV07338.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/EAV07338.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת איתמר בן גביר במליאת הכנסת, 12.4.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 6291,
+      "filename": "EAV08346.JPG",
+      "localPath": "photos/1056/EAV08346.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/EAV08346.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת איתמר בן גביר במליאת הכנסת, 19.4.2021. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 9701,
+      "filename": "EAV08332.JPG",
+      "localPath": "photos/1056/EAV08332.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/EAV08332.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת איתמר בן גביר במליאת הכנסת, 19.4.2021. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 9710,
+      "filename": "20220630090038_NOAM3026.jpg",
+      "localPath": "photos/1056/20220630090038_NOAM3026.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/20220630090038_NOAM3026.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת איתמר בן גביר במליאת הכנסת, 30.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9711,
+      "filename": "original_fb857d4b-3d97-4058-b059-2cb23f58bdad_DST06741.JPG",
+      "localPath": "photos/1056/original_fb857d4b-3d97-4058-b059-2cb23f58bdad_DST06741.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/original_fb857d4b-3d97-4058-b059-2cb23f58bdad_DST06741.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת איתמר בן גביר במליאת הכנסת, 15.6.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9712,
+      "filename": "20220606161315_NOAM7449.jpg",
+      "localPath": "photos/1056/20220606161315_NOAM7449.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/20220606161315_NOAM7449.jpg",
+      "width": 5297,
+      "height": 3531,
+      "title": "חבר הכנסת איתמר בן גביר במליאת הכנסת, 6.6.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9713,
+      "filename": "DST02034.JPG",
+      "localPath": "photos/1056/DST02034.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/DST02034.JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת איתמר בן גביר במליאת הכנסת, 1.6.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9714,
+      "filename": "NOAM5822.JPG",
+      "localPath": "photos/1056/NOAM5822.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/NOAM5822.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת איתמר בן גביר בוועדה לביטחון הפנים, 30.5.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9715,
+      "filename": "20220523172747_NOAM2399.jpg",
+      "localPath": "photos/1056/20220523172747_NOAM2399.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/20220523172747_NOAM2399.jpg",
+      "width": 1424,
+      "height": 949,
+      "title": "חבר הכנסת איתמר בן גביר במליאת הכנסת, 23.4.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9716,
+      "filename": "DST01119 (1).JPG",
+      "localPath": "photos/1056/DST01119 (1).JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/DST01119 (1).JPG",
+      "width": 2176,
+      "height": 1450,
+      "title": "חבר הכנסת איתמר בן גביר בוועדת החוץ והביטחון, 10.5.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9717,
+      "filename": "20220323100721_NOAM4116.jpg",
+      "localPath": "photos/1056/20220323100721_NOAM4116.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/20220323100721_NOAM4116.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת איתמר בן גביר ומיכל שיר סגמן בוועדת החוקה, חוק ומשפט, 23.3.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9718,
+      "filename": "20220214113728_NOAM0082.jpg",
+      "localPath": "photos/1056/20220214113728_NOAM0082.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/20220214113728_NOAM0082.jpg",
+      "width": 5808,
+      "height": 3872,
+      "title": "חבר הכנסת איתמר בן גביר בישיבה המשותפת לוועדת הכנסת ולוועדה לביטחון הפנים, 14.2.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9719,
+      "filename": "NOAM7455.JPG",
+      "localPath": "photos/1056/NOAM7455.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/NOAM7455.JPG",
+      "width": 5202,
+      "height": 3468,
+      "title": "חבר הכנסת איתמר בן גביר בוועדת החוץ והביטחון, 8.2.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9720,
+      "filename": "20220206114310_NOAM0265.jpg",
+      "localPath": "photos/1056/20220206114310_NOAM0265.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/20220206114310_NOAM0265.jpg",
+      "width": 5603,
+      "height": 3735,
+      "title": "חבר הכנסת איתמר בן גביר בסיור ועדת ביטחון הפנים במרחב צפון של המשטרה, 6.2.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9721,
+      "filename": "20211117172216_NOAM7666.jpg",
+      "localPath": "photos/1056/20211117172216_NOAM7666.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/20211117172216_NOAM7666.jpg",
+      "width": 1620,
+      "height": 1080,
+      "title": "חבר הכנסת איתמר בן גביר במליאת הכנסת, 17.11.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9722,
+      "filename": "20211101125643_NOAM9693.jpg",
+      "localPath": "photos/1056/20211101125643_NOAM9693.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/20211101125643_NOAM9693.jpg",
+      "width": 1445,
+      "height": 964,
+      "title": "חבר הכנסת איתמר בן גביר במליאת הכנסת, 1.11.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9723,
+      "filename": "DST09333.JPG",
+      "localPath": "photos/1056/DST09333.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1056/DST09333.JPG",
+      "width": 1616,
+      "height": 1080,
+      "title": "חבר הכנסת איתמר בן גביר בוועדה לביטחון הפנים, 27.11.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:28.359Z",
+  "localImagePath": "photos/1056/profile.jpg"
+}

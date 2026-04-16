@@ -1,0 +1,275 @@
+{
+  "id": 977,
+  "name": "אופיר סופר",
+  "fullTitle": "חבר הכנסת אופיר סופר",
+  "faction": "הציונות הדתית בראשות בצלאל סמוטריץ'",
+  "email": "osofer@knesset.gov.il",
+  "workPhone": "02-6408023",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/OfirSof/",
+    "twitter": "https://twitter.com/ofir_sofer",
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/977/1_977_3_11108.jpeg?v=20260415_28817",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/977/1_977_3_11108.jpeg?v=20260415_28817",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/977/1_977_1_11149.png?v=20260415_28817",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/977/1_977_4_12282.png?v=20260415_28817"
+  },
+  "gender": "male",
+  "dateOfBirth": "י\"ג באב תשל\"ד , 01/08/1974",
+  "deathDate": null,
+  "placeOfBirth": "צפת, ישראל",
+  "immigrationYear": null,
+  "residence": "טפחות",
+  "education": "תואר ראשון בחינוך, אוניברסיטת חיפה",
+  "militaryService": "רב-סרן",
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "עברית",
+    "אנגלית",
+    "ערבית"
+  ],
+  "bio": "חיים אישיים:\nנולד במושב עלמה לרחל ולבן-ציון סופר. אימו הייתה מורה, ואביו היה מנהל בית ספר וראש המועצה האזורית מרום הגליל. אביו נהרג בתאונת דרכים כאשר אופיר היה תלמיד בחטיבת הביניים. היום הוא מתגורר במושב טפחות שבגליל, נשוי לעדינה ואב לשבעה.\n\nבית ספר וישיבה:\nלמד בבית הספר האזורי לבני המושבים \"בניהו\" בכרם בן זמרה. בחטיבת הביניים למד במכינה בכפר סבא, וממנה המשיך למדרשיית נעם ולישיבת שבי חברון. \n\nצבא:\nעם גיוסו לצה\"ל החל קורס טיס, אך נשר ממנו והתנדב לצנחנים. בהמשך השלים קורס קציני חי\"ר. בשנת 1996, כאשר היה קצין בגדוד חרוב, חילץ פצועים מקבר יוסף במהלך מהומות מנהרת הכותל. במהלך הלחימה נפצע קשה, ולימים הוכר כנכה צה\"ל. על פועלו ואומץ הלב שהפגין באירוע זכה בצל\"ש אלוף. לאחר כמה חודשים חזר לשירות, היה קצין הדרכה בגדוד חרוב, ובהמשך מפקד פלוגה וסמג\"ד בגדוד 202.\nבשנת 2007 פרש משירות קבע בדרגת רב-סרן. \n\nאזרחות:\nמנהל פרויקטים במשרד הנגב והגליל. \n\nהחיים הפוליטיים:\nבשנת 2014 מונה לתפקיד מנכ\"ל מפלגת האיחוד הלאומי – תקומה, ושימש בתפקיד עד שנת 2018. \nבשנת 2019 התמודד על מקום ברשימת תקומה לכנסת העשרים-ואחת, וזכה במקום השני. \nנבחר לכנסת העשרים-ואחת מטעם סיעת איחוד מפלגות הימין לאחר שהוצב במקום הרביעי, ושימש כיו\"ר הסיעה.\nנבחר לכנסת העשרים-ושתיים ולכנסת העשרים-ושלוש מטעם סיעת ימינה.",
+  "knessetId": 25,
+  "plenumSeatNumber": "3",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": "שר העלייה והקליטה",
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/977/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/977/1_977_3_11108.jpeg?v=20260415_28817",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 3513,
+      "filename": "1S5A0094.JPG",
+      "localPath": "photos/977/1S5A0094.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/1S5A0094.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אופיר סופר בהשבעת הכנסת ה-21, 30.4.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 4381,
+      "filename": "1S5A9517.JPG",
+      "localPath": "photos/977/1S5A9517.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/1S5A9517.JPG",
+      "width": 500,
+      "height": 750,
+      "title": "חבר הכנסת אופיר סופר בהשבעת הכנסת ה-22, 3.10.2019. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 4637,
+      "filename": "P1880950.jpg",
+      "localPath": "photos/977/P1880950.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/P1880950.jpg",
+      "width": 750,
+      "height": 508,
+      "title": "חבר הכנסת אופיר סופר במליאת הכנסת, 12.11.2019. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 4641,
+      "filename": "ISH_7242.JPG",
+      "localPath": "photos/977/ISH_7242.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/ISH_7242.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת אופיר סופר ועידית סילמן ביום עיון לחברי הכנסת החדשים, 29.4.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 4643,
+      "filename": "ISH_6233.JPG",
+      "localPath": "photos/977/ISH_6233.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/ISH_6233.JPG",
+      "width": 750,
+      "height": 603,
+      "title": "חברי הכנסת אופיר סופר ואבי ניסנקורן בוועדה המסדרת, 28.5.2019. צילום: דוברות הכנסת"
+    },
+    {
+      "id": 5345,
+      "filename": "EAV07535.JPG",
+      "localPath": "photos/977/EAV07535.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/EAV07535.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת אופיר סופר, איילת שקד ויעקב מרגי במליאת הכנסת, 15.7.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5346,
+      "filename": "EAV07554.JPG",
+      "localPath": "photos/977/EAV07554.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/EAV07554.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אופיר סופר במליאת הכנסת, 15.7.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5429,
+      "filename": "EAV06247.JPG",
+      "localPath": "photos/977/EAV06247.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/EAV06247.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אופיר סופר במליאת הכנסת, 15.7.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5521,
+      "filename": "EAV09665.JPG",
+      "localPath": "photos/977/EAV09665.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/EAV09665.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אופיר סופר בוועדת העבודה והרווחה, 22.6.2020. צילום: עדינה ולמן, דוברות הכנסת"
+    },
+    {
+      "id": 5984,
+      "filename": "EAV04836.JPG",
+      "localPath": "photos/977/EAV04836.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/EAV04836.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אופיר סופר במליאת הכנסת, 16.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5985,
+      "filename": "EAV04935.JPG",
+      "localPath": "photos/977/EAV04935.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/EAV04935.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חברי הכנסת אופיר סופר ובועז טופורובסקי במליאת הכנסת, 16.9.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 5986,
+      "filename": "EAV05520.JPG",
+      "localPath": "photos/977/EAV05520.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/EAV05520.JPG",
+      "width": 750,
+      "height": 500,
+      "title": "חבר הכנסת אופיר סופר בוועדת החינוך, התרבות והספורט, 25.8.2020. צילום: יהונתן סמייה, דוברות הכנסת"
+    },
+    {
+      "id": 8974,
+      "filename": "EAV00313.JPG",
+      "localPath": "photos/977/EAV00313.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/EAV00313.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברי הכנסת אופיר סופר ואורית סטרוק בוועדת החוץ והביטחון, 13.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8975,
+      "filename": "EAV00774.JPG",
+      "localPath": "photos/977/EAV00774.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/EAV00774.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת אופיר סופר בוועדה המסדרת, 16.6.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8976,
+      "filename": "NOAM1762.JPG",
+      "localPath": "photos/977/NOAM1762.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/NOAM1762.JPG",
+      "width": 4898,
+      "height": 3265,
+      "title": "חבר הכנסת אופיר סופר בוועדת הכלכלה, 2.8.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8977,
+      "filename": "EAV04372.JPG",
+      "localPath": "photos/977/EAV04372.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/EAV04372.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת אופיר סופר בוועדת הכנסת, 20.1.2021. צילום: שמוליק גרוסמן, דוברות הכנסת"
+    },
+    {
+      "id": 8978,
+      "filename": "EAV04554.JPG",
+      "localPath": "photos/977/EAV04554.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/EAV04554.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת אופיר סופר בוועדת החוץ והביטחון, 27.5.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8979,
+      "filename": "DST03296.JPG",
+      "localPath": "photos/977/DST03296.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/DST03296.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת אופיר סופר במליאת הכנסת, 19.1.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8981,
+      "filename": "NOAM2086.JPG",
+      "localPath": "photos/977/NOAM2086.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/NOAM2086.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברי הכנסת אופיר סופר ועמיחי שיקלי במליאת הכנסת, 4.11.2021. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 8982,
+      "filename": "DST07577.JPG",
+      "localPath": "photos/977/DST07577.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/DST07577.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת אופיר סופר במליאת הכנסת, 30.6.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8983,
+      "filename": "DSC07571.JPG",
+      "localPath": "photos/977/DSC07571.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/DSC07571.JPG",
+      "width": 1968,
+      "height": 1312,
+      "title": "יושב-ראש ועדת המשנה לעניין הטיפול והסיוע לנפגעי הלם קרב חבר הכנסת אופיר סופר, 27.10.2020. צילום: יניב נדב, דוברות הכנסת"
+    },
+    {
+      "id": 8984,
+      "filename": "EAV06585.JPG",
+      "localPath": "photos/977/EAV06585.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/EAV06585.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "יושב-ראש ועדת המשנה לעניין הטיפול והסיוע לנפגעי הלם קרב חבר הכנסת אופיר סופר, 24.11.2020. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 8986,
+      "filename": "DST00501.JPG",
+      "localPath": "photos/977/DST00501.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/DST00501.JPG",
+      "width": 2063,
+      "height": 1392,
+      "title": "חבר הכנסת אופיר סופר במליאת הכנסת, 7.2.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 9031,
+      "filename": "DST03094.JPG",
+      "localPath": "photos/977/DST03094.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/977/DST03094.JPG",
+      "width": 6000,
+      "height": 4000,
+      "title": "חבר הכנסת אופיר סופר עם נשיא המדינה יצחק הרצוג ורעייתו מיכל לאחר השבעתו לנשיא בכנסת, 7.7.2021. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:55:52.735Z",
+  "localImagePath": "photos/977/profile.jpg"
+}

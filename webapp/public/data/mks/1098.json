@@ -1,0 +1,147 @@
+{
+  "id": 1098,
+  "name": "טלי גוטליב",
+  "fullTitle": "חברת הכנסת טלי גוטליב",
+  "faction": "הליכוד ",
+  "email": "tgotlib@knesset.gov.il",
+  "workPhone": "02-6408722",
+  "homePhone": null,
+  "fax": null,
+  "socialLinks": {
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "youtube": null,
+    "website": null
+  },
+  "videoId": null,
+  "images": {
+    "profile": "https://fs.knesset.gov.il/globaldocs/MK/1098/1_1098_3_19677.jpeg?v=20260415_75836",
+    "lobby": "https://fs.knesset.gov.il/globaldocs/MK/1098/1_1098_3_19677.jpeg?v=20260415_75836",
+    "banner": "https://fs.knesset.gov.il/globaldocs/MK/1098/1_1098_1_19794.png?v=20260415_75836",
+    "bannerMobile": "https://fs.knesset.gov.il/globaldocs/MK/1098/1_1098_4_19795.png?v=20260415_75836"
+  },
+  "gender": "female",
+  "dateOfBirth": "כ\"ט בחשוון תשל\"ו , 03/11/1975",
+  "deathDate": null,
+  "placeOfBirth": "ישראל",
+  "immigrationYear": null,
+  "residence": null,
+  "education": "- תואר ראשון, אוניברסיטת בר אילן\n- תואר שני, אוניברסיטת בר אילן\n- רישיון לעריכת דין",
+  "militaryService": null,
+  "nationalService": null,
+  "profession": null,
+  "languages": [
+    "אנגלית"
+  ],
+  "bio": null,
+  "knessetId": 25,
+  "plenumSeatNumber": "86",
+  "isCurrentMk": true,
+  "isPresent": false,
+  "position": null,
+  "knessetsList": [],
+  "photos": [
+    {
+      "id": 0,
+      "filename": "profile.jpg",
+      "localPath": "photos/1098/profile.jpg",
+      "originalUrl": "https://fs.knesset.gov.il/globaldocs/MK/1098/1_1098_3_19677.jpeg?v=20260415_75836",
+      "width": 0,
+      "height": 0,
+      "title": "Profile Image"
+    },
+    {
+      "id": 9994,
+      "filename": "20221114151854_NOAM9365.jpg",
+      "localPath": "photos/1098/20221114151854_NOAM9365.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1098/20221114151854_NOAM9365.jpg",
+      "width": 1433,
+      "height": 936,
+      "title": "חברות הכנסת טלי גוטליב, לימור סון הר מלך, מטי צרפתי הרכבי, שרון ניר ודבי ביטון ביום הכשרה לחברי הכנסת החדשים, 14.11.2022.  צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 9995,
+      "filename": "20221115120632_NOAM9550.jpg",
+      "localPath": "photos/1098/20221115120632_NOAM9550.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1098/20221115120632_NOAM9550.jpg",
+      "width": 5121,
+      "height": 3495,
+      "title": "חברת הכנסת טלי גוטליב בהשבעת הכנסת ה-25. 15.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10011,
+      "filename": "NOAM0609.JPG",
+      "localPath": "photos/1098/NOAM0609.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1098/NOAM0609.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת טלי גוטליב נשבעת אמונים לכנסת ה-25. 15.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10012,
+      "filename": "DST01852.jpg",
+      "localPath": "photos/1098/DST01852.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1098/DST01852.jpg",
+      "width": 750,
+      "height": 500,
+      "title": "חברת הכנסת טלי גוטליב בהשבעת הכנסת ה-25. 15.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10061,
+      "filename": "20221116142150_NOAM1032.jpg",
+      "localPath": "photos/1098/20221116142150_NOAM1032.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1098/20221116142150_NOAM1032.jpg",
+      "width": 5280,
+      "height": 3520,
+      "title": "חברת הכנסת טלי גוטליב בוועדה המסדרת, 16.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10137,
+      "filename": "DST07250.jpg",
+      "localPath": "photos/1098/DST07250.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1098/DST07250.jpg",
+      "width": 6000,
+      "height": 4000,
+      "title": "חברת הכנסת טלי גוטליב במליאה, 7.12.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10138,
+      "filename": "DST05931.jpg",
+      "localPath": "photos/1098/DST05931.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1098/DST05931.jpg",
+      "width": 5262,
+      "height": 3508,
+      "title": "חברת הכנסת טלי גוטליב במליאה, 29.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10139,
+      "filename": "DST05453.jpg",
+      "localPath": "photos/1098/DST05453.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1098/DST05453.jpg",
+      "width": 1616,
+      "height": 1080,
+      "title": "חברת הכנסת טלי גוטליב במליאה, 28.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    },
+    {
+      "id": 10140,
+      "filename": "NOAM8909.JPG",
+      "localPath": "photos/1098/NOAM8909.JPG",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1098/NOAM8909.JPG",
+      "width": 5808,
+      "height": 3872,
+      "title": "חברת הכנסת טלי גוטליב ביום הכשרה לחברי הכנסת החדשים, 14.11.2022. צילום: נועם מושקוביץ, דוברות הכנסת"
+    },
+    {
+      "id": 10141,
+      "filename": "DST05428.jpg",
+      "localPath": "photos/1098/DST05428.jpg",
+      "originalUrl": "/mk/MKPersonalDetailsImages/1098/DST05428.jpg",
+      "width": 1616,
+      "height": 1080,
+      "title": "חברת הכנסת טלי גוטליב במליאה, 28.11.2022. צילום: דני שם-טוב, דוברות הכנסת"
+    }
+  ],
+  "scrapedAt": "2026-04-15T18:54:34.913Z",
+  "localImagePath": "photos/1098/profile.jpg"
+}
