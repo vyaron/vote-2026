@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Header, Footer } from "@/components/layout";
 import { SITE_NAME, SITE_DESCRIPTION } from "@/lib/constants";
+import { ErrorBoundary } from "@/components/animations";
 
 export const metadata: Metadata = {
   title: {
@@ -39,7 +40,11 @@ export default function RootLayout({
       </head>
       <body className="min-h-full flex flex-col bg-background text-foreground">
         <Header />
-        <main className="flex-1">{children}</main>
+        <main className="flex-1">
+          <ErrorBoundary>
+            {children}
+          </ErrorBoundary>
+        </main>
         <Footer />
       </body>
     </html>

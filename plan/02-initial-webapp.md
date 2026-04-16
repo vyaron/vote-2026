@@ -424,7 +424,7 @@ xl: 1280px   # Desktop
 - [ ] Parties overview page
 - [ ] Individual party pages
 - [ ] Compare MKs feature
-- [ ] Committees pages
+
 
 ### Phase 4: Polish & Animations (Week 6)
 - [ ] Page transitions
