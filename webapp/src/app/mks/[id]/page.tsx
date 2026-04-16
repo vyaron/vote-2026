@@ -5,6 +5,8 @@ import type { MK } from '@/types';
 import { generateMkMetadata, generateMkStructuredData, generateBreadcrumbStructuredData } from '@/lib/seo';
 import { SITE_URL } from '@/lib/constants';
 import { parseIdOrSlug, getMkSlug, isNumericId } from '@/lib/slugs';
+import fs from 'fs/promises';
+import path from 'path';
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -16,14 +18,10 @@ async function getMk(idOrSlug: string): Promise<MK | null> {
   if (id === null) return null;
   
   try {
-    // In production, this would be a proper API call
-    // For now, we'll load from the public data
-    const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000';
-    const res = await fetch(`${baseUrl}/data/mks/${id}.json`, { 
-      cache: 'force-cache' 
-    });
-    if (!res.ok) return null;
-    return res.json();
+    // Read directly from the public/data directory
+    const filePath = path.join(process.cwd(), 'public', 'data', 'mks', `${id}.json`);
+    const data = await fs.readFile(filePath, 'utf-8');
+    return JSON.parse(data);
   } catch {
     return null;
   }
