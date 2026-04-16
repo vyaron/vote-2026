@@ -11,6 +11,7 @@ import {
 import type { MK, MkSummary } from '@/types';
 import { getPartyColor } from '@/types';
 import { getMkById, getMkSummaries, getMkPhotoPath, calculateAge } from '@/lib/data';
+import { getMkSlug } from '@/lib/slugs';
 import { cn } from '@/lib/utils';
 
 const fadeInUp = {
@@ -203,7 +204,7 @@ function ComparisonCard({ mk }: { mk: MK }) {
       <div className="p-6">
         {/* Photo and name */}
         <div className="flex flex-col items-center text-center mb-6">
-          <Link href={`/mks/${mk.id}`}>
+          <Link href={`/mks/${getMkSlug(mk.id, mk.name)}`}>
             <div className="relative h-32 w-32 rounded-full overflow-hidden border-4 mb-4 hover:scale-105 transition-transform" style={{ borderColor: partyColor }}>
               <Image
                 src={getMkPhotoPath(mk.id)}
@@ -213,7 +214,7 @@ function ComparisonCard({ mk }: { mk: MK }) {
               />
             </div>
           </Link>
-          <Link href={`/mks/${mk.id}`} className="hover:text-primary transition-colors">
+          <Link href={`/mks/${getMkSlug(mk.id, mk.name)}`} className="hover:text-primary transition-colors">
             <h3 className="text-xl font-bold">{mk.name}</h3>
           </Link>
           <Link href={`/parties/${mk.faction}`} className="text-muted-foreground hover:text-primary transition-colors">

@@ -7,8 +7,9 @@ import { useState } from 'react';
 import { 
   Mail, Phone, Globe,
   MapPin, Calendar, GraduationCap, Shield, Languages, ArrowRight,
-  X, ExternalLink
+  X
 } from 'lucide-react';
+import { FacebookIcon, TwitterIcon, InstagramIcon, YoutubeIcon } from '@/components/icons/SocialIcons';
 import type { MK } from '@/types';
 import { getMkPhotoPath, calculateAge } from '@/lib/data';
 import { cn } from '@/lib/utils';
@@ -42,10 +43,11 @@ function InfoItem({ icon: Icon, label, value }: {
   );
 }
 
-function SocialLink({ href, icon: Icon, label }: { 
+function SocialLink({ href, icon: Icon, label, colorClass }: { 
   href: string | null; 
   icon: React.ElementType;
   label: string;
+  colorClass?: string;
 }) {
   if (!href) return null;
   
@@ -54,10 +56,14 @@ function SocialLink({ href, icon: Icon, label }: {
       href={href}
       target="_blank"
       rel="noopener noreferrer"
-      className="p-3 bg-muted rounded-xl hover:bg-primary hover:text-primary-foreground transition-colors"
+      className={cn(
+        "p-3 rounded-xl transition-colors flex items-center gap-2",
+        colorClass || "bg-muted hover:bg-primary hover:text-primary-foreground"
+      )}
       title={label}
     >
       <Icon className="h-5 w-5" />
+      <span className="text-sm font-medium">{label}</span>
     </a>
   );
 }
@@ -103,17 +109,25 @@ export function MkProfileClient({ mk }: MkProfileClientProps) {
             {/* Profile photo */}
             <motion.div
               variants={fadeInUp}
-              className="relative"
+              className="relative group"
             >
-              <div className="h-32 w-32 sm:h-40 sm:w-40 rounded-2xl overflow-hidden border-4 border-background shadow-lg">
+              <motion.div 
+                className="h-32 w-32 sm:h-40 sm:w-40 rounded-2xl overflow-hidden border-4 border-primary/30 shadow-lg relative"
+                whileHover={{ scale: 1.05 }}
+                transition={{ type: 'spring', stiffness: 300, damping: 20 }}
+              >
                 <Image
                   src={getMkPhotoPath(mk.id)}
                   alt={mk.name}
                   fill
-                  className="object-cover"
+                  className="object-cover transition-transform duration-500 group-hover:scale-110"
                   priority
                 />
-              </div>
+                {/* Hover overlay */}
+                <div className="absolute inset-0 bg-primary/0 group-hover:bg-primary/10 transition-colors duration-300" />
+              </motion.div>
+              {/* Glow effect */}
+              <div className="absolute -inset-1 rounded-2xl bg-primary/20 opacity-0 group-hover:opacity-100 blur-lg transition-opacity duration-300 -z-10" />
             </motion.div>
 
             {/* Name and title */}
@@ -235,11 +249,36 @@ export function MkProfileClient({ mk }: MkProfileClientProps) {
                   <div className="bg-card rounded-2xl p-6 border">
                     <h2 className="text-xl font-bold mb-4">רשתות חברתיות</h2>
                     <div className="flex flex-wrap gap-2">
-                      <SocialLink href={mk.socialLinks.facebook} icon={ExternalLink} label="Facebook" />
-                      <SocialLink href={mk.socialLinks.twitter} icon={ExternalLink} label="Twitter" />
-                      <SocialLink href={mk.socialLinks.instagram} icon={ExternalLink} label="Instagram" />
-                      <SocialLink href={mk.socialLinks.youtube} icon={ExternalLink} label="YouTube" />
-                      <SocialLink href={mk.socialLinks.website} icon={Globe} label="אתר אישי" />
+                      <SocialLink 
+                        href={mk.socialLinks.facebook} 
+                        icon={FacebookIcon} 
+                        label="Facebook" 
+                        colorClass="bg-[#1877F2]/10 text-[#1877F2] hover:bg-[#1877F2] hover:text-white"
+                      />
+                      <SocialLink 
+                        href={mk.socialLinks.twitter} 
+                        icon={TwitterIcon} 
+                        label="X" 
+                        colorClass="bg-black/10 text-black dark:text-white hover:bg-black hover:text-white"
+                      />
+                      <SocialLink 
+                        href={mk.socialLinks.instagram} 
+                        icon={InstagramIcon} 
+                        label="Instagram" 
+                        colorClass="bg-[#E4405F]/10 text-[#E4405F] hover:bg-[#E4405F] hover:text-white"
+                      />
+                      <SocialLink 
+                        href={mk.socialLinks.youtube} 
+                        icon={YoutubeIcon} 
+                        label="YouTube" 
+                        colorClass="bg-[#FF0000]/10 text-[#FF0000] hover:bg-[#FF0000] hover:text-white"
+                      />
+                      <SocialLink 
+                        href={mk.socialLinks.website} 
+                        icon={Globe} 
+                        label="אתר אישי" 
+                        colorClass="bg-muted hover:bg-primary hover:text-primary-foreground"
+                      />
                     </div>
                   </div>
                 )}

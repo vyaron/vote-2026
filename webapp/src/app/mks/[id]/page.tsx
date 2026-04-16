@@ -1,15 +1,20 @@
-import { notFound } from 'next/navigation';
+import { notFound, redirect } from 'next/navigation';
 import { Metadata } from 'next';
 import { MkProfileClient } from './MkProfileClient';
 import type { MK } from '@/types';
 import { generateMkMetadata, generateMkStructuredData, generateBreadcrumbStructuredData } from '@/lib/seo';
 import { SITE_URL } from '@/lib/constants';
+import { parseIdOrSlug, getMkSlug, isNumericId } from '@/lib/slugs';
 
 interface Props {
   params: Promise<{ id: string }>;
 }
 
-async function getMk(id: string): Promise<MK | null> {
+async function getMk(idOrSlug: string): Promise<MK | null> {
+  // Parse the slug to extract the numeric ID
+  const id = parseIdOrSlug(idOrSlug);
+  if (id === null) return null;
+  
   try {
     // In production, this would be a proper API call
     // For now, we'll load from the public data
@@ -25,8 +30,8 @@ async function getMk(id: string): Promise<MK | null> {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { id } = await params;
-  const mk = await getMk(id);
+  const { id: idOrSlug } = await params;
+  const mk = await getMk(idOrSlug);
   
   if (!mk) {
     return { title: 'חבר כנסת לא נמצא' };
@@ -42,14 +47,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function MkProfilePage({ params }: Props) {
-  const { id } = await params;
-  const mk = await getMk(id);
+  const { id: idOrSlug } = await params;
+  const mk = await getMk(idOrSlug);
 
   if (!mk) {
     notFound();
   }
 
+  // If accessed via numeric ID, redirect to friendly URL
+  if (isNumericId(idOrSlug)) {
+    const friendlySlug = getMkSlug(mk.id, mk.name);
+    redirect(`/mks/${friendlySlug}`);
+  }
+
   // Generate structured data
+  const friendlyUrl = `${SITE_URL}/mks/${getMkSlug(mk.id, mk.name)}`;
+  
   const personSchema = generateMkStructuredData({
     id: mk.id,
     name: mk.name,
@@ -64,7 +77,7 @@ export default async function MkProfilePage({ params }: Props) {
   const breadcrumbSchema = generateBreadcrumbStructuredData([
     { name: 'בית', url: SITE_URL },
     { name: 'חברי כנסת', url: `${SITE_URL}/mks` },
-    { name: mk.name, url: `${SITE_URL}/mks/${mk.id}` },
+    { name: mk.name, url: friendlyUrl },
   ]);
 
   return (

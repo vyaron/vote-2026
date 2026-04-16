@@ -7,6 +7,7 @@ import { useEffect, useState, useMemo } from 'react';
 import { Search, Filter, Grid, List, X } from 'lucide-react';
 import type { MkSummary } from '@/types';
 import { getMkPhotoPath } from '@/lib/data';
+import { getMkSlug } from '@/lib/slugs';
 import { cn } from '@/lib/utils';
 
 // Animation variants
@@ -32,7 +33,7 @@ function MkGridCard({ mk }: { mk: MkSummary }) {
       transition={{ type: 'spring', stiffness: 300 }}
     >
       <Link
-        href={`/mks/${mk.id}`}
+        href={`/mks/${getMkSlug(mk.id, mk.name)}`}
         className="block bg-card rounded-2xl overflow-hidden shadow-sm border hover:shadow-lg transition-all group"
       >
         <div className="aspect-[3/4] relative overflow-hidden">
@@ -59,7 +60,7 @@ function MkListCard({ mk }: { mk: MkSummary }) {
   return (
     <motion.div variants={fadeInUp}>
       <Link
-        href={`/mks/${mk.id}`}
+        href={`/mks/${getMkSlug(mk.id, mk.name)}`}
         className="flex items-center gap-4 p-4 bg-card rounded-xl border hover:shadow-md transition-all group"
       >
         <div className="relative h-16 w-16 rounded-full overflow-hidden flex-shrink-0">

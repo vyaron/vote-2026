@@ -1,10 +1,12 @@
-import { notFound } from 'next/navigation';
+import { notFound, redirect } from 'next/navigation';
 import { promises as fs } from 'fs';
 import path from 'path';
 import type { Party, MK, PartyWithMembers, MkSummary } from '@/types';
 import { getPartyColor } from '@/types';
 import { PartyPageClient } from './PartyPageClient';
 import { generatePartyMetadata, generatePartyStructuredData, generateBreadcrumbStructuredData } from '@/lib/seo';
+import { parseIdOrSlug, getPartySlug, isNumericId, generateUniqueSlug } from '@/lib/slugs';
+import { SITE_URL } from '@/lib/constants';
 
 interface PartyPageProps {
   params: Promise<{ id: string }>;
@@ -57,8 +59,11 @@ async function getPartyData(id: number): Promise<PartyWithMembers | null> {
 }
 
 export async function generateMetadata({ params }: PartyPageProps) {
-  const { id } = await params;
-  const party = await getPartyData(parseInt(id));
+  const { id: idOrSlug } = await params;
+  const numericId = parseIdOrSlug(idOrSlug);
+  if (numericId === null) return { title: 'סיעה לא נמצאה' };
+  
+  const party = await getPartyData(numericId);
   
   if (!party) {
     return { title: 'סיעה לא נמצאה' };
@@ -68,7 +73,7 @@ export async function generateMetadata({ params }: PartyPageProps) {
 }
 
 export async function generateStaticParams() {
-  // Generate paths for all current parties
+  // Generate paths for all current parties with friendly slugs
   const factionsPath = path.join(process.cwd(), 'public', 'data', 'parties', 'factions.json');
   const factionsData = await fs.readFile(factionsPath, 'utf-8');
   const factions: Party[] = JSON.parse(factionsData);
@@ -76,24 +81,38 @@ export async function generateStaticParams() {
   return factions
     .filter(f => f.isCurrent)
     .map(faction => ({
-      id: faction.id.toString(),
+      id: generateUniqueSlug(faction.name, faction.id),
     }));
 }
 
 export default async function PartyPage({ params }: PartyPageProps) {
-  const { id } = await params;
-  const party = await getPartyData(parseInt(id));
+  const { id: idOrSlug } = await params;
+  const numericId = parseIdOrSlug(idOrSlug);
+  
+  if (numericId === null) {
+    notFound();
+  }
+  
+  const party = await getPartyData(numericId);
 
   if (!party) {
     notFound();
   }
 
+  // If accessed via numeric ID, redirect to friendly URL
+  if (isNumericId(idOrSlug)) {
+    const friendlySlug = getPartySlug(party.id, party.name);
+    redirect(`/parties/${friendlySlug}`);
+  }
+
   // Generate structured data for SEO
+  const friendlyUrl = `${SITE_URL}/parties/${getPartySlug(party.id, party.name)}`;
+  
   const partyStructuredData = generatePartyStructuredData(party);
   const breadcrumbStructuredData = generateBreadcrumbStructuredData([
-    { name: 'דף הבית', url: '/' },
-    { name: 'סיעות', url: '/parties' },
-    { name: party.name.trim(), url: `/parties/${party.id}` },
+    { name: 'דף הבית', url: SITE_URL },
+    { name: 'סיעות', url: `${SITE_URL}/parties` },
+    { name: party.name.trim(), url: friendlyUrl },
   ]);
 
   return (

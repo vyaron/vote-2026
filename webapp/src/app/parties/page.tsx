@@ -7,6 +7,7 @@ import { useEffect, useState } from 'react';
 import { Users, Building, ChevronLeft } from 'lucide-react';
 import type { PartyWithMembers } from '@/types';
 import { getPartiesWithMembers, getPartyLogoPath, getMkPhotoPath } from '@/lib/data';
+import { getPartySlug } from '@/lib/slugs';
 import { cn } from '@/lib/utils';
 
 const fadeInUp = {
@@ -33,7 +34,7 @@ function PartyCard({ party, index }: { party: PartyWithMembers; index: number })
       variants={fadeInUp}
       transition={{ delay: index * 0.05 }}
     >
-      <Link href={`/parties/${party.id}`}>
+      <Link href={`/parties/${getPartySlug(party.id, party.name)}`}>
         <motion.div
           className="group relative bg-card rounded-2xl border overflow-hidden hover:shadow-xl transition-all duration-300"
           whileHover={{ y: -4 }}

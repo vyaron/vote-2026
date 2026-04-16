@@ -7,6 +7,7 @@ import { ArrowLeft, Users, Building, Vote, Search } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import type { MkSummary } from '@/types';
 import { getMkPhotoPath } from '@/lib/data';
+import { getMkSlug } from '@/lib/slugs';
 import { TOTAL_MKS } from '@/lib/constants';
 
 // Animation variants
@@ -90,7 +91,7 @@ function MkCard({ mk }: { mk: MkSummary }) {
       transition={{ type: 'spring', stiffness: 300 }}
     >
       <Link
-        href={`/mks/${mk.id}`}
+        href={`/mks/${getMkSlug(mk.id, mk.name)}`}
         className="block bg-card rounded-2xl overflow-hidden shadow-sm border hover:shadow-lg transition-all group"
       >
         <div className="aspect-[3/4] relative overflow-hidden">

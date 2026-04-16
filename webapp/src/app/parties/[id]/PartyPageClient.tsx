@@ -10,6 +10,7 @@ import {
 } from 'lucide-react';
 import type { PartyWithMembers, MkSummary } from '@/types';
 import { getPartyLogoPath, getMkPhotoPath } from '@/lib/data';
+import { getMkSlug } from '@/lib/slugs';
 import { cn } from '@/lib/utils';
 
 const fadeInUp = {
@@ -35,7 +36,7 @@ interface PartyPageClientProps {
 function MkCard({ mk, partyColor }: { mk: MkSummary; partyColor: string }) {
   return (
     <motion.div variants={fadeInUp}>
-      <Link href={`/mks/${mk.id}`}>
+      <Link href={`/mks/${getMkSlug(mk.id, mk.name)}`}>
         <motion.div
           className="group bg-card rounded-xl border overflow-hidden hover:shadow-lg transition-all duration-300"
           whileHover={{ y: -2 }}
