@@ -4,6 +4,7 @@ import path from 'path';
 import type { Party, MK, PartyWithMembers, MkSummary } from '@/types';
 import { getPartyColor } from '@/types';
 import { PartyPageClient } from './PartyPageClient';
+import { generatePartyMetadata, generatePartyStructuredData, generateBreadcrumbStructuredData } from '@/lib/seo';
 
 interface PartyPageProps {
   params: Promise<{ id: string }>;
@@ -63,10 +64,7 @@ export async function generateMetadata({ params }: PartyPageProps) {
     return { title: 'סיעה לא נמצאה' };
   }
 
-  return {
-    title: party.name.trim(),
-    description: `פרטים על סיעת ${party.name.trim()} בכנסת ה-25 - ${party.memberCount} חברי כנסת`,
-  };
+  return generatePartyMetadata(party);
 }
 
 export async function generateStaticParams() {
@@ -90,5 +88,29 @@ export default async function PartyPage({ params }: PartyPageProps) {
     notFound();
   }
 
-  return <PartyPageClient party={party} />;
+  // Generate structured data for SEO
+  const partyStructuredData = generatePartyStructuredData(party);
+  const breadcrumbStructuredData = generateBreadcrumbStructuredData([
+    { name: 'דף הבית', url: '/' },
+    { name: 'סיעות', url: '/parties' },
+    { name: party.name.trim(), url: `/parties/${party.id}` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(partyStructuredData),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(breadcrumbStructuredData),
+        }}
+      />
+      <PartyPageClient party={party} />
+    </>
+  );
 }

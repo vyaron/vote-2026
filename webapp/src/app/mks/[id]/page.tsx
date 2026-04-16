@@ -2,6 +2,8 @@ import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import { MkProfileClient } from './MkProfileClient';
 import type { MK } from '@/types';
+import { generateMkMetadata, generateMkStructuredData, generateBreadcrumbStructuredData } from '@/lib/seo';
+import { SITE_URL } from '@/lib/constants';
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -30,15 +32,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return { title: 'חבר כנסת לא נמצא' };
   }
 
-  return {
-    title: mk.name,
-    description: `פרופיל של ${mk.fullTitle} - ${mk.faction}`,
-    openGraph: {
-      title: mk.name,
-      description: `פרופיל של ${mk.fullTitle}`,
-      images: [mk.images.profile],
-    },
-  };
+  return generateMkMetadata({
+    id: mk.id,
+    name: mk.name,
+    faction: mk.faction,
+    position: mk.position,
+    bio: mk.bio,
+  });
 }
 
 export default async function MkProfilePage({ params }: Props) {
@@ -49,5 +49,36 @@ export default async function MkProfilePage({ params }: Props) {
     notFound();
   }
 
-  return <MkProfileClient mk={mk} />;
+  // Generate structured data
+  const personSchema = generateMkStructuredData({
+    id: mk.id,
+    name: mk.name,
+    faction: mk.faction,
+    position: mk.position,
+    email: mk.email,
+    dateOfBirth: mk.dateOfBirth,
+    placeOfBirth: mk.placeOfBirth,
+    images: mk.images,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbStructuredData([
+    { name: 'בית', url: SITE_URL },
+    { name: 'חברי כנסת', url: `${SITE_URL}/mks` },
+    { name: mk.name, url: `${SITE_URL}/mks/${mk.id}` },
+  ]);
+
+  return (
+    <>
+      {/* Structured data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(personSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <MkProfileClient mk={mk} />
+    </>
+  );
 }
