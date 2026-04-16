@@ -242,7 +242,7 @@ export default function HomePage() {
               </Link>
               
               <Link
-                href="/search"
+                href="/mks"
                 className="inline-flex items-center gap-2 bg-secondary text-secondary-foreground px-8 py-4 rounded-full font-medium text-lg hover:bg-secondary/80 transition-colors"
               >
                 <Search className="h-5 w-5" />

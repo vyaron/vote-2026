@@ -67,9 +67,9 @@ export function Header() {
 
         {/* Right side actions */}
         <div className="flex items-center gap-2">
-          {/* Search button */}
+          {/* Search button - links to MKs page which has search */}
           <Link
-            href="/search"
+            href="/mks"
             className="p-2 rounded-lg hover:bg-muted transition-colors"
             aria-label="חיפוש"
           >
