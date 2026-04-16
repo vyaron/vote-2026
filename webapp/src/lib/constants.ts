@@ -5,7 +5,7 @@
 // Site metadata
 export const SITE_NAME = 'כנסת 2026';
 export const SITE_DESCRIPTION = 'מידע מקיף על חברי הכנסת ה-26 של ישראל';
-export const SITE_URL = 'https://knesset2026.co.il';
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://knesset2026.vercel.app';
 
 // Navigation items
 export const NAV_ITEMS = [

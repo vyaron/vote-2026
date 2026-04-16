@@ -25,9 +25,6 @@ const nextConfig: NextConfig = {
   // Compression
   compress: true,
   
-  // Generate standalone output for production
-  output: 'standalone',
-  
   // Headers for caching and security
   async headers() {
     return [
