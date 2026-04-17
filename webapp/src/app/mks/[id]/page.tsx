@@ -8,9 +8,6 @@ import { generateMkMetadata, generateMkStructuredData, generateBreadcrumbStructu
 import { SITE_URL } from '@/lib/constants';
 import { parseIdOrSlug, getMkSlug, isNumericId, generateUniqueSlug } from '@/lib/slugs';
 
-// Force static generation for all paths
-export const dynamic = 'force-static';
-export const dynamicParams = true;
 
 interface Props {
   params: Promise<{ id: string }>;
