@@ -13,6 +13,7 @@ export const NAV_ITEMS = [
   { label: 'חברי כנסת', href: '/mks' },
   { label: 'מפלגות', href: '/parties' },
   { label: 'השוואה', href: '/compare' },
+  { label: 'ממים', href: '/meme-generator' },
   { label: 'אודות', href: '/about' },
 ] as const;
 
