@@ -6,6 +6,7 @@ export interface MemeLine {
   align: 'left' | 'center' | 'right';
   x: number; // 0–1 fraction of canvas width
   y: number; // 0–1 fraction of canvas height
+  rotation: number; // degrees
 }
 
 export interface MemeState {
@@ -41,6 +42,7 @@ export function defaultMeme(mkId: number, photoId: number): MemeState {
         align: 'center',
         x: 0.5,
         y: 0.85,
+        rotation: 0,
       },
     ],
   };

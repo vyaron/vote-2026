@@ -13,6 +13,8 @@ type MemeAction =
   | { type: 'ADD_LINE' }
   | { type: 'DELETE_LINE'; idx: number }
   | { type: 'MOVE_LINE'; idx: number; x: number; y: number }
+  | { type: 'SET_ROTATION'; idx: number; rotation: number }
+  | { type: 'ADD_STICKER'; txt: string }
   | { type: 'LOAD'; state: MemeState };
 
 const DEFAULT_LINE: MemeLine = {
@@ -23,6 +25,7 @@ const DEFAULT_LINE: MemeLine = {
   align: 'center',
   x: 0.5,
   y: 0.5,
+  rotation: 0,
 };
 
 function reducer(state: MemeState, action: MemeAction): MemeState {
@@ -59,6 +62,14 @@ function reducer(state: MemeState, action: MemeAction): MemeState {
         selectedLineIdx: Math.min(state.selectedLineIdx, safeLines.length - 1),
       };
     }
+    case 'SET_ROTATION':
+      return { ...state, lines: state.lines.map((l, i) => i === action.idx ? { ...l, rotation: action.rotation } : l) };
+    case 'ADD_STICKER':
+      return {
+        ...state,
+        lines: [...state.lines, { ...DEFAULT_LINE, txt: action.txt, size: 72, fontFamily: 'Arial', x: 0.5, y: 0.5 }],
+        selectedLineIdx: state.lines.length,
+      };
     case 'MOVE_LINE':
       return {
         ...state,

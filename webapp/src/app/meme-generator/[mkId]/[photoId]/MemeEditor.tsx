@@ -3,15 +3,21 @@
 import { useEffect, useRef, useCallback, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import {
-  AlignLeft, AlignCenter, AlignRight, Plus, Trash2, ChevronUp, ChevronDown,
+  Plus, Trash2, ChevronUp, ChevronDown,
   Download, Share2, ArrowLeft, Type,
 } from 'lucide-react';
 import { useMemeState } from '../../_lib/useMemeState';
-import { drawMeme, hitTestLines } from '../../_lib/memeCanvas';
+import { drawMeme, hitTestLines, hitTestRotationHandle } from '../../_lib/memeCanvas';
 import { encodeMeme, decodeMeme, defaultMeme } from '../../_lib/encodeMeme';
 import type { MemeLine } from '../../_lib/encodeMeme';
 
 const FONTS = ['Impact', 'Arial', 'David', 'Frank Ruhl Libre', 'Heebo'];
+
+const STICKERS = [
+  '😂', '😍', '🤣', '😭', '😎', '🔥', '💪', '👏',
+  '🤦', '🙈', '💰', '🗳️', '🗣️', '✌️', '👆', '🤡',
+  '😤', '🤬', '😴', '🥳', '💣', '🎯', '👑', '🐑',
+];
 
 interface Props {
   mkId: number;
@@ -26,6 +32,7 @@ export function MemeEditor({ mkId, mkName, photoId, photoPath, initialMeme }: Pr
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const imgRef = useRef<HTMLImageElement | null>(null);
   const dragRef = useRef<{ lineIdx: number; startX: number; startY: number } | null>(null);
+  const rotateRef = useRef<{ lineIdx: number; startAngle: number; startRotation: number; cx: number; cy: number } | null>(null);
 
   const initial = initialMeme
     ? (decodeMeme(initialMeme) ?? defaultMeme(mkId, photoId))
@@ -76,6 +83,23 @@ export function MemeEditor({ mkId, mkName, photoId, photoPath, initialMeme }: Pr
     if (!canvas) return;
     const ctx = canvas.getContext('2d')!;
     const { x, y } = getCanvasPos(e);
+
+    // Check rotation handle of selected line first
+    const sel = state.lines[state.selectedLineIdx];
+    if (sel && hitTestRotationHandle(ctx, sel, x, y)) {
+      const cx = sel.x * canvas.width;
+      const cy = sel.y * canvas.height;
+      rotateRef.current = {
+        lineIdx: state.selectedLineIdx,
+        startAngle: Math.atan2(y - cy, x - cx),
+        startRotation: sel.rotation ?? 0,
+        cx,
+        cy,
+      };
+      canvas.setPointerCapture(e.pointerId);
+      return;
+    }
+
     const hit = hitTestLines(ctx, state.lines, x, y);
     if (hit >= 0) {
       dispatch({ type: 'SELECT_LINE', idx: hit });
@@ -85,9 +109,20 @@ export function MemeEditor({ mkId, mkName, photoId, photoPath, initialMeme }: Pr
   };
 
   const onPointerMove = (e: React.PointerEvent) => {
-    if (!dragRef.current || !canvasRef.current) return;
+    const canvas = canvasRef.current;
+    if (!canvas) return;
     const { x, y } = getCanvasPos(e);
-    const { width, height } = canvasRef.current;
+
+    if (rotateRef.current) {
+      const { lineIdx, startAngle, startRotation, cx, cy } = rotateRef.current;
+      const angle = Math.atan2(y - cy, x - cx);
+      const delta = (angle - startAngle) * (180 / Math.PI);
+      dispatch({ type: 'SET_ROTATION', idx: lineIdx, rotation: startRotation + delta });
+      return;
+    }
+
+    if (!dragRef.current) return;
+    const { width, height } = canvas;
     dispatch({
       type: 'MOVE_LINE',
       idx: dragRef.current.lineIdx,
@@ -96,7 +131,10 @@ export function MemeEditor({ mkId, mkName, photoId, photoPath, initialMeme }: Pr
     });
   };
 
-  const onPointerUp = () => { dragRef.current = null; };
+  const onPointerUp = () => {
+    dragRef.current = null;
+    rotateRef.current = null;
+  };
 
   const handleDownload = () => {
     const canvas = canvasRef.current;
@@ -166,8 +204,28 @@ export function MemeEditor({ mkId, mkName, photoId, photoPath, initialMeme }: Pr
                 className="flex items-center gap-1 px-3 py-1 rounded-full text-sm bg-muted hover:bg-muted/80"
               >
                 <Plus className="w-3 h-3" />
-                הוסף
+                טקסט
               </button>
+            </div>
+
+            {/* Sticker picker */}
+            <div>
+              <label className="text-xs text-muted-foreground mb-1 block">סטיקרים</label>
+              <div className="grid grid-cols-8 gap-1">
+                {STICKERS.map(emoji => (
+                  <button
+                    key={emoji}
+                    onClick={() => dispatch({
+                      type: 'ADD_STICKER',
+                      txt: emoji,
+                    })}
+                    className="text-xl hover:scale-125 transition-transform p-1 rounded"
+                    title={emoji}
+                  >
+                    {emoji}
+                  </button>
+                ))}
+              </div>
             </div>
 
             {selectedLine && (
@@ -185,7 +243,7 @@ export function MemeEditor({ mkId, mkName, photoId, photoPath, initialMeme }: Pr
 
                 {/* Font family */}
                 <div>
-                  <label className="text-xs text-muted-foreground mb-1 block flex items-center gap-1">
+                  <label className="text-xs text-muted-foreground mb-1 flex items-center gap-1">
                     <Type className="w-3 h-3" />
                     גופן
                   </label>
@@ -234,24 +292,6 @@ export function MemeEditor({ mkId, mkName, photoId, photoPath, initialMeme }: Pr
                         className="w-8 h-8 rounded-full border-2 hover:scale-110 transition-transform"
                         style={{ background: c, borderColor: selectedLine.color === c ? '#6366f1' : 'transparent' }}
                       />
-                    ))}
-                  </div>
-                </div>
-
-                {/* Alignment */}
-                <div>
-                  <label className="text-xs text-muted-foreground mb-1 block">יישור</label>
-                  <div className="flex gap-2">
-                    {(['right', 'center', 'left'] as MemeLine['align'][]).map(a => (
-                      <button
-                        key={a}
-                        onClick={() => dispatch({ type: 'SET_ALIGN', idx: state.selectedLineIdx, align: a })}
-                        className={`flex-1 flex items-center justify-center py-2 border rounded-lg transition-colors ${
-                          selectedLine.align === a ? 'bg-primary text-primary-foreground' : 'hover:bg-muted'
-                        }`}
-                      >
-                        {a === 'right' ? <AlignRight className="w-4 h-4" /> : a === 'center' ? <AlignCenter className="w-4 h-4" /> : <AlignLeft className="w-4 h-4" />}
-                      </button>
                     ))}
                   </div>
                 </div>
