@@ -89,12 +89,11 @@ export default function AboutPage() {
             <motion.div variants={fadeInUp} className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  src="/knesset1.png"
+                  src="/Knesset1.png"
                   alt="בניין הכנסת"
                   width={600}
                   height={400}
                   className="w-full h-auto"
-                  unoptimized
                 />
               </div>
               {/* Decorative element */}
