@@ -42,7 +42,7 @@ export const defaultMetadata: Metadata = {
     description: SITE_DESCRIPTION,
     images: [
       {
-        url: '/og-image.png',
+        url: '/Knesset1.png',
         width: 1200,
         height: 630,
         alt: SITE_NAME,
@@ -53,7 +53,7 @@ export const defaultMetadata: Metadata = {
     card: 'summary_large_image',
     title: SITE_NAME,
     description: SITE_DESCRIPTION,
-    images: ['/og-image.png'],
+    images: ['/Knesset1.png'],
   },
   robots: {
     index: true,

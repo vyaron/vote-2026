@@ -9,6 +9,14 @@ export const metadata: Metadata = {
     description: 'מידע שקוף ונגיש על נבחרי הציבור בישראל',
     url: '/about',
     type: 'website',
+    images: [
+      {
+        url: '/Knesset1.png',
+        width: 1200,
+        height: 630,
+        alt: 'כנסת 2026',
+      },
+    ],
   },
 };
 
