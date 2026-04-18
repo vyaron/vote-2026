@@ -53,14 +53,14 @@ export function MemeViewer({ mkId, mkName, photoId, photoPath, encodedMeme }: Pr
     router.push(`/meme-generator/${mkId}/${photoId}${params}`);
   };
 
-  const pageUrl = typeof window !== 'undefined' ? window.location.href : '';
-
   const handleShareWhatsapp = () => {
-    window.open(`https://wa.me/?text=${encodeURIComponent(pageUrl)}`, '_blank');
+    const url = window.location.href;
+    window.open(`https://wa.me/?text=${encodeURIComponent(url)}`, '_blank');
   };
 
   const handleShareFacebook = () => {
-    window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(pageUrl)}`, '_blank');
+    const url = window.location.href;
+    window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`, '_blank');
   };
 
   return (
