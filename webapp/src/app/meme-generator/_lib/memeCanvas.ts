@@ -17,6 +17,16 @@ export function drawMeme(
   });
 }
 
+function fittedSize(ctx: CanvasRenderingContext2D, line: MemeLine, maxWidth: number): number {
+  let size = line.size;
+  ctx.font = `bold ${size}px "${line.fontFamily}", Impact, Arial`;
+  while (size > 10 && ctx.measureText(line.txt).width > maxWidth) {
+    size = Math.floor(size * 0.9);
+    ctx.font = `bold ${size}px "${line.fontFamily}", Impact, Arial`;
+  }
+  return size;
+}
+
 export function drawLine(
   ctx: CanvasRenderingContext2D,
   line: MemeLine,
@@ -32,12 +42,13 @@ export function drawLine(
   ctx.translate(cx, cy);
   ctx.rotate(rad);
 
-  ctx.font = `bold ${line.size}px "${line.fontFamily}", Impact, Arial`;
+  const size = fittedSize(ctx, line, width * 0.92);
+  ctx.font = `bold ${size}px "${line.fontFamily}", Impact, Arial`;
   ctx.textAlign = line.align;
   ctx.textBaseline = 'middle';
 
   ctx.strokeStyle = 'rgba(0,0,0,0.85)';
-  ctx.lineWidth = Math.max(2, line.size / 10);
+  ctx.lineWidth = Math.max(2, size / 10);
   ctx.lineJoin = 'round';
   ctx.strokeText(line.txt, 0, 0);
 
@@ -47,7 +58,7 @@ export function drawLine(
   if (selected) {
     const metrics = ctx.measureText(line.txt);
     const tw = metrics.width;
-    const th = line.size * 1.2;
+    const th = size * 1.2;
     const bx = line.align === 'center' ? -tw / 2 : line.align === 'right' ? -tw : 0;
     const frameTop = -th / 2 - 6;
 
@@ -91,8 +102,9 @@ export function getRotationHandlePos(
   const cy = line.y * height;
   const rad = (line.rotation ?? 0) * (Math.PI / 180);
 
-  ctx.font = `bold ${line.size}px "${line.fontFamily}", Impact, Arial`;
-  const th = line.size * 1.2;
+  const size = fittedSize(ctx, line, ctx.canvas.width * 0.92);
+  ctx.font = `bold ${size}px "${line.fontFamily}", Impact, Arial`;
+  const th = size * 1.2;
   const localY = -th / 2 - 6 - HANDLE_DIST_ABOVE;
 
   // Rotate local point (0, localY) into screen space
@@ -135,10 +147,11 @@ export function hitTestLines(
     const ldx = dx * Math.cos(rad) + dy * Math.sin(rad);
     const ldy = -dx * Math.sin(rad) + dy * Math.cos(rad);
 
-    ctx.font = `bold ${line.size}px "${line.fontFamily}", Impact, Arial`;
+    const size = fittedSize(ctx, line, ctx.canvas.width * 0.92);
+    ctx.font = `bold ${size}px "${line.fontFamily}", Impact, Arial`;
     const metrics = ctx.measureText(line.txt);
     const tw = metrics.width;
-    const th = line.size * 1.2;
+    const th = size * 1.2;
     const lbx = line.align === 'center' ? -tw / 2 : line.align === 'right' ? -tw : 0;
 
     if (ldx >= lbx - 8 && ldx <= lbx + tw + 8 && ldy >= -th / 2 - 8 && ldy <= th / 2 + 8) {
