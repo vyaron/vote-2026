@@ -8,13 +8,19 @@ import { Menu, X, Search } from 'lucide-react';
 import { useState } from 'react';
 import { NAV_ITEMS, SITE_NAME } from '@/lib/constants';
 import { cn } from '@/lib/utils';
+import { MkUserMenu } from './MkUserMenu';
+import type { MkSession } from './MkUserMenu';
 
-export function Header() {
+interface Props {
+  mkSession: MkSession | null;
+}
+
+export function Header({ mkSession }: Props) {
   const pathname = usePathname();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
+    <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-backdrop-filter:bg-background/60">
       <div className="container flex h-16 items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2">
@@ -76,6 +82,18 @@ export function Header() {
             <Search className="h-5 w-5" />
           </Link>
 
+          {/* Auth: login link or profile menu */}
+          {mkSession ? (
+            <MkUserMenu mkSession={mkSession} />
+          ) : (
+            <Link
+              href="/auth/login"
+              className="hidden md:inline-flex items-center px-3 py-1.5 text-sm font-medium rounded-lg border hover:bg-muted transition-colors"
+            >
+              כניסת ח&quot;כים
+            </Link>
+          )}
+
           {/* Mobile menu button */}
           <button
             className="md:hidden p-2 rounded-lg hover:bg-muted transition-colors"
@@ -118,6 +136,36 @@ export function Header() {
                 </Link>
               );
             })}
+
+            {/* Mobile auth */}
+            <div className="border-t pt-2 mt-1">
+              {mkSession ? (
+                <>
+                  <Link
+                    href={`/mks/${mkSession.slug}`}
+                    onClick={() => setMobileMenuOpen(false)}
+                    className="block px-4 py-3 text-sm font-medium rounded-lg hover:bg-muted transition-colors"
+                  >
+                    הפרופיל שלי
+                  </Link>
+                  <Link
+                    href="/mk/dashboard"
+                    onClick={() => setMobileMenuOpen(false)}
+                    className="block px-4 py-3 text-sm font-medium rounded-lg hover:bg-muted transition-colors"
+                  >
+                    הבריפים שלי / לוח הבקרה
+                  </Link>
+                </>
+              ) : (
+                <Link
+                  href="/auth/login"
+                  onClick={() => setMobileMenuOpen(false)}
+                  className="block px-4 py-3 text-sm font-medium rounded-lg hover:bg-muted transition-colors"
+                >
+                  כניסת ח&quot;כים
+                </Link>
+              )}
+            </div>
           </div>
         </motion.nav>
       )}

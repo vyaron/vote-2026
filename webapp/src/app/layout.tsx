@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import Script from "next/script";
 import "./globals.css";
-import { Header, Footer } from "@/components/layout";
+import { HeaderWrapper, Footer } from "@/components/layout";
 import { ErrorBoundary } from "@/components/animations";
 import { defaultMetadata, generateWebsiteStructuredData } from "@/lib/seo";
 import { SITE_URL } from "@/lib/constants";
@@ -54,7 +54,7 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-full flex flex-col bg-background text-foreground">
-        <Header />
+        <HeaderWrapper />
         <main className="flex-1">
           <ErrorBoundary>
             {children}
