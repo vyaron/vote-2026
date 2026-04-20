@@ -9,6 +9,11 @@ const nextConfig: NextConfig = {
         hostname: 'fs.knesset.gov.il',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: '*.supabase.co',
+        pathname: '/storage/v1/object/public/**',
+      },
     ],
     // Optimize image quality
     formats: ['image/avif', 'image/webp'],
