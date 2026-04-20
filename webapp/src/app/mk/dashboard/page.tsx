@@ -116,7 +116,7 @@ export default async function DashboardPage() {
               </div>
 
               <div className="flex items-center gap-2 shrink-0">
-                {brief.status === 'published' && mkSlug && (
+                {brief.status !== 'deleted' && mkSlug && (
                   <Link
                     href={`/mks/${mkSlug}/briefs/${brief.id}`}
                     target="_blank"
