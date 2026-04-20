@@ -44,7 +44,7 @@ export default async function BriefPreviewPage({ params }: Props) {
 
   const { data: brief } = await supabase
     .from('briefs')
-    .select('*, brief_media(*)')
+    .select('*')
     .eq('id', briefId)
     .eq('mk_id', mkUser.mk_id)
     .neq('status', 'deleted')
@@ -52,7 +52,10 @@ export default async function BriefPreviewPage({ params }: Props) {
 
   if (!brief) notFound();
 
-  const mk = await getMkServer(String(brief.mk_id));
+  const [mk, { data: media }] = await Promise.all([
+    getMkServer(String(brief.mk_id)),
+    supabase.from('brief_media').select('*').eq('brief_id', briefId).order('sort_order'),
+  ]);
   const publishDate = new Date(brief.publish_at ?? brief.created_at);
 
   return (
@@ -114,9 +117,9 @@ export default async function BriefPreviewPage({ params }: Props) {
 
         {brief.template === 'media-rich' && (
           <>
-            {brief.brief_media && brief.brief_media.length > 0 && (
+            {media && media.length > 0 && (
               <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 mb-6">
-                {brief.brief_media.map((item: { id: string; url: string; alt: string | null }) => (
+                {media.map((item) => (
                   <div key={item.id} className="aspect-square relative rounded-xl overflow-hidden">
                     <Image src={item.url} alt={item.alt ?? ''} fill className="object-cover" />
                   </div>
