@@ -45,19 +45,19 @@ function VideoEmbed({ url }: { url: string }) {
 export default async function BriefPage({ params }: Props) {
   const { id: idOrSlug, briefId } = await params;
 
-  const [mk, supabase] = await Promise.all([getMkServer(idOrSlug), createClient()]);
-  if (!mk) notFound();
+  const supabase = await createClient();
 
   const { data: brief } = await supabase
     .from('briefs')
     .select('*')
     .eq('id', briefId)
-    .eq('mk_id', mk.id)
     .eq('status', 'published')
     .is('deleted_at', null)
     .single();
 
   if (!brief) notFound();
+
+  const mk = await getMkServer(String(brief.mk_id));
 
   const { data: media } = await supabase
     .from('brief_media')
@@ -65,7 +65,7 @@ export default async function BriefPage({ params }: Props) {
     .eq('brief_id', briefId)
     .order('sort_order');
 
-  const basePath = `/mks/${getMkSlug(mk.id, mk.name)}`;
+  const basePath = mk ? `/mks/${getMkSlug(mk.id, mk.name)}` : `/mks/${idOrSlug}`;
   const publishDate = new Date(brief.publish_at ?? brief.created_at);
 
   return (
@@ -102,15 +102,17 @@ export default async function BriefPage({ params }: Props) {
       )}
 
       {/* Author */}
-      <div className="flex items-center gap-3 py-4 border-y mb-6">
-        <div className="h-10 w-10 rounded-full overflow-hidden relative shrink-0">
-          <Image src={getMkPhotoPath(mk.id)} alt={mk.name} fill className="object-cover" />
+      {mk && (
+        <div className="flex items-center gap-3 py-4 border-y mb-6">
+          <div className="h-10 w-10 rounded-full overflow-hidden relative shrink-0">
+            <Image src={getMkPhotoPath(mk.id)} alt={mk.name} fill className="object-cover" />
+          </div>
+          <div>
+            <Link href={basePath} className="font-semibold text-sm hover:underline">{mk.name}</Link>
+            <p className="text-xs text-muted-foreground">{mk.faction}</p>
+          </div>
         </div>
-        <div>
-          <Link href={basePath} className="font-semibold text-sm hover:underline">{mk.name}</Link>
-          <p className="text-xs text-muted-foreground">{mk.faction}</p>
-        </div>
-      </div>
+      )}
 
       {/* Template A: statement — body first, video after */}
       {brief.template === 'statement' && (
