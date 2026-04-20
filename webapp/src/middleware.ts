@@ -23,7 +23,16 @@ export async function middleware(request: NextRequest) {
     },
   );
 
-  const { data: { user } } = await supabase.auth.getUser();
+  let user = null;
+  try {
+    const { data } = await supabase.auth.getUser();
+    user = data.user;
+  } catch {
+    // If auth check fails, treat as unauthenticated — the page's own server
+    // component will handle auth and redirect if needed.
+    return response;
+  }
+
   const { pathname } = request.nextUrl;
 
   const isProtected = PROTECTED.some((p) => pathname.startsWith(p));
