@@ -4,8 +4,6 @@ import { createClient, createServiceClient } from '@/lib/supabase/server';
 import { Plus, FileText, Eye, EyeOff, Trash2, RotateCcw, Clock, ExternalLink } from 'lucide-react';
 import type { Database, BriefStatus } from '@/lib/supabase/types';
 import { cn } from '@/lib/utils';
-import { getMkServer } from '@/lib/mk-server';
-import { getMkSlug } from '@/lib/slugs';
 
 type Brief = Database['public']['Tables']['briefs']['Row'];
 type BriefUpdate = Database['public']['Tables']['briefs']['Update'];
@@ -56,16 +54,11 @@ export default async function DashboardPage() {
     );
   }
 
-  const [{ data: briefs }, mk] = await Promise.all([
-    supabase
-      .from('briefs')
-      .select('*')
-      .eq('mk_id', mkUser.mk_id)
-      .order('created_at', { ascending: false }),
-    getMkServer(String(mkUser.mk_id)),
-  ]);
-
-  const mkSlug = mk ? getMkSlug(mk.id, mk.name) : String(mkUser.mk_id);
+  const { data: briefs } = await supabase
+    .from('briefs')
+    .select('*')
+    .eq('mk_id', mkUser.mk_id)
+    .order('created_at', { ascending: false });
 
   return (
     <div className="container py-8 max-w-4xl">
@@ -116,9 +109,9 @@ export default async function DashboardPage() {
               </div>
 
               <div className="flex items-center gap-2 shrink-0">
-                {brief.status !== 'deleted' && mkSlug && (
+                {brief.status !== 'deleted' && (
                   <Link
-                    href={`/mks/${mkSlug}/briefs/${brief.id}`}
+                    href={`/mks/${brief.mk_id}/briefs/${brief.id}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 hover:bg-muted rounded-lg transition-colors"
