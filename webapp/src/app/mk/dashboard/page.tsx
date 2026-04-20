@@ -65,7 +65,7 @@ export default async function DashboardPage() {
     getMkServer(String(mkUser.mk_id)),
   ]);
 
-  const mkSlug = mk ? getMkSlug(mk.id, mk.name) : null;
+  const mkSlug = mk ? getMkSlug(mk.id, mk.name) : String(mkUser.mk_id);
 
   return (
     <div className="container py-8 max-w-4xl">

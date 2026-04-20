@@ -35,7 +35,7 @@ export default async function EditBriefPage({ params }: Props) {
   if (!brief || brief.status === 'deleted') notFound();
 
   const mk = await getMkServer(String(mkUser.mk_id));
-  const mkSlug = mk ? getMkSlug(mk.id, mk.name) : null;
+  const mkSlug = mk ? getMkSlug(mk.id, mk.name) : String(mkUser.mk_id);
 
   return (
     <div className="container py-8 max-w-2xl">
