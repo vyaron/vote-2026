@@ -14,20 +14,19 @@ export async function HeaderWrapper() {
     if (user) {
       const { data: mkUser } = await supabase
         .from('mk_users')
-        .select('mk_id')
+        .select('mk_id, role')
         .eq('user_id', user.id)
         .single();
 
       if (mkUser) {
         const mk = await getMkServer(String(mkUser.mk_id));
-        if (mk) {
-          mkSession = {
-            mk_id: mk.id,
-            name: mk.name,
-            profileImage: mk.images.profile,
-            slug: getMkSlug(mk.id, mk.name),
-          };
-        }
+        mkSession = {
+          mk_id: mk?.id ?? mkUser.mk_id,
+          name: mk?.name ?? 'מנהל',
+          profileImage: mk?.images.profile ?? '',
+          slug: mk ? getMkSlug(mk.id, mk.name) : '',
+          role: mkUser.role,
+        };
       }
     }
   } catch {

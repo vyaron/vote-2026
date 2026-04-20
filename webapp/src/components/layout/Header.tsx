@@ -141,13 +141,15 @@ export function Header({ mkSession }: Props) {
             <div className="border-t pt-2 mt-1">
               {mkSession ? (
                 <>
-                  <Link
-                    href={`/mks/${mkSession.slug}`}
-                    onClick={() => setMobileMenuOpen(false)}
-                    className="block px-4 py-3 text-sm font-medium rounded-lg hover:bg-muted transition-colors"
-                  >
-                    הפרופיל שלי
-                  </Link>
+                  {mkSession.slug && (
+                    <Link
+                      href={`/mks/${mkSession.slug}`}
+                      onClick={() => setMobileMenuOpen(false)}
+                      className="block px-4 py-3 text-sm font-medium rounded-lg hover:bg-muted transition-colors"
+                    >
+                      הפרופיל שלי
+                    </Link>
+                  )}
                   <Link
                     href="/mk/dashboard"
                     onClick={() => setMobileMenuOpen(false)}
@@ -155,6 +157,15 @@ export function Header({ mkSession }: Props) {
                   >
                     הבריפים שלי / לוח הבקרה
                   </Link>
+                  {mkSession.role === 'admin' && (
+                    <Link
+                      href="/admin"
+                      onClick={() => setMobileMenuOpen(false)}
+                      className="block px-4 py-3 text-sm font-medium rounded-lg hover:bg-muted transition-colors"
+                    >
+                      ניהול מערכת
+                    </Link>
+                  )}
                 </>
               ) : (
                 <Link

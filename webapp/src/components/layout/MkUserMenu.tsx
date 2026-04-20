@@ -3,15 +3,17 @@
 import { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { LogOut, LayoutDashboard, FileText, User } from 'lucide-react';
+import { LogOut, LayoutDashboard, FileText, User, ShieldCheck } from 'lucide-react';
 import { signOut } from '@/app/auth/actions';
 import { cn } from '@/lib/utils';
+import type { UserRole } from '@/lib/supabase/types';
 
 export interface MkSession {
   mk_id: number;
   name: string;
   profileImage: string;
   slug: string;
+  role: UserRole;
 }
 
 interface Props {
@@ -48,13 +50,19 @@ export function MkUserMenu({ mkSession }: Props) {
         aria-expanded={open}
         aria-haspopup="true"
       >
-        <Image
-          src={mkSession.profileImage}
-          alt={mkSession.name}
-          width={36}
-          height={36}
-          className="h-9 w-9 rounded-full object-cover"
-        />
+        {mkSession.profileImage ? (
+          <Image
+            src={mkSession.profileImage}
+            alt={mkSession.name}
+            width={36}
+            height={36}
+            className="h-9 w-9 rounded-full object-cover"
+          />
+        ) : (
+          <span className="flex h-9 w-9 items-center justify-center rounded-full bg-muted">
+            <User className="h-5 w-5 text-muted-foreground" />
+          </span>
+        )}
       </button>
 
       {open && (
@@ -69,15 +77,17 @@ export function MkUserMenu({ mkSession }: Props) {
             <p className="text-sm font-semibold truncate">{mkSession.name}</p>
           </div>
           <div className="py-1">
-            <Link
-              href={`/mks/${mkSession.slug}`}
-              role="menuitem"
-              onClick={() => setOpen(false)}
-              className="flex items-center gap-3 px-4 py-2.5 text-sm hover:bg-muted transition-colors"
-            >
-              <User className="h-4 w-4 shrink-0" />
-              הפרופיל שלי
-            </Link>
+            {mkSession.slug && (
+              <Link
+                href={`/mks/${mkSession.slug}`}
+                role="menuitem"
+                onClick={() => setOpen(false)}
+                className="flex items-center gap-3 px-4 py-2.5 text-sm hover:bg-muted transition-colors"
+              >
+                <User className="h-4 w-4 shrink-0" />
+                הפרופיל שלי
+              </Link>
+            )}
             <Link
               href="/mk/dashboard"
               role="menuitem"
@@ -96,6 +106,17 @@ export function MkUserMenu({ mkSession }: Props) {
               <LayoutDashboard className="h-4 w-4 shrink-0" />
               לוח הבקרה
             </Link>
+            {mkSession.role === 'admin' && (
+              <Link
+                href="/admin"
+                role="menuitem"
+                onClick={() => setOpen(false)}
+                className="flex items-center gap-3 px-4 py-2.5 text-sm hover:bg-muted transition-colors"
+              >
+                <ShieldCheck className="h-4 w-4 shrink-0" />
+                ניהול מערכת
+              </Link>
+            )}
           </div>
           <div className="border-t py-1">
             <form action={signOut}>
