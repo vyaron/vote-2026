@@ -111,7 +111,7 @@ export default async function DashboardPage() {
               <div className="flex items-center gap-2 shrink-0">
                 {brief.status !== 'deleted' && (
                   <Link
-                    href={`/mks/${brief.mk_id}/briefs/${brief.id}`}
+                    href={`/mk/dashboard/${brief.id}/view`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 hover:bg-muted rounded-lg transition-colors"
