@@ -5,7 +5,8 @@
 // Site metadata
 export const SITE_NAME = 'בחירות 2026';
 export const SITE_DESCRIPTION = 'מידע מקיף על חברי הכנסת ה-26 של ישראל';
-export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://voter-2026.vercel.app';
+const _rawSiteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://voter-2026.vercel.app';
+export const SITE_URL = _rawSiteUrl.startsWith('http') ? _rawSiteUrl : `https://${_rawSiteUrl}`;
 
 // Navigation items
 export const NAV_ITEMS = [
