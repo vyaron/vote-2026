@@ -4,12 +4,14 @@ import { useEffect, useRef, useCallback, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import {
   Plus, Trash2, ChevronUp, ChevronDown,
-  Download, Share2, ArrowLeft, Type,
+  Download, Share2, ArrowLeft, Type, Film, Video, Loader2,
 } from 'lucide-react';
 import { useMemeState } from '../../_lib/useMemeState';
 import { drawMeme, hitTestLines, hitTestRotationHandle } from '../../_lib/memeCanvas';
 import { encodeMeme, decodeMeme, defaultMeme } from '../../_lib/encodeMeme';
 import type { MemeLine } from '../../_lib/encodeMeme';
+import { buildTimeline, getFrameState, FPS, OUTPUT_WIDTH } from '../../_lib/animationTimeline';
+import { renderFrame } from '../../_lib/renderAnimationFrame';
 
 const FONTS = ['Impact', 'Arial', 'David', 'Frank Ruhl Libre', 'Heebo'];
 
@@ -39,6 +41,7 @@ export function MemeEditor({ mkId, mkName, photoId, photoPath, initialMeme }: Pr
     : defaultMeme(mkId, photoId);
 
   const [state, dispatch] = useMemeState(initial);
+  const [exporting, setExporting] = useState<'gif' | 'mp4' | null>(null);
 
   const selectedLine: MemeLine | undefined = state.lines[state.selectedLineIdx];
 
@@ -148,6 +151,95 @@ export function MemeEditor({ mkId, mkName, photoId, photoPath, initialMeme }: Pr
     a.click();
     // Restore
     redraw();
+  };
+
+  const triggerDownload = (blob: Blob, filename: string) => {
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    a.click();
+    URL.revokeObjectURL(url);
+  };
+
+  const handleExport = async (format: 'gif' | 'mp4') => {
+    const img = imgRef.current;
+    if (!img || exporting) return;
+    if (!state.lines.some(l => l.txt.trim())) return;
+
+    setExporting(format);
+    try {
+      const w = OUTPUT_WIDTH;
+      // H.264 requires even dimensions
+      const h = Math.round((OUTPUT_WIDTH * img.naturalHeight / img.naturalWidth) / 2) * 2;
+
+      const offscreen = document.createElement('canvas');
+      offscreen.width = w;
+      offscreen.height = h;
+      const ctx = offscreen.getContext('2d')!;
+
+      const timeline = buildTimeline(state.lines);
+
+      if (format === 'gif') {
+        const { GIFEncoder, quantize, applyPalette } = await import('gifenc');
+        const gif = GIFEncoder();
+        const delay = Math.round(1000 / FPS);
+
+        for (let f = 0; f < timeline.frameCount; f++) {
+          const fs = getFrameState(timeline, f / FPS, state.lines);
+          renderFrame(ctx, img, state.lines, fs);
+          const { data } = ctx.getImageData(0, 0, w, h);
+          const palette = quantize(data, 256);
+          const index = applyPalette(data, palette);
+          gif.writeFrame(index, w, h, { palette, delay, repeat: f === 0 ? 0 : undefined });
+        }
+
+        gif.finish();
+        triggerDownload(new Blob([gif.bytes()], { type: 'image/gif' }), `meme-${mkName}.gif`);
+      } else {
+        if (typeof VideoEncoder === 'undefined') {
+          alert('ייצוא MP4 דורש Chrome 94+ או Edge 94+');
+          return;
+        }
+
+        const { Muxer, ArrayBufferTarget } = await import('mp4-muxer');
+        const muxTarget = new ArrayBufferTarget();
+        const muxer = new Muxer({
+          target: muxTarget,
+          video: { codec: 'avc', width: w, height: h, frameRate: FPS },
+          fastStart: 'in-memory',
+        });
+
+        const encoder = new VideoEncoder({
+          output: (chunk, meta) => muxer.addVideoChunk(chunk, meta ?? undefined),
+          error: console.error,
+        });
+        encoder.configure({
+          codec: 'avc1.42001f',
+          width: w,
+          height: h,
+          bitrate: 1_500_000,
+          framerate: FPS,
+        });
+
+        for (let f = 0; f < timeline.frameCount; f++) {
+          const fs = getFrameState(timeline, f / FPS, state.lines);
+          renderFrame(ctx, img, state.lines, fs);
+          const frame = new VideoFrame(offscreen, {
+            timestamp: Math.round(f * 1_000_000 / FPS),
+            duration: Math.round(1_000_000 / FPS),
+          });
+          encoder.encode(frame, { keyFrame: f % 30 === 0 });
+          frame.close();
+        }
+
+        await encoder.flush();
+        muxer.finalize();
+        triggerDownload(new Blob([muxTarget.buffer], { type: 'video/mp4' }), `meme-${mkName}.mp4`);
+      }
+    } finally {
+      setExporting(null);
+    }
   };
 
   const handleShare = () => {
@@ -324,6 +416,28 @@ export function MemeEditor({ mkId, mkName, photoId, photoPath, initialMeme }: Pr
               >
                 <Share2 className="w-4 h-4" />
                 שתף
+              </button>
+            </div>
+            <div className="flex gap-2">
+              <button
+                onClick={() => handleExport('gif')}
+                disabled={!!exporting}
+                className="flex-1 flex items-center justify-center gap-1.5 py-2 bg-muted text-foreground rounded-lg text-sm font-medium hover:bg-muted/80 disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                {exporting === 'gif'
+                  ? <Loader2 className="w-4 h-4 animate-spin" />
+                  : <Film className="w-4 h-4" />}
+                GIF
+              </button>
+              <button
+                onClick={() => handleExport('mp4')}
+                disabled={!!exporting}
+                className="flex-1 flex items-center justify-center gap-1.5 py-2 bg-muted text-foreground rounded-lg text-sm font-medium hover:bg-muted/80 disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                {exporting === 'mp4'
+                  ? <Loader2 className="w-4 h-4 animate-spin" />
+                  : <Video className="w-4 h-4" />}
+                MP4
               </button>
             </div>
           </div>
