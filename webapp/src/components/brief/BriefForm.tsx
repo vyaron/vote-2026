@@ -12,12 +12,14 @@ import { cn } from '@/lib/utils';
 
 type Brief = Database['public']['Tables']['briefs']['Row'];
 type BriefMediaRow = Database['public']['Tables']['brief_media']['Row'];
+type HeaderImageFit = 'cover' | 'contain';
 
 type GalleryItem = { tempId: string; url: string; alt: string };
 
 const TAGS_SUGGESTIONS = [
-  'כלכלה', 'ביטחון', 'חינוך', 'בריאות', 'דיור', 'חקיקה', 'חוץ', 'רווחה',
-  'חברה', 'סביבה', 'תחבורה', 'טכנולוגיה', 'ספורט', 'תרבות', 'דת',
+  'פוליטיקה', 'כלכלה', 'ביטחון', 'חינוך', 'בריאות', 'דיור', 'חקיקה', 'חוץ', 'רווחה',
+  'חברה', 'סביבה', 'תחבורה', 'טכנולוגיה', 'ספורט', 'תרבות', 'דת', 'שלטון מקומי',
+  'משפט', 'זכויות אדם', 'עלייה וקליטה', 'תקציב', 'שחיתות', 'הייטק', 'חקלאות', 'אנרגיה',
 ];
 
 interface Props {
@@ -32,6 +34,7 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
   const [isPending, startTransition] = useTransition();
   const fileInputRef = useRef<HTMLInputElement>(null);
   const galleryInputRef = useRef<HTMLInputElement>(null);
+  const headerPreviewRef = useRef<HTMLDivElement>(null);
 
   const [template, setTemplate] = useState<BriefTemplate>(brief?.template ?? 'statement');
   const [title, setTitle] = useState(brief?.title ?? '');
@@ -41,6 +44,10 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
   const [tags, setTags] = useState<string[]>(brief?.tags ?? []);
   const [tagInput, setTagInput] = useState('');
   const [headerImage, setHeaderImage] = useState<string | null>(brief?.header_image ?? null);
+  const [headerImageFit, setHeaderImageFit] = useState<HeaderImageFit>(brief?.header_image_fit ?? 'cover');
+  const [headerImagePosX, setHeaderImagePosX] = useState(brief?.header_image_position_x ?? 50);
+  const [headerImagePosY, setHeaderImagePosY] = useState(brief?.header_image_position_y ?? 50);
+  const [headerImageScale, setHeaderImageScale] = useState(brief?.header_image_scale ?? 33);
   const [uploadingImage, setUploadingImage] = useState(false);
   const [galleryItems, setGalleryItems] = useState<GalleryItem[]>(
     (initialMedia ?? []).map((m) => ({ tempId: m.id, url: m.url, alt: m.alt ?? '' })),
@@ -65,7 +72,23 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
     if (error) { setError('שגיאה בהעלאת תמונה'); setUploadingImage(false); return; }
     const { data } = supabase.storage.from('briefs').getPublicUrl(path);
     setHeaderImage(data.publicUrl);
+    setHeaderImagePosX(50);
+    setHeaderImagePosY(50);
+    setHeaderImageScale(33);
     setUploadingImage(false);
+  }
+
+  function clampPercent(value: number) {
+    return Math.max(0, Math.min(100, Math.round(value)));
+  }
+
+  function updateHeaderPosition(clientX: number, clientY: number) {
+    if (!headerPreviewRef.current || headerImageFit !== 'cover') return;
+    const rect = headerPreviewRef.current.getBoundingClientRect();
+    const x = ((clientX - rect.left) / rect.width) * 100;
+    const y = ((clientY - rect.top) / rect.height) * 100;
+    setHeaderImagePosX(clampPercent(x));
+    setHeaderImagePosY(clampPercent(y));
   }
 
   async function uploadGalleryImage(file: File) {
@@ -105,6 +128,9 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
       setGalleryItems((prev) => [...prev, { tempId: crypto.randomUUID(), url: photo.fullUrl, alt: photo.alt }]);
     } else {
       setHeaderImage(photo.fullUrl);
+      setHeaderImagePosX(50);
+      setHeaderImagePosY(50);
+      setHeaderImageScale(33);
     }
     setShowPhotoPanel(false);
     setSuggestPhotos([]);
@@ -139,6 +165,10 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
         subtitle: template === 'statement' ? (subtitle.trim() || null) : null,
         body: body || null,
         header_image: template === 'statement' ? headerImage : null,
+        header_image_fit: template === 'statement' ? headerImageFit : 'cover',
+        header_image_position_x: template === 'statement' ? headerImagePosX : 50,
+        header_image_position_y: template === 'statement' ? headerImagePosY : 50,
+        header_image_scale: template === 'statement' ? headerImageScale : 100,
         video_url: videoUrl.trim() || null,
         tags,
         publish_at: publishAt ? new Date(publishAt).toISOString() : null,
@@ -266,8 +296,30 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
         <div>
           <label className="block text-sm font-medium mb-2">תמונת כותרת</label>
           {headerImage ? (
-            <div className="relative rounded-xl overflow-hidden aspect-3/1">
-              <Image src={headerImage} alt="header" fill className="object-cover" />
+            <div
+              ref={headerPreviewRef}
+              className="relative rounded-xl overflow-hidden bg-muted"
+              style={{ paddingBottom: `${headerImageScale}%` }}
+              onPointerDown={(e) => {
+                if (headerImageFit !== 'cover') return;
+                e.currentTarget.setPointerCapture(e.pointerId);
+                updateHeaderPosition(e.clientX, e.clientY);
+              }}
+              onPointerMove={(e) => {
+                if (headerImageFit !== 'cover' || (e.buttons & 1) !== 1) return;
+                updateHeaderPosition(e.clientX, e.clientY);
+              }}
+            >
+              <Image
+                src={headerImage}
+                alt="header"
+                fill
+                className="transition-all"
+                style={{
+                  objectFit: headerImageFit,
+                  objectPosition: `${headerImagePosX}% ${headerImagePosY}%`,
+                }}
+              />
               <button
                 type="button"
                 onClick={() => setHeaderImage(null)}
@@ -275,6 +327,11 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
               >
                 <X className="h-4 w-4" />
               </button>
+              {headerImageFit === 'cover' && (
+                <div className="absolute bottom-2 right-2 text-[11px] px-2 py-1 rounded-md bg-black/60 text-white">
+                  גרור לקביעת האזור הנראה
+                </div>
+              )}
             </div>
           ) : (
             <div className="flex gap-2">
@@ -298,6 +355,65 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
                 <span className="text-sm">הצע תמונה</span>
                 <span className="text-xs">מבוסס כותרת / תגיות</span>
               </button>
+            </div>
+          )}
+          {headerImage && (
+            <div className="mt-3 p-3 border rounded-lg bg-muted/30 space-y-3">
+              <div>
+                <label className="block text-xs font-medium mb-1">התאמת תמונה</label>
+                <div className="inline-flex rounded-lg border overflow-hidden">
+                  {(['cover', 'contain'] as const).map((fitMode) => (
+                    <button
+                      key={fitMode}
+                      type="button"
+                      onClick={() => setHeaderImageFit(fitMode)}
+                      className={cn(
+                        'px-3 py-1.5 text-xs transition-colors',
+                        headerImageFit === fitMode ? 'bg-primary text-primary-foreground' : 'bg-background hover:bg-muted',
+                      )}
+                    >
+                      {fitMode === 'cover' ? 'מלא (Cover)' : 'התאם (Contain)'}
+                    </button>
+                  ))}
+                </div>
+              </div>
+              {headerImageFit === 'cover' && (
+                <div className="grid sm:grid-cols-2 gap-3">
+                  <div>
+                    <label className="block text-xs mb-1">אופקי: {headerImagePosX}%</label>
+                    <input
+                      type="range"
+                      min={0}
+                      max={100}
+                      value={headerImagePosX}
+                      onChange={(e) => setHeaderImagePosX(Number(e.target.value))}
+                      className="w-full"
+                    />
+                  </div>
+                  <div>
+                    <label className="block text-xs mb-1">אנכי: {headerImagePosY}%</label>
+                    <input
+                      type="range"
+                      min={0}
+                      max={100}
+                      value={headerImagePosY}
+                      onChange={(e) => setHeaderImagePosY(Number(e.target.value))}
+                      className="w-full"
+                    />
+                  </div>
+                  <div>
+                    <label className="block text-xs mb-1">גובה תמונה: {headerImageScale}%</label>
+                    <input
+                      type="range"
+                      min={20}
+                      max={100}
+                      value={headerImageScale}
+                      onChange={(e) => setHeaderImageScale(Number(e.target.value))}
+                      className="w-full"
+                    />
+                  </div>
+                </div>
+              )}
             </div>
           )}
           <input

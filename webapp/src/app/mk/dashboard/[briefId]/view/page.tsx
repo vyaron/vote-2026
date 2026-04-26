@@ -150,8 +150,21 @@ export default async function BriefPreviewPage({ params }: Props) {
 
       <article>
         {brief.header_image && (
-          <div className={`relative rounded-2xl overflow-hidden mb-6 ${brief.template === 'media-rich' ? 'aspect-2/1' : 'aspect-3/1'}`}>
-            <Image src={brief.header_image} alt="" fill className="object-cover" priority />
+          <div
+            className={`relative rounded-2xl overflow-hidden mb-6 ${brief.template === 'media-rich' ? 'aspect-2/1' : ''}`}
+            style={brief.template === 'statement' ? { paddingBottom: `${brief.header_image_scale ?? 33}%` } : undefined}
+          >
+            <Image
+              src={brief.header_image}
+              alt=""
+              fill
+              priority
+              className={brief.header_image_fit === 'contain' ? 'bg-muted' : undefined}
+              style={{
+                objectFit: brief.header_image_fit ?? 'cover',
+                objectPosition: `${brief.header_image_position_x ?? 50}% ${brief.header_image_position_y ?? 50}%`,
+              }}
+            />
           </div>
         )}
 

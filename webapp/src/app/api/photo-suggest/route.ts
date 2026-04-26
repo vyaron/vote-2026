@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 
 // Map common Hebrew tags to English search terms for Unsplash
 const HEBREW_TO_EN: Record<string, string> = {
+  פוליטיקה: 'politics government',
   כלכלה: 'economy finance',
   ביטחון: 'security defense military',
   חינוך: 'education school',
@@ -17,6 +18,15 @@ const HEBREW_TO_EN: Record<string, string> = {
   ספורט: 'sport athletic',
   תרבות: 'culture art',
   דת: 'religion faith',
+  'שלטון מקומי': 'local government municipality',
+  משפט: 'justice court law',
+  'זכויות אדם': 'human rights',
+  'עלייה וקליטה': 'immigration integration',
+  תקציב: 'budget finance government spending',
+  שחיתות: 'corruption protest',
+  הייטק: 'high tech startup innovation',
+  חקלאות: 'agriculture farming',
+  אנרגיה: 'energy renewable solar',
 };
 
 export interface PhotoSuggestion {

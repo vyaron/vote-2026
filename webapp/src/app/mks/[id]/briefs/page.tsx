@@ -20,7 +20,7 @@ export default async function BriefsPage({ params }: Props) {
   const supabase = await createClient();
   const { data: briefs } = await supabase
     .from('briefs')
-    .select('id, title, subtitle, template, tags, publish_at, created_at, header_image')
+    .select('id, title, subtitle, template, tags, publish_at, created_at, header_image, header_image_fit, header_image_position_x, header_image_position_y, header_image_scale')
     .eq('mk_id', mk.id)
     .eq('status', 'published')
     .is('deleted_at', null)
@@ -56,7 +56,11 @@ export default async function BriefsPage({ params }: Props) {
                     <img
                       src={brief.header_image}
                       alt=""
-                      className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                      className="w-full h-full transition-transform duration-500 group-hover:scale-105"
+                      style={{
+                        objectFit: brief.header_image_fit ?? 'cover',
+                        objectPosition: `${brief.header_image_position_x ?? 50}% ${brief.header_image_position_y ?? 50}%`,
+                      }}
                     />
                   </div>
                 )}

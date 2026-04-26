@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const supabase = await createClient();
   const { data: brief } = await supabase
     .from('briefs')
-    .select('id, mk_id, title, subtitle, body, header_image, status, publish_at, created_at')
+    .select('id, mk_id, title, subtitle, body, header_image, header_image_fit, header_image_position_x, header_image_position_y, header_image_scale, status, publish_at, created_at')
     .eq('id', briefId)
     .eq('status', 'published')
     .is('deleted_at', null)
@@ -119,8 +119,21 @@ export default async function BriefPage({ params }: Props) {
 
       {/* Header image */}
       {brief.header_image && (
-        <div className={`relative rounded-2xl overflow-hidden mb-6 ${brief.template === 'media-rich' ? 'aspect-2/1' : 'aspect-3/1'}`}>
-          <Image src={brief.header_image} alt="" fill className="object-cover" priority />
+        <div
+          className={`relative rounded-2xl overflow-hidden mb-6 ${brief.template === 'media-rich' ? 'aspect-2/1' : ''}`}
+          style={brief.template === 'statement' ? { paddingBottom: `${brief.header_image_scale ?? 33}%` } : undefined}
+        >
+          <Image
+            src={brief.header_image}
+            alt=""
+            fill
+            priority
+            className={brief.header_image_fit === 'contain' ? 'bg-muted' : undefined}
+            style={{
+              objectFit: brief.header_image_fit ?? 'cover',
+              objectPosition: `${brief.header_image_position_x ?? 50}% ${brief.header_image_position_y ?? 50}%`,
+            }}
+          />
         </div>
       )}
 

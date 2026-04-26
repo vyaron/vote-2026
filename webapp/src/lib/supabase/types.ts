@@ -21,6 +21,10 @@ type BriefRow = {
   subtitle: string | null;
   body: string | null;
   header_image: string | null;
+  header_image_fit: 'cover' | 'contain';
+  header_image_position_x: number;
+  header_image_position_y: number;
+  header_image_scale: number;
   video_url: string | null;
   tags: string[];
   publish_at: string | null;
@@ -58,6 +62,10 @@ export interface Database {
           subtitle?: string | null;
           body?: string | null;
           header_image?: string | null;
+          header_image_fit?: 'cover' | 'contain';
+          header_image_position_x?: number;
+          header_image_position_y?: number;
+          header_image_scale?: number;
           video_url?: string | null;
           tags?: string[];
           publish_at?: string | null;
@@ -69,6 +77,10 @@ export interface Database {
           subtitle?: string | null;
           body?: string | null;
           header_image?: string | null;
+          header_image_fit?: 'cover' | 'contain';
+          header_image_position_x?: number;
+          header_image_position_y?: number;
+          header_image_scale?: number;
           video_url?: string | null;
           tags?: string[];
           publish_at?: string | null;
