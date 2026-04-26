@@ -380,7 +380,7 @@ export default function ComparePage() {
                 animate={{ opacity: 1, y: 0 }}
                 className="bg-card rounded-2xl border p-6"
               >
-                <h2 className="text-xl font-bold mb-6 text-center">השוואה מפורטת</h2>
+                <h2 className="text-xl font-bold mb-6 text-center">השוואה  מפורטת</h2>
                 
                 <ComparisonRow
                   icon={Calendar}
