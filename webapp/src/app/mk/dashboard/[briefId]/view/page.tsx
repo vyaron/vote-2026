@@ -25,6 +25,17 @@ function buildBriefDescription(subtitle: string | null, body: string | null): st
   return 'מסר מעודכן מחבר הכנסת.';
 }
 
+function extractFirstParagraph(body: string | null): string {
+  if (!body?.trim()) return '';
+
+  const paragraphMatch = body.match(/<p\b[^>]*>([\s\S]*?)<\/p>/i);
+  if (paragraphMatch?.[1]) {
+    return stripHtml(paragraphMatch[1]).slice(0, 280);
+  }
+
+  return stripHtml(body).slice(0, 280);
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { briefId } = await params;
   const service = createServiceClient();
@@ -129,7 +140,10 @@ export default async function BriefPreviewPage({ params }: Props) {
   const mkSlug = mk ? getMkSlug(mk.id, mk.name) : String(brief.mk_id);
   const publicBriefPath = `/mks/${mkSlug}/briefs/${brief.id}`;
   const publicBriefUrl = `${SITE_URL}${publicBriefPath}`;
-  const facebookShareUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(publicBriefUrl)}`;
+  const shareQuote = extractFirstParagraph(brief.body) || brief.subtitle?.trim() || '';
+  const shareParams = new URLSearchParams({ u: publicBriefUrl });
+  if (shareQuote) shareParams.set('quote', shareQuote);
+  const facebookShareUrl = `https://www.facebook.com/sharer/sharer.php?${shareParams.toString()}`;
 
   return (
     <div className="container py-8 max-w-3xl">
