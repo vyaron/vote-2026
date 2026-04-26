@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { createClient } from '@/lib/supabase/client';
 import { Loader2 } from 'lucide-react';
@@ -11,6 +11,18 @@ export default function UpdatePasswordPage() {
   const [confirm, setConfirm] = useState('');
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
+  const [sessionReady, setSessionReady] = useState(false);
+
+  useEffect(() => {
+    const supabase = createClient();
+    supabase.auth.getSession().then(({ data: { session } }) => {
+      if (session) {
+        setSessionReady(true);
+      } else {
+        setError('הקישור אינו תקין או שפג תוקפו. בקש קישור חדש.');
+      }
+    });
+  }, []);
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
@@ -47,7 +59,13 @@ export default function UpdatePasswordPage() {
           <p className="text-muted-foreground text-sm">בחר סיסמה חזקה לחשבונך</p>
         </div>
 
-        <form onSubmit={handleSubmit} className="space-y-4">
+        {!sessionReady && !error && (
+          <div className="flex justify-center py-8">
+            <Loader2 className="h-6 w-6 animate-spin text-muted-foreground" />
+          </div>
+        )}
+
+        {sessionReady && <form onSubmit={handleSubmit} className="space-y-4">
           <div>
             <label className="block text-sm font-medium mb-1" htmlFor="password">
               סיסמה חדשה
@@ -81,12 +99,6 @@ export default function UpdatePasswordPage() {
             />
           </div>
 
-          {error && (
-            <p className="text-sm text-destructive bg-destructive/10 px-3 py-2 rounded-lg">
-              {error}
-            </p>
-          )}
-
           <button
             type="submit"
             disabled={loading}
@@ -95,7 +107,13 @@ export default function UpdatePasswordPage() {
             {loading && <Loader2 className="h-4 w-4 animate-spin" />}
             שמור סיסמה
           </button>
-        </form>
+        </form>}
+
+        {error && (
+          <p className="text-sm text-destructive bg-destructive/10 px-3 py-2 rounded-lg text-center">
+            {error}
+          </p>
+        )}
       </div>
     </div>
   );

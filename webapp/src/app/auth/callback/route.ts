@@ -4,7 +4,6 @@ import { createServerClient } from '@supabase/ssr';
 export async function GET(request: NextRequest) {
   const { searchParams, origin } = new URL(request.url);
   const code = searchParams.get('code');
-  const type = searchParams.get('type');
   const next = searchParams.get('next') ?? '/mk/dashboard';
 
   if (!code) return NextResponse.redirect(`${origin}/auth/login?error=missing_code`);
@@ -27,11 +26,6 @@ export async function GET(request: NextRequest) {
 
   const { error } = await supabase.auth.exchangeCodeForSession(code);
   if (error) return NextResponse.redirect(`${origin}/auth/login?error=exchange_failed`);
-
-  // Invite flow: force password reset on first login
-  if (type === 'invite') {
-    return NextResponse.redirect(`${origin}/auth/update-password`);
-  }
 
   return response;
 }

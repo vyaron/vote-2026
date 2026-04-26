@@ -72,7 +72,7 @@ async function main() {
   for (const mk of toInvite) {
     process.stdout.write(`Inviting ${mk.name} (${mk.email}) ... `);
     const { error } = await supabase.auth.admin.inviteUserByEmail(mk.email!, {
-      redirectTo: `${SITE_URL}/auth/callback?type=invite`,
+      redirectTo: `${SITE_URL}/auth/update-password`,
       data: { mk_id: mk.id },
     });
 

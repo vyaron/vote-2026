@@ -26,7 +26,7 @@ export async function POST(request: NextRequest) {
     type: 'invite',
     email,
     options: {
-      redirectTo: `${SITE_URL}/auth/callback?type=invite`,
+      redirectTo: `${SITE_URL}/auth/update-password`,
       data: { mk_id: mkId },
     },
   });
