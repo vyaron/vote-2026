@@ -5,6 +5,7 @@ import { getMkServer } from '@/lib/mk-server';
 import { getMkSlug } from '@/lib/slugs';
 import { createClient } from '@/lib/supabase/server';
 import { toEmbedUrl } from '@/lib/video';
+import { SITE_NAME, SITE_URL } from '@/lib/constants';
 import { Calendar, Tag, ArrowRight, Share2 } from 'lucide-react';
 import { getMkPhotoPath } from '@/lib/data';
 import type { Metadata } from 'next';
@@ -16,15 +17,52 @@ interface Props {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { briefId } = await params;
+  const { id: idOrSlug, briefId } = await params;
   const supabase = await createClient();
   const { data: brief } = await supabase
     .from('briefs')
-    .select('title, subtitle')
+    .select('id, mk_id, title, subtitle, body, header_image, status, publish_at, created_at')
     .eq('id', briefId)
+    .eq('status', 'published')
+    .is('deleted_at', null)
     .single();
   if (!brief) return {};
-  return { title: brief.title, description: brief.subtitle ?? undefined };
+
+  const mk = await getMkServer(String(brief.mk_id));
+  const mkSlug = mk ? getMkSlug(mk.id, mk.name) : idOrSlug;
+  const briefPath = `/mks/${mkSlug}/briefs/${brief.id}`;
+  const briefUrl = `${SITE_URL}${briefPath}`;
+  const description = (brief.subtitle?.trim() || brief.body?.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim() || 'מסר מעודכן מחבר הכנסת.').slice(0, 180);
+  const ogImage = brief.header_image || `${SITE_URL}/api/og`;
+
+  return {
+    title: `${brief.title} | ${SITE_NAME}`,
+    description,
+    alternates: {
+      canonical: briefPath,
+    },
+    openGraph: {
+      title: brief.title,
+      description,
+      url: briefUrl,
+      siteName: SITE_NAME,
+      type: 'article',
+      locale: 'he_IL',
+      publishedTime: brief.publish_at ?? brief.created_at,
+      images: [
+        {
+          url: ogImage,
+          alt: brief.title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: brief.title,
+      description,
+      images: [ogImage],
+    },
+  };
 }
 
 function VideoEmbed({ url }: { url: string }) {
@@ -81,7 +119,7 @@ export default async function BriefPage({ params }: Props) {
 
       {/* Header image */}
       {brief.header_image && (
-        <div className={`relative rounded-2xl overflow-hidden mb-6 ${brief.template === 'media-rich' ? 'aspect-[2/1]' : 'aspect-[3/1]'}`}>
+        <div className={`relative rounded-2xl overflow-hidden mb-6 ${brief.template === 'media-rich' ? 'aspect-2/1' : 'aspect-3/1'}`}>
           <Image src={brief.header_image} alt="" fill className="object-cover" priority />
         </div>
       )}

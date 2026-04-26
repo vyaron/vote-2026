@@ -2,13 +2,82 @@ import { notFound, redirect } from 'next/navigation';
 import { createClient, createServiceClient } from '@/lib/supabase/server';
 import { getMkServer } from '@/lib/mk-server';
 import { getMkPhotoPath } from '@/lib/data';
+import { getMkSlug } from '@/lib/slugs';
+import { SITE_NAME, SITE_URL } from '@/lib/constants';
 import { toEmbedUrl } from '@/lib/video';
 import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowRight, Calendar, Tag } from 'lucide-react';
+import type { Metadata } from 'next';
+import { ShareActions } from './ShareActions';
 
 interface Props {
   params: Promise<{ briefId: string }>;
+}
+
+function stripHtml(input: string): string {
+  return input.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+function buildBriefDescription(subtitle: string | null, body: string | null): string {
+  if (subtitle?.trim()) return subtitle.trim();
+  if (body?.trim()) return stripHtml(body).slice(0, 180);
+  return 'מסר מעודכן מחבר הכנסת.';
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { briefId } = await params;
+  const service = createServiceClient();
+
+  const { data: brief } = await service
+    .from('briefs')
+    .select('id, mk_id, title, subtitle, body, template, status, header_image')
+    .eq('id', briefId)
+    .neq('status', 'deleted')
+    .single();
+
+  if (!brief) {
+    return {
+      title: 'תצוגה מקדימה',
+      robots: { index: false, follow: false },
+    };
+  }
+
+  const mk = await getMkServer(String(brief.mk_id));
+  const mkSlug = mk ? getMkSlug(mk.id, mk.name) : String(brief.mk_id);
+  const publicPath = `/mks/${mkSlug}/briefs/${brief.id}`;
+  const publicUrl = `${SITE_URL}${publicPath}`;
+  const description = buildBriefDescription(brief.subtitle, brief.body);
+  const imageUrl = brief.header_image ? brief.header_image : `${SITE_URL}${getMkPhotoPath(brief.mk_id)}`;
+
+  return {
+    title: `${brief.title} | ${SITE_NAME}`,
+    description,
+    alternates: {
+      canonical: publicPath,
+    },
+    openGraph: {
+      title: brief.title,
+      description,
+      url: publicUrl,
+      siteName: SITE_NAME,
+      locale: 'he_IL',
+      type: 'article',
+      images: [
+        {
+          url: imageUrl,
+          alt: brief.title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: brief.title,
+      description,
+      images: [imageUrl],
+    },
+    robots: brief.status === 'published' ? undefined : { index: false, follow: false },
+  };
 }
 
 function VideoEmbed({ url }: { url: string }) {
@@ -57,6 +126,10 @@ export default async function BriefPreviewPage({ params }: Props) {
     supabase.from('brief_media').select('*').eq('brief_id', briefId).order('sort_order'),
   ]);
   const publishDate = new Date(brief.publish_at ?? brief.created_at);
+  const mkSlug = mk ? getMkSlug(mk.id, mk.name) : String(brief.mk_id);
+  const publicBriefPath = `/mks/${mkSlug}/briefs/${brief.id}`;
+  const publicBriefUrl = `${SITE_URL}${publicBriefPath}`;
+  const facebookShareUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(publicBriefUrl)}`;
 
   return (
     <div className="container py-8 max-w-3xl">
@@ -65,6 +138,9 @@ export default async function BriefPreviewPage({ params }: Props) {
           <ArrowRight className="h-4 w-4" />
         </Link>
         <h1 className="text-lg font-semibold flex-1">תצוגה מקדימה</h1>
+        {brief.status === 'published' && (
+          <ShareActions facebookShareUrl={facebookShareUrl} publicBriefUrl={publicBriefUrl} />
+        )}
         <span className={`text-xs px-2 py-1 rounded-full font-medium ${
           brief.status === 'published' ? 'bg-green-500/10 text-green-600' : 'bg-muted text-muted-foreground'
         }`}>
@@ -74,7 +150,7 @@ export default async function BriefPreviewPage({ params }: Props) {
 
       <article>
         {brief.header_image && (
-          <div className={`relative rounded-2xl overflow-hidden mb-6 ${brief.template === 'media-rich' ? 'aspect-[2/1]' : 'aspect-[3/1]'}`}>
+          <div className={`relative rounded-2xl overflow-hidden mb-6 ${brief.template === 'media-rich' ? 'aspect-2/1' : 'aspect-3/1'}`}>
             <Image src={brief.header_image} alt="" fill className="object-cover" priority />
           </div>
         )}
