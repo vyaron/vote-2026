@@ -32,6 +32,11 @@ export default async function EditBriefPage({ params }: Props) {
 
   if (!brief || brief.status === 'deleted') notFound();
 
+  const { data: briefMedia } = await supabase
+    .from('brief_media')
+    .select('*')
+    .eq('brief_id', briefId)
+    .order('sort_order');
 
   return (
     <div className="container py-8 max-w-2xl">
@@ -50,7 +55,7 @@ export default async function EditBriefPage({ params }: Props) {
             צפה בבריף
           </Link>
       </div>
-      <BriefForm mkId={mkUser.mk_id} userId={user.id} brief={brief} />
+      <BriefForm mkId={mkUser.mk_id} userId={user.id} brief={brief} initialMedia={briefMedia ?? []} />
     </div>
   );
 }
