@@ -7,9 +7,10 @@ import { SITE_NAME, SITE_URL } from '@/lib/constants';
 import { toEmbedUrl } from '@/lib/video';
 import Image from 'next/image';
 import Link from 'next/link';
-import { ArrowRight, Calendar, Tag } from 'lucide-react';
+import { ArrowRight, Calendar, Tag, Eye } from 'lucide-react';
 import type { Metadata } from 'next';
 import { ShareActions } from './ShareActions';
+import { SourceQuoteBlock } from '@/components/brief/SourceQuoteBlock';
 
 interface Props {
   params: Promise<{ briefId: string }>;
@@ -132,6 +133,13 @@ export default async function BriefPreviewPage({ params }: Props) {
 
   if (!brief) notFound();
 
+  async function publishBrief() {
+    'use server';
+    const sb = await createClient();
+    await sb.from('briefs').update({ status: 'published' }).eq('id', briefId);
+    redirect(`/mk/dashboard/${briefId}/view`);
+  }
+
   const [mk, { data: media }] = await Promise.all([
     getMkServer(String(brief.mk_id)),
     supabase.from('brief_media').select('*').eq('brief_id', briefId).order('sort_order'),
@@ -152,6 +160,17 @@ export default async function BriefPreviewPage({ params }: Props) {
           <ArrowRight className="h-4 w-4" />
         </Link>
         <h1 className="text-lg font-semibold flex-1">תצוגה מקדימה</h1>
+        {brief.status === 'draft' && (
+          <form action={publishBrief}>
+            <button
+              type="submit"
+              className="inline-flex items-center gap-2 px-3 py-1.5 text-sm rounded-lg border border-green-500 bg-green-500/10 text-green-600 hover:bg-green-500/20 transition-colors font-medium"
+            >
+              <Eye className="h-4 w-4" />
+              פרסם עכשיו
+            </button>
+          </form>
+        )}
         {brief.status === 'published' && (
           <ShareActions facebookShareUrl={facebookShareUrl} publicBriefUrl={publicBriefUrl} />
         )}
@@ -166,7 +185,7 @@ export default async function BriefPreviewPage({ params }: Props) {
         {brief.header_image && (
           <div
             className={`relative rounded-2xl overflow-hidden mb-6 ${brief.template === 'media-rich' ? 'aspect-2/1' : ''}`}
-            style={brief.template === 'statement' ? { paddingBottom: `${brief.header_image_scale ?? 33}%` } : undefined}
+            style={(brief.template === 'statement' || brief.template === 'news_brief') ? { paddingBottom: `${brief.header_image_scale ?? 33}%` } : undefined}
           >
             <Image
               src={brief.header_image}
@@ -187,7 +206,7 @@ export default async function BriefPreviewPage({ params }: Props) {
             <Calendar className="h-3 w-3" />
             {publishDate.toLocaleDateString('he-IL', { day: 'numeric', month: 'long', year: 'numeric' })}
           </span>
-          <span>{brief.template === 'statement' ? 'הצהרה' : 'פוסט מדיה'}</span>
+          <span>{brief.template === 'statement' ? 'הצהרה' : brief.template === 'news_brief' ? 'מסר מחדשות' : 'פוסט מדיה'}</span>
         </div>
 
         <h2 className="text-3xl sm:text-4xl font-bold leading-tight mb-3">{brief.title}</h2>
@@ -207,6 +226,21 @@ export default async function BriefPreviewPage({ params }: Props) {
 
         {brief.template === 'statement' && (
           <>
+            {brief.source_meta && <SourceQuoteBlock meta={brief.source_meta} />}
+            {brief.body && (
+              <div
+                className="prose prose-lg max-w-none mb-6 [&_p]:text-muted-foreground [&_p]:leading-relaxed"
+                dir="rtl"
+                dangerouslySetInnerHTML={{ __html: brief.body }}
+              />
+            )}
+            {brief.video_url && <VideoEmbed url={brief.video_url} />}
+          </>
+        )}
+
+        {brief.template === 'news_brief' && (
+          <>
+            {brief.source_meta && <SourceQuoteBlock meta={brief.source_meta} />}
             {brief.body && (
               <div
                 className="prose prose-lg max-w-none mb-6 [&_p]:text-muted-foreground [&_p]:leading-relaxed"

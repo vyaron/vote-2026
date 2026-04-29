@@ -19,6 +19,11 @@ const nextConfig: NextConfig = {
         hostname: 'images.unsplash.com',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'images.maariv.co.il',
+        pathname: '/**',
+      },
     ],
     // Optimize image quality
     formats: ['image/avif', 'image/webp'],

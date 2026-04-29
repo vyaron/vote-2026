@@ -6,9 +6,10 @@ import Image from 'next/image';
 import { RichTextEditor } from './RichTextEditor';
 import { createClient } from '@/lib/supabase/client';
 import { Loader2, Upload, X, Video, Images, Sparkles, ExternalLink } from 'lucide-react';
-import type { BriefTemplate, Database } from '@/lib/supabase/types';
+import type { BriefTemplate, Database, SourceMeta } from '@/lib/supabase/types';
 import type { PhotoSuggestion } from '@/app/api/photo-suggest/route';
 import { cn } from '@/lib/utils';
+import { SourceQuoteBlock } from './SourceQuoteBlock';
 
 type Brief = Database['public']['Tables']['briefs']['Row'];
 type BriefMediaRow = Database['public']['Tables']['brief_media']['Row'];
@@ -27,25 +28,29 @@ interface Props {
   userId: string;
   brief?: Brief;
   initialMedia?: BriefMediaRow[];
+  feedContext?: SourceMeta;
+  feedImageUrl?: string;
 }
 
-export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
+export function BriefForm({ mkId, userId, brief, initialMedia, feedContext, feedImageUrl }: Props) {
   const router = useRouter();
   const [isPending, startTransition] = useTransition();
+  const submitActionRef = useRef<'draft' | 'published'>('draft');
   const fileInputRef = useRef<HTMLInputElement>(null);
   const galleryInputRef = useRef<HTMLInputElement>(null);
   const headerPreviewRef = useRef<HTMLDivElement>(null);
 
-  const [template, setTemplate] = useState<BriefTemplate>(brief?.template ?? 'statement');
-  const [title, setTitle] = useState(brief?.title ?? '');
+  const [template, setTemplate] = useState<BriefTemplate>(
+    feedContext ? 'news_brief' : (brief?.template ?? 'statement'),
+  );
+  const [title, setTitle] = useState(brief?.title ?? feedContext?.title ?? '');
   const [subtitle, setSubtitle] = useState(brief?.subtitle ?? '');
   const [body, setBody] = useState(brief?.body ?? '');
   const [videoUrl, setVideoUrl] = useState(brief?.video_url ?? '');
   const [tags, setTags] = useState<string[]>(brief?.tags ?? []);
   const [tagInput, setTagInput] = useState('');
-  const [headerImage, setHeaderImage] = useState<string | null>(brief?.header_image ?? null);
+  const [headerImage, setHeaderImage] = useState<string | null>(brief?.header_image ?? feedImageUrl ?? null);
   const [headerImageFit, setHeaderImageFit] = useState<HeaderImageFit>(brief?.header_image_fit ?? 'cover');
-  const [headerImagePosX, setHeaderImagePosX] = useState(brief?.header_image_position_x ?? 50);
   const [headerImagePosY, setHeaderImagePosY] = useState(brief?.header_image_position_y ?? 50);
   const [headerImageScale, setHeaderImageScale] = useState(brief?.header_image_scale ?? 33);
   const [uploadingImage, setUploadingImage] = useState(false);
@@ -72,7 +77,6 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
     if (error) { setError('שגיאה בהעלאת תמונה'); setUploadingImage(false); return; }
     const { data } = supabase.storage.from('briefs').getPublicUrl(path);
     setHeaderImage(data.publicUrl);
-    setHeaderImagePosX(50);
     setHeaderImagePosY(50);
     setHeaderImageScale(33);
     setUploadingImage(false);
@@ -82,12 +86,10 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
     return Math.max(0, Math.min(100, Math.round(value)));
   }
 
-  function updateHeaderPosition(clientX: number, clientY: number) {
+  function updateHeaderPosition(clientY: number) {
     if (!headerPreviewRef.current || headerImageFit !== 'cover') return;
     const rect = headerPreviewRef.current.getBoundingClientRect();
-    const x = ((clientX - rect.left) / rect.width) * 100;
     const y = ((clientY - rect.top) / rect.height) * 100;
-    setHeaderImagePosX(clampPercent(x));
     setHeaderImagePosY(clampPercent(y));
   }
 
@@ -128,7 +130,6 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
       setGalleryItems((prev) => [...prev, { tempId: crypto.randomUUID(), url: photo.fullUrl, alt: photo.alt }]);
     } else {
       setHeaderImage(photo.fullUrl);
-      setHeaderImagePosX(50);
       setHeaderImagePosY(50);
       setHeaderImageScale(33);
     }
@@ -157,18 +158,20 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
     e.preventDefault();
     setError('');
     if (!title.trim()) { setError('יש להזין כותרת'); return; }
+    const submitStatus = submitActionRef.current;
 
     startTransition(async () => {
       const supabase = createClient();
+      const isStatement = template === 'statement' || template === 'news_brief';
       const updatableFields = {
         title: title.trim(),
-        subtitle: template === 'statement' ? (subtitle.trim() || null) : null,
+        subtitle: isStatement ? (subtitle.trim() || null) : null,
         body: body || null,
-        header_image: template === 'statement' ? headerImage : null,
-        header_image_fit: template === 'statement' ? headerImageFit : 'cover',
-        header_image_position_x: template === 'statement' ? headerImagePosX : 50,
-        header_image_position_y: template === 'statement' ? headerImagePosY : 50,
-        header_image_scale: template === 'statement' ? headerImageScale : 100,
+        header_image: isStatement ? headerImage : null,
+        header_image_fit: isStatement ? headerImageFit : 'cover',
+        header_image_position_x: 50,
+        header_image_position_y: isStatement ? headerImagePosY : 50,
+        header_image_scale: isStatement ? headerImageScale : 100,
         video_url: videoUrl.trim() || null,
         tags,
         publish_at: publishAt ? new Date(publishAt).toISOString() : null,
@@ -177,15 +180,22 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
       let briefId = brief?.id;
 
       if (isEdit) {
-        const { error } = await supabase.from('briefs').update(updatableFields).eq('id', brief.id);
+        const { error } = await supabase
+          .from('briefs')
+          .update({
+            ...updatableFields,
+            ...(submitStatus === 'published' ? { status: 'published' } : {}),
+          })
+          .eq('id', brief.id);
         if (error) { console.error('briefs update error:', error); setError('שגיאה בשמירה'); return; }
       } else {
         const { data: newBrief, error } = await supabase.from('briefs').insert({
           mk_id: mkId,
           author_id: userId,
           template,
-          status: 'draft',
+          status: submitStatus,
           ...updatableFields,
+          ...(feedContext ? { source_meta: feedContext } : {}),
         }).select('id').single();
         if (error || !newBrief) { console.error('briefs insert error:', error); setError('שגיאה ביצירת מסר'); return; }
         briefId = newBrief.id;
@@ -209,13 +219,19 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
 
       router.push('/mk/dashboard');
       router.refresh();
+      submitActionRef.current = 'draft';
     });
   }
 
   return (
     <form onSubmit={handleSubmit} className="space-y-6">
-      {/* Template picker — only on create */}
-      {!isEdit && (
+      {/* Source quote block — news_brief only */}
+      {feedContext && (
+        <SourceQuoteBlock meta={feedContext} />
+      )}
+
+      {/* Template picker — only on create, not for feed-sourced briefs */}
+      {!isEdit && !feedContext && (
         <div>
           <label className="block text-sm font-medium mb-2">סוג מסר</label>
           <div className="grid grid-cols-2 gap-3">
@@ -291,8 +307,8 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
         </div>
       </div>
 
-      {/* Header image — statement only */}
-      {template === 'statement' && (
+      {/* Header image — statement/news_brief */}
+      {(template === 'statement' || template === 'news_brief') && (
         <div>
           <label className="block text-sm font-medium mb-2">תמונת כותרת</label>
           {headerImage ? (
@@ -303,11 +319,11 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
               onPointerDown={(e) => {
                 if (headerImageFit !== 'cover') return;
                 e.currentTarget.setPointerCapture(e.pointerId);
-                updateHeaderPosition(e.clientX, e.clientY);
+                updateHeaderPosition(e.clientY);
               }}
               onPointerMove={(e) => {
                 if (headerImageFit !== 'cover' || (e.buttons & 1) !== 1) return;
-                updateHeaderPosition(e.clientX, e.clientY);
+                updateHeaderPosition(e.clientY);
               }}
             >
               <Image
@@ -317,7 +333,7 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
                 className="transition-all"
                 style={{
                   objectFit: headerImageFit,
-                  objectPosition: `${headerImagePosX}% ${headerImagePosY}%`,
+                  objectPosition: `50% ${headerImagePosY}%`,
                 }}
               />
               <button
@@ -379,17 +395,6 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
               </div>
               {headerImageFit === 'cover' && (
                 <div className="grid sm:grid-cols-2 gap-3">
-                  <div>
-                    <label className="block text-xs mb-1">אופקי: {headerImagePosX}%</label>
-                    <input
-                      type="range"
-                      min={0}
-                      max={100}
-                      value={headerImagePosX}
-                      onChange={(e) => setHeaderImagePosX(Number(e.target.value))}
-                      className="w-full"
-                    />
-                  </div>
                   <div>
                     <label className="block text-xs mb-1">אנכי: {headerImagePosY}%</label>
                     <input
@@ -499,8 +504,8 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
         </div>
       )}
 
-      {/* Subtitle — statement only */}
-      {template === 'statement' && (
+      {/* Subtitle — statement/news_brief */}
+      {(template === 'statement' || template === 'news_brief') && (
         <div>
           <label className="block text-sm font-medium mb-2" htmlFor="subtitle">תת-כותרת</label>
           <input
@@ -518,7 +523,7 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
         <label className="block text-sm font-medium mb-2">
           {template === 'media-rich' ? 'כיתוב קצר' : 'תוכן'}
         </label>
-        {template === 'statement' ? (
+        {(template === 'statement' || template === 'news_brief') ? (
           <RichTextEditor value={body} onChange={setBody} />
         ) : (
           <textarea
@@ -570,11 +575,21 @@ export function BriefForm({ mkId, userId, brief, initialMedia }: Props) {
       <div className="flex items-center gap-3 pt-2">
         <button
           type="submit"
+          onClick={() => { submitActionRef.current = 'draft'; }}
           disabled={isPending}
           className="px-6 py-2.5 bg-primary text-primary-foreground rounded-lg font-medium text-sm hover:bg-primary/90 transition-colors disabled:opacity-50 flex items-center gap-2"
         >
           {isPending && <Loader2 className="h-4 w-4 animate-spin" />}
           {isEdit ? 'שמור שינויים' : 'שמור כטיוטה'}
+        </button>
+        <button
+          type="submit"
+          onClick={() => { submitActionRef.current = 'published'; }}
+          disabled={isPending}
+          className="px-4 py-2.5 rounded-lg text-sm border border-green-500 bg-green-500/10 text-green-700 hover:bg-green-500/20 transition-colors disabled:opacity-50 flex items-center gap-2"
+        >
+          {isPending && <Loader2 className="h-4 w-4 animate-spin" />}
+          {isEdit ? 'שמור ופרסם' : 'פרסם עכשיו'}
         </button>
         <button
           type="button"

@@ -1,4 +1,14 @@
-export type BriefTemplate = 'statement' | 'media-rich';
+export type BriefTemplate = 'statement' | 'media-rich' | 'news_brief';
+
+export type SourceMeta = {
+  type: 'feed_item';
+  name: string;
+  url: string;
+  item_id: string;
+  title: string;
+  excerpt: string;
+  published_at: string;
+};
 export type BriefStatus = 'draft' | 'published' | 'deleted';
 export type UserRole = 'mk' | 'admin';
 
@@ -31,6 +41,7 @@ type BriefRow = {
   deleted_at: string | null;
   created_at: string;
   updated_at: string;
+  source_meta: SourceMeta | null;
 };
 
 type BriefMediaRow = {
@@ -70,6 +81,7 @@ export interface Database {
           tags?: string[];
           publish_at?: string | null;
           deleted_at?: string | null;
+          source_meta?: SourceMeta | null;
         };
         Update: {
           status?: BriefStatus;
@@ -85,6 +97,7 @@ export interface Database {
           tags?: string[];
           publish_at?: string | null;
           deleted_at?: string | null;
+          source_meta?: SourceMeta | null;
         };
         Relationships: [];
       };

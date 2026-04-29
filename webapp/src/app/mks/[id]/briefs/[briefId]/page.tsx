@@ -9,6 +9,7 @@ import { SITE_NAME, SITE_URL } from '@/lib/constants';
 import { Calendar, Tag, ArrowRight, Share2 } from 'lucide-react';
 import { getMkPhotoPath } from '@/lib/data';
 import type { Metadata } from 'next';
+import { SourceQuoteBlock } from '@/components/brief/SourceQuoteBlock';
 
 export const revalidate = 60;
 
@@ -121,7 +122,7 @@ export default async function BriefPage({ params }: Props) {
       {brief.header_image && (
         <div
           className={`relative rounded-2xl overflow-hidden mb-6 ${brief.template === 'media-rich' ? 'aspect-2/1' : ''}`}
-          style={brief.template === 'statement' ? { paddingBottom: `${brief.header_image_scale ?? 33}%` } : undefined}
+          style={(brief.template === 'statement' || brief.template === 'news_brief') ? { paddingBottom: `${brief.header_image_scale ?? 33}%` } : undefined}
         >
           <Image
             src={brief.header_image}
@@ -143,7 +144,7 @@ export default async function BriefPage({ params }: Props) {
           <Calendar className="h-3 w-3" />
           {publishDate.toLocaleDateString('he-IL', { day: 'numeric', month: 'long', year: 'numeric' })}
         </span>
-        <span>{brief.template === 'statement' ? 'הצהרה' : 'פוסט מדיה'}</span>
+        <span>{brief.template === 'statement' ? 'הצהרה' : brief.template === 'news_brief' ? 'מסר מחדשות' : 'פוסט מדיה'}</span>
       </div>
 
       {/* Title */}
@@ -168,6 +169,21 @@ export default async function BriefPage({ params }: Props) {
       {/* Template A: statement — body first, video after */}
       {brief.template === 'statement' && (
         <>
+          {brief.source_meta && <SourceQuoteBlock meta={brief.source_meta} />}
+          {brief.body && (
+            <div
+              className="prose prose-lg max-w-none mb-6 [&_p]:text-muted-foreground [&_p]:leading-relaxed"
+              dir="rtl"
+              dangerouslySetInnerHTML={{ __html: brief.body }}
+            />
+          )}
+          {brief.video_url && <VideoEmbed url={brief.video_url} />}
+        </>
+      )}
+
+      {brief.template === 'news_brief' && (
+        <>
+          {brief.source_meta && <SourceQuoteBlock meta={brief.source_meta} />}
           {brief.body && (
             <div
               className="prose prose-lg max-w-none mb-6 [&_p]:text-muted-foreground [&_p]:leading-relaxed"

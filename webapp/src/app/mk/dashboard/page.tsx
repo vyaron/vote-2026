@@ -99,12 +99,17 @@ export default async function DashboardPage() {
                       מתוזמן ל-{new Date(brief.publish_at).toLocaleDateString('he-IL')}
                     </span>
                   )}
+                  {brief.template === 'news_brief' && (
+                    <span className="text-xs px-2 py-0.5 rounded-full bg-primary/10 text-primary font-medium">
+                      מתוך חדשות
+                    </span>
+                  )}
                 </div>
                 <h3 className="font-semibold truncate">{brief.title}</h3>
                 <p className="text-xs text-muted-foreground mt-0.5">
                   {new Date(brief.created_at).toLocaleDateString('he-IL', { day: 'numeric', month: 'long', year: 'numeric' })}
                   {' · '}
-                  {brief.template === 'statement' ? 'הצהרה' : 'פוסט מדיה'}
+                  {brief.template === 'statement' ? 'הצהרה' : brief.template === 'news_brief' ? 'מסר מחדשות' : 'פוסט מדיה'}
                 </p>
               </div>
 
