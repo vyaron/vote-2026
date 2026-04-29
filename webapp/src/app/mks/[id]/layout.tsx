@@ -25,7 +25,11 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
   const { id: idOrSlug } = await params;
   const mk = await getMkServer(idOrSlug);
-  if (!mk) return { title: 'חבר כנסת לא נמצא' };
+  if (!mk) {
+    // Admin-owned brief share links may use /mks/0 as a placeholder path.
+    if (idOrSlug === '0') return {};
+    return { title: 'חבר כנסת לא נמצא' };
+  }
   return generateMkMetadata({ id: mk.id, name: mk.name, faction: mk.faction, position: mk.position, bio: mk.bio });
 }
 
@@ -33,7 +37,11 @@ export default async function Layout({ params, children }: Props) {
   const { id: idOrSlug } = await params;
   const mk = await getMkServer(idOrSlug);
 
-  if (!mk) notFound();
+  if (!mk) {
+    // Keep legacy/admin shared brief URLs like /mks/0/briefs/:id functional.
+    if (idOrSlug === '0') return <>{children}</>;
+    notFound();
+  }
 
   if (isNumericId(idOrSlug)) {
     redirect(`/mks/${getMkSlug(mk.id, mk.name)}`);
