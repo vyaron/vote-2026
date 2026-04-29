@@ -79,6 +79,7 @@ export function BriefForm({ mkId, userId, brief, initialMedia, feedContext, feed
     setHeaderImage(data.publicUrl);
     setHeaderImagePosY(50);
     setHeaderImageScale(33);
+    setShowPhotoPanel(false);
     setUploadingImage(false);
   }
 
@@ -375,6 +376,27 @@ export function BriefForm({ mkId, userId, brief, initialMedia, feedContext, feed
           )}
           {headerImage && (
             <div className="mt-3 p-3 border rounded-lg bg-muted/30 space-y-3">
+              <div className="flex flex-wrap gap-2">
+                <button
+                  type="button"
+                  onClick={() => fileInputRef.current?.click()}
+                  disabled={uploadingImage}
+                  className="inline-flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border hover:bg-muted transition-colors disabled:opacity-50"
+                >
+                  {uploadingImage ? <Loader2 className="h-3.5 w-3.5 animate-spin" /> : <Upload className="h-3.5 w-3.5" />}
+                  החלף בהעלאה
+                </button>
+                <button
+                  type="button"
+                  onClick={handleSuggestPhotos}
+                  disabled={!title && tags.length === 0}
+                  className="inline-flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border hover:bg-muted transition-colors disabled:opacity-50"
+                >
+                  <Sparkles className="h-3.5 w-3.5" />
+                  החלף מהצעות Unsplash
+                </button>
+              </div>
+
               <div>
                 <label className="block text-xs font-medium mb-1">התאמת תמונה</label>
                 <div className="inline-flex rounded-lg border overflow-hidden">
@@ -429,7 +451,7 @@ export function BriefForm({ mkId, userId, brief, initialMedia, feedContext, feed
             onChange={(e) => e.target.files?.[0] && uploadHeaderImage(e.target.files[0])}
           />
           {/* Photo suggestion panel */}
-          {showPhotoPanel && !headerImage && (
+          {showPhotoPanel && (
             <PhotoPickerPanel
               photos={suggestPhotos}
               loading={fetchingPhotos}
