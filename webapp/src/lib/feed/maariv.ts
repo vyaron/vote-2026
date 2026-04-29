@@ -89,11 +89,25 @@ function parseItems(xml: string): FeedItem[] {
 }
 
 export async function getMaarivFeed(): Promise<FeedItem[]> {
-  const res = await fetch(RSS_URL, {
-    next: { revalidate: 900 },
-    headers: { 'User-Agent': 'vote-2026-bot/1.0' },
-  });
-  if (!res.ok) return [];
-  const xml = await res.text();
-  return parseItems(xml);
+  try {
+    const res = await fetch(RSS_URL, {
+      next: { revalidate: 900 },
+      headers: { 'User-Agent': 'vote-2026-bot/1.0' },
+    });
+
+    if (!res.ok) {
+      console.error('[feed] Maariv RSS request failed', {
+        status: res.status,
+        statusText: res.statusText,
+        url: RSS_URL,
+      });
+      return [];
+    }
+
+    const xml = await res.text();
+    return parseItems(xml);
+  } catch (error) {
+    console.error('[feed] Maariv RSS request threw', { url: RSS_URL, error });
+    return [];
+  }
 }
