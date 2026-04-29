@@ -51,6 +51,17 @@ export function FeedCard({ item, isMk }: Props) {
           <span>{publishDate}</span>
         </div>
 
+        {item.imageAttributionName && item.imageAttributionUrl && (
+          <a
+            href={item.imageAttributionUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[11px] text-muted-foreground/90 hover:text-foreground transition-colors"
+          >
+            צילום: {item.imageAttributionName} / Unsplash
+          </a>
+        )}
+
         <h2 className="font-bold text-sm sm:text-base leading-snug line-clamp-2">{item.title}</h2>
 
         {item.summary && (
