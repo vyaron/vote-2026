@@ -12,11 +12,13 @@
     "scrape:parties": "tsx src/index.ts --step=parties",
     "scrape:bills": "tsx src/index.ts --step=bills",
     "scrape:summary": "tsx src/index.ts --step=summary",
-    "scrape:resume": "tsx src/index.ts --resume"
+    "scrape:resume": "tsx src/index.ts --resume",
+    "proxy": "tsx src/rss-proxy.ts"
   },
   "dependencies": {
     "axios": "^1.6.0",
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.0"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",

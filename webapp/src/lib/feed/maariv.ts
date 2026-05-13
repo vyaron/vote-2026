@@ -1,5 +1,6 @@
-const RSS_URL = 'https://www.maariv.co.il/rss/rssfeedspolitimedini';
-const FALLBACK_RSS_URL =
+const RSS_URL = 'https://www.maariv.co.il/rss/rssfeedspolitimedini';const LOCAL_PROXY_URL = process.env.NEXT_PUBLIC_RSS_PROXY_URL
+  ? `${process.env.NEXT_PUBLIC_RSS_PROXY_URL}/rss`
+  : null;const FALLBACK_RSS_URL =
   'https://news.google.com/rss/search?q=site%3Amaariv.co.il%20%D7%A4%D7%95%D7%9C%D7%99%D7%98%D7%99&hl=he&gl=IL&ceid=IL%3Ahe';
 const MAX_ITEMS = 50;
 const MAX_UNSPLASH_SUGGESTIONS = 8;
@@ -258,6 +259,16 @@ export async function getMaarivFeed(): Promise<FeedItem[]> {
   const primary = await fetchRssItems(RSS_URL, 'מעריב');
   if (primary) return addSuggestedImages(primary);
 
+  // Try local proxy if configured
+  if (LOCAL_PROXY_URL) {
+    const proxy = await fetchRssItems(LOCAL_PROXY_URL, 'מעריב');
+    if (proxy) {
+      console.warn('[feed] Using local proxy RSS source', { url: LOCAL_PROXY_URL });
+      return addSuggestedImages(proxy);
+    }
+  }
+
+  // Fall back to Google News
   const fallback = await fetchRssItems(FALLBACK_RSS_URL, 'מעריב (Google News)');
   if (fallback) {
     console.warn('[feed] Using fallback RSS source', { url: FALLBACK_RSS_URL });
