@@ -17,12 +17,36 @@ interface Props {
   params: Promise<{ id: string; briefId: string }>;
 }
 
+function stripHtml(input: string): string {
+  return input.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+function getSourceMetaText(sourceMeta: unknown): string {
+  if (!sourceMeta || typeof sourceMeta !== 'object') return '';
+  const meta = sourceMeta as Record<string, unknown>;
+  const excerpt = typeof meta.excerpt === 'string' ? meta.excerpt.trim() : '';
+  if (excerpt) return excerpt;
+  const title = typeof meta.title === 'string' ? meta.title.trim() : '';
+  return title;
+}
+
+function buildBriefDescription(
+  subtitle: string | null,
+  body: string | null,
+  sourceMeta: unknown,
+): string {
+  const bodyText = body ? stripHtml(body) : '';
+  const sourceMetaText = getSourceMetaText(sourceMeta);
+  const fallback = 'מסר מעודכן מחבר הכנסת.';
+  return [subtitle?.trim(), bodyText, sourceMetaText, fallback].find(Boolean)!.slice(0, 180);
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { id: idOrSlug, briefId } = await params;
   const supabase = await createClient();
   const { data: brief } = await supabase
     .from('briefs')
-    .select('id, mk_id, title, subtitle, body, header_image, header_image_fit, header_image_position_x, header_image_position_y, header_image_scale, status, publish_at, created_at')
+    .select('id, mk_id, title, subtitle, body, header_image, header_image_fit, header_image_position_x, header_image_position_y, header_image_scale, status, publish_at, created_at, source_meta')
     .eq('id', briefId)
     .eq('status', 'published')
     .is('deleted_at', null)
@@ -33,8 +57,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const mkSlug = mk ? getMkSlug(mk.id, mk.name) : idOrSlug;
   const briefPath = `/mks/${mkSlug}/briefs/${brief.id}`;
   const briefUrl = `${SITE_URL}${briefPath}`;
-  const description = (brief.subtitle?.trim() || brief.body?.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim() || 'מסר מעודכן מחבר הכנסת.').slice(0, 180);
-  const ogImage = brief.header_image || `${SITE_URL}/api/og`;
+  const description = buildBriefDescription(brief.subtitle, brief.body, brief.source_meta);
+  const fallbackOgImage = `${SITE_URL}/knesset1.png`;
+  const ogImages = brief.header_image
+    ? [
+        { url: brief.header_image, alt: brief.title },
+        { url: fallbackOgImage, alt: brief.title },
+      ]
+    : [{ url: fallbackOgImage, alt: brief.title }];
 
   return {
     title: `${brief.title} | ${SITE_NAME}`,
@@ -50,18 +80,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: 'article',
       locale: 'he_IL',
       publishedTime: brief.publish_at ?? brief.created_at,
-      images: [
-        {
-          url: ogImage,
-          alt: brief.title,
-        },
-      ],
+      images: ogImages,
     },
     twitter: {
       card: 'summary_large_image',
       title: brief.title,
       description,
-      images: [ogImage],
+      images: [brief.header_image || fallbackOgImage],
     },
   };
 }
